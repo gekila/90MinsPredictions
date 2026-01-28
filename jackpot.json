@@ -1,0 +1,212 @@
+[
+  {
+    "id": "25053-1",
+    "teamA": {
+      "name": "Heidenheim",
+      "icon": "https://static.vecteezy.com/system/resources/previews/027/727/024/non_2x/heidenheim-club-logo-symbol-football-bundesliga-germany-abstract-design-illustration-with-black-background-free-vector.jpg"
+    },
+    "teamB": {
+      "name": "1. FC Cologne",
+      "icon": "https://thumbs.dreamstime.com/b/fc-koln-logo-collection-vector-logos-most-famous-football-teams-world-format-available-134691989.jpg"
+    },
+    "leagueName": "Bundesliga",
+    "prediction": "AWAY",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "25054-2",
+    "teamA": {
+      "name": "Union Berlin",
+      "icon": "https://thumbs.dreamstime.com/b/fc-union-berlin-logo-collection-vector-logos-most-famous-football-teams-world-160727119.jpg"
+    },
+    "teamB": {
+      "name": "Mainz",
+      "icon": "https://static.vecteezy.com/system/resources/previews/027/711/891/non_2x/mainz-05-club-logo-symbol-football-bundesliga-germany-abstract-design-illustration-free-vector.jpg"
+    },
+    "leagueName": "Bundesliga",
+    "prediction": "HOME",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "25055-3",
+    "teamA": {
+      "name": "Werder Bremen",
+      "icon": "https://logos-world.net/wp-content/uploads/2020/11/Werder-Bremen-Logo.png"
+    },
+    "teamB": {
+      "name": "Hoffenheim",
+      "icon": "https://static.vecteezy.com/system/resources/previews/027/854/411/non_2x/hoffenheim-club-logo-symbol-football-bundesliga-germany-abstract-design-illustration-free-vector.jpg"
+    },
+    "leagueName": "Bundesliga",
+    "prediction": "AWAY",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "25056-4",
+    "teamA": {
+      "name": "Leverkusen",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/5/59/Bayer_04_Leverkusen_logo.svg/1200px-Bayer_04_Leverkusen_logo.svg.png"
+    },
+    "teamB": {
+      "name": "Stuttgart",
+      "icon": "https://logos-world.net/wp-content/uploads/2020/11/VfB-Stuttgart-Logo.png"
+    },
+    "leagueName": "Bundesliga",
+    "prediction": "HOME",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "25057-5",
+    "teamA": {
+      "name": "SC Heerenveen",
+      "icon": "https://static.vecteezy.com/system/resources/previews/030/312/374/non_2x/heerenveen-club-logo-symbol-netherlands-eredivisie-league-football-abstract-design-illustration-free-vector.jpg"
+    },
+    "teamB": {
+      "name": "Feyenoord",
+      "icon": "https://cdn.sanity.io/images/2hlolhb1/production/65ba55224d6391932f81e34d48ce1cc30bda8974-740x493.png?w=800&q=75&auto=format"
+    },
+    "leagueName": "Eredivisie",
+    "prediction": "AWAY",
+    "date": "2026-01-11"
+  },
+  {
+    "id": "25058-6",
+    "teamA": {
+      "name": "Go Ahead Eagles",
+      "icon": "https://sportslogos.in/wp-content/uploads/2019/07/SPLN001621.jpg"
+    },
+    "teamB": {
+      "name": "Fortuna Sittard",
+      "icon": "https://c8.alamy.com/comp/2H2FEJB/coat-of-arms-fc-fortuna-sittard-sittard-football-club-from-the-netherlands-2H2FEJB.jpg"
+    },
+    "leagueName": "Eredivisie",
+    "prediction": "HOME",
+    "date": "2026-01-11"
+  },
+  {
+    "id": "25059-7",
+    "teamA": {
+      "name": "Borussia (MG)",
+      "icon": "https://thumbs.dreamstime.com/b/borussia-m%C3%B6nchengladbach-logo-collection-vector-logos-most-famous-football-teams-world-vector-format-available-134598205.jpg"
+    },
+    "teamB": {
+      "name": "Augsburg",
+      "icon": "https://thumbs.dreamstime.com/b/collection-vector-logos-most-famous-football-teams-world-jpg-format-available-fc-augsburg-logo-134598195.jpg"
+    },
+    "leagueName": "Bundesliga",
+    "prediction": "HOME",
+    "date": "2026-01-11"
+  },
+  {
+    "id": "25060-8",
+    "teamA": {
+      "name": "Bristol City",
+      "icon": "https://www.logo-designer.co/storage/2019/06/2019-mr-b-friends-logo-design-bristol-city-football-club.png"
+    },
+    "teamB": {
+      "name": "Watford",
+      "icon": "https://images.gc.watfordfcservices.co.uk/fit-in/1600x1600/bb155c50-2d69-11ef-b353-e14a1d997e2e.jpg"
+    },
+    "leagueName": "FA Cup",
+    "prediction": "HOME",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "25061-9",
+    "teamA": {
+      "name": "Tottenham",
+      "icon": "https://fabrikbrands.com/wp-content/uploads/Tottenham-Hotspur-Logo-1.png"
+    },
+    "teamB": {
+      "name": "Aston Villa",
+      "icon": "https://1000logos.net/wp-content/uploads/2022/05/Aston-Villa-Logo.png"
+    },
+    "leagueName": "FA Cup",
+    "prediction": "HOME/DRAW",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "25062-10",
+    "teamA": {
+      "name": "Swansea",
+      "icon": "https://ichef.bbci.co.uk/ace/standard/624/cpsprodpb/0E27/production/_125332630_swanseanewbadge.jpg"
+    },
+    "teamB": {
+      "name": "West Brom",
+      "icon": "https://1000logos.net/wp-content/uploads/2018/07/West-Bromwich-Albion-Logo.png"
+    },
+    "leagueName": "FA Cup",
+    "prediction": "HOME",
+    "date": "2026-01-11"
+  },
+  {
+    "id": "25063-11",
+    "teamA": {
+      "name": "Girona",
+      "icon": "https://static.vecteezy.com/system/resources/previews/027/011/569/non_2x/girona-club-logo-symbol-la-liga-spain-football-abstract-design-illustration-with-black-background-free-vector.jpg"
+    },
+    "teamB": {
+      "name": "Osasuna",
+      "icon": "https://thumbs.dreamstime.com/z/collection-vector-logos-most-famous-football-teams-world-vector-format-available-ai-illustrator-atletico-osasuna-144990512.jpg"
+    },
+    "leagueName": "LaLiga",
+    "prediction": "HOME/DRAW",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "25064-12",
+    "teamA": {
+      "name": "Valencia",
+      "icon": "https://thumbs.dreamstime.com/b/collection-vector-logos-most-famous-football-teams-world-format-available-ai-illustrator-valencia-c-f-logo-131098811.jpg"
+    },
+    "teamB": {
+      "name": "Elche",
+      "icon": "https://static.vecteezy.com/system/resources/previews/027/011/273/non_2x/elche-club-logo-symbol-la-liga-spain-football-abstract-design-illustration-free-vector.jpg"
+    },
+    "leagueName": "LaLiga",
+    "prediction": "HOME",
+    "date": "2026-01-10"
+  },
+  {
+    "id": "25065-13",
+    "teamA": {
+      "name": "Levante",
+      "icon": "https://thumbs.dreamstime.com/b/levante-ud-oficial-logo-collection-vector-logos-most-famous-football-teams-world-format-available-ai-illustrator-144988755.jpg"
+    },
+    "teamB": {
+      "name": "Espanyol",
+      "icon": "https://logos-world.net/wp-content/uploads/2020/11/Espanyol-Logo.png"
+    },
+    "leagueName": "LaLiga",
+    "prediction": "AWAY",
+    "date": "2026-01-11"
+  },
+  {
+    "id": "25066-14",
+    "teamA": {
+      "name": "Nacional",
+      "icon": "https://sp-static-images.s3.amazonaws.com/logos/all_logos/Nacional/c_pad_630x1200/Nacional.png"
+    },
+    "teamB": {
+      "name": "Santa Clara",
+      "icon": "https://i.redd.it/3x6toreme7jc1.jpeg"
+    },
+    "leagueName": "Liga Portugal",
+    "prediction": "DRAW",
+    "date": "2026-01-11"
+  },
+  {
+    "id": "25067-15",
+    "teamA": {
+      "name": "Moreirense FC",
+      "icon": "https://upload.wikimedia.org/wikipedia/en/1/1b/Moreirense_Futebol_Clube_logo.svg"
+    },
+    "teamB": {
+      "name": "CD Tondela",
+      "icon": "https://thumbs.dreamstime.com/z/collection-vector-logos-most-famous-football-teams-world-cd-tondela-logo-154063836.jpg"
+    },
+    "leagueName": "Liga Portugal",
+    "prediction": "HOME",
+    "date": "2026-01-11"
+  }
+]
