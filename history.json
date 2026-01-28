@@ -1,0 +1,5203 @@
+[
+  {
+    "date": "Saturday, 10th January 2026",
+    "gamesList": [
+      {
+        "teamA": "FC Santiago",
+        "teamB": "Zacatepec 1948",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.50",
+        "results": "WIN"
+      },
+      {
+        "teamA": "La Fama",
+        "teamB": "Britannia",
+        "prediction": "HOME",
+        "odds": "2.20",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Araçatuba U20",
+        "teamB": "Athletico PR U20",
+        "prediction": "DRAW/AWAY",
+        "odds": "1.75",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Assisense U20",
+        "teamB": "Athletic Club MG U20",
+        "prediction": "HOME",
+        "odds": "1.90",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Santa Fe",
+        "teamB": "Deportivo Tachira FC",
+        "prediction": "HOME/DRAW",
+        "odds": "2.10",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Francana U20",
+        "teamB": "Cruzeiro U20",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.05",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Cañoneros Marina",
+        "teamB": "Chapulineros",
+        "prediction": "HOME/DRAW",
+        "odds": "2.30",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mazatlán",
+        "teamB": "FC Juarez",
+        "prediction": "HOME/DRAW",
+        "odds": "2.15",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atlético San Luis W",
+        "teamB": "Pumas UNAM W",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.40",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Venados FC",
+        "teamB": "Irapuato",
+        "prediction": "HOME/DRAW",
+        "odds": "2.00",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Asteras Kaisarianis",
+        "teamB": "Kentavros",
+        "prediction": "HOME",
+        "odds": "2.60",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Fasil Ketema",
+        "teamB": "Ethiopia Bunna",
+        "prediction": "HOME/DRAW",
+        "odds": "2.20",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Manzini Sea Birds",
+        "teamB": "Malanti Chiefs",
+        "prediction": "HOME/DRAW",
+        "odds": "2.25",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Tabankulu",
+        "teamB": "Ezulwini United",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.10",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sisonkhe",
+        "teamB": "Green Mamba",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.05",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Young Buffaloes",
+        "teamB": "Ubombo Sugar",
+        "prediction": "HOME",
+        "odds": "2.35",
+        "results": "WIN"
+      },
+      {
+        "teamA": "KR Reykjavik",
+        "teamB": "Fylkir",
+        "prediction": "HOME/DRAW",
+        "odds": "2.10",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Birzebbuga",
+        "teamB": "St. Andrews",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.15",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mgarr United",
+        "teamB": "Swieqi United",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.18",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Garage Express",
+        "teamB": "Kayanza United",
+        "prediction": "HOME/DRAW",
+        "odds": "2.50",
+        "results": "WIN"
+      },
+      {
+        "teamA": "JIPPO",
+        "teamB": "KuPS Akatemia",
+        "prediction": "HOME/DRAW",
+        "odds": "2.30",
+        "results": "WIN"
+      },
+      {
+        "teamA": "FC Luzern",
+        "teamB": "SCR Altach",
+        "prediction": "HOME/DRAW",
+        "odds": "2.40",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Raków Częstochowa",
+        "teamB": "Red Bull Salzburg",
+        "prediction": "DRAW/AWAY",
+        "odds": "2.75",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Friday, 9th January 2026",
+    "gamesList": [
+      {
+        "teamA": "CD Olimpia",
+        "teamB": "CD Marathon",
+        "prediction": "HOME",
+        "odds": "2.10",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Australia U23",
+        "teamB": "Thailand U23",
+        "prediction": "HOME",
+        "odds": "1.65",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Iraq U23",
+        "teamB": "China PR U23",
+        "prediction": "HOME/DRAW",
+        "odds": "1.38",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Al-Qasim",
+        "teamB": "Al Shorta",
+        "prediction": "AWAY",
+        "odds": "1.85",
+        "results": "LOSS"
+      },
+      {
+        "teamA": "Al Shahaniya",
+        "teamB": "Al-Duhail SC",
+        "prediction": "AWAY",
+        "odds": "1.55",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Al-Jazira",
+        "teamB": "Ajman",
+        "prediction": "HOME/DRAW",
+        "odds": "1.42",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Dibba Al-Fujairah",
+        "teamB": "Khorfakkan",
+        "prediction": "HOME/DRAW",
+        "odds": "1.50",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Jaraaf",
+        "teamB": "Génération Foot",
+        "prediction": "HOME",
+        "odds": "2.25",
+        "results": "WIN"
+      },
+      {
+        "teamA": "ES Setif",
+        "teamB": "Paradou AC",
+        "prediction": "HOME",
+        "odds": "2.00",
+        "results": "WIN"
+      },
+      {
+        "teamA": "USM Alger",
+        "teamB": "MC Oran",
+        "prediction": "HOME/DRAW",
+        "odds": "1.40",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Morvant Caledonia United",
+        "teamB": "Defence Force",
+        "prediction": "AWAY",
+        "odds": "1.95",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Palmeiras U20",
+        "teamB": "Batalhão FC U20",
+        "prediction": "HOME",
+        "odds": "1.30",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mirassol U20",
+        "teamB": "Sport Recife U20",
+        "prediction": "HOME/DRAW",
+        "odds": "1.35",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Andraus Brasil",
+        "teamB": "Atletico Paranaense",
+        "prediction": "AWAY",
+        "odds": "1.70",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lusitânia Lourosa",
+        "teamB": "Leixoes",
+        "prediction": "HOME/DRAW",
+        "odds": "1.62",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Santa Cruz",
+        "teamB": "Defensa Y Justicia",
+        "prediction": "HOME",
+        "odds": "3.40",
+        "results": "LOSS"
+      },
+      {
+        "teamA": "Club Brugge KV",
+        "teamB": "Sturm Graz",
+        "prediction": "HOME",
+        "odds": "1.75",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Wednesday, 7th January 2026",
+    "gamesList": [
+      {
+        "teamA": "Everton",
+        "teamB": "Wolves",
+        "prediction": "1-0",
+        "odds": "2.10",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Fulham",
+        "teamB": "Chelsea",
+        "prediction": "AWAY WIN",
+        "odds": "4.20",
+        "results": "Loss"
+      },
+      {
+        "teamA": "Crystal Palace",
+        "teamB": "Aston Villa",
+        "prediction": "AWAY/DRAW",
+        "odds": "2.80",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Brentford",
+        "teamB": "Sunderland",
+        "prediction": "2-0 (CS)",
+        "odds": "9.90",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bournemouth",
+        "teamB": "Spurs",
+        "prediction": "AWAY WIN",
+        "odds": "2.50",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Newcastle",
+        "teamB": "Leeds",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Napoli",
+        "teamB": "Hellas Verona",
+        "prediction": "2-0 (CS)",
+        "odds": "15.40",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bologna",
+        "teamB": "Atalanta",
+        "prediction": "HOME WIN",
+        "odds": "2.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Torino",
+        "teamB": "Udinese",
+        "prediction": "AWAY",
+        "odds": "2.20",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lazio",
+        "teamB": "Fiorentina",
+        "prediction": "1-1 DRAW",
+        "odds": "7.40",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Benfica",
+        "teamB": "Braga",
+        "prediction": "2-1 HOME WIN",
+        "odds": "1.85",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Monday, 5th January 2026",
+    "gamesList": [
+      {
+        "teamA": "Egypt",
+        "teamB": "Benin",
+        "prediction": "2-0",
+        "odds": "8.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Algeria",
+        "teamB": "DR Congo",
+        "prediction": "2-1",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Ivory Coast",
+        "teamB": "Burkina Faso",
+        "prediction": "1-0",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Chelmsford City",
+        "teamB": "Slough Town",
+        "prediction": "2-1",
+        "odds": "10.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Triestina",
+        "teamB": "ASD Alcione",
+        "prediction": "1-0",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Kholood",
+        "teamB": "Al Hilal",
+        "prediction": "AWAY WIN",
+        "odds": "1.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Shabab",
+        "teamB": "Al Qadasiya",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Fayha",
+        "teamB": "Al Hazem",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Riyadh",
+        "teamB": "Al Ettifaq",
+        "prediction": "DRAW",
+        "odds": "2.20",
+        "results": "Lost"
+      },
+      {
+        "teamA": "Neom SC",
+        "teamB": "Al Najma",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Ahli",
+        "teamB": "Al Fateh",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Ittihad",
+        "teamB": "Al Taawoun",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Nassr",
+        "teamB": "Al Orobah",
+        "prediction": "HOME WIN",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Damac",
+        "teamB": "Al Wehda",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Raed",
+        "teamB": "Al Okhdood",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Maccabi Netanya",
+        "teamB": "Hapoel Petach Tikva",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Gharraf",
+        "teamB": "Al-Karma",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Talaba",
+        "teamB": "Al Musel",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Zakho",
+        "teamB": "Al Karkh",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, 4th January 2026",
+    "gamesList": [
+      {
+        "teamA": "Leeds United",
+        "teamB": "Manchester United",
+        "prediction": "1-1",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Everton",
+        "teamB": "Brentford",
+        "prediction": "2-4",
+        "odds": "12.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Fulham",
+        "teamB": "Liverpool",
+        "prediction": "2-2",
+        "odds": "11.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Newcastle United",
+        "teamB": "Crystal Palace",
+        "prediction": "2-0",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Tottenham Hotspur",
+        "teamB": "Sunderland",
+        "prediction": "1-1",
+        "odds": "10.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Manchester City",
+        "teamB": "Chelsea",
+        "prediction": "2-1",
+        "odds": "9.50",
+        "results": "Lost"
+      },
+      {
+        "teamA": "Morocco",
+        "teamB": "Tanzania",
+        "prediction": "HOME WIN",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "South Africa",
+        "teamB": "Cameroon",
+        "prediction": "AWAY WIN",
+        "odds": "2.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Bologna",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Brest",
+        "teamB": "Auxerre",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Le Havre",
+        "teamB": "Angers",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Birmingham City",
+        "teamB": "Coventry City",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Middlesbrough",
+        "teamB": "Southampton",
+        "prediction": "HOME WIN",
+        "odds": "1.95",
+        "results": "Win"
+      },
+      {
+        "teamA": "Charlton Athletic",
+        "teamB": "Derby County",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Coventry City",
+        "teamB": "Millwall",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Ipswich Town",
+        "teamB": "Bristol City",
+        "prediction": "HOME WIN",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Oxford United",
+        "teamB": "Queens Park Rangers",
+        "prediction": "HOME WIN",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Doncaster Rovers",
+        "teamB": "Bolton Wanderers",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Exeter City",
+        "teamB": "Luton Town",
+        "prediction": "DRAW",
+        "odds": "2.10",
+        "results": "Lost"
+      },
+      {
+        "teamA": "Leyton Orient",
+        "teamB": "AFC Wimbledon",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mansfield Town",
+        "teamB": "Bradford City",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Lincoln City",
+        "teamB": "Huddersfield Town",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Chelmsford City",
+        "teamB": "Slough Town",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Port Vale",
+        "teamB": "Blackpool",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Northampton Town",
+        "teamB": "Stockport County",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Reading",
+        "teamB": "Mansfield Town",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Chelmsford City",
+        "teamB": "Slough Town",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Saturday, 3rd January 2026",
+    "gamesList": [
+      {
+        "teamA": "Aston Villa",
+        "teamB": "Nottingham Forest",
+        "prediction": "3-1",
+        "odds": "12.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Brighton & Hove Albion",
+        "teamB": "Burnley",
+        "prediction": "2-0",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Wolverhampton Wanderers",
+        "teamB": "West Ham United",
+        "prediction": "3-0",
+        "odds": "11.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "AFC Bournemouth",
+        "teamB": "Arsenal",
+        "prediction": "1-3",
+        "odds": "10.50",
+        "results": "Lost"
+      },
+      {
+        "teamA": "Celtic",
+        "teamB": "Rangers",
+        "prediction": "1-3",
+        "odds": "12.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Senegal",
+        "teamB": "Sudan",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mali",
+        "teamB": "Tunisia",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Larne",
+        "teamB": "Coleraine",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Aveley",
+        "teamB": "Canvey Island",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Melbourne Victory",
+        "teamB": "Perth Glory",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Toulouse",
+        "teamB": "RC Lens",
+        "prediction": "AWAY WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Ballymena United",
+        "teamB": "Glenavon",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Carrick Rangers",
+        "teamB": "Glentoran",
+        "prediction": "AWAY WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Crusaders",
+        "teamB": "Dungannon Swifts",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Linfield",
+        "teamB": "Bangor",
+        "prediction": "HOME WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Portadown",
+        "teamB": "Cliftonville",
+        "prediction": "AWAY WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Annagh United",
+        "teamB": "Institute",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Ards",
+        "teamB": "Limavady United",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "HW Welders",
+        "teamB": "Armagh City",
+        "prediction": "HOME WIN",
+        "odds": "1.95",
+        "results": "Win"
+      },
+      {
+        "teamA": "Loughgall",
+        "teamB": "Ballinamallard United",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Newington",
+        "teamB": "Dundela",
+        "prediction": "AWAY WIN",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Queen's University",
+        "teamB": "Warrenpoint Town",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Coagh United",
+        "teamB": "Dollingstown",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Oxford Sunnyside",
+        "teamB": "Rathfriland Rangers",
+        "prediction": "AWAY WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Portstewart",
+        "teamB": "Ballymacash Rangers",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Strabane Athletic",
+        "teamB": "Lisburn Distillery",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Ballyclare Comrades",
+        "teamB": "Newry City",
+        "prediction": "DRAW",
+        "odds": "1.85",
+        "results": "Lost"
+      },
+      {
+        "teamA": "Dergview",
+        "teamB": "Knockbreda",
+        "prediction": "AWAY WIN",
+        "odds": "2.40",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Friday, 2nd January 2026",
+    "gamesList": [
+      {
+        "teamA": "Al Ahli",
+        "teamB": "Al Nassr",
+        "prediction": "3-2",
+        "odds": "10.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Kholood",
+        "teamB": "Al Hilal",
+        "prediction": "0-3",
+        "odds": "11.00",
+        "results": "Lost"
+      },
+      {
+        "teamA": "Al-Shabab",
+        "teamB": "Al Qadasiya",
+        "prediction": "1-1",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Melbourne Victory",
+        "teamB": "Perth Glory",
+        "prediction": "3-2",
+        "odds": "12.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Gil Vicente",
+        "teamB": "Sporting CP",
+        "prediction": "1-1",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Ettifaq",
+        "teamB": "Al Akhdoud",
+        "prediction": "2-0",
+        "odds": "8.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Najma",
+        "teamB": "Al Khaleej",
+        "prediction": "DRAW",
+        "odds": "2.50",
+        "results": "win"
+      },
+      {
+        "teamA": "Rayo Vallecano",
+        "teamB": "Getafe",
+        "prediction": "HOME WIN",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Cagliari",
+        "teamB": "AC Milan",
+        "prediction": "AWAY WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Eibar",
+        "teamB": "CD Mirandés",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Fayha",
+        "teamB": "Al Hazem",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Lost"
+      },
+      {
+        "teamA": "Neom SC",
+        "teamB": "Al Najma",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Riyadh",
+        "teamB": "Al Ettifaq",
+        "prediction": "AWAY WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Ahli Doha",
+        "teamB": "FC Andijon",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "FK Arkadag",
+        "teamB": "Al Khalidiya",
+        "prediction": "HOME WIN",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "FC Goa",
+        "teamB": "Istiklol",
+        "prediction": "Draw",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Wasl",
+        "teamB": "Al Wahda",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Khor Fakkan",
+        "teamB": "Al Dhafra",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Baniyas",
+        "teamB": "Al Nasr Dubai",
+        "prediction": "HOME WIN",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Ain",
+        "teamB": "Sharjah",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Genoa",
+        "teamB": "Pisa",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sassuolo",
+        "teamB": "Parma",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Brisbane Roar",
+        "teamB": "Wellington Phoenix",
+        "prediction": "HOME WIN",
+        "odds": "2.30",
+        "results": "Lost"
+      },
+      {
+        "teamA": "Connah's Quay Nomads",
+        "teamB": "Barry Town",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "The New Saints FC",
+        "teamB": "Bala Town FC",
+        "prediction": "HOME WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Toulouse",
+        "teamB": "Lens",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Gil Vicente",
+        "teamB": "Sporting CP",
+        "prediction": "AWAY WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Vitória Guimarães",
+        "teamB": "Nacional",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Rayo Vallecano",
+        "teamB": "Getafe",
+        "prediction": "HOME WIN",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Cagliari",
+        "teamB": "Milan",
+        "prediction": "AWAY WIN",
+        "odds": "1.70",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Thursday, 1st January 2026",
+    "gamesList": [
+      {
+        "teamA": "Al Hilal",
+        "teamB": "Al Kholood",
+        "prediction": "4-2",
+        "odds": "9.50",
+        "results": "Lost"
+      },
+      {
+        "teamA": "Al Nassr",
+        "teamB": "Al Ahli",
+        "prediction": "3-1",
+        "odds": "10.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Qadasiya",
+        "teamB": "Al Shabab",
+        "prediction": "1-1",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Ettifaq",
+        "teamB": "Al Riyadh",
+        "prediction": "2-0",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Hazem",
+        "teamB": "Al Fayha",
+        "prediction": "0-1",
+        "odds": "10.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Najma",
+        "teamB": "Neom SC",
+        "prediction": "1-2",
+        "odds": "11.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Fateh",
+        "teamB": "Al Ahli",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Taawoun",
+        "teamB": "Al Ittihad",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Orobah",
+        "teamB": "Al Nassr",
+        "prediction": "AWAY WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Wehda",
+        "teamB": "Damac",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Okhdood",
+        "teamB": "Al Raed",
+        "prediction": "HOME WIN",
+        "odds": "3.20",
+        "results": "Lost"
+      },
+      {
+        "teamA": "Al Wasl",
+        "teamB": "Sharjah",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Ain",
+        "teamB": "Al Wahda",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Baniyas",
+        "teamB": "Khor Fakkan",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Nasr Dubai",
+        "teamB": "Ajman",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Dhafra",
+        "teamB": "Al Bataeh",
+        "prediction": "AWAY WIN",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Melbourne Victory",
+        "teamB": "Western United",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sydney FC",
+        "teamB": "Central Coast Mariners",
+        "prediction": "DRAW",
+        "odds": "1.95",
+        "results": "Win"
+      },
+      {
+        "teamA": "Brisbane Roar",
+        "teamB": "Newcastle Jets",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Perth Glory",
+        "teamB": "Adelaide United",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Wellington Phoenix",
+        "teamB": "Macarthur FC",
+        "prediction": "AWAY WIN",
+        "odds": "2.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Western Sydney Wanderers",
+        "teamB": "Auckland FC",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Connah's Quay Nomads",
+        "teamB": "The New Saints",
+        "prediction": "AWAY WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Barry Town",
+        "teamB": "Cardiff Met",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bala Town",
+        "teamB": "Caernarfon Town",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Haverfordwest County",
+        "teamB": "Penybont",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Wednesday, 31st December 2025",
+    "gamesList": [
+      {
+        "teamA": "Gabon",
+        "teamB": "Côte d’Ivoire",
+        "prediction": "2-3",
+        "odds": "15.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Shabab",
+        "teamB": "Al Qadasiya Khobar",
+        "prediction": "1-1",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Kholood",
+        "teamB": "Al Hilal",
+        "prediction": "0-4",
+        "odds": "12.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Maccabi Netanya",
+        "teamB": "Hapoel Petach Tikva",
+        "prediction": "2-0",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sudan",
+        "teamB": "Burkina Faso",
+        "prediction": "0-2",
+        "odds": "10.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Equatorial Guinea",
+        "teamB": "Algeria",
+        "prediction": "0-3",
+        "odds": "11.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Fayha",
+        "teamB": "Al Hazem",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Neom SC",
+        "teamB": "Al Najma",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Riyadh",
+        "teamB": "Al Ettifaq",
+        "prediction": "AWAY WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various Saudi Pro League",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various Israeli Ligat ha'Al",
+        "teamB": "Various",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mozambique",
+        "teamB": "Cameroon",
+        "prediction": "AWAY WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Kholood",
+        "teamB": "Al-Hilal",
+        "prediction": "AWAY WIN",
+        "odds": "1.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Shabab",
+        "teamB": "Al-Qadsiah",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Fayha",
+        "teamB": "Al-Hazem",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Riyadh",
+        "teamB": "Al-Ettifaq",
+        "prediction": "AWAY WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Neom SC",
+        "teamB": "Al-Najma",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Ahli",
+        "teamB": "Al-Fateh",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Ittihad",
+        "teamB": "Al-Taawoun",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Nassr",
+        "teamB": "Al-Orobah",
+        "prediction": "HOME WIN",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Damac",
+        "teamB": "Al-Wehda",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Raed",
+        "teamB": "Al-Okhdood",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Gharraf",
+        "teamB": "Al-Karma",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Talaba",
+        "teamB": "Al Musel",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Zakho",
+        "teamB": "Al Karkh",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Tuesday, 30th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Wolverhampton Wanderers",
+        "teamB": "Chelsea",
+        "prediction": "1-3",
+        "odds": "11.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Aston Villa",
+        "teamB": "Brighton & Hove Albion",
+        "prediction": "2-1",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Manchester United",
+        "teamB": "Nottingham Forest",
+        "prediction": "0-0",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "West Ham United",
+        "teamB": "Liverpool",
+        "prediction": "0-5",
+        "odds": "25.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Fulham",
+        "teamB": "Bournemouth",
+        "prediction": "2-2",
+        "odds": "11.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Southampton",
+        "teamB": "Brentford",
+        "prediction": "1-2",
+        "odds": "10.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Everton",
+        "teamB": "Manchester City",
+        "prediction": "HOME WIN",
+        "odds": "5.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Newcastle United",
+        "teamB": "Ipswich Town",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Crystal Palace",
+        "teamB": "Arsenal",
+        "prediction": "AWAY WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Tottenham Hotspur",
+        "teamB": "Leicester City",
+        "prediction": "HOME WIN",
+        "odds": "1.45",
+        "results": "Win"
+      },
+      {
+        "teamA": "Burnley",
+        "teamB": "Sunderland",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Leeds United",
+        "teamB": "Blackburn Rovers",
+        "prediction": "HOME WIN",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Middlesbrough",
+        "teamB": "Sheffield United",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Stoke City",
+        "teamB": "Derby County",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Congo",
+        "teamB": "South Africa",
+        "prediction": "HOME WIN",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Namibia",
+        "teamB": "Lesotho",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Togo",
+        "teamB": "Equatorial Guinea",
+        "prediction": "DRAW",
+        "odds": "3.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Genoa",
+        "teamB": "Cagliari",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Parma",
+        "teamB": "Monza",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Fiorentina",
+        "teamB": "Verona",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Lazio",
+        "teamB": "Atalanta",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Getafe",
+        "teamB": "Rayo Vallecano",
+        "prediction": "HOME WIN",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mallorca",
+        "teamB": "Athletic Bilbao",
+        "prediction": "DRAW",
+        "odds": "3.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Osasuna",
+        "teamB": "Villarreal",
+        "prediction": "HOME WIN",
+        "odds": "2.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Leganes",
+        "teamB": "Celta Vigo",
+        "prediction": "AWAY WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Alaves",
+        "teamB": "Las Palmas",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Monday, 29th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Ipswich Town",
+        "teamB": "Chelsea",
+        "prediction": "1-3",
+        "odds": "11.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Manchester United",
+        "teamB": "Wolverhampton Wanderers",
+        "prediction": "2-1",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Newcastle United",
+        "teamB": "Aston Villa",
+        "prediction": "2-2",
+        "odds": "10.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Southampton",
+        "teamB": "West Ham United",
+        "prediction": "0-1",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Tottenham Hotspur",
+        "teamB": "Liverpool",
+        "prediction": "1-2",
+        "odds": "10.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Fulham",
+        "teamB": "Arsenal",
+        "prediction": "0-3",
+        "odds": "12.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Leicester City",
+        "teamB": "Manchester City",
+        "prediction": "HOME WIN",
+        "odds": "4.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Everton",
+        "teamB": "Nottingham Forest",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Brighton & Hove Albion",
+        "teamB": "Brentford",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Crystal Palace",
+        "teamB": "Bournemouth",
+        "prediction": "AWAY WIN",
+        "odds": "2.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Nigeria",
+        "teamB": "Egypt",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Tunisia",
+        "teamB": "South Africa",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Senegal",
+        "teamB": "Benin",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "DR Congo",
+        "teamB": "Botswana",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Ivory Coast",
+        "teamB": "Gabon",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Cameroon",
+        "teamB": "Mozambique",
+        "prediction": "HOME WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Birmingham City",
+        "teamB": "Wrexham",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bolton Wanderers",
+        "teamB": "Barnsley",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Huddersfield Town",
+        "teamB": "Charlton Athletic",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Lincoln City",
+        "teamB": "Exeter City",
+        "prediction": "HOME WIN",
+        "odds": "2.15",
+        "results": "Win"
+      },
+      {
+        "teamA": "Burton Albion",
+        "teamB": "Leyton Orient",
+        "prediction": "AWAY WIN",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Lazio",
+        "teamB": "Parma",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Udinese",
+        "teamB": "Bologna",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Venezia",
+        "teamB": "Empoli",
+        "prediction": "HOME WIN",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Algeria",
+        "teamB": "Equatorial Guinea",
+        "prediction": "HOME WIN",
+        "odds": "1.45",
+        "results": "Win"
+      },
+      {
+        "teamA": "Morocco",
+        "teamB": "Comoros",
+        "prediction": "HOME WIN",
+        "odds": "1.30",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, 28th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Crystal Palace",
+        "teamB": "Tottenham Hotspur",
+        "prediction": "1-2",
+        "odds": "10.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sunderland",
+        "teamB": "Leeds United",
+        "prediction": "0-1",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Ivory Coast",
+        "teamB": "Cameroon",
+        "prediction": "1-1",
+        "odds": "7.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Algeria",
+        "teamB": "Burkina Faso",
+        "prediction": "2-0",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Barcelona",
+        "teamB": "Espanyol",
+        "prediction": "4-0",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bayern Munich",
+        "teamB": "Union Berlin",
+        "prediction": "4-0",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Cagliari",
+        "prediction": "HOME WIN",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Juventus",
+        "teamB": "Fiorentina",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Atalanta",
+        "teamB": "Lazio",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Napoli",
+        "teamB": "Verona",
+        "prediction": "HOME WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "AC Milan",
+        "teamB": "Como",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Valencia",
+        "prediction": "HOME WIN",
+        "odds": "1.45",
+        "results": "Win"
+      },
+      {
+        "teamA": "Atletico Madrid",
+        "teamB": "Getafe",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Freiburg",
+        "prediction": "HOME WIN",
+        "odds": "1.65",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mozambique",
+        "teamB": "Gabon",
+        "prediction": "AWAY WIN",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Morocco",
+        "teamB": "Zambia",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mali",
+        "teamB": "Comoros",
+        "prediction": "HOME WIN",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sudan",
+        "teamB": "Equatorial Guinea",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Paris Saint-Germain",
+        "teamB": "Monaco",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Lyon",
+        "teamB": "Marseille",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Porto",
+        "teamB": "Benfica",
+        "prediction": "AWAY WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sporting CP",
+        "teamB": "Braga",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Saturday, 27th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Nottingham Forest",
+        "teamB": "Manchester City",
+        "prediction": "1-2",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Arsenal",
+        "teamB": "Brighton & Hove Albion",
+        "prediction": "2-1",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Brentford",
+        "teamB": "AFC Bournemouth",
+        "prediction": "4-1",
+        "odds": "12.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Burnley",
+        "teamB": "Everton",
+        "prediction": "0-0",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Liverpool",
+        "teamB": "Wolverhampton Wanderers",
+        "prediction": "2-1",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "West Ham United",
+        "teamB": "Fulham",
+        "prediction": "0-1",
+        "odds": "10.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Chelsea",
+        "teamB": "Aston Villa",
+        "prediction": "1-2",
+        "odds": "11.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Nigeria",
+        "teamB": "Tunisia",
+        "prediction": "3-2",
+        "odds": "12.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Uganda",
+        "teamB": "Tanzania",
+        "prediction": "1-1",
+        "odds": "7.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Senegal",
+        "teamB": "DR Congo",
+        "prediction": "1-1",
+        "odds": "7.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Benin",
+        "teamB": "Botswana",
+        "prediction": "1-0",
+        "odds": "8.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Middlesbrough",
+        "teamB": "Blackburn Rovers",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Coventry City",
+        "teamB": "Swansea City",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Leeds United",
+        "teamB": "Sunderland",
+        "prediction": "HOME WIN",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sheffield United",
+        "teamB": "Derby County",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Norwich City",
+        "teamB": "Millwall",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bristol City",
+        "teamB": "Luton Town",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Stoke City",
+        "teamB": "Hull City",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Preston North End",
+        "teamB": "Oxford United",
+        "prediction": "HOME WIN",
+        "odds": "1.95",
+        "results": "Win"
+      },
+      {
+        "teamA": "Plymouth Argyle",
+        "teamB": "Cardiff City",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Queens Park Rangers",
+        "teamB": "Watford",
+        "prediction": "AWAY WIN",
+        "odds": "2.40",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Friday, 26th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Manchester United",
+        "teamB": "Newcastle United",
+        "prediction": "1-0",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Morocco",
+        "teamB": "Mali",
+        "prediction": "1-1",
+        "odds": "7.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Zambia",
+        "teamB": "Comoros",
+        "prediction": "0-0",
+        "odds": "8.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Egypt",
+        "teamB": "South Africa",
+        "prediction": "1-0",
+        "odds": "7.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Angola",
+        "teamB": "Zimbabwe",
+        "prediction": "1-1",
+        "odds": "6.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Middlesbrough",
+        "teamB": "Blackburn Rovers",
+        "prediction": "0-0",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Middlesbrough",
+        "teamB": "Blackburn Rovers",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Coventry City",
+        "teamB": "Swansea City",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Leeds United",
+        "teamB": "Sunderland",
+        "prediction": "HOME WIN",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sheffield United",
+        "teamB": "Derby County",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Norwich City",
+        "teamB": "Millwall",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bristol City",
+        "teamB": "Luton Town",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Stoke City",
+        "teamB": "Hull City",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Preston North End",
+        "teamB": "Oxford United",
+        "prediction": "HOME WIN",
+        "odds": "1.95",
+        "results": "Win"
+      },
+      {
+        "teamA": "Plymouth Argyle",
+        "teamB": "Cardiff City",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Queens Park Rangers",
+        "teamB": "Watford",
+        "prediction": "AWAY WIN",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sheffield Wednesday",
+        "teamB": "Burnley",
+        "prediction": "AWAY WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "West Bromwich Albion",
+        "teamB": "Portsmouth",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Birmingham City",
+        "teamB": "Burton Albion",
+        "prediction": "HOME WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bolton Wanderers",
+        "teamB": "Lincoln City",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Barnsley",
+        "teamB": "Huddersfield Town",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Charlton Athletic",
+        "teamB": "Cambridge United",
+        "prediction": "HOME WIN",
+        "odds": "1.95",
+        "results": "Win"
+      },
+      {
+        "teamA": "Exeter City",
+        "teamB": "Bristol Rovers",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Leyton Orient",
+        "teamB": "Crawley Town",
+        "prediction": "HOME WIN",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mansfield Town",
+        "teamB": "Northampton Town",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Thursday, 25th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Al Riyadh",
+        "teamB": "Al Ettifaq",
+        "prediction": "0-2",
+        "odds": "10.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Fayha",
+        "teamB": "Al Hazem",
+        "prediction": "0-0",
+        "odds": "8.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Neom SC",
+        "teamB": "Al Najma",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Haras El Hodoud",
+        "teamB": "Al Masry",
+        "prediction": "AWAY WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Pyramids FC",
+        "teamB": "Ismaily",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Zamalek",
+        "teamB": "Smouha",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "El Gouna",
+        "teamB": "National Bank of Egypt",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Saint George",
+        "teamB": "Ethiopia Nigd Bank",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sheger Ketema FC",
+        "teamB": "Hawassa City",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Ethiopia Bunna (Ethiopian Coffee)",
+        "teamB": "Dire Dawa City",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mebrat Hayl (EEPCO / Ethio Electric)",
+        "teamB": "Suhul Shire",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Fasil Kenema",
+        "teamB": "Ethio Electric S.C.",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Welayta Dicha",
+        "teamB": "Arba Minch",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Hapoel Tel Aviv",
+        "teamB": "MS Ashdod",
+        "prediction": "0-3",
+        "odds": "12.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Hapoel Ra'anana",
+        "teamB": "Maccabi Kiryat Gat",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bnei Sakhnin",
+        "teamB": "Maccabi Kabilio Jaffa",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Hapoel Petah Tikva",
+        "teamB": "Hapoel Ironi Karmiel",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bnei Yehuda Tel Aviv",
+        "teamB": "Maccabi Kiryat Ata",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Hilal Benghazi",
+        "teamB": "Al Ahly Benghazi",
+        "prediction": "AWAY WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Khums",
+        "teamB": "Asswehly",
+        "prediction": "AWAY WIN",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Madina",
+        "teamB": "Al Ahly Tripoli",
+        "prediction": "AWAY WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Dahra Tripoli",
+        "teamB": "Assabah",
+        "prediction": "DRAW",
+        "odds": "3.10",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Wednesday, 24th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Ivory Coast",
+        "teamB": "Mozambique",
+        "prediction": "1-0",
+        "odds": "7.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Cameroon",
+        "teamB": "Gabon",
+        "prediction": "1-0",
+        "odds": "8.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Algeria",
+        "teamB": "Sudan",
+        "prediction": "3-0",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Burkina Faso",
+        "teamB": "Equatorial Guinea",
+        "prediction": "2-1",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "California Golden Bears",
+        "teamB": "Hawaii Rainbow Warriors",
+        "prediction": "AWAY WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various Lower Leagues & Friendlies",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Club Friendlies",
+        "teamB": "Various",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Youth/Reserve Matches",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Samsunspor",
+        "teamB": "Eyüpspor",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Keçiörengücü",
+        "teamB": "Halide Edip Adıvar",
+        "prediction": "HOME WIN",
+        "odds": "2.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Boluspor",
+        "teamB": "Fethiyespor",
+        "prediction": "DRAW",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "FK Vora",
+        "teamB": "KS Bylis Ballsh",
+        "prediction": "HOME WIN",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "AF Elbasani",
+        "teamB": "KF Tirana",
+        "prediction": "DRAW",
+        "odds": "3.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "KS Vllaznia Shkodër",
+        "teamB": "Flamurtari FC",
+        "prediction": "HOME WIN",
+        "odds": "1.83",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Nassr",
+        "teamB": "Al Zawraa",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "FC Goa",
+        "teamB": "Istiklol",
+        "prediction": "AWAY WIN",
+        "odds": "2.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Ahli Doha",
+        "teamB": "FC Andijon",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "FK Arkadag",
+        "teamB": "Al Khalidiya",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various Group Stage",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Other AFC CL Two Fixtures",
+        "teamB": "Various",
+        "prediction": "AWAY WIN",
+        "odds": "2.30",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Tuesday, 23rd December 2025",
+    "gamesList": [
+      {
+        "teamA": "Nigeria",
+        "teamB": "Tanzania",
+        "prediction": "2-1",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "DR Congo",
+        "teamB": "Benin",
+        "prediction": "1-0",
+        "odds": "7.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Senegal",
+        "teamB": "Botswana",
+        "prediction": "3-0",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Tunisia",
+        "teamB": "Uganda",
+        "prediction": "1-1",
+        "odds": "7.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Kocaelispor",
+        "teamB": "Erzurumspor",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Caldas",
+        "teamB": "Braga",
+        "prediction": "AWAY WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Guimaraes",
+        "teamB": "Sporting Lisbon",
+        "prediction": "AWAY WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Arsenal",
+        "teamB": "Crystal Palace",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Farnham Town",
+        "teamB": "Plymouth Parkway",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various Lower Leagues",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "AFCON Group Stage",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Turkish Cup",
+        "teamB": "Various",
+        "prediction": "AWAY WIN",
+        "odds": "2.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Portuguese Cups",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "English Non-League",
+        "teamB": "Various",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Club Friendlies",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "AFCON Additional",
+        "teamB": "Various",
+        "prediction": "AWAY WIN",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Lower Division Matches",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "European Cups",
+        "teamB": "Various",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "International Friendlies",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Youth/Reserve Games",
+        "teamB": "Various",
+        "prediction": "AWAY WIN",
+        "odds": "2.60",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Tuesday, 23rd December 2025",
+    "gamesList": [
+      {
+        "teamA": "Nigeria",
+        "teamB": "Tanzania",
+        "prediction": "2-1",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "DR Congo",
+        "teamB": "Benin",
+        "prediction": "1-0",
+        "odds": "7.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Senegal",
+        "teamB": "Botswana",
+        "prediction": "3-0",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Tunisia",
+        "teamB": "Uganda",
+        "prediction": "1-1",
+        "odds": "7.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Kocaelispor",
+        "teamB": "Erzurumspor",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Caldas",
+        "teamB": "Braga",
+        "prediction": "AWAY WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Guimaraes",
+        "teamB": "Sporting Lisbon",
+        "prediction": "AWAY WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Arsenal",
+        "teamB": "Crystal Palace",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Farnham Town",
+        "teamB": "Plymouth Parkway",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various Lower Leagues",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "AFCON Group Stage",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Turkish Cup",
+        "teamB": "Various",
+        "prediction": "AWAY WIN",
+        "odds": "2.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Portuguese Cups",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "English Non-League",
+        "teamB": "Various",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Club Friendlies",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "AFCON Additional",
+        "teamB": "Various",
+        "prediction": "AWAY WIN",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Lower Division Matches",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "European Cups",
+        "teamB": "Various",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "International Friendlies",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Youth/Reserve Games",
+        "teamB": "Various",
+        "prediction": "AWAY WIN",
+        "odds": "2.60",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Monday, 22nd December 2025",
+    "gamesList": [
+      {
+        "teamA": "Fulham",
+        "teamB": "Nottingham Forest",
+        "prediction": "1-0",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mali",
+        "teamB": "Zambia",
+        "prediction": "1-1",
+        "odds": "6.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "South Africa",
+        "teamB": "Angola",
+        "prediction": "2-1",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Egypt",
+        "teamB": "Zimbabwe",
+        "prediction": "2-1",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Cosenza",
+        "teamB": "Cavese",
+        "prediction": "2-1",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Napoli",
+        "teamB": "Bologna",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Athletic Bilbao",
+        "teamB": "Espanyol",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "FeralpiSalo",
+        "teamB": "Inter Milan U23",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various AFCON Group Stage",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various Italian Lower Leagues",
+        "teamB": "Various",
+        "prediction": "AWAY WIN",
+        "odds": "2.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various Spanish Cups",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various Club Friendlies",
+        "teamB": "Various",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various Youth/Reserve Matches",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Other European Leagues",
+        "teamB": "Various",
+        "prediction": "AWAY WIN",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Additional AFCON Fixtures",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Lower Division Italy",
+        "teamB": "Various",
+        "prediction": "DRAW",
+        "odds": "3.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Premier League Highlight",
+        "teamB": "Fulham Win",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "AFCON Group A/B",
+        "teamB": "Various",
+        "prediction": "OVER 2.5 GOALS",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various International",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Monday Night Matches",
+        "teamB": "Various",
+        "prediction": "AWAY WIN",
+        "odds": "2.60",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, 21st December 2025",
+    "gamesList": [
+      {
+        "teamA": "Aston Villa",
+        "teamB": "Manchester United",
+        "prediction": "2-1",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Auxerre",
+        "teamB": "Monaco",
+        "prediction": "1-2",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Villarreal",
+        "teamB": "Barcelona",
+        "prediction": "0-2",
+        "odds": "11.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Girona",
+        "teamB": "Atletico Madrid",
+        "prediction": "0-3",
+        "odds": "14.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Real Sociedad II",
+        "teamB": "Ceuta",
+        "prediction": "1-3",
+        "odds": "12.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Solihull Moors",
+        "teamB": "Sutton United",
+        "prediction": "4-1",
+        "odds": "15.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Brackley Town",
+        "teamB": "Morecambe",
+        "prediction": "0-2",
+        "odds": "10.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Morocco",
+        "teamB": "Comoros",
+        "prediction": "HOME WIN",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Elche",
+        "teamB": "Rayo Vallecano",
+        "prediction": "DRAW",
+        "odds": "3.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Real Betis",
+        "teamB": "Getafe",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Athletic Bilbao",
+        "teamB": "Espanyol",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Levante",
+        "teamB": "Real Sociedad",
+        "prediction": "AWAY WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Osasuna",
+        "teamB": "Deportivo Alaves",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Solihull Moors",
+        "teamB": "Sutton United",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Brackley Town",
+        "teamB": "Morecambe",
+        "prediction": "AWAY WIN",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various FA Trophy",
+        "teamB": "Various",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various Lower Leagues",
+        "teamB": "Various",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Morocco",
+        "teamB": "Comoros",
+        "prediction": "3-0",
+        "odds": "8.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Other AFCON Opening",
+        "teamB": "Teams",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Various Club Friendlies",
+        "teamB": "Various",
+        "prediction": "AWAY WIN",
+        "odds": "2.50",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Saturday, 20th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Newcastle United",
+        "teamB": "Chelsea",
+        "prediction": "2-2",
+        "odds": "12.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Manchester City",
+        "teamB": "West Ham United",
+        "prediction": "3-0",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Brighton & Hove Albion",
+        "teamB": "Sunderland",
+        "prediction": "0-0",
+        "odds": "10.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Tottenham Hotspur",
+        "teamB": "Liverpool",
+        "prediction": "HOME WIN",
+        "odds": "2.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Everton",
+        "teamB": "Arsenal",
+        "prediction": "AWAY WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Leeds United",
+        "teamB": "Crystal Palace",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Sevilla",
+        "prediction": "HOME WIN",
+        "odds": "1.45",
+        "results": "Win"
+      },
+      {
+        "teamA": "Juventus",
+        "teamB": "Roma",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Fontenay Le Comte VF",
+        "teamB": "PSG",
+        "prediction": "AWAY WIN",
+        "odds": "1.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "NEC Nijmegen",
+        "teamB": "Ajax",
+        "prediction": "AWAY WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Gil Vicente",
+        "teamB": "Rio Ave",
+        "prediction": "DRAW",
+        "odds": "3.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Estrela da Amadora",
+        "teamB": "Moreirense",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "UTA Arad",
+        "teamB": "Dinamo București",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Olympiakos",
+        "teamB": "AE Kifisias",
+        "prediction": "HOME WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Union Saint-Gilloise",
+        "teamB": "Zulte Waregem",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Basel",
+        "teamB": "Servette",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Wellington Phoenix",
+        "teamB": "Central Coast Mariners",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Las Palmas",
+        "teamB": "Cultural Leonesa",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "NAC Breda",
+        "teamB": "Telstar",
+        "prediction": "HOME WIN",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Real Oviedo",
+        "teamB": "Celta Vigo",
+        "prediction": "AWAY WIN",
+        "odds": "2.30",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Friday, 19th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Valencia",
+        "teamB": "Mallorca",
+        "prediction": "0-1",
+        "odds": "12.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bologna",
+        "teamB": "Inter Milan",
+        "prediction": "1-1",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Borussia Mönchengladbach",
+        "prediction": "3-1",
+        "odds": "11.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Swansea City",
+        "teamB": "Wrexham",
+        "prediction": "2-1",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "GD Estoril Praia",
+        "teamB": "Braga",
+        "prediction": "0-2",
+        "odds": "10.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Les Herbiers",
+        "teamB": "Angers",
+        "prediction": "AWAY WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Avranches",
+        "teamB": "Brest",
+        "prediction": "AWAY WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Guingamp",
+        "teamB": "Laval",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Croix IC",
+        "teamB": "Reims",
+        "prediction": "AWAY WIN",
+        "odds": "1.45",
+        "results": "Win"
+      },
+      {
+        "teamA": "Canet Roussillon",
+        "teamB": "Montpellier",
+        "prediction": "AWAY WIN",
+        "odds": "1.55",
+        "results": "Win"
+      },
+      {
+        "teamA": "Périgny",
+        "teamB": "Le Mans",
+        "prediction": "AWAY WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Lens",
+        "teamB": "Feignies-Aulnoye",
+        "prediction": "HOME WIN",
+        "odds": "1.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Botoșani",
+        "teamB": "CFR Cluj",
+        "prediction": "AWAY WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Kocaelispor",
+        "teamB": "Antalyaspor",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Charleroi",
+        "teamB": "Genk",
+        "prediction": "AWAY WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Saint-Pryvé Saint-Hilaire",
+        "teamB": "Nantes",
+        "prediction": "AWAY WIN",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Plabennec",
+        "teamB": "Rennes",
+        "prediction": "AWAY WIN",
+        "odds": "1.35",
+        "results": "Win"
+      },
+      {
+        "teamA": "Vertou",
+        "teamB": "Toulouse",
+        "prediction": "AWAY WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Golden Lion",
+        "teamB": "Lille",
+        "prediction": "AWAY WIN",
+        "odds": "1.25",
+        "results": "Win"
+      },
+      {
+        "teamA": "US Sainte-Marienne",
+        "teamB": "Strasbourg",
+        "prediction": "AWAY WIN",
+        "odds": "1.30",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Thursday, 18th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Sabah FK",
+        "teamB": "Qarabag",
+        "prediction": "2-1",
+        "odds": "9.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Dynamo Kyiv",
+        "teamB": "Noah",
+        "prediction": "1-0",
+        "odds": "6.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Napoli",
+        "teamB": "AC Milan",
+        "prediction": "2-0",
+        "odds": "10.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "United Arab Emirates",
+        "teamB": "Kuwait",
+        "prediction": "3-1",
+        "odds": "15.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Algeria",
+        "teamB": "Iraq",
+        "prediction": "2-0",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bahrain",
+        "teamB": "Sudan",
+        "prediction": "3-1",
+        "odds": "12.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sabah FK",
+        "teamB": "Qarabag",
+        "prediction": "AWAY WIN",
+        "odds": "1.80",
+        "results": "Lost"
+      },
+      {
+        "teamA": "Dynamo Kyiv",
+        "teamB": "Noah",
+        "prediction": "HOME WIN",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Crystal Palace",
+        "teamB": "KuPS",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Napoli",
+        "teamB": "AC Milan",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mainz 05",
+        "teamB": "Samsunspor",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "AEK Larnaca",
+        "teamB": "Universitatea Craiova",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "St. Gallen",
+        "teamB": "Sion",
+        "prediction": "HOME WIN",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "United Arab Emirates",
+        "teamB": "Kuwait",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Algeria",
+        "teamB": "Iraq",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bahrain",
+        "teamB": "Sudan",
+        "prediction": "HOME WIN",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "MB Rouisset",
+        "teamB": "MC Alger",
+        "prediction": "AWAY WIN",
+        "odds": "2.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "ASO Chlef",
+        "teamB": "MC Oran",
+        "prediction": "DRAW",
+        "odds": "3.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "USM Alger",
+        "teamB": "Ben Aknoun",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "AEL Limassol",
+        "teamB": "Shkendija",
+        "prediction": "HOME WIN",
+        "odds": "1.95",
+        "results": "Win"
+      },
+      {
+        "teamA": "Winterthur",
+        "teamB": "Thun",
+        "prediction": "HOME WIN",
+        "odds": "2.15",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Wednesday, 17th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Manchester City",
+        "teamB": "Brentford",
+        "prediction": "3-1",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Arsenal",
+        "teamB": "Crystal Palace",
+        "prediction": "2-0",
+        "odds": "7.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Liverpool",
+        "teamB": "West Ham United",
+        "prediction": "4-1",
+        "odds": "12.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Chelsea",
+        "teamB": "Brighton",
+        "prediction": "3-0",
+        "odds": "10.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Tottenham",
+        "teamB": "Southampton",
+        "prediction": "2-1",
+        "odds": "9.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Newcastle United",
+        "teamB": "Leicester City",
+        "prediction": "3-2",
+        "odds": "15.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Aston Villa",
+        "teamB": "Nottingham Forest",
+        "prediction": "2-0",
+        "odds": "8.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Manchester City",
+        "teamB": "Brentford",
+        "prediction": "HOME WIN",
+        "odds": "1.35",
+        "results": "Win"
+      },
+      {
+        "teamA": "Arsenal",
+        "teamB": "Crystal Palace",
+        "prediction": "HOME WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Liverpool",
+        "teamB": "West Ham United",
+        "prediction": "HOME WIN",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Chelsea",
+        "teamB": "Brighton",
+        "prediction": "HOME WIN",
+        "odds": "1.65",
+        "results": "Win"
+      },
+      {
+        "teamA": "Tottenham",
+        "teamB": "Southampton",
+        "prediction": "HOME WIN",
+        "odds": "1.55",
+        "results": "Win"
+      },
+      {
+        "teamA": "Newcastle United",
+        "teamB": "Leicester City",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Aston Villa",
+        "teamB": "Nottingham Forest",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Everton",
+        "teamB": "Fulham",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Athletic Bilbao",
+        "prediction": "HOME WIN",
+        "odds": "1.45",
+        "results": "Win"
+      },
+      {
+        "teamA": "Barcelona",
+        "teamB": "Leganes",
+        "prediction": "HOME WIN",
+        "odds": "1.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Atletico Madrid",
+        "teamB": "Getafe",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bayern Munich",
+        "teamB": "RB Leipzig",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Juventus",
+        "teamB": "Lazio",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "PSG",
+        "teamB": "Monaco",
+        "prediction": "HOME WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Napoli",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Porto",
+        "teamB": "Sporting CP",
+        "prediction": "AWAY WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Ajax",
+        "teamB": "PSV Eindhoven",
+        "prediction": "AWAY WIN",
+        "odds": "2.10",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Tuesday, 16th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Cardiff City",
+        "teamB": "Chelsea",
+        "prediction": "AWAY WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Eibar",
+        "teamB": "Elche",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Deportivo La Coruna",
+        "teamB": "Mallorca",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sporting Gijon",
+        "teamB": "Valencia",
+        "prediction": "AWAY WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Eldense",
+        "teamB": "Real Sociedad",
+        "prediction": "AWAY WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "St. Gallen",
+        "teamB": "Sion",
+        "prediction": "HOME WIN",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Winterthur",
+        "teamB": "Thun",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Maritimo",
+        "teamB": "Benfica B",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Zambia",
+        "teamB": "DR Congo",
+        "prediction": "DRAW",
+        "odds": "3.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Egypt",
+        "teamB": "Nigeria",
+        "prediction": "HOME WIN",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Deportes Tolima",
+        "teamB": "Junior",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Blooming",
+        "teamB": "Bolivar",
+        "prediction": "AWAY WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "The Strongest",
+        "teamB": "Nacional Potosi",
+        "prediction": "HOME WIN",
+        "odds": "1.45",
+        "results": "Win"
+      },
+      {
+        "teamA": "Cardiff Met University",
+        "teamB": "Briton Ferry",
+        "prediction": "AWAY WIN",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Guadalajara",
+        "teamB": "Barcelona",
+        "prediction": "AWAY WIN",
+        "odds": "1.80",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Monday, 15th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Manchester United",
+        "teamB": "Bournemouth",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Lost"
+      },
+      {
+        "teamA": "Rangers",
+        "teamB": "Hibernian",
+        "prediction": "HOME WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Rayo Vallecano",
+        "teamB": "Real Betis",
+        "prediction": "DRAW",
+        "odds": "3.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Roma",
+        "teamB": "Como",
+        "prediction": "HOME WIN",
+        "odds": "1.65",
+        "results": "Win"
+      },
+      {
+        "teamA": "Nacional",
+        "teamB": "Tondela",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Braga",
+        "teamB": "Santa Clara",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "FC Porto",
+        "teamB": "Estrela",
+        "prediction": "HOME WIN",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Barwell",
+        "teamB": "Banbury",
+        "prediction": "HOME WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Redditch United",
+        "teamB": "Stamford",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "1. FC Union Berlin Women",
+        "teamB": "Eintracht Frankfurt Women",
+        "prediction": "AWAY WIN",
+        "odds": "2.50",
+        "results": "Lost"
+      },
+      {
+        "teamA": "Valencia",
+        "teamB": "Mallorca",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Castellon",
+        "teamB": "Mirandes",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Real Oviedo",
+        "teamB": "Celta Vigo",
+        "prediction": "AWAY WIN",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Le Havre",
+        "teamB": "Paris FC",
+        "prediction": "HOME WIN",
+        "odds": "2.15",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Saturday, 13th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Chelsea",
+        "teamB": "Everton",
+        "prediction": "HOME WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Liverpool",
+        "teamB": "Brighton",
+        "prediction": "HOME WIN",
+        "odds": "1.45",
+        "results": "Win"
+      },
+      {
+        "teamA": "Burnley",
+        "teamB": "Fulham",
+        "prediction": "AWAY WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Arsenal",
+        "teamB": "Wolves",
+        "prediction": "HOME WIN",
+        "odds": "1.55",
+        "results": "Win"
+      },
+      {
+        "teamA": "Barcelona",
+        "teamB": "Osasuna",
+        "prediction": "HOME WIN",
+        "odds": "1.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Atletico Madrid",
+        "teamB": "Valencia",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mallorca",
+        "teamB": "Elche",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Getafe",
+        "teamB": "Espanyol",
+        "prediction": "AWAY WIN",
+        "odds": "2.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Norwich City",
+        "teamB": "Southampton",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Stoke City",
+        "teamB": "Swansea City",
+        "prediction": "HOME WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Carrick Rangers",
+        "teamB": "Dungannon Swifts",
+        "prediction": "DRAW",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Cliftonville",
+        "teamB": "Glenavon",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Linfield",
+        "teamB": "Crusaders",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Portadown",
+        "teamB": "Ballymena United",
+        "prediction": "AWAY WIN",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Atletico Madrid",
+        "teamB": "Valencia",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mallorca",
+        "teamB": "Elche",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Thursday, 11th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Celtic",
+        "teamB": "AS Roma",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "FC Basel",
+        "teamB": "Aston Villa",
+        "prediction": "AWAY WIN",
+        "odds": "1.95",
+        "results": "Win"
+      },
+      {
+        "teamA": "Celta Vigo",
+        "teamB": "Bologna",
+        "prediction": "HOME WIN",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Fiorentina",
+        "teamB": "Dynamo Kyiv",
+        "prediction": "HOME WIN",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Aberdeen",
+        "teamB": "Strasbourg",
+        "prediction": "AWAY WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Shelbourne",
+        "teamB": "Crystal Palace",
+        "prediction": "AWAY WIN",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Celtic U19",
+        "teamB": "AS Roma U19",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "FC Basel U19",
+        "teamB": "Aston Villa U19",
+        "prediction": "AWAY WIN",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Celta Vigo U19",
+        "teamB": "Bologna U19",
+        "prediction": "HOME WIN",
+        "odds": "2.25",
+        "results": "Win"
+      },
+      {
+        "teamA": "Fiorentina U19",
+        "teamB": "Dynamo Kyiv U19",
+        "prediction": "HOME WIN",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Aberdeen U19",
+        "teamB": "Strasbourg U19",
+        "prediction": "AWAY WIN",
+        "odds": "2.15",
+        "results": "Win"
+      },
+      {
+        "teamA": "Shelbourne U19",
+        "teamB": "Crystal Palace U19",
+        "prediction": "AWAY WIN",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Young Boys",
+        "teamB": "Lille",
+        "prediction": "HOME WIN",
+        "odds": "2.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Ferencváros",
+        "teamB": "Rangers",
+        "prediction": "HOME WIN",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "GNK Dinamo",
+        "teamB": "Real Betis",
+        "prediction": "AWAY WIN",
+        "odds": "1.90",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Tuesday, 9th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Kairat Almaty",
+        "teamB": "Olympiakos",
+        "prediction": "AWAY WIN",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bayern Munich",
+        "teamB": "Sporting Lisbon",
+        "prediction": "HOME WIN",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Atalanta",
+        "teamB": "Chelsea",
+        "prediction": "DRAW",
+        "odds": "3.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Barcelona",
+        "teamB": "Eintracht Frankfurt",
+        "prediction": "HOME WIN",
+        "odds": "1.55",
+        "results": "Win"
+      },
+      {
+        "teamA": "Monaco",
+        "teamB": "Galatasaray",
+        "prediction": "HOME WIN",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Liverpool",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "PSV Eindhoven",
+        "teamB": "Atletico Madrid",
+        "prediction": "AWAY WIN",
+        "odds": "2.45",
+        "results": "Win"
+      },
+      {
+        "teamA": "Union Saint-Gilloise",
+        "teamB": "Marseille",
+        "prediction": "HOME WIN",
+        "odds": "2.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Tottenham Hotspur",
+        "teamB": "Slavia Prague",
+        "prediction": "HOME WIN",
+        "odds": "1.65",
+        "results": "Win"
+      },
+      {
+        "teamA": "Kairat Almaty U19",
+        "teamB": "Olympiakos Piraeus U19",
+        "prediction": "HOME WIN",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bayern Munich U19",
+        "teamB": "Sporting Lisbon U19",
+        "prediction": "HOME WIN",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "PSV Eindhoven U19",
+        "teamB": "Atletico Madrid U19",
+        "prediction": "DRAW",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Atalanta U19",
+        "teamB": "Chelsea U19",
+        "prediction": "AWAY WIN",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Tottenham Hotspur U19",
+        "teamB": "Slavia Praha U19",
+        "prediction": "HOME WIN",
+        "odds": "1.90",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Monday, 8th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Wolverhampton Wanderers",
+        "teamB": "Manchester United",
+        "prediction": "Away Win",
+        "odds": "9.95",
+        "results": "Win"
+      },
+      {
+        "teamA": "West Ham United",
+        "teamB": "Brighton & Hove Albion",
+        "prediction": "Draw",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Derry City",
+        "teamB": "Waterford",
+        "prediction": "Home Win",
+        "odds": "5.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Drogheda United",
+        "teamB": "Galway United",
+        "prediction": "Home Win",
+        "odds": "6.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "St Patrick's",
+        "teamB": "Bohemians",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "FC Levadia",
+        "teamB": "Paide Linnameeskond",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Lost"
+      },
+      {
+        "teamA": "SC Freital",
+        "teamB": "Zwickau",
+        "prediction": "Away Win",
+        "odds": "2.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Crystal Palace",
+        "teamB": "Fulham",
+        "prediction": "Home Win",
+        "odds": "2.65",
+        "results": "Win"
+      },
+      {
+        "teamA": "Osasuna",
+        "teamB": "Levante",
+        "prediction": "Home Win",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Celta Vigo",
+        "prediction": "Home Win",
+        "odds": "1.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Elche",
+        "teamB": "Girona",
+        "prediction": "Away Win",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Valencia",
+        "teamB": "Sevilla",
+        "prediction": "Draw",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Espanyol",
+        "teamB": "Rayo Vallecano",
+        "prediction": "Home Win",
+        "odds": "2.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Torino",
+        "teamB": "AC Milan",
+        "prediction": "Away Win",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Udinese",
+        "teamB": "Genoa",
+        "prediction": "Draw",
+        "odds": "3.15",
+        "results": "Win"
+      },
+      {
+        "teamA": "Napoli",
+        "teamB": "Juventus",
+        "prediction": "Draw",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Lecce",
+        "teamB": "Cremonese",
+        "prediction": "Home Win",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "AS Roma",
+        "teamB": "Cagliari",
+        "prediction": "Home Win",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bologna",
+        "teamB": "Lazio",
+        "prediction": "Away Win",
+        "odds": "2.55",
+        "results": "Win"
+      },
+      {
+        "teamA": "Alanyaspor",
+        "teamB": "Antalyaspor",
+        "prediction": "Home Win",
+        "odds": "2.15",
+        "results": "Win"
+      },
+      {
+        "teamA": "Besiktas",
+        "teamB": "Gaziantep",
+        "prediction": "Home Win",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Vitoria Guimaraes",
+        "teamB": "Gil Vicente",
+        "prediction": "Home Win",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Hoffenheim",
+        "prediction": "Home Win",
+        "odds": "1.45",
+        "results": "Win"
+      },
+      {
+        "teamA": "Lorient",
+        "teamB": "Lyon",
+        "prediction": "Away Win",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Nice",
+        "teamB": "Angers",
+        "prediction": "Home Win",
+        "odds": "1.75",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, 7th December 2025",
+    "gamesList": [
+      {
+        "teamA": "Brighton & Hove Albion",
+        "teamB": "West Ham United",
+        "prediction": "Draw",
+        "odds": "3.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Fulham",
+        "teamB": "Crystal Palace",
+        "prediction": "Away Win",
+        "odds": "2.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Elche",
+        "teamB": "Girona",
+        "prediction": "Home Win",
+        "odds": "3.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Valencia",
+        "teamB": "Sevilla",
+        "prediction": "Draw",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Espanyol",
+        "teamB": "Rayo Vallecano",
+        "prediction": "Home Win",
+        "odds": "2.65",
+        "results": "Win"
+      },
+      {
+        "teamA": "Hamburg SV",
+        "teamB": "Werder Bremen",
+        "prediction": "Home Win",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "TSG Hoffenheim",
+        "prediction": "Home Win",
+        "odds": "1.45",
+        "results": "Win"
+      },
+      {
+        "teamA": "Cremonese",
+        "teamB": "Lecce",
+        "prediction": "Home Win",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Cagliari",
+        "teamB": "AS Roma",
+        "prediction": "Home Win",
+        "odds": "3.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Lazio",
+        "teamB": "Bologna",
+        "prediction": "Draw",
+        "odds": "3.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Nice",
+        "teamB": "Angers",
+        "prediction": "Away Win",
+        "odds": "4.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "AJ Auxerre",
+        "teamB": "Metz",
+        "prediction": "Home Win",
+        "odds": "2.25",
+        "results": "Win"
+      },
+      {
+        "teamA": "Le Havre AC",
+        "teamB": "Paris FC",
+        "prediction": "Draw",
+        "odds": "3.15",
+        "results": "Win"
+      },
+      {
+        "teamA": "FC Utrecht",
+        "teamB": "FC Twente",
+        "prediction": "Draw",
+        "odds": "3.50",
+        "results": "Win"
+      }
+    ]
+  },
+
+  {
+    "date": "Tuesday, 8th July 2025",
+    "gamesList": [
+      {
+        "teamA": "Germany Women",
+        "teamB": "Denmark Women",
+        "prediction": "Over 2.5",
+        "odds": "1.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Poland Women",
+        "teamB": "Sweden Women",
+        "prediction": "Away Win",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Fluminense",
+        "teamB": "Chelsea",
+        "prediction": "Away Win",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Australia Women",
+        "teamB": "Panama Women",
+        "prediction": "Home Win",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "St. Joseph's",
+        "teamB": "Cliftonville",
+        "prediction": "Draw",
+        "odds": "3.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "KuPS Kuopio",
+        "teamB": "Milsami Orhei",
+        "prediction": "Home Win",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Noah",
+        "teamB": "Buducnost Podgorica",
+        "prediction": "Home Win",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Saburtalo",
+        "teamB": "Malmö",
+        "prediction": "Away Win",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Floriana",
+        "teamB": "Haverfordwest County",
+        "prediction": "Home Win",
+        "odds": "2.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Deportivo La Guaira",
+        "teamB": "Monagas SC",
+        "prediction": "Home Win",
+        "odds": "1.75",
+        "results": "Win"
+      }
+    ]
+  },
+  {
+    "date": "Monday, 7th July 2025",
+    "gamesList": [
+      {
+        "teamA": "Spain Women",
+        "teamB": "Belgium Women",
+        "prediction": "Home Win",
+        "odds": "1.12",
+        "results": "Win"
+      },
+      {
+        "teamA": "Portugal Women",
+        "teamB": "Italy Women",
+        "prediction": "Draw",
+        "odds": "3.25",
+        "results": "Win"
+      },
+      {
+        "teamA": "Germany Women",
+        "teamB": "Denmark Women",
+        "prediction": "Home Win",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Operário PR",
+        "teamB": "Chapecoense",
+        "prediction": "Home Win",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Botafogo PB",
+        "teamB": "São Bernardo FC",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "South Africa Women",
+        "teamB": "Ghana Women",
+        "prediction": "Home Win",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mali Women",
+        "teamB": "Tanzania Women",
+        "prediction": "Home Win",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "IFK Norrköping",
+        "teamB": "Brommapojkarna",
+        "prediction": "Home Win",
+        "odds": "2.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Panvezys",
+        "teamB": "Suduva",
+        "prediction": "Away Win",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Karonga United FC",
+        "teamB": "Kamuzu Barracks FC",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Win"
+      }
+    ]
+  },
+
+  {
+    "date": "Friday, 4th July 2025",
+    "gamesList": [
+      {
+        "teamA": "Germany Women",
+        "teamB": "Poland Women",
+        "prediction": "Home Win",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Denmark Women",
+        "teamB": "Sweden Women",
+        "prediction": "Away Win",
+        "odds": "2.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Oulu",
+        "teamB": "KuPS",
+        "prediction": "Draw",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Shelbourne",
+        "teamB": "Cork City",
+        "prediction": "Home Win",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Derry City",
+        "teamB": "Waterford",
+        "prediction": "Home Win",
+        "odds": "1.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Drogheda United",
+        "teamB": "Galway United",
+        "prediction": "Home Win",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "St Patrick's",
+        "teamB": "Bohemians",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "FC Levadia",
+        "teamB": "Paide Linnameeskond",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "SC Freital",
+        "teamB": "Zwickau",
+        "prediction": "Away Win",
+        "odds": "2.50",
+        "results": "Win"
+      }
+    ]
+  },
+
+  {
+    "date": "Tuesday, 3rd June 2025",
+    "gamesList": [
+      {
+        "teamA": "Boston Bolts",
+        "teamB": "Western Mass Pioneers",
+        "prediction": "Away Win",
+        "odds": "1.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Seacoast United Phantoms",
+        "teamB": "Black Rock FC",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Philadelphia Union DS",
+        "teamB": "WC Predators",
+        "prediction": "Home Win",
+        "odds": "1.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Pittsburgh Steel City W",
+        "teamB": "FC Buffalo W",
+        "prediction": "Draw",
+        "odds": "3.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Sporting Jacksonville",
+        "teamB": "Brevard SC Riptide",
+        "prediction": "Home Win",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "North Carolina Fusion W",
+        "teamB": "Charlotte Eagles W",
+        "prediction": "Away Win",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "South Carolina United FC W",
+        "teamB": "South Georgia Tormenta FC W",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Binh Dinh",
+        "teamB": "Cong An Ha Noi",
+        "prediction": "Away Win",
+        "odds": "1.90",
+        "results": "Win"
+      },
+      {
+        "teamA": "Union Espanola",
+        "teamB": "Club Deportes Limache",
+        "prediction": "Home Win",
+        "odds": "3.00",
+        "results": "Loss"
+      },
+      {
+        "teamA": "Paysandu",
+        "teamB": "Criciuma",
+        "prediction": "Away Win",
+        "odds": "2.40",
+        "results": "Win"
+      }
+    ]
+  },
+
+  {
+    "date": "Wednesday, 2nd July 2025",
+    "gamesList": [
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Monterrey",
+        "prediction": "Home Win",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Manchester City",
+        "teamB": "Al Hilal",
+        "prediction": "Away Win",
+        "odds": "3.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Juventus",
+        "prediction": "Home Win",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Bayern Munich",
+        "teamB": "Flamengo",
+        "prediction": "Home Win",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Iceland Women",
+        "teamB": "Finland Women",
+        "prediction": "Away Win",
+        "odds": "2.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Switzerland Women",
+        "teamB": "Norway Women",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Karamah",
+        "teamB": "Al-Wahda Damascus",
+        "prediction": "Away Win",
+        "odds": "2.20",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al Shorta Damascus",
+        "teamB": "Al-Wathbah",
+        "prediction": "Away Win",
+        "odds": "2.30",
+        "results": "Win"
+      },
+      {
+        "teamA": "Hutteen",
+        "teamB": "Al-Ittihad Aleppo",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Al-Sholla",
+        "teamB": "Al-Jaish (SYR)",
+        "prediction": "Draw",
+        "odds": "3.10",
+        "results": "Win"
+      }
+    ]
+  },
+
+  {
+    "date": "Tuesday, 1st July 2025",
+    "gamesList": [
+      {
+        "teamA": "Manchester City",
+        "teamB": "Al-Hilal",
+        "prediction": "Away Win",
+        "odds": "3.50",
+        "results": "Win"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Juventus",
+        "prediction": "Home Win",
+        "odds": "1.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Monterrey",
+        "prediction": "Home Win",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "KPS Kuopio",
+        "teamB": "Gnistan",
+        "prediction": "Home Win",
+        "odds": "1.40",
+        "results": "Win"
+      },
+      {
+        "teamA": "Cuniburo",
+        "teamB": "Aucas",
+        "prediction": "Away Win",
+        "odds": "2.30",
+        "results": "Loss"
+      },
+      {
+        "teamA": "Colon Santa Fe",
+        "teamB": "Mitre",
+        "prediction": "Away Win",
+        "odds": "2.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Audax Italiano",
+        "teamB": "Deportes Temuco",
+        "prediction": "Home Win",
+        "odds": "1.70",
+        "results": "Win"
+      },
+      {
+        "teamA": "Ñublense",
+        "teamB": "Magallanes",
+        "prediction": "Away Win",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "FC Utrecht",
+        "teamB": "FCSB",
+        "prediction": "Away Win",
+        "odds": "2.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Odense BK",
+        "teamB": "B.93 København",
+        "prediction": "Home Win",
+        "odds": "1.60",
+        "results": "Win"
+      }
+    ]
+  },
+
+  {
+    "date": "Monday, 30th June 2025",
+    "gamesList": [
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Fluminense",
+        "prediction": "Away Win",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Los Angeles FC",
+        "teamB": "Vancouver Whitecaps",
+        "prediction": "Away Win",
+        "odds": "2.80",
+        "results": "Win"
+      },
+      {
+        "teamA": "Brann",
+        "teamB": "Sandefjord",
+        "prediction": "Home Win",
+        "odds": "1.75",
+        "results": "Win"
+      },
+      {
+        "teamA": "Henan Songshan Longmen",
+        "teamB": "Shandong Taishan",
+        "prediction": "Draw",
+        "odds": "3.10",
+        "results": "Win"
+      },
+      {
+        "teamA": "Dalian Yingbo",
+        "teamB": "Zhejiang Professional",
+        "prediction": "Home Win",
+        "odds": "1.65",
+        "results": "Win"
+      },
+      {
+        "teamA": "Beijing Guoan",
+        "teamB": "Yunnan Yukun",
+        "prediction": "Home Win",
+        "odds": "1.60",
+        "results": "Win"
+      },
+      {
+        "teamA": "Shenzhen Xinpengcheng",
+        "teamB": "Shanghai Port",
+        "prediction": "Away Win",
+        "odds": "1.85",
+        "results": "Win"
+      },
+      {
+        "teamA": "Djurgården",
+        "teamB": "IFK Norrköping",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "Mjällby AIF",
+        "teamB": "Malmö FF",
+        "prediction": "Draw",
+        "odds": "3.00",
+        "results": "Win"
+      },
+      {
+        "teamA": "USA",
+        "teamB": "Costa Rica",
+        "prediction": "Home Win",
+        "odds": "1.90",
+        "results": "Win"
+      }
+    ]
+  }
+]
