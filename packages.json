@@ -1,0 +1,151 @@
+[
+  {
+    "id": "free",
+    "title": "Free",
+    "subtitle": "The Basics",
+    "price": {
+      "name": "Free",
+      "prices": []
+    },
+    "features": [
+      "1–3 Free Football Prediction Tips Every Day",
+      "Test Our Accuracy with Real Match Picks",
+      "Perfect Entry Point for New Bettors"
+    ],
+    "type": "FREE",
+    "isMostPopular": false
+  },
+  {
+    "id": "basic",
+    "title": "Basic",
+    "subtitle": "Best Value",
+    "price": {
+      "name": "Basic",
+      "prices": [
+        {
+          "amount": 1,
+          "duration": "DAILY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 3,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 7,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD"
+        }
+      ]
+    },
+    "features": [
+      "5–10 Carefully Selected Football Tips Daily",
+      "Smart Picks Backed by Match Statistics",
+      "Consistent Low-Risk Betting Opportunities",
+      "Reliable Support Whenever You Need Help"
+    ],
+    "type": "BASIC",
+    "isMostPopular": false
+  },
+  {
+    "id": "jackpot",
+    "title": "Betika Jackpot",
+    "subtitle": "Guaranteed Jackpot Bonus Win",
+    "price": {
+      "name": "Betika Jackpot",
+      "prices": [
+        {
+          "amount": 2,
+          "duration": "DAILY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 5,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 10,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD"
+        }
+      ]
+    },
+    "features": [
+      "Exclusive Betika Jackpot Predictions",
+      "In-Depth Analysis for Jackpot Matches",
+      "Maximized Winning Potential Strategies",
+      "Perfect for Jackpot Enthusiasts"
+    ],
+    "type": "JACKPOT",
+    "isMostPopular": false
+  },
+  {
+    "id": "correct",
+    "title": "Correct Score",
+    "subtitle": "High Precision Tips",
+    "price": {
+      "name": "Correct Score",
+      "prices": [
+        {
+          "amount": 10,
+          "duration": "DAILY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 15,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 30,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD"
+        }
+      ]
+    },
+    "features": [
+      "Precise Correct Score Football Predictions",
+      "Deep Match Breakdown & Tactical Analysis",
+      "Clear Risk-Level Indicators per Match",
+      "Ideal for Advanced and Strategic Bettors"
+    ],
+    "type": "CORRECT_SCORE",
+    "isMostPopular": false
+  },
+  {
+    "id": "premium",
+    "title": "Premium",
+    "subtitle": "Top Choice for Serious Bettors",
+    "price": {
+      "name": "Premium",
+      "prices": [
+        {
+          "amount": 6,
+          "duration": "DAILY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 12,
+          "duration": "WEEKLY",
+          "baseCurrency": "USD"
+        },
+        {
+          "amount": 20,
+          "duration": "MONTHLY",
+          "baseCurrency": "USD"
+        }
+      ]
+    },
+    "features": [
+      "15–30 High-Confidence Football Predictions Daily",
+      "Elite Match Selection with Higher Success Rates",
+      "Advanced Win Trend & Performance Insights",
+      "Built for High-Stakes and Serious Bettors",
+      "Priority Support for Premium Members"
+    ],
+    "type": "PREMIUM",
+    "isMostPopular": true
+  }
+]
