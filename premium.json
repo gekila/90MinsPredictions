@@ -1,0 +1,590 @@
+[
+  {
+    "id": "cr_1489106",
+    "teamA": {
+      "name": "Municipal Liberia",
+      "icon": "https://media.api-sports.io/football/teams/826.png"
+    },
+    "teamB": {
+      "name": "Perez Zeledon",
+      "icon": "https://media.api-sports.io/football/teams/819.png"
+    },
+    "leagueName": "Primera División Costa-Rica",
+    "prediction": "DRAW",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "gt_1499122",
+    "teamA": {
+      "name": "Guastatoya",
+      "icon": "https://media.api-sports.io/football/teams/3662.png"
+    },
+    "teamB": {
+      "name": "Mixco",
+      "icon": "https://media.api-sports.io/football/teams/3645.png"
+    },
+    "leagueName": "Liga Nacional Guatemala",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "br_acre_1500993",
+    "teamA": {
+      "name": "Rio Branco",
+      "icon": "https://media.api-sports.io/football/teams/2220.png"
+    },
+    "teamB": {
+      "name": "Galvez",
+      "icon": "https://media.api-sports.io/football/teams/1228.png"
+    },
+    "leagueName": "Acreano Brazil",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "jm_1501534",
+    "teamA": {
+      "name": "Arnett Gardens",
+      "icon": "https://media.api-sports.io/football/teams/3436.png"
+    },
+    "teamB": {
+      "name": "Mount Pleasant Academy",
+      "icon": "https://media.api-sports.io/football/teams/3442.png"
+    },
+    "leagueName": "Premier League Jamaica",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "br_cat_1500408",
+    "teamA": {
+      "name": "Camboriú",
+      "icon": "https://media.api-sports.io/football/teams/18272.png"
+    },
+    "teamB": {
+      "name": "Criciuma",
+      "icon": "https://media.api-sports.io/football/teams/140.png"
+    },
+    "leagueName": "Catarinense - 1 Brazil",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "br_pa1_1500541",
+    "teamA": {
+      "name": "Velo Clube",
+      "icon": "https://media.api-sports.io/football/teams/10041.png"
+    },
+    "teamB": {
+      "name": "Guarani Campinas",
+      "icon": "https://media.api-sports.io/football/teams/138.png"
+    },
+    "leagueName": "Paulista - A1 Brazil",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "br_ba1_1500668",
+    "teamA": {
+      "name": "Jequié",
+      "icon": "https://media.api-sports.io/football/teams/15104.png"
+    },
+    "teamB": {
+      "name": "Atlético Alagoinhas",
+      "icon": "https://media.api-sports.io/football/teams/9997.png"
+    },
+    "leagueName": "Baiano - 1 Brazil",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "br_gau_1500762",
+    "teamA": {
+      "name": "Sao Jose",
+      "icon": "https://media.api-sports.io/football/teams/2232.png"
+    },
+    "teamB": {
+      "name": "Monsoon",
+      "icon": "https://media.api-sports.io/football/teams/21233.png"
+    },
+    "leagueName": "Gaúcho - 1 Brazil",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "br_car_1500869",
+    "teamA": {
+      "name": "Nova Iguaçu",
+      "icon": "https://media.api-sports.io/football/teams/7782.png"
+    },
+    "teamB": {
+      "name": "Fluminense",
+      "icon": "https://media.api-sports.io/football/teams/124.png"
+    },
+    "leagueName": "Carioca - 1 Brazil",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "br_cap_1501032",
+    "teamA": {
+      "name": "Capixaba SC",
+      "icon": "https://media.api-sports.io/football/teams/23567.png"
+    },
+    "teamB": {
+      "name": "Rio Branco-VN",
+      "icon": "https://media.api-sports.io/football/teams/12929.png"
+    },
+    "leagueName": "Capixaba Brazil",
+    "prediction": "DRAW",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "br_youth_1509765",
+    "teamA": {
+      "name": "São Paulo U20",
+      "icon": "https://media.api-sports.io/football/teams/12973.png"
+    },
+    "teamB": {
+      "name": "Ibrachina U20",
+      "icon": "https://media.api-sports.io/football/teams/18336.png"
+    },
+    "leagueName": "São Paulo Youth Cup Brazil",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "int_1501810",
+    "teamA": {
+      "name": "Panama",
+      "icon": "https://media.api-sports.io/football/teams/11.png"
+    },
+    "teamB": {
+      "name": "Mexico",
+      "icon": "https://media.api-sports.io/football/teams/16.png"
+    },
+    "leagueName": "Friendlies World",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "ar_1491823",
+    "teamA": {
+      "name": "Central Cordoba de Santiago",
+      "icon": "https://media.api-sports.io/football/teams/1065.png"
+    },
+    "teamB": {
+      "name": "Gimnasia M.",
+      "icon": "https://media.api-sports.io/football/teams/1066.png"
+    },
+    "leagueName": "Liga Profesional Argentina",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "ar_1491827",
+    "teamA": {
+      "name": "Instituto Cordoba",
+      "icon": "https://media.api-sports.io/football/teams/478.png"
+    },
+    "teamB": {
+      "name": "Velez Sarsfield",
+      "icon": "https://media.api-sports.io/football/teams/438.png"
+    },
+    "leagueName": "Liga Profesional Argentina",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "cr_1489108",
+    "teamA": {
+      "name": "Sporting San Jose",
+      "icon": "https://media.api-sports.io/football/teams/2047.png"
+    },
+    "teamB": {
+      "name": "Deportivo Saprissa",
+      "icon": "https://media.api-sports.io/football/teams/816.png"
+    },
+    "leagueName": "Primera División Costa-Rica",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "ofc_1508865",
+    "teamA": {
+      "name": "South Island United",
+      "icon": "https://media.api-sports.io/football/teams/27381.png"
+    },
+    "teamB": {
+      "name": "Vanuatu United",
+      "icon": "https://media.api-sports.io/football/teams/27383.png"
+    },
+    "leagueName": "Ofc Pro League World",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+   {
+    "id": "il_na_1456551",
+    "teamA": {
+      "name": "Hapoel Ironi Arraba",
+      "icon": "https://media.api-sports.io/football/teams/22334.png"
+    },
+    "teamB": {
+      "name": "Maccabi Neve Sha'anan",
+      "icon": "https://media.api-sports.io/football/teams/6197.png"
+    },
+    "leagueName": "Liga Alef North Israel",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "il_sa_1456793",
+    "teamA": {
+      "name": "Hapoel Marmorek",
+      "icon": "https://media.api-sports.io/football/teams/4498.png"
+    },
+    "teamB": {
+      "name": "Hapoel Azor",
+      "icon": "https://media.api-sports.io/football/teams/6146.png"
+    },
+    "leagueName": "Liga Alef South Israel",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "il_na_1456553",
+    "teamA": {
+      "name": "Hapoel Umm al-Fahm",
+      "icon": "https://media.api-sports.io/football/teams/4492.png"
+    },
+    "teamB": {
+      "name": "Ironi Nesher",
+      "icon": "https://media.api-sports.io/football/teams/4502.png"
+    },
+    "leagueName": "Liga Alef North Israel",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "sg_pl_1421821",
+    "teamA": {
+      "name": "Geylang International",
+      "icon": "https://media.api-sports.io/football/teams/4203.png"
+    },
+    "teamB": {
+      "name": "Tampines Rovers",
+      "icon": "https://media.api-sports.io/football/teams/4206.png"
+    },
+    "leagueName": "Premier League Singapore",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
+  },
+    {
+    "id": "il_sa_1456796",
+    "teamA": {
+      "name": "Hapoel Herzliya",
+      "icon": "https://media.api-sports.io/football/teams/6153.png"
+    },
+    "teamB": {
+      "name": "Hapoel Ramat HaSharon",
+      "icon": "https://media.api-sports.io/football/teams/4490.png"
+    },
+    "leagueName": "Liga Alef South Israel",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "ir_pgpl_1488693",
+    "teamA": {
+      "name": "Esteghlal Khuzestan",
+      "icon": "https://media.api-sports.io/football/teams/2739.png"
+    },
+    "teamB": {
+      "name": "Paykan",
+      "icon": "https://media.api-sports.io/football/teams/2741.png"
+    },
+    "leagueName": "Persian Gulf Pro League Iran",
+    "prediction": "DRAW",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "il_ligatha'al_1389723",
+    "teamA": {
+      "name": "Hapoel Katamon",
+      "icon": "https://media.api-sports.io/football/teams/4486.png"
+    },
+    "teamB": {
+      "name": "Hapoel Petah Tikva",
+      "icon": "https://media.api-sports.io/football/teams/4488.png"
+    },
+    "leagueName": "Ligat Ha'al Israel",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "id_liga1_1403716",
+    "teamA": {
+      "name": "Persija",
+      "icon": "https://media.api-sports.io/football/teams/10134.png"
+    },
+    "teamB": {
+      "name": "Persepam Madura Utd",
+      "icon": "https://media.api-sports.io/football/teams/2444.png"
+    },
+    "leagueName": "Liga 1 Indonesia",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "id_liga2_1470530",
+    "teamA": {
+      "name": "PSPS",
+      "icon": "https://media.api-sports.io/football/teams/4236.png"
+    },
+    "teamB": {
+      "name": "Adhyaksa",
+      "icon": "https://media.api-sports.io/football/teams/24993.png"
+    },
+    "leagueName": "Liga 2 Indonesia",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "ke_fkf_1470694",
+    "teamA": {
+      "name": "Kariobangi Sharks",
+      "icon": "https://media.api-sports.io/football/teams/2468.png"
+    },
+    "teamB": {
+      "name": "Ulinzi Stars",
+      "icon": "https://media.api-sports.io/football/teams/2474.png"
+    },
+    "leagueName": "FKF Premier League Kenya",
+    "prediction": "DRAW",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "ir_pgpl_1488694",
+    "teamA": {
+      "name": "Chadormalu SC",
+      "icon": "https://media.api-sports.io/football/teams/20299.png"
+    },
+    "teamB": {
+      "name": "Shams Azar Qazvin",
+      "icon": "https://media.api-sports.io/football/teams/18159.png"
+    },
+    "leagueName": "Persian Gulf Pro League Iran",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "ir_pgpl_1488695",
+    "teamA": {
+      "name": "Gol Gohar",
+      "icon": "https://media.api-sports.io/football/teams/2714.png"
+    },
+    "teamB": {
+      "name": "Fajr Sepasi",
+      "icon": "https://media.api-sports.io/football/teams/2713.png"
+    },
+    "leagueName": "Persian Gulf Pro League Iran",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "th_tl2_1490999",
+    "teamA": {
+      "name": "Nong Bua Pitchaya",
+      "icon": "https://media.api-sports.io/football/teams/2796.png"
+    },
+    "teamB": {
+      "name": "Chanthaburi",
+      "icon": "https://media.api-sports.io/football/teams/6557.png"
+    },
+    "leagueName": "Thai League 2 Thailand",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "il_na_1456552",
+    "teamA": {
+      "name": "Hapoel Tirat HaCarmel",
+      "icon": "https://media.api-sports.io/football/teams/6169.png"
+    },
+    "teamB": {
+      "name": "Maccabi Ahi Nazareth",
+      "icon": "https://media.api-sports.io/football/teams/4494.png"
+    },
+    "leagueName": "Liga Alef North Israel",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "tr_2lig_1441791",
+    "teamA": {
+      "name": "Elazığspor",
+      "icon": "https://media.api-sports.io/football/teams/3571.png"
+    },
+    "teamB": {
+      "name": "Ankaragücü",
+      "icon": "https://media.api-sports.io/football/teams/1010.png"
+    },
+    "leagueName": "2. Lig Turkey",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "tr_2lig_1441799",
+    "teamA": {
+      "name": "Adana 1954 FK",
+      "icon": "https://media.api-sports.io/football/teams/22009.png"
+    },
+    "teamB": {
+      "name": "Beyoğlu Yeni Çarşı",
+      "icon": "https://media.api-sports.io/football/teams/7406.png"
+    },
+    "leagueName": "2. Lig Turkey",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "tr_2lig_1441805",
+    "teamA": {
+      "name": "Kahramanmaraş İstiklalsp",
+      "icon": "https://media.api-sports.io/football/teams/24601.png"
+    },
+    "teamB": {
+      "name": "Hekimoğlu Trabzon",
+      "icon": "https://media.api-sports.io/football/teams/6340.png"
+    },
+    "leagueName": "2. Lig Turkey",
+    "prediction": "DRAW",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "il_na_1456555",
+    "teamA": {
+      "name": "Hapoel Beit Shean",
+      "icon": "https://media.api-sports.io/football/teams/6330.png"
+    },
+    "teamB": {
+      "name": "Hapoel Ironi Karmiel",
+      "icon": "https://media.api-sports.io/football/teams/20101.png"
+    },
+    "leagueName": "Liga Alef North Israel",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "il_na_1456556",
+    "teamA": {
+      "name": "Hapoel Migdal HaEmek",
+      "icon": "https://media.api-sports.io/football/teams/6164.png"
+    },
+    "teamB": {
+      "name": "Maccabi Nujeidat Ahmed",
+      "icon": "https://media.api-sports.io/football/teams/6198.png"
+    },
+    "leagueName": "Liga Alef North Israel",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "il_sa_1456797",
+    "teamA": {
+      "name": "Maccabi Ashdod",
+      "icon": "https://media.api-sports.io/football/teams/6184.png"
+    },
+    "teamB": {
+      "name": "Kfar Saba 1928",
+      "icon": "https://media.api-sports.io/football/teams/24788.png"
+    },
+    "leagueName": "Liga Alef South Israel",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "fc_1502963",
+    "teamA": {
+      "name": "FC Copenhagen",
+      "icon": "https://media.api-sports.io/football/teams/400.png"
+    },
+    "teamB": {
+      "name": "B 93",
+      "icon": "https://media.api-sports.io/football/teams/6009.png"
+    },
+    "leagueName": "Friendlies Clubs World",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "fc_1502964",
+    "teamA": {
+      "name": "Lask Linz",
+      "icon": "https://media.api-sports.io/football/teams/1026.png"
+    },
+    "teamB": {
+      "name": "SKN ST. Polten",
+      "icon": "https://media.api-sports.io/football/teams/1027.png"
+    },
+    "leagueName": "Friendlies Clubs World",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "cd_1503226",
+    "teamA": {
+      "name": "Etoile de Kivu",
+      "icon": "https://media.api-sports.io/football/teams/17764.png"
+    },
+    "teamB": {
+      "name": "Motema Pembe",
+      "icon": "https://media.api-sports.io/football/teams/8067.png"
+    },
+    "leagueName": "Ligue 1 Congo-DR",
+    "prediction": "AWAY WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "fc_1503565",
+    "teamA": {
+      "name": "Ried",
+      "icon": "https://media.api-sports.io/football/teams/1028.png"
+    },
+    "teamB": {
+      "name": "České Budějovice",
+      "icon": "https://media.api-sports.io/football/teams/3736.png"
+    },
+    "leagueName": "Friendlies Clubs World",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "fc_1505824",
+    "teamA": {
+      "name": "Turku PS",
+      "icon": "https://media.api-sports.io/football/teams/1168.png"
+    },
+    "teamB": {
+      "name": "Haka",
+      "icon": "https://media.api-sports.io/football/teams/2080.png"
+    },
+    "leagueName": "Friendlies Clubs World",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "fc_1507629",
+    "teamA": {
+      "name": "Šiauliai",
+      "icon": "https://media.api-sports.io/football/teams/3870.png"
+    },
+    "teamB": {
+      "name": "Banga",
+      "icon": "https://media.api-sports.io/football/teams/3858.png"
+    },
+    "leagueName": "Friendlies Clubs World",
+    "prediction": "HOME WIN",
+    "date": "2026-01-23"
+  }
+]
