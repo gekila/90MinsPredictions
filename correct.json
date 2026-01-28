@@ -1,0 +1,86 @@
+[
+  {
+    "id": "il_sa_1456796",
+    "teamA": {
+      "name": "Hapoel Herzliya",
+      "icon": "https://media.api-sports.io/football/teams/6153.png"
+    },
+    "teamB": {
+      "name": "Hapoel Ramat HaSharon",
+      "icon": "https://media.api-sports.io/football/teams/4490.png"
+    },
+    "leagueName": "Liga Alef South Israel",
+    "prediction": "2-1",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "ir_pgpl_1488693",
+    "teamA": {
+      "name": "Esteghlal Khuzestan",
+      "icon": "https://media.api-sports.io/football/teams/2739.png"
+    },
+    "teamB": {
+      "name": "Paykan",
+      "icon": "https://media.api-sports.io/football/teams/2741.png"
+    },
+    "leagueName": "Persian Gulf Pro League Iran",
+    "prediction": "1-1",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "il_ligatha'al_1389723",
+    "teamA": {
+      "name": "Hapoel Katamon",
+      "icon": "https://media.api-sports.io/football/teams/4486.png"
+    },
+    "teamB": {
+      "name": "Hapoel Petah Tikva",
+      "icon": "https://media.api-sports.io/football/teams/4488.png"
+    },
+    "leagueName": "Ligat Ha'al Israel",
+    "prediction": "2-0",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "id_liga1_1403716",
+    "teamA": {
+      "name": "Persija",
+      "icon": "https://media.api-sports.io/football/teams/10134.png"
+    },
+    "teamB": {
+      "name": "Persepam Madura Utd",
+      "icon": "https://media.api-sports.io/football/teams/2444.png"
+    },
+    "leagueName": "Liga 1 Indonesia",
+    "prediction": "2-1",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "il_na_1456551",
+    "teamA": {
+      "name": "Hapoel Ironi Arraba",
+      "icon": "https://media.api-sports.io/football/teams/22334.png"
+    },
+    "teamB": {
+      "name": "Maccabi Neve Sha'anan",
+      "icon": "https://media.api-sports.io/football/teams/6197.png"
+    },
+    "leagueName": "Liga Alef North Israel",
+    "prediction": "1-0",
+    "date": "2026-01-23"
+  },
+  {
+    "id": "ir_pgpl_1488695",
+    "teamA": {
+      "name": "Gol Gohar",
+      "icon": "https://media.api-sports.io/football/teams/2714.png"
+    },
+    "teamB": {
+      "name": "Fajr Sepasi",
+      "icon": "https://media.api-sports.io/football/teams/2713.png"
+    },
+    "leagueName": "Persian Gulf Pro League Iran",
+    "prediction": "2-0",
+    "date": "2026-01-23"
+  }
+]
