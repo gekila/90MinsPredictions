@@ -1,44 +1,72 @@
 [
-   {
-    "id": "cr_1489106",
-    "teamA": {
-      "name": "Municipal Liberia",
-      "icon": "https://media.api-sports.io/football/teams/826.png"
-    },
-    "teamB": {
-      "name": "Perez Zeledon",
-      "icon": "https://media.api-sports.io/football/teams/819.png"
-    },
-    "leagueName": "Primera División Costa-Rica",
-    "prediction": "DRAW",
-    "date": "2026-01-23"
-  },
   {
-    "id": "gt_1499122",
+    "id": "fa_cup_mc_sc_140226",
     "teamA": {
-      "name": "Guastatoya",
-      "icon": "https://media.api-sports.io/football/teams/3662.png"
+      "name": "Manchester City",
+      "icon": "https://media.api-sports.io/football/teams/65.png"
     },
     "teamB": {
-      "name": "Mixco",
-      "icon": "https://media.api-sports.io/football/teams/3645.png"
+      "name": "Salford City",
+      "icon": "https://media.api-sports.io/football/teams/343.png"
     },
-    "leagueName": "Liga Nacional Guatemala",
+    "leagueName": "FA Cup - England",
     "prediction": "HOME WIN",
-    "date": "2026-01-23"
+    "date": "2026-02-14"
   },
   {
-    "id": "br_acre_1500993",
+    "id": "bund_wb_bm_140226",
     "teamA": {
-      "name": "Rio Branco",
-      "icon": "https://media.api-sports.io/football/teams/2220.png"
+      "name": "Werder Bremen",
+      "icon": "https://media.api-sports.io/football/teams/399.png"
     },
     "teamB": {
-      "name": "Galvez",
-      "icon": "https://media.api-sports.io/football/teams/1228.png"
+      "name": "Bayern Munich",
+      "icon": "https://media.api-sports.io/football/teams/157.png"
     },
-    "leagueName": "Acreano Brazil",
+    "leagueName": "Bundesliga - Germany",
     "prediction": "AWAY WIN",
-    "date": "2026-01-23"
+    "date": "2026-02-14"
+  },
+  {
+    "id": "laliga_rm_rs_140226",
+    "teamA": {
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/86.png"
+    },
+    "teamB": {
+      "name": "Real Sociedad",
+      "icon": "https://media.api-sports.io/football/teams/90.png"
+    },
+    "leagueName": "La Liga - Spain",
+    "prediction": "HOME WIN",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "serie_i_j_140226",
+    "teamA": {
+      "name": "Inter Milan",
+      "icon": "https://media.api-sports.io/football/teams/112.png"
+    },
+    "teamB": {
+      "name": "Juventus",
+      "icon": "https://media.api-sports.io/football/teams/109.png"
+    },
+    "leagueName": "Serie A - Italy",
+    "prediction": "HOME WIN",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "laliga_s_v_a_140226",
+    "teamA": {
+      "name": "Sevilla",
+      "icon": "https://media.api-sports.io/football/teams/293.png"
+    },
+    "teamB": {
+      "name": "Deportivo Alavés",
+      "icon": "https://media.api-sports.io/football/teams/266.png"
+    },
+    "leagueName": "La Liga - Spain",
+    "prediction": "HOME WIN",
+    "date": "2026-02-14"
   }
 ]
