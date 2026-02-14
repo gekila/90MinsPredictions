@@ -1,33 +1,121 @@
 [
   {
+    "date": "Friday, 13th February 2026",
+    "gamesList": [
+      {
+        "teamA": "Hull City",
+        "teamB": "Chelsea",
+        "prediction": "AWAY",
+        "odds": "1.50",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Barcelona",
+        "teamB": "Atlético Madrid",
+        "prediction": "AWAY",
+        "odds": "2.10",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Thursday, 12th February 2026",
+    "gamesList": [
+      {
+        "teamA": "No major recorded matches",
+        "teamB": "",
+        "prediction": "",
+        "odds": "",
+        "results": ""
+      }
+    ]
+  },
+  {
+    "date": "Wednesday, 11th February 2026",
+    "gamesList": [
+      {
+        "teamA": "Fiorentina",
+        "teamB": "Torino",
+        "prediction": "DRAW",
+        "odds": "3.00",
+        "results": "DRAW"
+      }
+    ]
+  },
+  {
+    "date": "Tuesday, 10th February 2026",
+    "gamesList": [
+      {
+        "teamA": "Chelsea",
+        "teamB": "Leeds United",
+        "prediction": "HOME",
+        "odds": "1.85",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Union Berlin",
+        "teamB": "Eintracht Frankfurt",
+        "prediction": "DRAW",
+        "odds": "3.00",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Celta Vigo",
+        "teamB": "Osasuna",
+        "prediction": "AWAY",
+        "odds": "2.70",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Monday, 9th February 2026",
+    "gamesList": [
+      {
+        "teamA": "Charlton Athletic",
+        "teamB": "Queens Park Rangers",
+        "prediction": "DRAW",
+        "odds": "3.10",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Galway United",
+        "teamB": "Drogheda",
+        "prediction": "AWAY",
+        "odds": "2.50",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Waterford FC",
+        "teamB": "Shelbourne",
+        "prediction": "DRAW",
+        "odds": "3.00",
+        "results": "DRAW"
+      }
+    ]
+  },
+  {
     "date": "Sunday, 8th February 2026",
     "gamesList": [
       {
         "teamA": "Brighton & Hove Albion",
         "teamB": "Crystal Palace",
-        "prediction": "HOME/DRAW",
-        "odds": "1.85",
-        "results": "LOSS"
+        "prediction": "AWAY",
+        "odds": "2.50",
+        "results": "WIN"
       },
       {
         "teamA": "Liverpool",
         "teamB": "Manchester City",
-        "prediction": "DRAW/AWAY",
-        "odds": "2.10",
-        "results": "WIN"
-      },
-      {
-        "teamA": "Bayern Munich",
-        "teamB": "TSG Hoffenheim",
-        "prediction": "HOME",
-        "odds": "1.40",
-        "results": "WIN"
-      },
-      {
-        "teamA": "FC Köln",
-        "teamB": "RB Leipzig",
         "prediction": "AWAY",
-        "odds": "2.05",
+        "odds": "1.90",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Alavés",
+        "teamB": "Getafe",
+        "prediction": "AWAY",
+        "odds": "2.40",
         "results": "WIN"
       },
       {
@@ -38,38 +126,71 @@
         "results": "WIN"
       },
       {
-        "teamA": "Juventus",
-        "teamB": "Lazio",
+        "teamA": "Bayern Munich",
+        "teamB": "TSG Hoffenheim",
+        "prediction": "HOME",
+        "odds": "1.40",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Saturday, 7th February 2026",
+    "gamesList": [
+      {
+        "teamA": "Manchester United",
+        "teamB": "Tottenham Hotspur",
+        "prediction": "HOME",
+        "odds": "1.70",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Arsenal",
+        "teamB": "Sunderland",
+        "prediction": "HOME",
+        "odds": "1.30",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bournemouth",
+        "teamB": "Aston Villa",
         "prediction": "DRAW",
-        "odds": "3.10",
+        "odds": "3.30",
         "results": "DRAW"
       },
       {
-        "teamA": "Inter Milan",
-        "teamB": "Sassuolo",
-        "prediction": "HOME",
-        "odds": "1.25",
-        "results": "WIN"
-      },
-      {
-        "teamA": "Valencia",
-        "teamB": "Real Madrid",
-        "prediction": "DRAW/AWAY",
-        "odds": "1.90",
-        "results": "WIN"
-      },
-      {
-        "teamA": "Angers",
-        "teamB": "Toulouse",
-        "prediction": "DRAW/AWAY",
-        "odds": "2.40",
-        "results": "WIN"
-      },
-      {
-        "teamA": "Le Havre",
-        "teamB": "Strasbourg",
-        "prediction": "HOME",
+        "teamA": "Burnley",
+        "teamB": "West Ham United",
+        "prediction": "AWAY",
         "odds": "2.10",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Wolverhampton Wanderers",
+        "teamB": "Chelsea",
+        "prediction": "AWAY",
+        "odds": "1.80",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Newcastle United",
+        "teamB": "Brentford",
+        "prediction": "AWAY",
+        "odds": "2.05",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Norwich City",
+        "teamB": "Blackburn Rovers",
+        "prediction": "HOME",
+        "odds": "2.00",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Southampton",
+        "teamB": "Watford",
+        "prediction": "HOME",
+        "odds": "2.30",
         "results": "WIN"
       }
     ]
