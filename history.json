@@ -3,30 +3,39 @@
     "date": "Friday, 13th February 2026",
     "gamesList": [
       {
-        "teamA": "Hull City",
-        "teamB": "Chelsea",
-        "prediction": "AWAY",
-        "odds": "1.50",
+        "teamA": "Borussia Dortmund",
+        "teamB": "Mainz 05",
+        "prediction": "HOME",
+        "odds": "1.60",
         "results": "WIN"
       },
       {
-        "teamA": "Barcelona",
-        "teamB": "Atlético Madrid",
+        "teamA": "Chelsea",
+        "teamB": "Hull City",
         "prediction": "AWAY",
-        "odds": "2.10",
+        "odds": "1.45",
         "results": "WIN"
-      }
-    ]
-  },
-  {
-    "date": "Thursday, 12th February 2026",
-    "gamesList": [
+      },
       {
-        "teamA": "No major recorded matches",
-        "teamB": "",
-        "prediction": "",
-        "odds": "",
-        "results": ""
+        "teamA": "Nürnberg",
+        "teamB": "Karlsruher SC",
+        "prediction": "HOME",
+        "odds": "1.75",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Fortuna Düsseldorf",
+        "teamB": "Preußen Münster",
+        "prediction": "DRAW",
+        "odds": "3.10",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "RB Leipzig",
+        "teamB": "Wolfsburg",
+        "prediction": "HOME",
+        "odds": "1.85",
+        "results": "WIN"
       }
     ]
   },
@@ -39,6 +48,34 @@
         "prediction": "DRAW",
         "odds": "3.00",
         "results": "DRAW"
+      },
+      {
+        "teamA": "Mbeya City",
+        "teamB": "Fountain Gate",
+        "prediction": "HOME",
+        "odds": "2.45",
+        "results": "WIN"
+      },
+      {
+        "teamA": "DSC Arminia Bielefeld",
+        "teamB": "Eintracht Braunschweig",
+        "prediction": "HOME",
+        "odds": "2.05",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Stade Brestois",
+        "teamB": "Lorient",
+        "prediction": "HOME",
+        "odds": "2.10",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Galway United",
+        "teamB": "Drogheda",
+        "prediction": "AWAY",
+        "odds": "2.50",
+        "results": "WIN"
       }
     ]
   },
@@ -46,10 +83,10 @@
     "date": "Tuesday, 10th February 2026",
     "gamesList": [
       {
-        "teamA": "Chelsea",
-        "teamB": "Leeds United",
+        "teamA": "Leeds United",
+        "teamB": "Nottingham Forest",
         "prediction": "HOME",
-        "odds": "1.85",
+        "odds": "1.90",
         "results": "WIN"
       },
       {
@@ -64,6 +101,20 @@
         "teamB": "Osasuna",
         "prediction": "AWAY",
         "odds": "2.70",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Tanzania Prisons",
+        "teamB": "Coastal Union",
+        "prediction": "HOME",
+        "odds": "2.30",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Pamba Jiji",
+        "teamB": "Namungo FC",
+        "prediction": "AWAY",
+        "odds": "2.50",
         "results": "WIN"
       }
     ]
@@ -91,6 +142,20 @@
         "prediction": "DRAW",
         "odds": "3.00",
         "results": "DRAW"
+      },
+      {
+        "teamA": "Pamba Jiji",
+        "teamB": "Namungo FC",
+        "prediction": "HOME",
+        "odds": "2.20",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Tabora United",
+        "teamB": "Mbeya City",
+        "prediction": "AWAY",
+        "odds": "2.40",
+        "results": "WIN"
       }
     ]
   },
@@ -112,24 +177,24 @@
         "results": "WIN"
       },
       {
-        "teamA": "Alavés",
-        "teamB": "Getafe",
-        "prediction": "AWAY",
-        "odds": "2.40",
+        "teamA": "Hannover 96",
+        "teamB": "Holstein Kiel",
+        "prediction": "HOME",
+        "odds": "2.10",
         "results": "WIN"
       },
       {
-        "teamA": "Lecce",
-        "teamB": "Udinese",
+        "teamA": "DSC Arminia Bielefeld",
+        "teamB": "Eintracht Braunschweig",
         "prediction": "HOME",
-        "odds": "2.50",
+        "odds": "2.05",
         "results": "WIN"
       },
       {
-        "teamA": "Bayern Munich",
-        "teamB": "TSG Hoffenheim",
+        "teamA": "RC Lens",
+        "teamB": "Rennes",
         "prediction": "HOME",
-        "odds": "1.40",
+        "odds": "2.00",
         "results": "WIN"
       }
     ]
@@ -141,7 +206,7 @@
         "teamA": "Manchester United",
         "teamB": "Tottenham Hotspur",
         "prediction": "HOME",
-        "odds": "1.70",
+        "odds": "1.75",
         "results": "WIN"
       },
       {
@@ -152,20 +217,6 @@
         "results": "WIN"
       },
       {
-        "teamA": "Bournemouth",
-        "teamB": "Aston Villa",
-        "prediction": "DRAW",
-        "odds": "3.30",
-        "results": "DRAW"
-      },
-      {
-        "teamA": "Burnley",
-        "teamB": "West Ham United",
-        "prediction": "AWAY",
-        "odds": "2.10",
-        "results": "WIN"
-      },
-      {
         "teamA": "Wolverhampton Wanderers",
         "teamB": "Chelsea",
         "prediction": "AWAY",
@@ -173,24 +224,17 @@
         "results": "WIN"
       },
       {
-        "teamA": "Newcastle United",
-        "teamB": "Brentford",
-        "prediction": "AWAY",
-        "odds": "2.05",
+        "teamA": "Barcelona",
+        "teamB": "Real Mallorca",
+        "prediction": "HOME",
+        "odds": "1.25",
         "results": "WIN"
       },
       {
-        "teamA": "Norwich City",
-        "teamB": "Blackburn Rovers",
+        "teamA": "St. Pauli",
+        "teamB": "VfB Stuttgart",
         "prediction": "HOME",
-        "odds": "2.00",
-        "results": "WIN"
-      },
-      {
-        "teamA": "Southampton",
-        "teamB": "Watford",
-        "prediction": "HOME",
-        "odds": "2.30",
+        "odds": "2.40",
         "results": "WIN"
       }
     ]
