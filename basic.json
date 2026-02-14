@@ -1,128 +1,114 @@
 [
   {
-    "id": "fa_cup_mc_sc_140226",
+    "id": "bund_augs_heid_150226",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/65.png"
+      "name": "FC Augsburg",
+      "icon": "https://media.api-sports.io/football/teams/66.png"
     },
     "teamB": {
-      "name": "Salford City",
-      "icon": "https://media.api-sports.io/football/teams/343.png"
-    },
-    "leagueName": "FA Cup Fourth Round - England",
-    "prediction": "HOME WIN",
-    "date": "2026-02-14"
-  },
-  {
-    "id": "bund_wb_bm_140226",
-    "teamA": {
-      "name": "Werder Bremen",
-      "icon": "https://media.api-sports.io/football/teams/399.png"
-    },
-    "teamB": {
-      "name": "Bayern Munich",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
+      "name": "1. FC Heidenheim",
+      "icon": "https://media.api-sports.io/football/teams/417.png"
     },
     "leagueName": "Bundesliga - Germany",
-    "prediction": "AWAY WIN",
-    "date": "2026-02-14"
-  },
-  {
-    "id": "laliga_e_v_c_140226",
-    "teamA": {
-      "name": "Espanyol",
-      "icon": "https://media.api-sports.io/football/teams/279.png"
-    },
-    "teamB": {
-      "name": "Celta Vigo",
-      "icon": "https://media.api-sports.io/football/teams/281.png"
-    },
-    "leagueName": "La Liga - Spain",
-    "prediction": "AWAY WIN",
-    "date": "2026-02-14"
-  },
-  {
-    "id": "laliga_g_v_v_140226",
-    "teamA": {
-      "name": "Getafe",
-      "icon": "https://media.api-sports.io/football/teams/299.png"
-    },
-    "teamB": {
-      "name": "Villarreal",
-      "icon": "https://media.api-sports.io/football/teams/302.png"
-    },
-    "leagueName": "La Liga - Spain",
-    "prediction": "AWAY WIN",
-    "date": "2026-02-14"
-  },
-  {
-    "id": "laliga_s_v_a_140226",
-    "teamA": {
-      "name": "Sevilla",
-      "icon": "https://media.api-sports.io/football/teams/293.png"
-    },
-    "teamB": {
-      "name": "Deportivo Alavés",
-      "icon": "https://media.api-sports.io/football/teams/266.png"
-    },
-    "leagueName": "La Liga - Spain",
     "prediction": "HOME WIN",
-    "date": "2026-02-14"
+    "date": "2026-02-15"
   },
   {
-    "id": "laliga_rm_rs_140226",
+    "id": "bund_leip_wolf_150226",
     "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://media.api-sports.io/football/teams/86.png"
+      "name": "RB Leipzig",
+      "icon": "https://media.api-sports.io/football/teams/442.png"
     },
     "teamB": {
-      "name": "Real Sociedad",
-      "icon": "https://media.api-sports.io/football/teams/90.png"
+      "name": "VfL Wolfsburg",
+      "icon": "https://media.api-sports.io/football/teams/173.png"
     },
-    "leagueName": "La Liga - Spain",
+    "leagueName": "Bundesliga - Germany",
     "prediction": "HOME WIN",
-    "date": "2026-02-14"
+    "date": "2026-02-15"
   },
   {
-    "id": "serie_c_f_140226",
+    "id": "seriea_udin_sass_150226",
     "teamA": {
-      "name": "Como",
-      "icon": "https://media.api-sports.io/football/teams/301.png"
+      "name": "Udinese",
+      "icon": "https://media.api-sports.io/football/teams/324.png"
     },
     "teamB": {
-      "name": "Fiorentina",
-      "icon": "https://media.api-sports.io/football/teams/419.png"
-    },
-    "leagueName": "Serie A - Italy",
-    "prediction": "AWAY WIN",
-    "date": "2026-02-14"
-  },
-  {
-    "id": "serie_l_a_a_140226",
-    "teamA": {
-      "name": "Lazio",
-      "icon": "https://media.api-sports.io/football/teams/121.png"
-    },
-    "teamB": {
-      "name": "Atalanta",
-      "icon": "https://media.api-sports.io/football/teams/151.png"
-    },
-    "leagueName": "Serie A - Italy",
-    "prediction": "AWAY WIN",
-    "date": "2026-02-14"
-  },
-  {
-    "id": "serie_i_j_140226",
-    "teamA": {
-      "name": "Inter Milan",
-      "icon": "https://media.api-sports.io/football/teams/112.png"
-    },
-    "teamB": {
-      "name": "Juventus",
-      "icon": "https://media.api-sports.io/football/teams/109.png"
+      "name": "Sassuolo",
+      "icon": "https://media.api-sports.io/football/teams/336.png"
     },
     "leagueName": "Serie A - Italy",
     "prediction": "HOME WIN",
-    "date": "2026-02-14"
+    "date": "2026-02-15"
+  },
+  {
+    "id": "seriea_crem_geno_150226",
+    "teamA": {
+      "name": "Cremonese",
+      "icon": "https://media.api-sports.io/football/teams/429.png"
+    },
+    "teamB": {
+      "name": "Genoa",
+      "icon": "https://media.api-sports.io/football/teams/308.png"
+    },
+    "leagueName": "Serie A - Italy",
+    "prediction": "AWAY WIN",
+    "date": "2026-02-15"
+  },
+  {
+    "id": "laliga_ovi_athc_150226",
+    "teamA": {
+      "name": "Real Oviedo",
+      "icon": "https://media.api-sports.io/football/teams/421.png"
+    },
+    "teamB": {
+      "name": "Athletic Club",
+      "icon": "https://media.api-sports.io/football/teams/525.png"
+    },
+    "leagueName": "La Liga - Spain",
+    "prediction": "AWAY WIN",
+    "date": "2026-02-15"
+  },
+  {
+    "id": "laliga_ray_atm_150226",
+    "teamA": {
+      "name": "Rayo Vallecano",
+      "icon": "https://media.api-sports.io/football/teams/352.png"
+    },
+    "teamB": {
+      "name": "Atlético Madrid",
+      "icon": "https://media.api-sports.io/football/teams/530.png"
+    },
+    "leagueName": "La Liga - Spain",
+    "prediction": "AWAY WIN",
+    "date": "2026-02-15"
+  },
+  {
+    "id": "laliga_lev_val_150226",
+    "teamA": {
+      "name": "Levante",
+      "icon": "https://media.api-sports.io/football/teams/444.png"
+    },
+    "teamB": {
+      "name": "Valencia",
+      "icon": "https://media.api-sports.io/football/teams/194.png"
+    },
+    "leagueName": "La Liga - Spain",
+    "prediction": "DRAW",
+    "date": "2026-02-15"
+  },
+  {
+    "id": "laliga_mal_bet_150226",
+    "teamA": {
+      "name": "Mallorca",
+      "icon": "https://media.api-sports.io/football/teams/411.png"
+    },
+    "teamB": {
+      "name": "Real Betis",
+      "icon": "https://media.api-sports.io/football/teams/319.png"
+    },
+    "leagueName": "La Liga - Spain",
+    "prediction": "AWAY WIN",
+    "date": "2026-02-15"
   }
 ]
