@@ -1,142 +1,128 @@
 [
-   {
-    "id": "cr_1489106",
-    "teamA": {
-      "name": "Municipal Liberia",
-      "icon": "https://media.api-sports.io/football/teams/826.png"
-    },
-    "teamB": {
-      "name": "Perez Zeledon",
-      "icon": "https://media.api-sports.io/football/teams/819.png"
-    },
-    "leagueName": "Primera División Costa-Rica",
-    "prediction": "DRAW",
-    "date": "2026-01-23"
-  },
   {
-    "id": "gt_1499122",
+    "id": "fa_cup_mc_sc_140226",
     "teamA": {
-      "name": "Guastatoya",
-      "icon": "https://media.api-sports.io/football/teams/3662.png"
+      "name": "Manchester City",
+      "icon": "https://media.api-sports.io/football/teams/65.png"
     },
     "teamB": {
-      "name": "Mixco",
-      "icon": "https://media.api-sports.io/football/teams/3645.png"
+      "name": "Salford City",
+      "icon": "https://media.api-sports.io/football/teams/343.png"
     },
-    "leagueName": "Liga Nacional Guatemala",
+    "leagueName": "FA Cup Fourth Round - England",
     "prediction": "HOME WIN",
-    "date": "2026-01-23"
+    "date": "2026-02-14"
   },
   {
-    "id": "br_acre_1500993",
+    "id": "bund_wb_bm_140226",
     "teamA": {
-      "name": "Rio Branco",
-      "icon": "https://media.api-sports.io/football/teams/2220.png"
+      "name": "Werder Bremen",
+      "icon": "https://media.api-sports.io/football/teams/399.png"
     },
     "teamB": {
-      "name": "Galvez",
-      "icon": "https://media.api-sports.io/football/teams/1228.png"
+      "name": "Bayern Munich",
+      "icon": "https://media.api-sports.io/football/teams/157.png"
     },
-    "leagueName": "Acreano Brazil",
+    "leagueName": "Bundesliga - Germany",
     "prediction": "AWAY WIN",
-    "date": "2026-01-23"
+    "date": "2026-02-14"
   },
   {
-    "id": "jm_1501534",
+    "id": "laliga_e_v_c_140226",
     "teamA": {
-      "name": "Arnett Gardens",
-      "icon": "https://media.api-sports.io/football/teams/3436.png"
+      "name": "Espanyol",
+      "icon": "https://media.api-sports.io/football/teams/279.png"
     },
     "teamB": {
-      "name": "Mount Pleasant Academy",
-      "icon": "https://media.api-sports.io/football/teams/3442.png"
+      "name": "Celta Vigo",
+      "icon": "https://media.api-sports.io/football/teams/281.png"
     },
-    "leagueName": "Premier League Jamaica",
+    "leagueName": "La Liga - Spain",
     "prediction": "AWAY WIN",
-    "date": "2026-01-23"
+    "date": "2026-02-14"
   },
   {
-    "id": "br_cat_1500408",
+    "id": "laliga_g_v_v_140226",
     "teamA": {
-      "name": "Camboriú",
-      "icon": "https://media.api-sports.io/football/teams/18272.png"
+      "name": "Getafe",
+      "icon": "https://media.api-sports.io/football/teams/299.png"
     },
     "teamB": {
-      "name": "Criciuma",
-      "icon": "https://media.api-sports.io/football/teams/140.png"
+      "name": "Villarreal",
+      "icon": "https://media.api-sports.io/football/teams/302.png"
     },
-    "leagueName": "Catarinense - 1 Brazil",
+    "leagueName": "La Liga - Spain",
     "prediction": "AWAY WIN",
-    "date": "2026-01-23"
+    "date": "2026-02-14"
   },
   {
-    "id": "br_pa1_1500541",
+    "id": "laliga_s_v_a_140226",
     "teamA": {
-      "name": "Velo Clube",
-      "icon": "https://media.api-sports.io/football/teams/10041.png"
+      "name": "Sevilla",
+      "icon": "https://media.api-sports.io/football/teams/293.png"
     },
     "teamB": {
-      "name": "Guarani Campinas",
-      "icon": "https://media.api-sports.io/football/teams/138.png"
+      "name": "Deportivo Alavés",
+      "icon": "https://media.api-sports.io/football/teams/266.png"
     },
-    "leagueName": "Paulista - A1 Brazil",
-    "prediction": "AWAY WIN",
-    "date": "2026-01-23"
-  },
-  {
-    "id": "br_ba1_1500668",
-    "teamA": {
-      "name": "Jequié",
-      "icon": "https://media.api-sports.io/football/teams/15104.png"
-    },
-    "teamB": {
-      "name": "Atlético Alagoinhas",
-      "icon": "https://media.api-sports.io/football/teams/9997.png"
-    },
-    "leagueName": "Baiano - 1 Brazil",
+    "leagueName": "La Liga - Spain",
     "prediction": "HOME WIN",
-    "date": "2026-01-23"
+    "date": "2026-02-14"
   },
   {
-    "id": "br_gau_1500762",
+    "id": "laliga_rm_rs_140226",
     "teamA": {
-      "name": "Sao Jose",
-      "icon": "https://media.api-sports.io/football/teams/2232.png"
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/86.png"
     },
     "teamB": {
-      "name": "Monsoon",
-      "icon": "https://media.api-sports.io/football/teams/21233.png"
+      "name": "Real Sociedad",
+      "icon": "https://media.api-sports.io/football/teams/90.png"
     },
-    "leagueName": "Gaúcho - 1 Brazil",
+    "leagueName": "La Liga - Spain",
+    "prediction": "HOME WIN",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "serie_c_f_140226",
+    "teamA": {
+      "name": "Como",
+      "icon": "https://media.api-sports.io/football/teams/301.png"
+    },
+    "teamB": {
+      "name": "Fiorentina",
+      "icon": "https://media.api-sports.io/football/teams/419.png"
+    },
+    "leagueName": "Serie A - Italy",
     "prediction": "AWAY WIN",
-    "date": "2026-01-23"
+    "date": "2026-02-14"
   },
   {
-    "id": "br_car_1500869",
+    "id": "serie_l_a_a_140226",
     "teamA": {
-      "name": "Nova Iguaçu",
-      "icon": "https://media.api-sports.io/football/teams/7782.png"
+      "name": "Lazio",
+      "icon": "https://media.api-sports.io/football/teams/121.png"
     },
     "teamB": {
-      "name": "Fluminense",
-      "icon": "https://media.api-sports.io/football/teams/124.png"
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/151.png"
     },
-    "leagueName": "Carioca - 1 Brazil",
+    "leagueName": "Serie A - Italy",
     "prediction": "AWAY WIN",
-    "date": "2026-01-23"
+    "date": "2026-02-14"
   },
   {
-    "id": "br_cap_1501032",
+    "id": "serie_i_j_140226",
     "teamA": {
-      "name": "Capixaba SC",
-      "icon": "https://media.api-sports.io/football/teams/23567.png"
+      "name": "Inter Milan",
+      "icon": "https://media.api-sports.io/football/teams/112.png"
     },
     "teamB": {
-      "name": "Rio Branco-VN",
-      "icon": "https://media.api-sports.io/football/teams/12929.png"
+      "name": "Juventus",
+      "icon": "https://media.api-sports.io/football/teams/109.png"
     },
-    "leagueName": "Capixaba Brazil",
-    "prediction": "DRAW",
-    "date": "2026-01-23"
+    "leagueName": "Serie A - Italy",
+    "prediction": "HOME WIN",
+    "date": "2026-02-14"
   }
 ]
