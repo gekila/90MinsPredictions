@@ -1,5 +1,65 @@
 [
   {
+    "date": "Saturday, 14th February 2026",
+    "gamesList": [
+      {
+        "teamA": "Werder Bremen",
+        "teamB": "Bayern Munich",
+        "prediction": "AWAY",
+        "odds": "1.40",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bayer Leverkusen",
+        "teamB": "St. Pauli",
+        "prediction": "HOME",
+        "odds": "1.55",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Eintracht Frankfurt",
+        "teamB": "Borussia Mönchengladbach",
+        "prediction": "HOME",
+        "odds": "1.75",
+        "results": "WIN"
+      },
+      {
+        "teamA": "TSG Hoffenheim",
+        "teamB": "SC Freiburg",
+        "prediction": "HOME",
+        "odds": "2.00",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Espanyol",
+        "teamB": "Celta Vigo",
+        "prediction": "DRAW",
+        "odds": "3.20",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Getafe",
+        "teamB": "Villarreal",
+        "prediction": "HOME",
+        "odds": "2.60",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Juventus",
+        "prediction": "HOME",
+        "odds": "2.10",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sevilla",
+        "teamB": "Deportivo Alavés",
+        "prediction": "HOME",
+        "odds": "1.80",
+        "results": "WIN"
+      }
+    },
+  {
     "date": "Friday, 13th February 2026",
     "gamesList": [
       {
