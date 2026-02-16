@@ -1,114 +1,142 @@
 [
   {
-    "id": "bund_augs_heid_150226",
+    "id": "laliga_girona_barca_160226",
     "teamA": {
-      "name": "FC Augsburg",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "Girona",
+      "icon": "https://media.api-sports.io/football/teams/1320.png"
     },
     "teamB": {
-      "name": "1. FC Heidenheim",
-      "icon": "https://media.api-sports.io/football/teams/417.png"
-    },
-    "leagueName": "Bundesliga - Germany",
-    "prediction": "HOME WIN",
-    "date": "2026-02-15"
-  },
-  {
-    "id": "bund_leip_wolf_150226",
-    "teamA": {
-      "name": "RB Leipzig",
-      "icon": "https://media.api-sports.io/football/teams/442.png"
-    },
-    "teamB": {
-      "name": "VfL Wolfsburg",
-      "icon": "https://media.api-sports.io/football/teams/173.png"
-    },
-    "leagueName": "Bundesliga - Germany",
-    "prediction": "HOME WIN",
-    "date": "2026-02-15"
-  },
-  {
-    "id": "seriea_udin_sass_150226",
-    "teamA": {
-      "name": "Udinese",
-      "icon": "https://media.api-sports.io/football/teams/324.png"
-    },
-    "teamB": {
-      "name": "Sassuolo",
-      "icon": "https://media.api-sports.io/football/teams/336.png"
-    },
-    "leagueName": "Serie A - Italy",
-    "prediction": "HOME WIN",
-    "date": "2026-02-15"
-  },
-  {
-    "id": "seriea_crem_geno_150226",
-    "teamA": {
-      "name": "Cremonese",
-      "icon": "https://media.api-sports.io/football/teams/429.png"
-    },
-    "teamB": {
-      "name": "Genoa",
-      "icon": "https://media.api-sports.io/football/teams/308.png"
-    },
-    "leagueName": "Serie A - Italy",
-    "prediction": "AWAY WIN",
-    "date": "2026-02-15"
-  },
-  {
-    "id": "laliga_ovi_athc_150226",
-    "teamA": {
-      "name": "Real Oviedo",
-      "icon": "https://media.api-sports.io/football/teams/421.png"
-    },
-    "teamB": {
-      "name": "Athletic Club",
-      "icon": "https://media.api-sports.io/football/teams/525.png"
+      "name": "FC Barcelona",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
     },
     "leagueName": "La Liga - Spain",
     "prediction": "AWAY WIN",
-    "date": "2026-02-15"
+    "date": "2026-02-16"
   },
   {
-    "id": "laliga_ray_atm_150226",
+    "id": "seriea_cagl_lecce_160226",
     "teamA": {
-      "name": "Rayo Vallecano",
-      "icon": "https://media.api-sports.io/football/teams/352.png"
+      "name": "Cagliari",
+      "icon": "https://media.api-sports.io/football/teams/111.png"
     },
     "teamB": {
-      "name": "Atlético Madrid",
-      "icon": "https://media.api-sports.io/football/teams/530.png"
+      "name": "US Lecce",
+      "icon": "https://media.api-sports.io/football/teams/651.png"
     },
-    "leagueName": "La Liga - Spain",
+    "leagueName": "Serie A - Italy",
+    "prediction": "DRAW",
+    "date": "2026-02-16"
+  },
+  {
+    "id": "champ_covent_midd_160226",
+    "teamA": {
+      "name": "Coventry City",
+      "icon": "https://media.api-sports.io/football/teams/1076.png"
+    },
+    "teamB": {
+      "name": "Middlesbrough",
+      "icon": "https://media.api-sports.io/football/teams/373.png"
+    },
+    "leagueName": "Championship - England",
+    "prediction": "HOME WIN",
+    "date": "2026-02-16"
+  },
+  {
+    "id": "facup_maccle_brentf_160226",
+    "teamA": {
+      "name": "Macclesfield FC",
+      "icon": "https://media.api-sports.io/football/teams/9999.png"
+    },
+    "teamB": {
+      "name": "Brentford",
+      "icon": "https://media.api-sports.io/football/teams/62.png"
+    },
+    "leagueName": "FA Cup - England",
     "prediction": "AWAY WIN",
-    "date": "2026-02-15"
+    "date": "2026-02-16"
   },
   {
-    "id": "laliga_lev_val_150226",
+    "id": "superlig_kasi_fatihk_160226",
     "teamA": {
-      "name": "Levante",
-      "icon": "https://media.api-sports.io/football/teams/444.png"
+      "name": "Kasımpaşa",
+      "icon": "https://media.api-sports.io/football/teams/773.png"
     },
     "teamB": {
-      "name": "Valencia",
+      "name": "Fatih Karagümrük",
+      "icon": "https://media.api-sports.io/football/teams/2128.png"
+    },
+    "leagueName": "Süper Lig - Turkey",
+    "prediction": "UNDER 2.5 GOALS",
+    "date": "2026-02-16"
+  },
+  {
+    "id": "prima_rioav_moreir_160226",
+    "teamA": {
+      "name": "Rio Ave",
+      "icon": "https://media.api-sports.io/football/teams/388.png"
+    },
+    "teamB": {
+      "name": "Moreirense",
+      "icon": "https://media.api-sports.io/football/teams/383.png"
+    },
+    "leagueName": "Primeira Liga - Portugal",
+    "prediction": "DRAW",
+    "date": "2026-02-16"
+  },
+  {
+    "id": "ligue1_lorient_nantes_160226",
+    "teamA": {
+      "name": "Lorient",
+      "icon": "https://media.api-sports.io/football/teams/273.png"
+    },
+    "teamB": {
+      "name": "Nantes",
+      "icon": "https://media.api-sports.io/football/teams/276.png"
+    },
+    "leagueName": "Ligue 1 - France",
+    "prediction": "DRAW",
+    "date": "2026-02-16"
+  },
+  {
+    "id": "erediv_utrecht_sparta_160226",
+    "teamA": {
+      "name": "FC Utrecht",
       "icon": "https://media.api-sports.io/football/teams/194.png"
     },
-    "leagueName": "La Liga - Spain",
-    "prediction": "DRAW",
-    "date": "2026-02-15"
+    "teamB": {
+      "name": "Sparta Rotterdam",
+      "icon": "https://media.api-sports.io/football/teams/199.png"
+    },
+    "leagueName": "Eredivisie - Netherlands",
+    "prediction": "HOME WIN",
+    "date": "2026-02-16"
   },
   {
-    "id": "laliga_mal_bet_150226",
+    "id": "bund_bochum_mainz_160226",
     "teamA": {
-      "name": "Mallorca",
-      "icon": "https://media.api-sports.io/football/teams/411.png"
+      "name": "VfL Bochum",
+      "icon": "https://media.api-sports.io/football/teams/36.png"
     },
     "teamB": {
+      "name": "FSV Mainz 05",
+      "icon": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "leagueName": "Bundesliga - Germany",
+    "prediction": "DRAW",
+    "date": "2026-02-16"
+  },
+  {
+    "id": "laliga_betis_villar_160226",
+    "teamA": {
       "name": "Real Betis",
-      "icon": "https://media.api-sports.io/football/teams/319.png"
+      "icon": "https://media.api-sports.io/football/teams/543.png"
+    },
+    "teamB": {
+      "name": "Villarreal",
+      "icon": "https://media.api-sports.io/football/teams/533.png"
     },
     "leagueName": "La Liga - Spain",
-    "prediction": "AWAY WIN",
-    "date": "2026-02-15"
+    "prediction": "HOME WIN",
+    "date": "2026-02-16"
   }
 ]
