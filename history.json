@@ -1,64 +1,64 @@
 [
   {
-    "date": "Sunday, 15th February 2026",
-    "gamesList": [
-      {
-        "teamA": "Udinese",
-        "teamB": "Sassuolo",
-        "prediction": "AWAY",
-        "odds": "2.20",
-        "results": "WIN 2-1"
-      },
-      {
-        "teamA": "Celtic",
-        "teamB": "Kilmarnock",
-        "prediction": "AWAY",
-        "odds": "1.70",
-        "results": "WIN 3-2"
-      },
-      {
-        "teamA": "Motherwell",
-        "teamB": "Aberdeen",
-        "prediction": "HOME",
-        "odds": "1.95",
-        "results": "WIN 2-0"
-      },
-      {
-        "teamA": "Rangers",
-        "teamB": "Hearts",
-        "prediction": "HOME",
-        "odds": "1.60",
-        "results": "WIN 4-2"
-      },
-      {
-        "teamA": "Grimsby Town",
-        "teamB": "Wolves",
-        "prediction": "AWAY",
-        "odds": "1.65",
-        "results": "WIN 1-0"
-      },
-      {
-        "teamA": "Arsenal",
-        "teamB": "Wigan Athletic",
-        "prediction": "HOME",
-        "odds": "1.30",
-        "results": "WIN 4-0"
-      },
-      {
-        "teamA": "Birmingham City",
-        "teamB": "Leeds United",
-        "prediction": "DRAW",
-        "odds": "3.10",
-        "results": "DRAW 1-1"
-      },
-      {
-        "teamA": "Oxford United",
-        "teamB": "Sunderland",
-        "prediction": "AWAY",
-        "odds": "2.10",
-        "results": "WIN 1-0"
+  "date": "Sunday, 15th February 2026",
+  "gamesList": [
+    {
+      "teamA": "Udinese",
+      "teamB": "Sassuolo",
+      "prediction": "AWAY",
+      "odds": "2-1",
+      "results": "LOSS"
+    },
+    {
+      "teamA": "Kilmarnock",
+      "teamB": "Celtic",
+      "prediction": "AWAY",
+      "odds": "2-3",
+      "results": "WIN"
+    },
+    {
+      "teamA": "Birmingham City",
+      "teamB": "Leeds United",
+      "prediction": "DRAW",
+      "odds": "1-1",
+      "results": "DRAW"
+    },
+    {
+      "teamA": "Grimsby Town",
+      "teamB": "Wolves",
+      "prediction": "AWAY",
+      "odds": "0-1",
+      "results": "WIN"
+    },
+    {
+      "teamA": "Oxford United",
+      "teamB": "Sunderland",
+      "prediction": "AWAY",
+      "odds": "0-1",
+      "results": "WIN"
+    },
+    {
+      "teamA": "Arsenal",
+      "teamB": "Wigan Athletic",
+      "prediction": "HOME",
+      "odds": "4-0",
+      "results": "WIN"
+    },
+    {
+      "teamA": "Motherwell",
+      "teamB": "Aberdeen",
+      "prediction": "HOME",
+      "odds": "2-0",
+      "results": "WIN"
+    },
+    {
+      "teamA": "Rangers",
+      "teamB": "Hearts",
+      "prediction": "HOME",
+      "odds": "4-2",
+      "results": "WIN"
     }
-    ]
+  ]
   },
   {
     "date": "Saturday, 14th February 2026",
