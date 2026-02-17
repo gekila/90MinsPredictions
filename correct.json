@@ -1,114 +1,142 @@
 [
   {
-    "id": "epl_mci_whu_160226",
+    "id": "ucl_gal_juv_170226",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
+      "name": "Galatasaray",
+      "icon": "https://media.api-sports.io/football/teams/345.png"
     },
     "teamB": {
-      "name": "West Ham",
-      "icon": "https://media.api-sports.io/football/teams/48.png"
+      "name": "Juventus",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
     },
-    "leagueName": "Premier League - England",
-    "prediction": "3-1",
-    "date": "2026-02-16"
+    "leagueName": "UEFA Champions League",
+    "prediction": "1-1",
+    "date": "2026-02-17"
   },
   {
-    "id": "seriea_int_tor_160226",
+    "id": "ucl_ben_rma_170226",
+    "teamA": {
+      "name": "Benfica",
+      "icon": "https://media.api-sports.io/football/teams/467.png"
+    },
+    "teamB": {
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
+    },
+    "leagueName": "UEFA Champions League",
+    "prediction": "1-2",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "ucl_bvb_ata_170226",
+    "teamA": {
+      "name": "Borussia Dortmund",
+      "icon": "https://media.api-sports.io/football/teams/86.png"
+    },
+    "teamB": {
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/341.png"
+    },
+    "leagueName": "UEFA Champions League",
+    "prediction": "2-1",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "ucl_mon_psg_170226",
+    "teamA": {
+      "name": "AS Monaco",
+      "icon": "https://media.api-sports.io/football/teams/564.png"
+    },
+    "teamB": {
+      "name": "Paris Saint-Germain",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
+    },
+    "leagueName": "UEFA Champions League",
+    "prediction": "1-3",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "eng_ch_bci_wre_170226",
+    "teamA": {
+      "name": "Bristol City",
+      "icon": "https://media.api-sports.io/football/teams/109.png"
+    },
+    "teamB": {
+      "name": "Wrexham",
+      "icon": "https://media.api-sports.io/football/teams/381.png"
+    },
+    "leagueName": "Championship - England",
+    "prediction": "1-1",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "eng_ch_cha_por_170226",
+    "teamA": {
+      "name": "Charlton Athletic",
+      "icon": "https://media.api-sports.io/football/teams/149.png"
+    },
+    "teamB": {
+      "name": "Portsmouth",
+      "icon": "https://media.api-sports.io/football/teams/3836.png"
+    },
+    "leagueName": "Championship - England",
+    "prediction": "2-1",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "eng_l1_bar_pet_170226",
+    "teamA": {
+      "name": "Barnsley",
+      "icon": "https://media.api-sports.io/football/teams/910.png"
+    },
+    "teamB": {
+      "name": "Peterborough United",
+      "icon": "https://media.api-sports.io/football/teams/380.png"
+    },
+    "leagueName": "League One - England",
+    "prediction": "2-2",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "eng_l1_exc_wyc_170226",
+    "teamA": {
+      "name": "Exeter City",
+      "icon": "https://media.api-sports.io/football/teams/212.png"
+    },
+    "teamB": {
+      "name": "Wycombe Wanderers",
+      "icon": "https://media.api-sports.io/football/teams/1195.png"
+    },
+    "leagueName": "League One - England",
+    "prediction": "2-0",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "ucl_int_ars_170226",
     "teamA": {
       "name": "Inter",
       "icon": "https://media.api-sports.io/football/teams/505.png"
     },
     "teamB": {
-      "name": "Torino",
-      "icon": "https://media.api-sports.io/football/teams/503.png"
+      "name": "Arsenal",
+      "icon": "https://media.api-sports.io/football/teams/42.png"
     },
-    "leagueName": "Serie A - Italy",
-    "prediction": "2-0",
-    "date": "2026-02-16"
-  },
-  {
-    "id": "bund_lev_augs_160226",
-    "teamA": {
-      "name": "Bayer Leverkusen",
-      "icon": "https://media.api-sports.io/football/teams/168.png"
-    },
-    "teamB": {
-      "name": "FC Augsburg",
-      "icon": "https://media.api-sports.io/football/teams/170.png"
-    },
-    "leagueName": "Bundesliga - Germany",
-    "prediction": "3-1",
-    "date": "2026-02-16"
-  },
-  {
-    "id": "laliga_soc_get_160226",
-    "teamA": {
-      "name": "Real Sociedad",
-      "icon": "https://media.api-sports.io/football/teams/548.png"
-    },
-    "teamB": {
-      "name": "Getafe",
-      "icon": "https://media.api-sports.io/football/teams/546.png"
-    },
-    "leagueName": "La Liga - Spain",
-    "prediction": "1-0",
-    "date": "2026-02-16"
-  },
-  {
-    "id": "ligue1_psg_rei_160226",
-    "teamA": {
-      "name": "Paris Saint-Germain",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
-    },
-    "teamB": {
-      "name": "Reims",
-      "icon": "https://media.api-sports.io/football/teams/93.png"
-    },
-    "leagueName": "Ligue 1 - France",
-    "prediction": "3-0",
-    "date": "2026-02-16"
-  },
-  {
-    "id": "laliga_bet_vil_160226",
-    "teamA": {
-      "name": "Real Betis",
-      "icon": "https://media.api-sports.io/football/teams/543.png"
-    },
-    "teamB": {
-      "name": "Villarreal",
-      "icon": "https://media.api-sports.io/football/teams/533.png"
-    },
-    "leagueName": "La Liga - Spain",
-    "prediction": "2-2",
-    "date": "2026-02-16"
-  },
-  {
-    "id": "ligue1_mar_len_160226",
-    "teamA": {
-      "name": "Marseille",
-      "icon": "https://media.api-sports.io/football/teams/81.png"
-    },
-    "teamB": {
-      "name": "Lens",
-      "icon": "https://media.api-sports.io/football/teams/116.png"
-    },
-    "leagueName": "Ligue 1 - France",
+    "leagueName": "UEFA Champions League",
     "prediction": "1-1",
-    "date": "2026-02-16"
+    "date": "2026-02-17"
   },
   {
-    "id": "bund_rbl_stu_160226",
+    "id": "ucl_bay_psv_170226",
     "teamA": {
-      "name": "RB Leipzig",
-      "icon": "https://media.api-sports.io/football/teams/442.png"
+      "name": "Bayern Munich",
+      "icon": "https://media.api-sports.io/football/teams/157.png"
     },
     "teamB": {
-      "name": "Stuttgart",
-      "icon": "https://media.api-sports.io/football/teams/172.png"
+      "name": "PSV Eindhoven",
+      "icon": "https://media.api-sports.io/football/teams/197.png"
     },
-    "leagueName": "Bundesliga - Germany",
-    "prediction": "2-1",
-    "date": "2026-02-16"
+    "leagueName": "UEFA Champions League",
+    "prediction": "3-1",
+    "date": "2026-02-17"
   }
 ]
