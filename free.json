@@ -1,72 +1,72 @@
 [
   {
-    "id": "epl_mci_whu_160226",
+    "id": "ucl_gal_juv_170226",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
+      "name": "Galatasaray",
+      "icon": "https://media.api-sports.io/football/teams/345.png"
     },
     "teamB": {
-      "name": "West Ham",
-      "icon": "https://media.api-sports.io/football/teams/48.png"
+      "name": "Juventus",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
     },
-    "leagueName": "Premier League - England",
-    "prediction": "1X",
-    "date": "2026-02-16"
+    "leagueName": "UEFA Champions League",
+    "prediction": "Away",
+    "date": "2026-02-17"
   },
   {
-    "id": "seriea_int_tor_160226",
+    "id": "ucl_ben_rma_170226",
     "teamA": {
-      "name": "Inter",
-      "icon": "https://media.api-sports.io/football/teams/505.png"
+      "name": "Benfica",
+      "icon": "https://media.api-sports.io/football/teams/467.png"
     },
     "teamB": {
-      "name": "Torino",
-      "icon": "https://media.api-sports.io/football/teams/503.png"
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
     },
-    "leagueName": "Serie A - Italy",
-    "prediction": "1X",
-    "date": "2026-02-16"
+    "leagueName": "UEFA Champions League",
+    "prediction": "Away",
+    "date": "2026-02-17"
   },
   {
-    "id": "bund_lev_augs_160226",
+    "id": "ucl_mon_psg_170226",
     "teamA": {
-      "name": "Bayer Leverkusen",
-      "icon": "https://media.api-sports.io/football/teams/168.png"
+      "name": "AS Monaco",
+      "icon": "https://media.api-sports.io/football/teams/564.png"
     },
     "teamB": {
-      "name": "FC Augsburg",
-      "icon": "https://media.api-sports.io/football/teams/170.png"
-    },
-    "leagueName": "Bundesliga - Germany",
-    "prediction": "1X",
-    "date": "2026-02-16"
-  },
-  {
-    "id": "laliga_soc_get_160226",
-    "teamA": {
-      "name": "Real Sociedad",
-      "icon": "https://media.api-sports.io/football/teams/548.png"
-    },
-    "teamB": {
-      "name": "Getafe",
-      "icon": "https://media.api-sports.io/football/teams/546.png"
-    },
-    "leagueName": "La Liga - Spain",
-    "prediction": "1X",
-    "date": "2026-02-16"
-  },
-  {
-    "id": "ligue1_psg_rei_160226",
-    "teamA": {
       "name": "Paris Saint-Germain",
       "icon": "https://media.api-sports.io/football/teams/85.png"
     },
-    "teamB": {
-      "name": "Reims",
-      "icon": "https://media.api-sports.io/football/teams/93.png"
+    "leagueName": "UEFA Champions League",
+    "prediction": "Away",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "ucl_bvb_ata_170226",
+    "teamA": {
+      "name": "Borussia Dortmund",
+      "icon": "https://media.api-sports.io/football/teams/86.png"
     },
-    "leagueName": "Ligue 1 - France",
-    "prediction": "1X",
-    "date": "2026-02-16"
+    "teamB": {
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/341.png"
+    },
+    "leagueName": "UEFA Champions League",
+    "prediction": "Home",
+    "date": "2026-02-17"
+  },
+  {
+    "id": "eng_ch_bci_wre_170226",
+    "teamA": {
+      "name": "Bristol City",
+      "icon": "https://media.api-sports.io/football/teams/109.png"
+    },
+    "teamB": {
+      "name": "Wrexham",
+      "icon": "https://media.api-sports.io/football/teams/381.png"
+    },
+    "leagueName": "EFL Championship - England",
+    "prediction": "Home",
+    "date": "2026-02-17"
   }
 ]
