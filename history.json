@@ -1,5 +1,66 @@
 [
   {
+    "date": "Monday, 16th February 2026",
+    "gamesList": [
+      {
+        "teamA": "Girona",
+        "teamB": "Barcelona",
+        "prediction": "Home",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Cagliari",
+        "teamB": "Lecce",
+        "prediction": "Away",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Macclesfield FC",
+        "teamB": "Brentford",
+        "prediction": "Away",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Coventry City",
+        "teamB": "Middlesbrough",
+        "prediction": "Home",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Rio Ave",
+        "teamB": "Moreirense",
+        "prediction": "Away",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Hermannstadt",
+        "teamB": "CFR Cluj",
+        "prediction": "Away",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Dinamo București",
+        "teamB": "Unirea Slobozia",
+        "prediction": "Home",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Kasımpaşa",
+        "teamB": "Fatih Karagümrük",
+        "prediction": "Home",
+        "odds": "3-2",
+        "results": "WIN"
+    }
+  ]
+  },
+  {
   "date": "Monday, 16th February 2026",
   "gamesList": [
     {
