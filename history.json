@@ -1,6 +1,82 @@
 [
+  [
   {
-    "date": "Monday, 16th February 2026",
+    "date": "Wednesday, 18th February 2026",
+    "gamesList": [
+      {
+        "teamA": "Qarabag FK",
+        "teamB": "Newcastle United",
+        "prediction": "Away",
+        "odds": "1-6",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Olympiacos",
+        "teamB": "Bayer Leverkusen",
+        "prediction": "Away",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Club Brugge",
+        "teamB": "Atlético Madrid",
+        "prediction": "Draw",
+        "odds": "3-3",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Bodø/Glimt",
+        "teamB": "Inter Milan",
+        "prediction": "Home",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Wolverhampton Wanderers",
+        "teamB": "Arsenal",
+        "prediction": "Draw",
+        "odds": "2-2",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Levante",
+        "teamB": "Villarreal CF",
+        "prediction": "Away",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "AC Milan",
+        "teamB": "Como",
+        "prediction": "Draw",
+        "odds": "1-1",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "LAFC",
+        "teamB": "Real España",
+        "prediction": "Away",
+        "odds": "6-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Nashville SC",
+        "teamB": "Atlético Ottawa",
+        "prediction": "Home",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Tampines Rovers",
+        "teamB": "Hanoi Police",
+        "prediction": "Home",
+        "odds": "3-1",
+        "results": "WIN"
+   }
+  ]
+  },
+  {
+    "date": "Tuesday, 17th February 2026",
     "gamesList": [
       {
         "teamA": "Girona",
