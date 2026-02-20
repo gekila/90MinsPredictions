@@ -1,212 +1,212 @@
 [
   {
-    "id": "betjck_01_140226",
+    "id": "betjck_01_260226",
     "teamA": {
-      "name": "Norwich",
-      "icon": "https://media.api-sports.io/football/teams/174.png"
+      "name": "Clube Do Remo",
+      "icon": "https://media.api-sports.io/football/teams/2185.png"
     },
     "teamB": {
-      "name": "West Bromwich",
-      "icon": "https://media.api-sports.io/football/teams/321.png"
+      "name": "SC Internacional",
+      "icon": "https://media.api-sports.io/football/teams/119.png"
     },
-    "leagueName": "Championship - England",
-    "prediction": "HOME",
-    "date": "2026-02-14"
-  },
-  {
-    "id": "betjck_02_140226",
-    "teamA": {
-      "name": "Getafe",
-      "icon": "https://media.api-sports.io/football/teams/299.png"
-    },
-    "teamB": {
-      "name": "Villarreal",
-      "icon": "https://media.api-sports.io/football/teams/302.png"
-    },
-    "leagueName": "La Liga - Spain",
+    "leagueName": "Brasileiro Serie A - Brazil",
     "prediction": "AWAY",
-    "date": "2026-02-14"
+    "date": "2026-02-26"
   },
   {
-    "id": "betjck_03_140226",
+    "id": "betjck_02_260226",
     "teamA": {
-      "name": "Lazio",
+      "name": "Gremio",
       "icon": "https://media.api-sports.io/football/teams/121.png"
     },
     "teamB": {
-      "name": "Atalanta",
-      "icon": "https://media.api-sports.io/football/teams/151.png"
+      "name": "Atletico Mineiro",
+      "icon": "https://media.api-sports.io/football/teams/108.png"
     },
-    "leagueName": "Serie A - Italy",
+    "leagueName": "Brasileiro Serie A - Brazil",
+    "prediction": "DRAW",
+    "date": "2026-02-26"
+  },
+  {
+    "id": "betjck_03_270226",
+    "teamA": {
+      "name": "SC Telstar",
+      "icon": "https://media.api-sports.io/football/teams/197.png"
+    },
+    "teamB": {
+      "name": "NAC Breda",
+      "icon": "https://media.api-sports.io/football/teams/193.png"
+    },
+    "leagueName": "Eredivisie - Netherlands",
     "prediction": "AWAY",
-    "date": "2026-02-14"
+    "date": "2026-02-27"
   },
   {
-    "id": "betjck_04_140226",
+    "id": "betjck_04_270226",
     "teamA": {
-      "name": "Sevilla",
-      "icon": "https://media.api-sports.io/football/teams/293.png"
+      "name": "Strasbourg",
+      "icon": "https://media.api-sports.io/football/teams/576.png"
     },
     "teamB": {
-      "name": "Alavés",
-      "icon": "https://media.api-sports.io/football/teams/266.png"
+      "name": "Lens",
+      "icon": "https://media.api-sports.io/football/teams/116.png"
     },
-    "leagueName": "La Liga - Spain",
+    "leagueName": "Ligue 1 - France",
+    "prediction": "DRAW",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "betjck_05_270226",
+    "teamA": {
+      "name": "Augsburg",
+      "icon": "https://media.api-sports.io/football/teams/170.png"
+    },
+    "teamB": {
+      "name": "FC Cologne",
+      "icon": "https://media.api-sports.io/football/teams/192.png"
+    },
+    "leagueName": "Bundesliga - Germany",
     "prediction": "HOME",
-    "date": "2026-02-14"
+    "date": "2026-02-27"
   },
   {
-    "id": "betjck_05_140226",
+    "id": "betjck_06_270226",
     "teamA": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "Parma",
+      "icon": "https://media.api-sports.io/football/teams/523.png"
     },
     "teamB": {
-      "name": "Newcastle United",
-      "icon": "https://media.api-sports.io/football/teams/67.png"
-    },
-    "leagueName": "Premier League - England",
-    "prediction": "HOME",
-    "date": "2026-02-14"
-  },
-  {
-    "id": "betjck_06_140226",
-    "teamA": {
-      "name": "Inter Milan",
-      "icon": "https://media.api-sports.io/football/teams/112.png"
-    },
-    "teamB": {
-      "name": "Juventus",
-      "icon": "https://media.api-sports.io/football/teams/109.png"
+      "name": "Cagliari",
+      "icon": "https://media.api-sports.io/football/teams/490.png"
     },
     "leagueName": "Serie A - Italy",
     "prediction": "HOME",
-    "date": "2026-02-14"
+    "date": "2026-02-27"
   },
   {
-    "id": "betjck_07_150226",
+    "id": "betjck_07_250226",
     "teamA": {
-      "name": "Birmingham City",
+      "name": "Millwall",
+      "icon": "https://media.api-sports.io/football/teams/384.png"
+    },
+    "teamB": {
+      "name": "Birmingham",
       "icon": "https://media.api-sports.io/football/teams/373.png"
     },
+    "leagueName": "Championship - England",
+    "prediction": "HOME",
+    "date": "2026-02-25"
+  },
+  {
+    "id": "betjck_08_250226",
+    "teamA": {
+      "name": "Sheffield United",
+      "icon": "https://media.api-sports.io/football/teams/62.png"
+    },
     "teamB": {
-      "name": "Leeds United",
-      "icon": "https://media.api-sports.io/football/teams/341.png"
+      "name": "Coventry",
+      "icon": "https://media.api-sports.io/football/teams/107.png"
     },
     "leagueName": "Championship - England",
-    "prediction": "AWAY",
-    "date": "2026-02-15"
-  },
-  {
-    "id": "betjck_08_150226",
-    "teamA": {
-      "name": "Oviedo",
-      "icon": "https://media.api-sports.io/football/teams/4720.png"
-    },
-    "teamB": {
-      "name": "Athletic Bilbao",
-      "icon": "https://media.api-sports.io/football/teams/113.png"
-    },
-    "leagueName": "La Liga 2 - Spain",
-    "prediction": "AWAY",
-    "date": "2026-02-15"
-  },
-  {
-    "id": "betjck_09_150226",
-    "teamA": {
-      "name": "Cremonese",
-      "icon": "https://media.api-sports.io/football/teams/3037.png"
-    },
-    "teamB": {
-      "name": "Genoa",
-      "icon": "https://media.api-sports.io/football/teams/395.png"
-    },
-    "leagueName": "Serie A - Italy",
     "prediction": "HOME",
-    "date": "2026-02-15"
+    "date": "2026-02-25"
   },
   {
-    "id": "betjck_10_150226",
-    "teamA": {
-      "name": "Le Havre",
-      "icon": "https://media.api-sports.io/football/teams/475.png"
-    },
-    "teamB": {
-      "name": "Toulouse",
-      "icon": "https://media.api-sports.io/football/teams/476.png"
-    },
-    "leagueName": "Ligue 1 - France",
-    "prediction": "AWAY",
-    "date": "2026-02-15"
-  },
-  {
-    "id": "betjck_11_150226",
-    "teamA": {
-      "name": "Metz",
-      "icon": "https://media.api-sports.io/football/teams/478.png"
-    },
-    "teamB": {
-      "name": "Auxerre",
-      "icon": "https://media.api-sports.io/football/teams/479.png"
-    },
-    "leagueName": "Ligue 1 - France",
-    "prediction": "AWAY",
-    "date": "2026-02-15"
-  },
-  {
-    "id": "betjck_12_150226",
+    "id": "betjck_09_270226",
     "teamA": {
       "name": "Levante",
       "icon": "https://media.api-sports.io/football/teams/4914.png"
     },
     "teamB": {
-      "name": "Valencia",
-      "icon": "https://media.api-sports.io/football/teams/4923.png"
+      "name": "Alaves",
+      "icon": "https://media.api-sports.io/football/teams/263.png"
     },
     "leagueName": "La Liga - Spain",
+    "prediction": "DRAW",
+    "date": "2026-02-27"
+  },
+  {
+    "id": "betjck_10_270226",
+    "teamA": {
+      "name": "Hermannstadt",
+      "icon": "https://media.api-sports.io/football/teams/632.png"
+    },
+    "teamB": {
+      "name": "Botosani",
+      "icon": "https://media.api-sports.io/football/teams/635.png"
+    },
+    "leagueName": "Superliga - Romania",
     "prediction": "AWAY",
-    "date": "2026-02-15"
+    "date": "2026-02-27"
   },
   {
-    "id": "betjck_13_150226",
+    "id": "betjck_11_270226",
     "teamA": {
-      "name": "Napoli",
-      "icon": "https://media.api-sports.io/football/teams/416.png"
+      "name": "Universitatea Cluj",
+      "icon": "https://media.api-sports.io/football/teams/623.png"
     },
     "teamB": {
-      "name": "Roma",
-      "icon": "https://media.api-sports.io/football/teams/418.png"
+      "name": "Otelul Galati",
+      "icon": "https://media.api-sports.io/football/teams/635.png"
     },
-    "leagueName": "Serie A - Italy",
+    "leagueName": "Superliga - Romania",
     "prediction": "HOME",
-    "date": "2026-02-15"
+    "date": "2026-02-27"
   },
   {
-    "id": "betjck_14_150226",
+    "id": "betjck_12_260226",
     "teamA": {
-      "name": "Mallorca",
-      "icon": "https://media.api-sports.io/football/teams/282.png"
+      "name": "Sarmiento Junin",
+      "icon": "https://media.api-sports.io/football/teams/4427.png"
     },
     "teamB": {
-      "name": "Real Betis",
-      "icon": "https://media.api-sports.io/football/teams/291.png"
+      "name": "Union Santa Fe",
+      "icon": "https://media.api-sports.io/football/teams/439.png"
     },
-    "leagueName": "La Liga - Spain",
+    "leagueName": "Primera LPF - Argentina",
     "prediction": "AWAY",
-    "date": "2026-02-15"
+    "date": "2026-02-26"
   },
   {
-    "id": "betjck_15_160226",
+    "id": "betjck_13_250226",
     "teamA": {
-      "name": "Cagliari",
-      "icon": "https://media.api-sports.io/football/teams/284.png"
+      "name": "Gimnasia La Plata",
+      "icon": "https://media.api-sports.io/football/teams/438.png"
     },
     "teamB": {
-      "name": "Lecce",
-      "icon": "https://media.api-sports.io/football/teams/285.png"
+      "name": "Rosario Central",
+      "icon": "https://media.api-sports.io/football/teams/437.png"
     },
-    "leagueName": "Serie A - Italy",
-    "prediction": "HOME",
-    "date": "2026-02-16"
+    "leagueName": "Primera LPF - Argentina",
+    "prediction": "DRAW",
+    "date": "2026-02-25"
+  },
+  {
+    "id": "betjck_14_260226",
+    "teamA": {
+      "name": "Newells Old Boys",
+      "icon": "https://media.api-sports.io/football/teams/434.png"
+    },
+    "teamB": {
+      "name": "Estudiantes",
+      "icon": "https://media.api-sports.io/football/teams/435.png"
+    },
+    "leagueName": "Primera LPF - Argentina",
+    "prediction": "AWAY",
+    "date": "2026-02-26"
+  },
+  {
+    "id": "betjck_15_250226",
+    "teamA": {
+      "name": "Barracas Central",
+      "icon": "https://media.api-sports.io/football/teams/4398.png"
+    },
+    "teamB": {
+      "name": "Tigre",
+      "icon": "https://media.api-sports.io/football/teams/440.png"
+    },
+    "leagueName": "Primera LPF - Argentina",
+    "prediction": "DRAW",
+    "date": "2026-02-25"
   }
 ]
