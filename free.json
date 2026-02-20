@@ -1,86 +1,72 @@
 [
   {
-    "id": "uel_dzg_gen_190226",
+    "id": "aleague_adl_perth_200226",
     "teamA": {
-      "name": "Dinamo Zagreb",
-      "icon": "https://media.api-sports.io/football/teams/620.png"
+      "name": "Adelaide United",
+      "icon": "https://media.api-sports.io/football/teams/ADL.png"
     },
     "teamB": {
-      "name": "Genk",
-      "icon": "https://media.api-sports.io/football/teams/673.png"
+      "name": "Perth Glory",
+      "icon": "https://media.api-sports.io/football/teams/PG.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "Home",
-    "date": "2026-02-19"
+    "leagueName": "A-League Men",
+    "prediction": "Under 4.5",
+    "date": "2026-02-20"
   },
   {
-    "id": "uel_fen_not_190226",
+    "id": "ksa_damac_alshabab_200226",
     "teamA": {
-      "name": "Fenerbahce",
-      "icon": "https://media.api-sports.io/football/teams/611.png"
+      "name": "Damac FC",
+      "icon": "https://media.api-sports.io/football/teams/DAM.png"
     },
     "teamB": {
-      "name": "Nottingham Forest",
-      "icon": "https://media.api-sports.io/football/teams/65.png"
+      "name": "Al Shabab FC",
+      "icon": "https://media.api-sports.io/football/teams/ALSH.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "Draw",
-    "date": "2026-02-19"
+    "leagueName": "Saudi Pro League",
+    "prediction": "Under 3.5",
+    "date": "2026-02-20"
   },
   {
-    "id": "uel_pao_cel_190226",
+    "id": "ned_cambuur_rkc_200226",
     "teamA": {
-      "name": "PAOK",
-      "icon": "https://media.api-sports.io/football/teams/628.png"
+      "name": "SC Cambuur",
+      "icon": "https://media.api-sports.io/football/teams/CAM.png"
     },
     "teamB": {
-      "name": "Celta Vigo",
-      "icon": "https://media.api-sports.io/football/teams/538.png"
+      "name": "RKC Waalwijk",
+      "icon": "https://media.api-sports.io/football/teams/RKC.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "Away",
-    "date": "2026-02-19"
+    "leagueName": "Eredivisie",
+    "prediction": "HT Over 0.5",
+    "date": "2026-02-20"
   },
   {
-    "id": "uel_brn_bol_190226",
+    "id": "isl_mohammedan_goa_200226",
     "teamA": {
-      "name": "Brann",
-      "icon": "https://media.api-sports.io/football/teams/327.png"
+      "name": "Mohammedan SC",
+      "icon": "https://media.api-sports.io/football/teams/MOH.png"
     },
     "teamB": {
-      "name": "Bologna",
-      "icon": "https://media.api-sports.io/football/teams/500.png"
+      "name": "FC Goa",
+      "icon": "https://media.api-sports.io/football/teams/GOA.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "Away",
-    "date": "2026-02-19"
+    "leagueName": "Indian Super League",
+    "prediction": "Under 3.5",
+    "date": "2026-02-20"
   },
   {
-    "id": "uecl_noa_az_190226",
+    "id": "rou_otelul_uta_200226",
     "teamA": {
-      "name": "FC Noah",
-      "icon": "https://media.api-sports.io/football/teams/7284.png"
+      "name": "Oţelul Galaţi",
+      "icon": "https://media.api-sports.io/football/teams/OTL.png"
     },
     "teamB": {
-      "name": "AZ Alkmaar",
-      "icon": "https://media.api-sports.io/football/teams/617.png"
+      "name": "FC UTA Arad",
+      "icon": "https://media.api-sports.io/football/teams/UTA.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "Away",
-    "date": "2026-02-19"
-  },
-  {
-    "id": "uecl_zri_crp_190226",
-    "teamA": {
-      "name": "Zrinjski Mostar",
-      "icon": "https://media.api-sports.io/football/teams/1003.png"
-    },
-    "teamB": {
-      "name": "Crystal Palace",
-      "icon": "https://media.api-sports.io/football/teams/52.png"
-    },
-    "leagueName": "UEFA Conference League",
-    "prediction": "Away",
-    "date": "2026-02-19"
+    "leagueName": "Liga I",
+    "prediction": "Double Chance 1X",
+    "date": "2026-02-20"
   }
 ]
