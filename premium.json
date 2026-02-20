@@ -1,47 +1,184 @@
 [
   {
-    "id": "esp_la_pal_wol_220226",
+    "id": "eng_pl_ars_che_200226",
     "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://media.api-sports.io/football/teams/184.png"
+      "name": "Arsenal",
+      "icon": "https://media.api-sports.io/football/teams/42.png"
     },
     "teamB": {
-      "name": "Wolverhampton Wanderers",
-      "icon": "https://media.api-sports.io/football/teams/39.png"
+      "name": "Chelsea",
+      "icon": "https://media.api-sports.io/football/teams/49.png"
     },
     "leagueName": "Premier League - England",
-    "prediction": "DRAW",
-    "expectedScore": "1-1",
-    "date": "2026-02-22"
+    "prediction": "HOME WIN",
+    "expectedScore": "2-1",
+    "date": "2026-02-20"
   },
   {
-    "id": "eng_pl_nfo_liv_220226",
+    "id": "esp_la_rma_sev_200226",
     "teamA": {
-      "name": "Nottingham Forest",
-      "icon": "https://media.api-sports.io/football/teams/3196.png"
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
     },
     "teamB": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
+      "name": "Sevilla",
+      "icon": "https://media.api-sports.io/football/teams/536.png"
     },
-    "leagueName": "Premier League - England",
-    "prediction": "AWAY WIN",
-    "expectedScore": "1-3",
-    "date": "2026-02-22"
+    "leagueName": "La Liga - Spain",
+    "prediction": "HOME WIN",
+    "expectedScore": "3-1",
+    "date": "2026-02-20"
   },
   {
-    "id": "esp_la_bar_lev_220226",
+    "id": "ita_sa_juv_laz_200226",
+    "teamA": {
+      "name": "Juventus",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
+    },
+    "teamB": {
+      "name": "Lazio",
+      "icon": "https://media.api-sports.io/football/teams/487.png"
+    },
+    "leagueName": "Serie A - Italy",
+    "prediction": "HOME WIN",
+    "expectedScore": "2-0",
+    "date": "2026-02-20"
+  },
+  {
+    "id": "ger_bl_bay_fra_200226",
+    "teamA": {
+      "name": "Bayern Munich",
+      "icon": "https://media.api-sports.io/football/teams/157.png"
+    },
+    "teamB": {
+      "name": "Eintracht Frankfurt",
+      "icon": "https://media.api-sports.io/football/teams/169.png"
+    },
+    "leagueName": "Bundesliga - Germany",
+    "prediction": "HOME WIN",
+    "expectedScore": "3-1",
+    "date": "2026-02-20"
+  },
+  {
+    "id": "fra_l1_psg_lil_200226",
+    "teamA": {
+      "name": "Paris Saint Germain",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
+    },
+    "teamB": {
+      "name": "Lille",
+      "icon": "https://media.api-sports.io/football/teams/79.png"
+    },
+    "leagueName": "Ligue 1 - France",
+    "prediction": "HOME WIN",
+    "expectedScore": "2-0",
+    "date": "2026-02-20"
+  },
+
+  {
+    "id": "eng_pl_mci_tot_210226",
+    "teamA": {
+      "name": "Manchester City",
+      "icon": "https://media.api-sports.io/football/teams/50.png"
+    },
+    "teamB": {
+      "name": "Tottenham",
+      "icon": "https://media.api-sports.io/football/teams/47.png"
+    },
+    "leagueName": "Premier League - England",
+    "prediction": "HOME WIN",
+    "expectedScore": "3-1",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "esp_la_bar_val_210226",
     "teamA": {
       "name": "Barcelona",
       "icon": "https://media.api-sports.io/football/teams/529.png"
     },
     "teamB": {
-      "name": "Levante",
-      "icon": "https://media.api-sports.io/football/teams/4914.png"
+      "name": "Valencia",
+      "icon": "https://media.api-sports.io/football/teams/532.png"
     },
     "leagueName": "La Liga - Spain",
     "prediction": "HOME WIN",
     "expectedScore": "3-0",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "ita_sa_int_rom_210226",
+    "teamA": {
+      "name": "Inter Milan",
+      "icon": "https://media.api-sports.io/football/teams/505.png"
+    },
+    "teamB": {
+      "name": "AS Roma",
+      "icon": "https://media.api-sports.io/football/teams/497.png"
+    },
+    "leagueName": "Serie A - Italy",
+    "prediction": "HOME WIN",
+    "expectedScore": "2-1",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "ger_bl_dor_rbl_210226",
+    "teamA": {
+      "name": "Borussia Dortmund",
+      "icon": "https://media.api-sports.io/football/teams/165.png"
+    },
+    "teamB": {
+      "name": "RB Leipzig",
+      "icon": "https://media.api-sports.io/football/teams/173.png"
+    },
+    "leagueName": "Bundesliga - Germany",
+    "prediction": "DRAW",
+    "expectedScore": "2-2",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "fra_l1_mon_mar_210226",
+    "teamA": {
+      "name": "Monaco",
+      "icon": "https://media.api-sports.io/football/teams/91.png"
+    },
+    "teamB": {
+      "name": "Marseille",
+      "icon": "https://media.api-sports.io/football/teams/81.png"
+    },
+    "leagueName": "Ligue 1 - France",
+    "prediction": "DRAW",
+    "expectedScore": "1-1",
+    "date": "2026-02-21"
+  },
+
+  {
+    "id": "eng_pl_liv_new_220226",
+    "teamA": {
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
+    },
+    "teamB": {
+      "name": "Newcastle United",
+      "icon": "https://media.api-sports.io/football/teams/34.png"
+    },
+    "leagueName": "Premier League - England",
+    "prediction": "HOME WIN",
+    "expectedScore": "2-1",
+    "date": "2026-02-22"
+  },
+  {
+    "id": "esp_la_atm_vil_220226",
+    "teamA": {
+      "name": "Atletico Madrid",
+      "icon": "https://media.api-sports.io/football/teams/530.png"
+    },
+    "teamB": {
+      "name": "Villarreal",
+      "icon": "https://media.api-sports.io/football/teams/533.png"
+    },
+    "leagueName": "La Liga - Spain",
+    "prediction": "HOME WIN",
+    "expectedScore": "2-0",
     "date": "2026-02-22"
   },
   {
@@ -55,15 +192,15 @@
       "icon": "https://media.api-sports.io/football/teams/114.png"
     },
     "leagueName": "Serie A - Italy",
-    "prediction": "AWAY WIN",
-    "expectedScore": "1-2",
+    "prediction": "DRAW",
+    "expectedScore": "1-1",
     "date": "2026-02-22"
   },
   {
-    "id": "ger_bl_frei_mgl_220226",
+    "id": "ger_bl_lev_mgl_220226",
     "teamA": {
-      "name": "SC Freiburg",
-      "icon": "https://media.api-sports.io/football/teams/160.png"
+      "name": "Bayer Leverkusen",
+      "icon": "https://media.api-sports.io/football/teams/168.png"
     },
     "teamB": {
       "name": "Borussia Mönchengladbach",
@@ -71,67 +208,22 @@
     },
     "leagueName": "Bundesliga - Germany",
     "prediction": "HOME WIN",
-    "expectedScore": "2-1",
+    "expectedScore": "3-1",
     "date": "2026-02-22"
   },
   {
-    "id": "fra_l1_str_lyo_220226",
+    "id": "fra_l1_lyo_nic_220226",
     "teamA": {
-      "name": "Strasbourg",
-      "icon": "https://media.api-sports.io/football/teams/96.png"
+      "name": "Lyon",
+      "icon": "https://media.api-sports.io/football/teams/80.png"
     },
     "teamB": {
-      "name": "Lyon",
-      "icon": "https://media.api-sports.io/football/teams/95.png"
+      "name": "Nice",
+      "icon": "https://media.api-sports.io/football/teams/84.png"
     },
     "leagueName": "Ligue 1 - France",
-    "prediction": "DRAW",
-    "expectedScore": "1-1",
-    "date": "2026-02-22"
-  },
-  {
-    "id": "eng_pl_eve_mun_230226",
-    "teamA": {
-      "name": "Everton",
-      "icon": "https://media.api-sports.io/football/teams/45.png"
-    },
-    "teamB": {
-      "name": "Manchester United",
-      "icon": "https://media.api-sports.io/football/teams/33.png"
-    },
-    "leagueName": "Premier League - England",
-    "prediction": "AWAY WIN",
-    "expectedScore": "0-2",
-    "date": "2026-02-23"
-  },
-  {
-    "id": "ita_sa_fio_pis_230226",
-    "teamA": {
-      "name": "Fiorentina",
-      "icon": "https://media.api-sports.io/football/teams/88.png"
-    },
-    "teamB": {
-      "name": "Pisa",
-      "icon": "https://media.api-sports.io/football/teams/92.png"
-    },
-    "leagueName": "Serie A - Italy",
     "prediction": "HOME WIN",
     "expectedScore": "2-1",
-    "date": "2026-02-23"
-  },
-  {
-    "id": "esp_la_ala_gir_230226",
-    "teamA": {
-      "name": "Alavés",
-      "icon": "https://media.api-sports.io/football/teams/269.png"
-    },
-    "teamB": {
-      "name": "Girona",
-      "icon": "https://media.api-sports.io/football/teams/1320.png"
-    },
-    "leagueName": "La Liga - Spain",
-    "prediction": "AWAY WIN",
-    "expectedScore": "1-2",
-    "date": "2026-02-23"
+    "date": "2026-02-22"
   }
 ]
