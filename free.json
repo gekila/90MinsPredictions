@@ -1,72 +1,44 @@
 [
   {
-    "id": "aleague_adl_perth_200226",
+    "id": "bund_bay_fra_210226",
     "teamA": {
-      "name": "Adelaide United",
-      "icon": "https://media.api-sports.io/football/teams/ADL.png"
+      "name": "Bayern Munich",
+      "icon": "https://media.api-sports.io/football/teams/157.png"
     },
     "teamB": {
-      "name": "Perth Glory",
-      "icon": "https://media.api-sports.io/football/teams/PG.png"
+      "name": "Eintracht Frankfurt",
+      "icon": "https://media.api-sports.io/football/teams/91.png"
     },
-    "leagueName": "A-League Men",
-    "prediction": "Under 4.5",
-    "date": "2026-02-20"
+    "leagueName": "Bundesliga",
+    "prediction": "HOME WIN & OVER 2.5",
+    "date": "2026-02-21"
   },
   {
-    "id": "ksa_damac_alshabab_200226",
+    "id": "ered_psv_hee_210226",
     "teamA": {
-      "name": "Damac FC",
-      "icon": "https://media.api-sports.io/football/teams/DAM.png"
+      "name": "PSV Eindhoven",
+      "icon": "https://media.api-sports.io/football/teams/226.png"
     },
     "teamB": {
-      "name": "Al Shabab FC",
-      "icon": "https://media.api-sports.io/football/teams/ALSH.png"
-    },
-    "leagueName": "Saudi Pro League",
-    "prediction": "Under 3.5",
-    "date": "2026-02-20"
-  },
-  {
-    "id": "ned_cambuur_rkc_200226",
-    "teamA": {
-      "name": "SC Cambuur",
-      "icon": "https://media.api-sports.io/football/teams/CAM.png"
-    },
-    "teamB": {
-      "name": "RKC Waalwijk",
-      "icon": "https://media.api-sports.io/football/teams/RKC.png"
+      "name": "SC Heerenveen",
+      "icon": "https://media.api-sports.io/football/teams/231.png"
     },
     "leagueName": "Eredivisie",
-    "prediction": "HT Over 0.5",
-    "date": "2026-02-20"
+    "prediction": "HOME WIN & OVER 2.5",
+    "date": "2026-02-21"
   },
   {
-    "id": "isl_mohammedan_goa_200226",
+    "id": "ligue1_psg_met_210226",
     "teamA": {
-      "name": "Mohammedan SC",
-      "icon": "https://media.api-sports.io/football/teams/MOH.png"
+      "name": "Paris Saint Germain",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
     "teamB": {
-      "name": "FC Goa",
-      "icon": "https://media.api-sports.io/football/teams/GOA.png"
+      "name": "Metz",
+      "icon": "https://media.api-sports.io/football/teams/535.png"
     },
-    "leagueName": "Indian Super League",
-    "prediction": "Under 3.5",
-    "date": "2026-02-20"
-  },
-  {
-    "id": "rou_otelul_uta_200226",
-    "teamA": {
-      "name": "Oţelul Galaţi",
-      "icon": "https://media.api-sports.io/football/teams/OTL.png"
-    },
-    "teamB": {
-      "name": "FC UTA Arad",
-      "icon": "https://media.api-sports.io/football/teams/UTA.png"
-    },
-    "leagueName": "Liga I",
-    "prediction": "Double Chance 1X",
-    "date": "2026-02-20"
+    "leagueName": "Ligue 1",
+    "prediction": "HOME WIN & OVER 2.5",
+    "date": "2026-02-21"
   }
 ]
