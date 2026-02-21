@@ -21,7 +21,7 @@
         "teamB": "Universitatea Cluj",
         "prediction": "Home Win",
         "odds": "0-2",
-        "results": "LOST"
+        "results": "LOSE"
       },
       {
         "teamA": "El Zamalek",
@@ -709,7 +709,7 @@
         "teamB": "Al Shorta",
         "prediction": "AWAY",
         "odds": "1.85",
-        "results": "LOSS"
+        "results": "LOSE"
       },
       {
         "teamA": "Al Shahaniya",
@@ -793,7 +793,7 @@
         "teamB": "Defensa Y Justicia",
         "prediction": "HOME",
         "odds": "3.40",
-        "results": "LOSS"
+        "results": "LOSE"
       },
       {
         "teamA": "Club Brugge KV",
@@ -819,7 +819,7 @@
         "teamB": "Chelsea",
         "prediction": "AWAY WIN",
         "odds": "4.20",
-        "results": "Loss"
+        "results": "Lose"
       },
       {
         "teamA": "Crystal Palace",
@@ -950,7 +950,7 @@
         "teamB": "Al Ettifaq",
         "prediction": "DRAW",
         "odds": "2.20",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "Neom SC",
@@ -1067,7 +1067,7 @@
         "teamB": "Chelsea",
         "prediction": "2-1",
         "odds": "9.50",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "Morocco",
@@ -1158,7 +1158,7 @@
         "teamB": "Luton Town",
         "prediction": "DRAW",
         "odds": "2.10",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "Leyton Orient",
@@ -1247,7 +1247,7 @@
         "teamB": "Arsenal",
         "prediction": "1-3",
         "odds": "10.50",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "Celtic",
@@ -1408,7 +1408,7 @@
         "teamB": "Newry City",
         "prediction": "DRAW",
         "odds": "1.85",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "Dergview",
@@ -1434,7 +1434,7 @@
         "teamB": "Al Hilal",
         "prediction": "0-3",
         "odds": "11.00",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "Al-Shabab",
@@ -1497,7 +1497,7 @@
         "teamB": "Al Hazem",
         "prediction": "DRAW",
         "odds": "3.20",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "Neom SC",
@@ -1581,7 +1581,7 @@
         "teamB": "Wellington Phoenix",
         "prediction": "HOME WIN",
         "odds": "2.30",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "Connah's Quay Nomads",
@@ -1642,7 +1642,7 @@
         "teamB": "Al Kholood",
         "prediction": "4-2",
         "odds": "9.50",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "Al Nassr",
@@ -1712,7 +1712,7 @@
         "teamB": "Al Raed",
         "prediction": "HOME WIN",
         "odds": "3.20",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "Al Wasl",
@@ -4090,7 +4090,7 @@
         "teamB": "Qarabag",
         "prediction": "AWAY WIN",
         "odds": "1.80",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "Dynamo Kyiv",
@@ -4483,7 +4483,7 @@
         "teamB": "Bournemouth",
         "prediction": "HOME WIN",
         "odds": "1.80",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "Rangers",
@@ -4546,7 +4546,7 @@
         "teamB": "Eintracht Frankfurt Women",
         "prediction": "AWAY WIN",
         "odds": "2.50",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "Valencia",
@@ -4951,7 +4951,7 @@
         "teamB": "Paide Linnameeskond",
         "prediction": "Away Win",
         "odds": "2.10",
-        "results": "Lost"
+        "results": "Lose"
       },
       {
         "teamA": "SC Freital",
@@ -5476,7 +5476,7 @@
         "teamB": "Club Deportes Limache",
         "prediction": "Home Win",
         "odds": "3.00",
-        "results": "Loss"
+        "results": "Lose"
       },
       {
         "teamA": "Paysandu",
@@ -5600,7 +5600,7 @@
         "teamB": "Aucas",
         "prediction": "Away Win",
         "odds": "2.30",
-        "results": "Loss"
+        "results": "Lose"
       },
       {
         "teamA": "Colon Santa Fe",
