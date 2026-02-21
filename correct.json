@@ -1,90 +1,104 @@
 [
   {
-    "id": "laliga_bar_get_200226",
-    "teamA": {
-      "name": "Barcelona",
-      "icon": "https://media.api-sports.io/football/teams/529.png"
-    },
-    "teamB": {
-      "name": "Getafe",
-      "icon": "https://media.api-sports.io/football/teams/546.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "3-0",
-    "date": "2026-02-20"
-  },
-  {
-    "id": "seriea_int_lec_200226",
-    "teamA": {
-      "name": "Inter",
-      "icon": "https://media.api-sports.io/football/teams/505.png"
-    },
-    "teamB": {
-      "name": "Lecce",
-      "icon": "https://media.api-sports.io/football/teams/867.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "2-0",
-    "date": "2026-02-20"
-  },
-  {
-    "id": "bund_bay_aug_200226",
+    "id": "bund_bay_fra_210226",
     "teamA": {
       "name": "Bayern Munich",
       "icon": "https://media.api-sports.io/football/teams/157.png"
     },
     "teamB": {
-      "name": "Augsburg",
-      "icon": "https://media.api-sports.io/football/teams/170.png"
+      "name": "Eintracht Frankfurt",
+      "icon": "https://media.api-sports.io/football/teams/91.png"
     },
     "leagueName": "Bundesliga",
     "prediction": "3-1",
-    "date": "2026-02-20"
+    "date": "2026-02-21"
   },
   {
-    "id": "ligue1_psg_lor_200226",
+    "id": "ligue1_psg_met_210226",
     "teamA": {
       "name": "Paris Saint Germain",
       "icon": "https://media.api-sports.io/football/teams/85.png"
     },
     "teamB": {
-      "name": "Lorient",
-      "icon": "https://media.api-sports.io/football/teams/511.png"
+      "name": "Metz",
+      "icon": "https://media.api-sports.io/football/teams/535.png"
     },
     "leagueName": "Ligue 1",
     "prediction": "3-0",
-    "date": "2026-02-20"
+    "date": "2026-02-21"
   },
   {
-    "id": "ered_aja_her_200226",
+    "id": "ered_psv_hee_210226",
     "teamA": {
-      "name": "Ajax",
-      "icon": "https://media.api-sports.io/football/teams/194.png"
+      "name": "PSV Eindhoven",
+      "icon": "https://media.api-sports.io/football/teams/226.png"
     },
     "teamB": {
-      "name": "Heracles",
-      "icon": "https://media.api-sports.io/football/teams/201.png"
+      "name": "SC Heerenveen",
+      "icon": "https://media.api-sports.io/football/teams/231.png"
     },
     "leagueName": "Eredivisie",
-    "prediction": "2-1",
-    "date": "2026-02-20"
+    "prediction": "3-1",
+    "date": "2026-02-21"
   },
   {
-    "id": "por_ben_est_200226",
+    "id": "epl_che_bur_210226",
+    "teamA": {
+      "name": "Chelsea",
+      "icon": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "teamB": {
+      "name": "Burnley",
+      "icon": "https://media.api-sports.io/football/teams/44.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "2-1",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "laliga_rma_cad_210226",
+    "teamA": {
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
+    },
+    "teamB": {
+      "name": "Cadiz",
+      "icon": "https://media.api-sports.io/football/teams/724.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "2-0",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "seriea_int_emp_210226",
+    "teamA": {
+      "name": "Inter",
+      "icon": "https://media.api-sports.io/football/teams/505.png"
+    },
+    "teamB": {
+      "name": "Empoli",
+      "icon": "https://media.api-sports.io/football/teams/511.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "2-0",
+    "date": "2026-02-21"
+  },
+  {
+    "id": "por_ben_avs_210226",
     "teamA": {
       "name": "Benfica",
       "icon": "https://media.api-sports.io/football/teams/211.png"
     },
     "teamB": {
-      "name": "Estoril",
-      "icon": "https://media.api-sports.io/football/teams/224.png"
+      "name": "AVS Futebol SAD",
+      "icon": "https://media.api-sports.io/football/teams/11041.png"
     },
     "leagueName": "Primeira Liga",
     "prediction": "2-0",
-    "date": "2026-02-20"
+    "date": "2026-02-21"
   },
   {
-    "id": "spl_ran_mot_200226",
+    "id": "spl_ran_mot_210226",
     "teamA": {
       "name": "Rangers",
       "icon": "https://media.api-sports.io/football/teams/257.png"
@@ -95,20 +109,6 @@
     },
     "leagueName": "Scottish Premiership",
     "prediction": "2-0",
-    "date": "2026-02-20"
-  },
-  {
-    "id": "bel_and_eup_200226",
-    "teamA": {
-      "name": "Anderlecht",
-      "icon": "https://media.api-sports.io/football/teams/554.png"
-    },
-    "teamB": {
-      "name": "AS Eupen",
-      "icon": "https://media.api-sports.io/football/teams/635.png"
-    },
-    "leagueName": "Belgian Pro League",
-    "prediction": "2-1",
-    "date": "2026-02-20"
+    "date": "2026-02-21"
   }
 ]
