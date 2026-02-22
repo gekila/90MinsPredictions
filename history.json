@@ -1,5 +1,66 @@
 [
   {
+    "date": "Saturday, 21st February 2026",
+    "gamesList": [
+      {
+        "teamA": "Aston Villa",
+        "teamB": "Leeds United",
+        "prediction": "Draw",
+        "odds": "1-1",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Brentford",
+        "teamB": "Brighton & Hove Albion",
+        "prediction": "Away Win",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Chelsea",
+        "teamB": "Burnley",
+        "prediction": "Home",
+        "odds": "1-1",
+        "results": "LOSE"
+      },
+      {
+        "teamA": "West Ham United",
+        "teamB": "Bournemouth",
+        "prediction": "Draw",
+        "odds": "0-0",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Manchester City",
+        "teamB": "Newcastle United",
+        "prediction": "Home Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bayern Munich",
+        "teamB": "Eintracht Frankfurt",
+        "prediction": "Home Win",
+        "odds": "3-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Osasuna",
+        "teamB": "Real Madrid",
+        "prediction": "Home Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Paris Saint-Germain",
+        "teamB": "Metz",
+        "prediction": "Home Win",
+        "odds": "3-0",
+        "results": "WIN"
+    }
+  ]
+  },
+  {
     "date": "Friday, 20th February 2026",
     "gamesList": [
       {
