@@ -1,44 +1,44 @@
 [
   {
-    "id": "bund_bay_fra_210226",
+    "id": "seriea_ata_nap_220226",
     "teamA": {
-      "name": "Bayern Munich",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/499.png"
     },
     "teamB": {
-      "name": "Eintracht Frankfurt",
-      "icon": "https://media.api-sports.io/football/teams/91.png"
+      "name": "Napoli",
+      "icon": "https://media.api-sports.io/football/teams/492.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "BTTS & OVER 2.5",
+    "date": "2026-02-22"
+  },
+  {
+    "id": "bund_fre_mgl_220226",
+    "teamA": {
+      "name": "SC Freiburg",
+      "icon": "https://media.api-sports.io/football/teams/160.png"
+    },
+    "teamB": {
+      "name": "Borussia Monchengladbach",
+      "icon": "https://media.api-sports.io/football/teams/163.png"
     },
     "leagueName": "Bundesliga",
-    "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-02-21"
+    "prediction": "OVER 2.5 GOALS",
+    "date": "2026-02-22"
   },
   {
-    "id": "ered_psv_hee_210226",
+    "id": "epl_tot_ars_220226",
     "teamA": {
-      "name": "PSV Eindhoven",
-      "icon": "https://media.api-sports.io/football/teams/226.png"
+      "name": "Tottenham Hotspur",
+      "icon": "https://media.api-sports.io/football/teams/47.png"
     },
     "teamB": {
-      "name": "SC Heerenveen",
-      "icon": "https://media.api-sports.io/football/teams/231.png"
+      "name": "Arsenal",
+      "icon": "https://media.api-sports.io/football/teams/42.png"
     },
-    "leagueName": "Eredivisie",
-    "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-02-21"
-  },
-  {
-    "id": "ligue1_psg_met_210226",
-    "teamA": {
-      "name": "Paris Saint Germain",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
-    },
-    "teamB": {
-      "name": "Metz",
-      "icon": "https://media.api-sports.io/football/teams/535.png"
-    },
-    "leagueName": "Ligue 1",
-    "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-02-21"
+    "leagueName": "Premier League",
+    "prediction": "BTTS",
+    "date": "2026-02-22"
   }
 ]
