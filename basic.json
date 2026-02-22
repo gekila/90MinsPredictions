@@ -1,212 +1,86 @@
 [
   {
-    "id": "epl_bren_brig_210226",
+    "id": "laliga_bar_lev_220226",
     "teamA": {
-      "name": "Brentford",
-      "icon": "https://media.api-sports.io/football/teams/57.png"
-    },
-    "teamB": {
-      "name": "Brighton",
-      "icon": "https://media.api-sports.io/football/teams/51.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN + OVER 2.5",
-    "date": "2026-02-21"
-  },
-  {
-    "id": "epl_che_bur_210226",
-    "teamA": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
-    },
-    "teamB": {
-      "name": "Burnley",
-      "icon": "https://media.api-sports.io/football/teams/44.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN",
-    "date": "2026-02-21"
-  },
-  {
-    "id": "epl_ast_lee_210226",
-    "teamA": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
-    },
-    "teamB": {
-      "name": "Leeds United",
-      "icon": "https://media.api-sports.io/football/teams/55.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN + OVER 2.5",
-    "date": "2026-02-21"
-  },
-  {
-    "id": "epl_whu_bou_210226",
-    "teamA": {
-      "name": "West Ham United",
-      "icon": "https://media.api-sports.io/football/teams/51.png"
-    },
-    "teamB": {
-      "name": "Bournemouth",
-      "icon": "https://media.api-sports.io/football/teams/68.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN",
-    "date": "2026-02-21"
-  },
-  {
-    "id": "epl_mci_new_210226",
-    "teamA": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
-    },
-    "teamB": {
-      "name": "Newcastle United",
-      "icon": "https://media.api-sports.io/football/teams/67.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN + OVER 2.5",
-    "date": "2026-02-21"
-  },
-  {
-    "id": "cham_swa_bri_210226",
-    "teamA": {
-      "name": "Swansea City",
+      "name": "Barcelona",
       "icon": "https://media.api-sports.io/football/teams/81.png"
     },
     "teamB": {
-      "name": "Bristol City",
-      "icon": "https://media.api-sports.io/football/teams/82.png"
+      "name": "Levante",
+      "icon": "https://media.api-sports.io/football/teams/195.png"
     },
-    "leagueName": "Championship",
+    "leagueName": "La Liga",
+    "prediction": "HOME WIN & OVER 2.5",
+    "date": "2026-02-22"
+  },
+  {
+    "id": "seriea_mil_par_220226",
+    "teamA": {
+      "name": "AC Milan",
+      "icon": "https://media.api-sports.io/football/teams/489.png"
+    },
+    "teamB": {
+      "name": "Parma",
+      "icon": "https://media.api-sports.io/football/teams/523.png"
+    },
+    "leagueName": "Serie A",
     "prediction": "HOME WIN",
-    "date": "2026-02-21"
+    "date": "2026-02-22"
   },
   {
-    "id": "cham_hul_qpr_210226",
+    "id": "epl_not_liv_220226",
     "teamA": {
-      "name": "Hull City",
-      "icon": "https://media.api-sports.io/football/teams/83.png"
+      "name": "Nottingham Forest",
+      "icon": "https://media.api-sports.io/football/teams/65.png"
     },
     "teamB": {
-      "name": "Queens Park Rangers",
-      "icon": "https://media.api-sports.io/football/teams/84.png"
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
     },
-    "leagueName": "Championship",
-    "prediction": "DRAW",
-    "date": "2026-02-21"
+    "leagueName": "Premier League",
+    "prediction": "AWAY WIN & OVER 2.5",
+    "date": "2026-02-22"
   },
   {
-    "id": "cham_wba_cov_210226",
+    "id": "seriea_rom_cre_220226",
     "teamA": {
-      "name": "West Bromwich Albion",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
+      "name": "AS Roma",
+      "icon": "https://media.api-sports.io/football/teams/497.png"
     },
     "teamB": {
-      "name": "Coventry City",
-      "icon": "https://media.api-sports.io/football/teams/86.png"
+      "name": "Cremonese",
+      "icon": "https://media.api-sports.io/football/teams/520.png"
     },
-    "leagueName": "Championship",
+    "leagueName": "Serie A",
     "prediction": "HOME WIN",
-    "date": "2026-02-21"
+    "date": "2026-02-22"
   },
   {
-    "id": "cham_sto_lei_210226",
+    "id": "ered_fey_tel_220226",
     "teamA": {
-      "name": "Stoke City",
-      "icon": "https://media.api-sports.io/football/teams/87.png"
+      "name": "Feyenoord",
+      "icon": "https://media.api-sports.io/football/teams/224.png"
     },
     "teamB": {
-      "name": "Leicester City",
-      "icon": "https://media.api-sports.io/football/teams/88.png"
+      "name": "Telstar",
+      "icon": "https://media.api-sports.io/football/teams/245.png"
     },
-    "leagueName": "Championship",
-    "prediction": "AWAY WIN",
-    "date": "2026-02-21"
+    "leagueName": "Eredivisie",
+    "prediction": "HOME WIN & OVER 2.5",
+    "date": "2026-02-22"
   },
   {
-    "id": "cham_wre_ips_210226",
+    "id": "superlig_bes_goz_220226",
     "teamA": {
-      "name": "Wrexham",
-      "icon": "https://media.api-sports.io/football/teams/89.png"
+      "name": "Besiktas",
+      "icon": "https://media.api-sports.io/football/teams/549.png"
     },
     "teamB": {
-      "name": "Ipswich Town",
-      "icon": "https://media.api-sports.io/football/teams/90.png"
+      "name": "Goztepe",
+      "icon": "https://media.api-sports.io/football/teams/561.png"
     },
-    "leagueName": "Championship",
-    "prediction": "DRAW",
-    "date": "2026-02-21"
-  },
-  {
-    "id": "cham_sou_cha_210226",
-    "teamA": {
-      "name": "Southampton",
-      "icon": "https://media.api-sports.io/football/teams/91.png"
-    },
-    "teamB": {
-      "name": "Charlton Athletic",
-      "icon": "https://media.api-sports.io/football/teams/92.png"
-    },
-    "leagueName": "Championship",
-    "prediction": "HOME WIN + OVER 2.5",
-    "date": "2026-02-21"
-  },
-  {
-    "id": "cham_wat_der_210226",
-    "teamA": {
-      "name": "Watford",
-      "icon": "https://media.api-sports.io/football/teams/93.png"
-    },
-    "teamB": {
-      "name": "Derby County",
-      "icon": "https://media.api-sports.io/football/teams/94.png"
-    },
-    "leagueName": "Championship",
+    "leagueName": "Super Lig",
     "prediction": "HOME WIN",
-    "date": "2026-02-21"
-  },
-  {
-    "id": "cham_mil_por_210226",
-    "teamA": {
-      "name": "Millwall",
-      "icon": "https://media.api-sports.io/football/teams/95.png"
-    },
-    "teamB": {
-      "name": "Portsmouth",
-      "icon": "https://media.api-sports.io/football/teams/96.png"
-    },
-    "leagueName": "Championship",
-    "prediction": "HOME WIN + OVER 2.5",
-    "date": "2026-02-21"
-  },
-  {
-    "id": "cham_mid_oxf_210226",
-    "teamA": {
-      "name": "Middlesbrough",
-      "icon": "https://media.api-sports.io/football/teams/97.png"
-    },
-    "teamB": {
-      "name": "Oxford United",
-      "icon": "https://media.api-sports.io/football/teams/98.png"
-    },
-    "leagueName": "Championship",
-    "prediction": "HOME WIN",
-    "date": "2026-02-21"
-  },
-  {
-    "id": "cham_nor_bir_210226",
-    "teamA": {
-      "name": "Norwich City",
-      "icon": "https://media.api-sports.io/football/teams/99.png"
-    },
-    "teamB": {
-      "name": "Birmingham City",
-      "icon": "https://media.api-sports.io/football/teams/100.png"
-    },
-    "leagueName": "Championship",
-    "prediction": "HOME WIN + OVER 2.5",
-    "date": "2026-02-21"
+    "date": "2026-02-22"
   }
 ]
