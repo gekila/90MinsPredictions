@@ -42,17 +42,17 @@
     "date": "2026-02-23"
   },
   {
-    "id": "ligue1_ren_lil_230226",
+    "id": "laliga_ala_gir_230226",
     "teamA": {
-      "name": "Rennes",
-      "icon": "https://media.api-sports.io/football/teams/94.png"
+      "name": "Deportivo Alavés",
+      "icon": "https://media.api-sports.io/football/teams/769.png"
     },
     "teamB": {
-      "name": "Lille",
-      "icon": "https://media.api-sports.io/football/teams/79.png"
+      "name": "Girona",
+      "icon": "https://media.api-sports.io/football/teams/108.png"
     },
-    "leagueName": "Ligue 1",
-    "prediction": "UNDER 2.5 GOALS",
+    "leagueName": "La Liga",
+    "prediction": "AWAY WIN",
     "date": "2026-02-23"
   },
   {
@@ -84,17 +84,31 @@
     "date": "2026-02-23"
   },
   {
-    "id": "superlig_tra_kas_230226",
+    "id": "superlig_fen_kas_230226",
     "teamA": {
-      "name": "Trabzonspor",
-      "icon": "https://media.api-sports.io/football/teams/552.png"
+      "name": "Fenerbahçe",
+      "icon": "https://media.api-sports.io/football/teams/553.png"
     },
     "teamB": {
-      "name": "Kasimpasa",
+      "name": "Kasımpaşa",
       "icon": "https://media.api-sports.io/football/teams/576.png"
     },
     "leagueName": "Super Lig",
-    "prediction": "HOME WIN",
+    "prediction": "HOME WIN & OVER 2.5",
+    "date": "2026-02-23"
+  },
+  {
+    "id": "league2_wal_mkd_230226",
+    "teamA": {
+      "name": "Walsall",
+      "icon": "https://media.api-sports.io/football/teams/336.png"
+    },
+    "teamB": {
+      "name": "Milton Keynes Dons",
+      "icon": "https://media.api-sports.io/football/teams/380.png"
+    },
+    "leagueName": "League Two",
+    "prediction": "DRAW",
     "date": "2026-02-23"
   }
 ]
