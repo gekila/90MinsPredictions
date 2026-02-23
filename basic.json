@@ -14,20 +14,6 @@
     "date": "2026-02-23"
   },
   {
-    "id": "laliga_vil_sev_230226",
-    "teamA": {
-      "name": "Villarreal",
-      "icon": "https://media.api-sports.io/football/teams/105.png"
-    },
-    "teamB": {
-      "name": "Sevilla",
-      "icon": "https://media.api-sports.io/football/teams/559.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "BTTS",
-    "date": "2026-02-23"
-  },
-  {
     "id": "seriea_fio_pis_230226",
     "teamA": {
       "name": "Fiorentina",
