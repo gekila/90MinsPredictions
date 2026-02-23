@@ -28,20 +28,6 @@
     "date": "2026-02-23"
   },
   {
-    "id": "isl_moh_che_230226",
-    "teamA": {
-      "name": "Mohun Bagan Super Giant",
-      "icon": "https://media.api-sports.io/football/teams/800.png"
-    },
-    "teamB": {
-      "name": "Chennaiyin FC",
-      "icon": "https://media.api-sports.io/football/teams/801.png"
-    },
-    "leagueName": "Indian Super League",
-    "prediction": "Mohun Bagan Super Giant Win & OVER 1.5",
-    "date": "2026-02-23"
-  },
-  {
     "id": "superlig_fen_kas_230226",
     "teamA": {
       "name": "Fenerbahce Istanbul",
@@ -53,76 +39,6 @@
     },
     "leagueName": "Super Lig",
     "prediction": "Fenerbahce Win & OVER 3.5",
-    "date": "2026-02-23"
-  },
-  {
-    "id": "saudi_dam_ahl_230226",
-    "teamA": {
-      "name": "Damac FC",
-      "icon": "https://media.api-sports.io/football/teams/802.png"
-    },
-    "teamB": {
-      "name": "Al Ahli",
-      "icon": "https://media.api-sports.io/football/teams/803.png"
-    },
-    "leagueName": "Saudi Pro League",
-    "prediction": "OVER 3.5 GOALS",
-    "date": "2026-02-23"
-  },
-  {
-    "id": "seriea_bol_udi_230226",
-    "teamA": {
-      "name": "Bologna",
-      "icon": "https://media.api-sports.io/football/teams/372.png"
-    },
-    "teamB": {
-      "name": "Udinese",
-      "icon": "https://media.api-sports.io/football/teams/447.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-02-23"
-  },
-  {
-    "id": "league2_wal_mkd_230226",
-    "teamA": {
-      "name": "Walsall",
-      "icon": "https://media.api-sports.io/football/teams/336.png"
-    },
-    "teamB": {
-      "name": "Milton Keynes Dons",
-      "icon": "https://media.api-sports.io/football/teams/380.png"
-    },
-    "leagueName": "League Two",
-    "prediction": "DRAW & UNDER 2.5",
-    "date": "2026-02-23"
-  },
-  {
-    "id": "laliga_ala_gir_230226",
-    "teamA": {
-      "name": "Alavés",
-      "icon": "https://media.api-sports.io/football/teams/769.png"
-    },
-    "teamB": {
-      "name": "Girona",
-      "icon": "https://media.api-sports.io/football/teams/108.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "Girona Win & OVER 1.5",
-    "date": "2026-02-23"
-  },
-  {
-    "id": "liga_pt_fam_cpi_230226",
-    "teamA": {
-      "name": "Famalicao",
-      "icon": "https://media.api-sports.io/football/teams/804.png"
-    },
-    "teamB": {
-      "name": "Casa Pia Lisbon",
-      "icon": "https://media.api-sports.io/football/teams/805.png"
-    },
-    "leagueName": "Liga Portugal",
-    "prediction": "BTTS & OVER 2.5",
     "date": "2026-02-23"
   }
 ]
