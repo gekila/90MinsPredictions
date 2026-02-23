@@ -1,86 +1,114 @@
 [
   {
-    "id": "laliga_bar_lev_220226",
+    "id": "epl_eve_mun_230226",
     "teamA": {
-      "name": "Barcelona",
-      "icon": "https://media.api-sports.io/football/teams/81.png"
+      "name": "Everton",
+      "icon": "https://media.api-sports.io/football/teams/45.png"
     },
     "teamB": {
-      "name": "Levante",
-      "icon": "https://media.api-sports.io/football/teams/195.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-02-22"
-  },
-  {
-    "id": "seriea_mil_par_220226",
-    "teamA": {
-      "name": "AC Milan",
-      "icon": "https://media.api-sports.io/football/teams/489.png"
-    },
-    "teamB": {
-      "name": "Parma",
-      "icon": "https://media.api-sports.io/football/teams/523.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "HOME WIN",
-    "date": "2026-02-22"
-  },
-  {
-    "id": "epl_not_liv_220226",
-    "teamA": {
-      "name": "Nottingham Forest",
-      "icon": "https://media.api-sports.io/football/teams/65.png"
-    },
-    "teamB": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
+      "name": "Manchester United",
+      "icon": "https://media.api-sports.io/football/teams/33.png"
     },
     "leagueName": "Premier League",
     "prediction": "AWAY WIN & OVER 2.5",
-    "date": "2026-02-22"
+    "date": "2026-02-23"
   },
   {
-    "id": "seriea_rom_cre_220226",
+    "id": "laliga_vil_sev_230226",
     "teamA": {
-      "name": "AS Roma",
+      "name": "Villarreal",
+      "icon": "https://media.api-sports.io/football/teams/105.png"
+    },
+    "teamB": {
+      "name": "Sevilla",
+      "icon": "https://media.api-sports.io/football/teams/559.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "BTTS",
+    "date": "2026-02-23"
+  },
+  {
+    "id": "seriea_fio_pis_230226",
+    "teamA": {
+      "name": "Fiorentina",
+      "icon": "https://media.api-sports.io/football/teams/433.png"
+    },
+    "teamB": {
+      "name": "Pisa",
       "icon": "https://media.api-sports.io/football/teams/497.png"
     },
-    "teamB": {
-      "name": "Cremonese",
-      "icon": "https://media.api-sports.io/football/teams/520.png"
-    },
     "leagueName": "Serie A",
-    "prediction": "HOME WIN",
-    "date": "2026-02-22"
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-02-23"
   },
   {
-    "id": "ered_fey_tel_220226",
+    "id": "seriea_bol_udi_230226",
     "teamA": {
-      "name": "Feyenoord",
-      "icon": "https://media.api-sports.io/football/teams/224.png"
+      "name": "Bologna",
+      "icon": "https://media.api-sports.io/football/teams/372.png"
     },
     "teamB": {
-      "name": "Telstar",
-      "icon": "https://media.api-sports.io/football/teams/245.png"
+      "name": "Udinese",
+      "icon": "https://media.api-sports.io/football/teams/447.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "UNDER 2.5 GOALS",
+    "date": "2026-02-23"
+  },
+  {
+    "id": "ligue1_ren_lil_230226",
+    "teamA": {
+      "name": "Rennes",
+      "icon": "https://media.api-sports.io/football/teams/94.png"
+    },
+    "teamB": {
+      "name": "Lille",
+      "icon": "https://media.api-sports.io/football/teams/79.png"
+    },
+    "leagueName": "Ligue 1",
+    "prediction": "UNDER 2.5 GOALS",
+    "date": "2026-02-23"
+  },
+  {
+    "id": "bund_wer_aug_230226",
+    "teamA": {
+      "name": "Werder Bremen",
+      "icon": "https://media.api-sports.io/football/teams/134.png"
+    },
+    "teamB": {
+      "name": "Augsburg",
+      "icon": "https://media.api-sports.io/football/teams/170.png"
+    },
+    "leagueName": "Bundesliga",
+    "prediction": "OVER 2.5 GOALS",
+    "date": "2026-02-23"
+  },
+  {
+    "id": "ered_alk_spa_230226",
+    "teamA": {
+      "name": "AZ Alkmaar",
+      "icon": "https://media.api-sports.io/football/teams/197.png"
+    },
+    "teamB": {
+      "name": "Sparta Rotterdam",
+      "icon": "https://media.api-sports.io/football/teams/212.png"
     },
     "leagueName": "Eredivisie",
     "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-02-22"
+    "date": "2026-02-23"
   },
   {
-    "id": "superlig_bes_goz_220226",
+    "id": "superlig_tra_kas_230226",
     "teamA": {
-      "name": "Besiktas",
-      "icon": "https://media.api-sports.io/football/teams/549.png"
+      "name": "Trabzonspor",
+      "icon": "https://media.api-sports.io/football/teams/552.png"
     },
     "teamB": {
-      "name": "Goztepe",
-      "icon": "https://media.api-sports.io/football/teams/561.png"
+      "name": "Kasimpasa",
+      "icon": "https://media.api-sports.io/football/teams/576.png"
     },
     "leagueName": "Super Lig",
     "prediction": "HOME WIN",
-    "date": "2026-02-22"
+    "date": "2026-02-23"
   }
 ]
