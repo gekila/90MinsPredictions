@@ -1,44 +1,44 @@
 [
   {
-    "id": "seriea_ata_nap_220226",
+    "id": "epl_eve_mun_230226",
     "teamA": {
-      "name": "Atalanta",
-      "icon": "https://media.api-sports.io/football/teams/499.png"
+      "name": "Everton",
+      "icon": "https://media.api-sports.io/football/teams/45.png"
     },
     "teamB": {
-      "name": "Napoli",
-      "icon": "https://media.api-sports.io/football/teams/492.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "BTTS & OVER 2.5",
-    "date": "2026-02-22"
-  },
-  {
-    "id": "bund_fre_mgl_220226",
-    "teamA": {
-      "name": "SC Freiburg",
-      "icon": "https://media.api-sports.io/football/teams/160.png"
-    },
-    "teamB": {
-      "name": "Borussia Monchengladbach",
-      "icon": "https://media.api-sports.io/football/teams/163.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "OVER 2.5 GOALS",
-    "date": "2026-02-22"
-  },
-  {
-    "id": "epl_tot_ars_220226",
-    "teamA": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://media.api-sports.io/football/teams/47.png"
-    },
-    "teamB": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
+      "name": "Manchester United",
+      "icon": "https://media.api-sports.io/football/teams/33.png"
     },
     "leagueName": "Premier League",
-    "prediction": "BTTS",
-    "date": "2026-02-22"
+    "prediction": "Manchester United to Win & OVER 2.5",
+    "date": "2026-02-23"
+  },
+  {
+    "id": "seriea_fio_pis_230226",
+    "teamA": {
+      "name": "Fiorentina",
+      "icon": "https://media.api-sports.io/football/teams/433.png"
+    },
+    "teamB": {
+      "name": "Pisa",
+      "icon": "https://media.api-sports.io/football/teams/497.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "Fiorentina Win & OVER 1.5",
+    "date": "2026-02-23"
+  },
+  {
+    "id": "seriea_bol_udi_230226",
+    "teamA": {
+      "name": "Bologna",
+      "icon": "https://media.api-sports.io/football/teams/372.png"
+    },
+    "teamB": {
+      "name": "Udinese",
+      "icon": "https://media.api-sports.io/football/teams/447.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "UNDER 2.5 GOALS",
+    "date": "2026-02-23"
   }
 ]
