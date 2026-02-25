@@ -1,44 +1,44 @@
 [
   {
-    "id": "seriea_fio_pis_230226",
+    "id": "ucl_ata_dor_250226",
     "teamA": {
-      "name": "Fiorentina",
-      "icon": "https://media.api-sports.io/football/teams/433.png"
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/499.png"
     },
     "teamB": {
-      "name": "Pisa",
-      "icon": "https://media.api-sports.io/football/teams/497.png"
+      "name": "Borussia Dortmund",
+      "icon": "https://media.api-sports.io/football/teams/165.png"
     },
-    "leagueName": "Serie A",
-    "prediction": "Fiorentina Win & OVER 1.5",
-    "date": "2026-02-23"
+    "leagueName": "UEFA Champions League",
+    "prediction": "Borussia Dortmund Double Chance & UNDER 3.5",
+    "date": "2026-02-25"
   },
   {
-    "id": "epl_eve_mun_230226",
+    "id": "ucl_psg_mon_250226",
     "teamA": {
-      "name": "Everton",
-      "icon": "https://media.api-sports.io/football/teams/45.png"
+      "name": "Paris Saint Germain",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
     "teamB": {
-      "name": "Manchester United",
-      "icon": "https://media.api-sports.io/football/teams/33.png"
+      "name": "AS Monaco",
+      "icon": "https://media.api-sports.io/football/teams/91.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "Manchester United to Win & OVER 2.5",
-    "date": "2026-02-23"
+    "leagueName": "UEFA Champions League",
+    "prediction": "BTTS & OVER 2.5",
+    "date": "2026-02-25"
   },
   {
-    "id": "superlig_fen_kas_230226",
+    "id": "ucl_rma_ben_250226",
     "teamA": {
-      "name": "Fenerbahce Istanbul",
-      "icon": "https://media.api-sports.io/football/teams/553.png"
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
     },
     "teamB": {
-      "name": "Kasimpasa Istanbul",
-      "icon": "https://media.api-sports.io/football/teams/576.png"
+      "name": "Benfica",
+      "icon": "https://media.api-sports.io/football/teams/211.png"
     },
-    "leagueName": "Super Lig",
-    "prediction": "Fenerbahce Win & OVER 3.5",
-    "date": "2026-02-23"
+    "leagueName": "UEFA Champions League",
+    "prediction": "Real Madrid Win & OVER 2.5",
+    "date": "2026-02-25"
   }
 ]
