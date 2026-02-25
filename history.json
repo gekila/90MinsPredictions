@@ -1,5 +1,127 @@
 [
   {
+    "date": "Tuesday, 24th February 2026",
+    "gamesList": [
+      {
+        "teamA": "Newcastle United",
+        "teamB": "Qarabağ FK",
+        "prediction": "Newcastle Win",
+        "odds": "3-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Bodø/Glimt",
+        "prediction": "Bodø/Glimt Win",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atletico Madrid",
+        "teamB": "Club Brugge",
+        "prediction": "Atletico Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bayer Leverkusen",
+        "teamB": "Olympiacos",
+        "prediction": "Draw",
+        "odds": "0-0",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Middlesbrough",
+        "teamB": "Leicester City",
+        "prediction": "Middlesbrough Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Wrexham",
+        "teamB": "Portsmouth",
+        "prediction": "Both Teams to Score",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Swansea City",
+        "teamB": "Preston North End",
+        "prediction": "Swansea Win",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Blackburn Rovers",
+        "teamB": "Bristol City",
+        "prediction": "Blackburn Win",
+        "odds": "2-1",
+        "results": "WIN"
+     }
+  ]
+  },
+  {
+    "date": "Monday, 23rd February 2026",
+    "gamesList": [
+      {
+        "teamA": "Everton",
+        "teamB": "Manchester United",
+        "prediction": "",
+        "odds": "0-1",
+        "results": "MAN UTD WIN"
+      },
+      {
+        "teamA": "Deportivo Alavés",
+        "teamB": "Girona",
+        "prediction": "",
+        "odds": "2-2",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Fiorentina",
+        "teamB": "Pisa SC",
+        "prediction": "",
+        "odds": "1-0",
+        "results": "FIORENTINA WIN"
+      },
+      {
+        "teamA": "Bologna",
+        "teamB": "Udinese",
+        "prediction": "",
+        "odds": "1-0",
+        "results": "BOLOGNA WIN"
+      },
+      {
+        "teamA": "Walsall",
+        "teamB": "Milton Keynes Dons",
+        "prediction": "",
+        "odds": "-",
+        "results": "RESULT UNKNOWN"
+      },
+      {
+        "teamA": "Famalicao",
+        "teamB": "Casa Pia AC",
+        "prediction": "",
+        "odds": "-",
+        "results": "RESULT UNKNOWN"
+      },
+      {
+        "teamA": "Pumas UNAM",
+        "teamB": "Monterrey",
+        "prediction": "",
+        "odds": "2-0",
+        "results": "PUMAS WIN"
+      },
+      {
+        "teamA": "Unión Santa Fe",
+        "teamB": "Aldosivi",
+        "prediction": "",
+        "odds": "1-0",
+        "results": "UNIÓN S. FE WIN"
+       }
+  ]
+  },
+  {
   "date": "Sunday, 22nd February 2026",
   "gamesList": [
     {
