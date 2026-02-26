@@ -1,44 +1,44 @@
 [
   {
-    "id": "ucl_ata_dor_250226",
+    "id": "uel_stu_cel_260226",
     "teamA": {
-      "name": "Atalanta",
-      "icon": "https://media.api-sports.io/football/teams/499.png"
+      "name": "Stuttgart",
+      "icon": "https://media.api-sports.io/football/teams/1693.png"
     },
     "teamB": {
-      "name": "Borussia Dortmund",
-      "icon": "https://media.api-sports.io/football/teams/165.png"
+      "name": "Celtic",
+      "icon": "https://media.api-sports.io/football/teams/357.png"
     },
-    "leagueName": "UEFA Champions League",
-    "prediction": "Borussia Dortmund Double Chance & UNDER 3.5",
-    "date": "2026-02-25"
-  },
-  {
-    "id": "ucl_psg_mon_250226",
-    "teamA": {
-      "name": "Paris Saint Germain",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
-    },
-    "teamB": {
-      "name": "AS Monaco",
-      "icon": "https://media.api-sports.io/football/teams/91.png"
-    },
-    "leagueName": "UEFA Champions League",
+    "leagueName": "UEFA Europa League",
     "prediction": "BTTS & OVER 2.5",
-    "date": "2026-02-25"
+    "date": "2026-02-26"
   },
   {
-    "id": "ucl_rma_ben_250226",
+    "id": "uel_not_fen_260226",
     "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
+      "name": "Nottingham Forest",
+      "icon": "https://media.api-sports.io/football/teams/341.png"
     },
     "teamB": {
-      "name": "Benfica",
-      "icon": "https://media.api-sports.io/football/teams/211.png"
+      "name": "Fenerbahçe",
+      "icon": "https://media.api-sports.io/football/teams/396.png"
     },
-    "leagueName": "UEFA Champions League",
-    "prediction": "Real Madrid Win & OVER 2.5",
-    "date": "2026-02-25"
+    "leagueName": "UEFA Europa League",
+    "prediction": "Nottingham Forest Win & UNDER 3.5",
+    "date": "2026-02-26"
+  },
+  {
+    "id": "uel_cel_paok_260226",
+    "teamA": {
+      "name": "Celta Vigo",
+      "icon": "https://media.api-sports.io/football/teams/588.png"
+    },
+    "teamB": {
+      "name": "PAOK",
+      "icon": "https://media.api-sports.io/football/teams/501.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "Celta Vigo Win & BTTS",
+    "date": "2026-02-26"
   }
 ]
