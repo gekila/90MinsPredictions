@@ -1,64 +1,64 @@
 [
   {
-    "date": "Tuesday, 24th February 2026",
+    "date": "Wednesday, 25th February 2026",
     "gamesList": [
       {
-        "teamA": "Real Madrid",
-        "teamB": "RB Leipzig",
-        "prediction": "Real Madrid Win",
-        "odds": "3-1",
+        "teamA": "Barcelona",
+        "teamB": "Porto",
+        "prediction": "Barcelona Win",
+        "odds": "2-0",
         "results": "WIN"
       },
       {
-        "teamA": "Manchester City",
-        "teamB": "Inter Milan",
-        "prediction": "Manchester City Win",
+        "teamA": "Arsenal",
+        "teamB": "Atalanta",
+        "prediction": "Both Teams to Score",
         "odds": "2-1",
         "results": "WIN"
       },
       {
-        "teamA": "Bayern Munich",
-        "teamB": "PSV Eindhoven",
-        "prediction": "Bayern Munich Win",
-        "odds": "4-1",
-        "results": "WIN"
-      },
-      {
-        "teamA": "Paris Saint Germain",
-        "teamB": "AC Milan",
-        "prediction": "Both Teams to Score",
-        "odds": "2-2",
-        "results": "WIN"
-      },
-      {
-        "teamA": "Chelsea",
-        "teamB": "Benfica",
+        "teamA": "Juventus",
+        "teamB": "Borussia Dortmund",
         "prediction": "Draw",
         "odds": "1-1",
         "results": "DRAW"
       },
       {
-        "teamA": "Napoli",
-        "teamB": "Sevilla",
-        "prediction": "Napoli Win",
-        "odds": "2-0",
+        "teamA": "Atletico Madrid",
+        "teamB": "Tottenham",
+        "prediction": "Atletico Madrid Win",
+        "odds": "1-0",
         "results": "WIN"
       },
       {
-        "teamA": "Leeds United",
-        "teamB": "Norwich City",
-        "prediction": "Leeds United Win",
-        "odds": "3-2",
+        "teamA": "Ajax",
+        "teamB": "Benfica",
+        "prediction": "Benfica Win",
+        "odds": "1-2",
         "results": "WIN"
       },
       {
-        "teamA": "Marseille",
-        "teamB": "Lyon",
+        "teamA": "Inter Milan",
+        "teamB": "RB Salzburg",
+        "prediction": "Inter Milan Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Celtic",
+        "teamB": "Real Sociedad",
+        "prediction": "Real Sociedad Win",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lazio",
+        "teamB": "Monaco",
         "prediction": "Both Teams to Score",
-        "odds": "1-1",
+        "odds": "2-2",
         "results": "WIN"
-    }
-  ]
+      }
+    ]
   },
   {
     "date": "Tuesday, 24th February 2026",
