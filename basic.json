@@ -1,114 +1,86 @@
 [
   {
-    "id": "ucl_ata_dor_250226",
+    "id": "uel_crv_lil_260226",
     "teamA": {
-      "name": "Atalanta",
-      "icon": "https://media.api-sports.io/football/teams/499.png"
+      "name": "Crvena Zvezda",
+      "icon": "https://media.api-sports.io/football/teams/1016.png"
     },
     "teamB": {
-      "name": "Borussia Dortmund",
-      "icon": "https://media.api-sports.io/football/teams/165.png"
-    },
-    "leagueName": "UEFA Champions League",
-    "prediction": "AWAY DOUBLE CHANCE & UNDER 3.5",
-    "date": "2026-02-25"
-  },
-  {
-    "id": "ucl_psg_mon_250226",
-    "teamA": {
-      "name": "Paris Saint Germain",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
-    },
-    "teamB": {
-      "name": "AS Monaco",
-      "icon": "https://media.api-sports.io/football/teams/91.png"
-    },
-    "leagueName": "UEFA Champions League",
-    "prediction": "BTTS & OVER 2.5",
-    "date": "2026-02-25"
-  },
-  {
-    "id": "ucl_rma_ben_250226",
-    "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
-    },
-    "teamB": {
-      "name": "Benfica",
-      "icon": "https://media.api-sports.io/football/teams/211.png"
-    },
-    "leagueName": "UEFA Champions League",
-    "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-02-25"
-  },
-  {
-    "id": "ucl_juv_gal_250226",
-    "teamA": {
-      "name": "Juventus",
-      "icon": "https://media.api-sports.io/football/teams/496.png"
-    },
-    "teamB": {
-      "name": "Galatasaray",
-      "icon": "https://media.api-sports.io/football/teams/645.png"
-    },
-    "leagueName": "UEFA Champions League",
-    "prediction": "BTTS & OVER 2.5",
-    "date": "2026-02-25"
-  },
-  {
-    "id": "champ_leeds_wba_250226",
-    "teamA": {
-      "name": "Leeds United",
-      "icon": "https://media.api-sports.io/football/teams/63.png"
-    },
-    "teamB": {
-      "name": "West Bromwich Albion",
-      "icon": "https://media.api-sports.io/football/teams/60.png"
-    },
-    "leagueName": "Championship",
-    "prediction": "HOME WIN",
-    "date": "2026-02-25"
-  },
-  {
-    "id": "laliga_val_sev_250226",
-    "teamA": {
-      "name": "Valencia",
-      "icon": "https://media.api-sports.io/football/teams/532.png"
-    },
-    "teamB": {
-      "name": "Sevilla",
-      "icon": "https://media.api-sports.io/football/teams/536.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-02-25"
-  },
-  {
-    "id": "seriea_tor_laz_250226",
-    "teamA": {
-      "name": "Torino",
-      "icon": "https://media.api-sports.io/football/teams/503.png"
-    },
-    "teamB": {
-      "name": "Lazio",
-      "icon": "https://media.api-sports.io/football/teams/487.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "AWAY WIN",
-    "date": "2026-02-25"
-  },
-  {
-    "id": "ligue1_lil_ren_250226",
-    "teamA": {
       "name": "Lille",
       "icon": "https://media.api-sports.io/football/teams/79.png"
     },
-    "teamB": {
-      "name": "Rennes",
-      "icon": "https://media.api-sports.io/football/teams/94.png"
+    "leagueName": "UEFA Europa League",
+    "prediction": "HOME WIN & UNDER 3.5",
+    "date": "2026-02-26"
+  },
+  {
+    "id": "uel_stu_cel_260226",
+    "teamA": {
+      "name": "Stuttgart",
+      "icon": "https://media.api-sports.io/football/teams/1693.png"
     },
-    "leagueName": "Ligue 1",
-    "prediction": "BTTS",
-    "date": "2026-02-25"
+    "teamB": {
+      "name": "Celtic",
+      "icon": "https://media.api-sports.io/football/teams/357.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "BTTS & OVER 2.5",
+    "date": "2026-02-26"
+  },
+  {
+    "id": "uel_fer_lud_260226",
+    "teamA": {
+      "name": "Ferencváros",
+      "icon": "https://media.api-sports.io/football/teams/304.png"
+    },
+    "teamB": {
+      "name": "Ludogorets",
+      "icon": "https://media.api-sports.io/football/teams/341.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "BTTS & OVER 2.5",
+    "date": "2026-02-26"
+  },
+  {
+    "id": "uel_vik_pan_260226",
+    "teamA": {
+      "name": "Viktoria Plzen",
+      "icon": "https://media.api-sports.io/football/teams/969.png"
+    },
+    "teamB": {
+      "name": "Panathinaikos",
+      "icon": "https://media.api-sports.io/football/teams/423.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "DRAW OR BTTS",
+    "date": "2026-02-26"
+  },
+  {
+    "id": "uel_cel_paok_260226",
+    "teamA": {
+      "name": "Celta Vigo",
+      "icon": "https://media.api-sports.io/football/teams/588.png"
+    },
+    "teamB": {
+      "name": "PAOK",
+      "icon": "https://media.api-sports.io/football/teams/501.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "HOME WIN & UNDER 3.5",
+    "date": "2026-02-26"
+  },
+  {
+    "id": "uecl_fio_jag_260226",
+    "teamA": {
+      "name": "Fiorentina",
+      "icon": "https://media.api-sports.io/football/teams/502.png"
+    },
+    "teamB": {
+      "name": "Jagiellonia Białystok",
+      "icon": "https://media.api-sports.io/football/teams/501.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "HOME WIN",
+    "date": "2026-02-26"
   }
 ]
