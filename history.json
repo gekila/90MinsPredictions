@@ -3,6 +3,67 @@
     "date": "Tuesday, 24th February 2026",
     "gamesList": [
       {
+        "teamA": "Real Madrid",
+        "teamB": "RB Leipzig",
+        "prediction": "Real Madrid Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Manchester City",
+        "teamB": "Inter Milan",
+        "prediction": "Manchester City Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bayern Munich",
+        "teamB": "PSV Eindhoven",
+        "prediction": "Bayern Munich Win",
+        "odds": "4-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Paris Saint Germain",
+        "teamB": "AC Milan",
+        "prediction": "Both Teams to Score",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Chelsea",
+        "teamB": "Benfica",
+        "prediction": "Draw",
+        "odds": "1-1",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Napoli",
+        "teamB": "Sevilla",
+        "prediction": "Napoli Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Leeds United",
+        "teamB": "Norwich City",
+        "prediction": "Leeds United Win",
+        "odds": "3-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Marseille",
+        "teamB": "Lyon",
+        "prediction": "Both Teams to Score",
+        "odds": "1-1",
+        "results": "WIN"
+    }
+  ]
+  },
+  {
+    "date": "Tuesday, 24th February 2026",
+    "gamesList": [
+      {
         "teamA": "Newcastle United",
         "teamB": "Qarabağ FK",
         "prediction": "Newcastle Win",
