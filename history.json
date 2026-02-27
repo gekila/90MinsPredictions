@@ -1,5 +1,66 @@
 [
   {
+    "date": "Thursday, 26th February 2026",
+    "gamesList": [
+      {
+        "teamA": "Ferencváros",
+        "teamB": "Ludogorets",
+        "prediction": "Ferencváros Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Stuttgart",
+        "teamB": "Celtic",
+        "prediction": "Stuttgart Win",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bologna",
+        "teamB": "Brann",
+        "prediction": "Bologna Win",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Celta Vigo",
+        "teamB": "PAOK",
+        "prediction": "Celta Vigo Win",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Genk",
+        "teamB": "Dinamo Zagreb",
+        "prediction": "Draw",
+        "odds": "3-3",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Nottingham Forest",
+        "teamB": "Fenerbahçe",
+        "prediction": "Nottingham Forest Lose",
+        "odds": "1-2",
+        "results": "LOSS"
+      },
+      {
+        "teamA": "Viktoria Plzen",
+        "teamB": "Panathinaikos",
+        "prediction": "Panathinaikos Win",
+        "odds": "1-1 (4-3 pens)",
+        "results": "PEN WIN"
+      },
+      {
+        "teamA": "AZ Alkmaar",
+        "teamB": "Noah",
+        "prediction": "AZ Alkmaar Win",
+        "odds": "4-0",
+        "results": "WIN"
+     }
+    ]
+  },
+  {
     "date": "Wednesday, 25th February 2026",
     "gamesList": [
       {
