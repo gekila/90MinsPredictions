@@ -1,5 +1,66 @@
 [
   {
+    "date": "Friday, 27th February 2026",
+    "gamesList": [
+      {
+        "teamA": "Wolverhampton Wanderers",
+        "teamB": "Aston Villa",
+        "prediction": "Aston Villa Win",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Levante",
+        "teamB": "Deportivo Alavés",
+        "prediction": "Levante Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "FC Augsburg",
+        "teamB": "FC Köln",
+        "prediction": "FC Augsburg Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Strasbourg",
+        "teamB": "Lens",
+        "prediction": "Both Teams to Score",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Parma",
+        "teamB": "Cagliari",
+        "prediction": "Parma Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Philadelphia Union",
+        "teamB": "Defence Force",
+        "prediction": "Philadelphia Union Win",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Melbourne Victory",
+        "teamB": "Adelaide United",
+        "prediction": "Melbourne Victory Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "East Bengal",
+        "teamB": "Jamshedpur FC",
+        "prediction": "Both Teams to Score",
+        "odds": "2-2",
+        "results": "WIN"
+       }
+    ]
+  },
+  {
     "date": "Thursday, 26th February 2026",
     "gamesList": [
       {
