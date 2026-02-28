@@ -1,114 +1,86 @@
 [
   {
-    "id": "eng_wol_ava_270226",
+    "id": "eng_liv_whu_280226",
     "teamA": {
-      "name": "Wolverhampton Wanderers",
-      "icon": "https://media.api-sports.io/football/teams/39.png"
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
     },
     "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "West Ham United",
+      "icon": "https://media.api-sports.io/football/teams/51.png"
     },
     "leagueName": "English Premier League",
-    "prediction": "1-2",
-    "date": "2026-02-27"
+    "prediction": "3-1",
+    "date": "2026-02-28"
   },
   {
-    "id": "esp_lev_ala_270226",
+    "id": "eng_new_eve_280226",
     "teamA": {
-      "name": "Levante",
-      "icon": "https://media.api-sports.io/football/teams/1312.png"
+      "name": "Newcastle United",
+      "icon": "https://media.api-sports.io/football/teams/34.png"
     },
     "teamB": {
-      "name": "Deportivo Alavés",
-      "icon": "https://media.api-sports.io/football/teams/1351.png"
+      "name": "Everton",
+      "icon": "https://media.api-sports.io/football/teams/44.png"
     },
-    "leagueName": "La Liga",
+    "leagueName": "English Premier League",
     "prediction": "2-0",
-    "date": "2026-02-27"
+    "date": "2026-02-28"
   },
   {
-    "id": "ger_aus_kol_270226",
+    "id": "eng_lee_mci_280226",
     "teamA": {
-      "name": "FC Augsburg",
-      "icon": "https://media.api-sports.io/football/teams/109.png"
+      "name": "Leeds United",
+      "icon": "https://media.api-sports.io/football/teams/52.png"
     },
     "teamB": {
-      "name": "FC Köln",
-      "icon": "https://media.api-sports.io/football/teams/103.png"
+      "name": "Manchester City",
+      "icon": "https://media.api-sports.io/football/teams/50.png"
+    },
+    "leagueName": "English Premier League",
+    "prediction": "1-3",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "ger_dor_bay_280226",
+    "teamA": {
+      "name": "Borussia Dortmund",
+      "icon": "https://media.api-sports.io/football/teams/86.png"
+    },
+    "teamB": {
+      "name": "Bayern Munich",
+      "icon": "https://media.api-sports.io/football/teams/157.png"
     },
     "leagueName": "Bundesliga",
-    "prediction": "2-1",
-    "date": "2026-02-27"
-  },
-  {
-    "id": "fra_str_len_270226",
-    "teamA": {
-      "name": "Strasbourg",
-      "icon": "https://media.api-sports.io/football/teams/89.png"
-    },
-    "teamB": {
-      "name": "Lens",
-      "icon": "https://media.api-sports.io/football/teams/88.png"
-    },
-    "leagueName": "Ligue 1",
     "prediction": "2-2",
-    "date": "2026-02-27"
+    "date": "2026-02-28"
   },
   {
-    "id": "ita_par_cag_270226",
+    "id": "esp_bar_vil_280226",
     "teamA": {
-      "name": "Parma",
-      "icon": "https://media.api-sports.io/football/teams/836.png"
+      "name": "Barcelona",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
     },
     "teamB": {
-      "name": "Cagliari",
-      "icon": "https://media.api-sports.io/football/teams/539.png"
+      "name": "Villarreal",
+      "icon": "https://media.api-sports.io/football/teams/533.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "3-1",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "ita_int_tor_280226",
+    "teamA": {
+      "name": "Inter",
+      "icon": "https://media.api-sports.io/football/teams/505.png"
+    },
+    "teamB": {
+      "name": "Torino",
+      "icon": "https://media.api-sports.io/football/teams/503.png"
     },
     "leagueName": "Serie A",
     "prediction": "2-0",
-    "date": "2026-02-27"
-  },
-  {
-    "id": "aus_mel_ada_270226",
-    "teamA": {
-      "name": "Melbourne Victory",
-      "icon": "https://media.api-sports.io/football/teams/1516.png"
-    },
-    "teamB": {
-      "name": "Adelaide United",
-      "icon": "https://media.api-sports.io/football/teams/1507.png"
-    },
-    "leagueName": "A-League Men",
-    "prediction": "3-1",
-    "date": "2026-02-27"
-  },
-  {
-    "id": "isl_eas_jam_270226",
-    "teamA": {
-      "name": "East Bengal",
-      "icon": "https://media.api-sports.io/football/teams/3029.png"
-    },
-    "teamB": {
-      "name": "Jamshedpur FC",
-      "icon": "https://media.api-sports.io/football/teams/3035.png"
-    },
-    "leagueName": "Indian Super League",
-    "prediction": "2-2",
-    "date": "2026-02-27"
-  },
-  {
-    "id": "eng_ch_cov_wat_270226",
-    "teamA": {
-      "name": "Coventry City",
-      "icon": "https://media.api-sports.io/football/teams/1076.png"
-    },
-    "teamB": {
-      "name": "Watford",
-      "icon": "https://media.api-sports.io/football/teams/38.png"
-    },
-    "leagueName": "EFL Championship",
-    "prediction": "1-0",
-    "date": "2026-02-27"
+    "date": "2026-02-28"
   }
 ]
