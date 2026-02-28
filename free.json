@@ -1,58 +1,44 @@
 [
   {
-    "id": "eng_wol_ava_270226",
+    "id": "eng_liv_whu_280226",
     "teamA": {
-      "name": "Wolverhampton Wanderers",
-      "icon": "https://media.api-sports.io/football/teams/39.png"
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
     },
     "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "West Ham United",
+      "icon": "https://media.api-sports.io/football/teams/51.png"
     },
     "leagueName": "English Premier League",
-    "prediction": "AWAY WIN & UNDER 3.5",
-    "date": "2026-02-27"
+    "prediction": "HOME WIN & OVER 2.5",
+    "date": "2026-02-28"
   },
   {
-    "id": "esp_lev_ala_270226",
+    "id": "ger_dor_bay_280226",
     "teamA": {
-      "name": "Levante",
-      "icon": "https://media.api-sports.io/football/teams/1312.png"
+      "name": "Borussia Dortmund",
+      "icon": "https://media.api-sports.io/football/teams/86.png"
     },
     "teamB": {
-      "name": "Deportivo Alavés",
-      "icon": "https://media.api-sports.io/football/teams/1351.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN",
-    "date": "2026-02-27"
-  },
-  {
-    "id": "ger_aus_kol_270226",
-    "teamA": {
-      "name": "FC Augsburg",
-      "icon": "https://media.api-sports.io/football/teams/109.png"
-    },
-    "teamB": {
-      "name": "FC Köln",
-      "icon": "https://media.api-sports.io/football/teams/103.png"
+      "name": "Bayern Munich",
+      "icon": "https://media.api-sports.io/football/teams/157.png"
     },
     "leagueName": "Bundesliga",
-    "prediction": "HOME WIN & UNDER 3.5",
-    "date": "2026-02-27"
+    "prediction": "BTTS & OVER 2.5",
+    "date": "2026-02-28"
   },
   {
-    "id": "ita_par_cag_270226",
+    "id": "esp_bar_vil_280226",
     "teamA": {
-      "name": "Parma",
-      "icon": "https://media.api-sports.io/football/teams/836.png"
+      "name": "Barcelona",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
     },
     "teamB": {
-      "name": "Cagliari",
-      "icon": "https://media.api-sports.io/football/teams/539.png"
+      "name": "Villarreal",
+      "icon": "https://media.api-sports.io/football/teams/533.png"
     },
-    "leagueName": "Serie A",
-    "prediction": "HOME WIN & UNDER 3.5",
-    "date": "2026-02-27"
+    "leagueName": "La Liga",
+    "prediction": "HOME WIN & BTTS YES",
+    "date": "2026-02-28"
   }
 ]
