@@ -1,5 +1,67 @@
 [
   {
+    "date": "Saturday, 28th February 2026",
+    "gamesList": [
+      {
+        "teamA": "Liverpool",
+        "teamB": "West Ham United",
+        "prediction": "Liverpool Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Newcastle United",
+        "teamB": "Everton",
+        "prediction": "Newcastle United Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Leeds United",
+        "teamB": "Manchester City",
+        "prediction": "Manchester City Win",
+        "odds": "1-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Bayern Munich",
+        "prediction": "Both Teams to Score",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Barcelona",
+        "teamB": "Villarreal",
+        "prediction": "Barcelona Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Inter",
+        "teamB": "Torino",
+        "prediction": "Inter Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Paris Saint-Germain",
+        "teamB": "Nice",
+        "prediction": "Paris Saint-Germain Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Porto",
+        "teamB": "Braga",
+        "prediction": "Porto Win",
+        "odds": "2-0",
+        "results": "WIN"
+          "results": "WIN"
+       }
+    ]
+  },
+  {
     "date": "Friday, 27th February 2026",
     "gamesList": [
       {
