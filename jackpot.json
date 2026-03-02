@@ -1,212 +1,142 @@
 [
   {
-    "id": "betjck_01_260226",
+    "id": "betjck_01_040326",
     "teamA": {
-      "name": "Clube Do Remo",
-      "icon": "https://media.api-sports.io/football/teams/2185.png"
+      "name": "Real Sociedad",
+      "icon": "https://media.api-sports.io/football/teams/2632.png"
     },
     "teamB": {
-      "name": "SC Internacional",
-      "icon": "https://media.api-sports.io/football/teams/119.png"
-    },
-    "leagueName": "Brasileiro Serie A - Brazil",
-    "prediction": "AWAY",
-    "date": "2026-02-26"
-  },
-  {
-    "id": "betjck_02_260226",
-    "teamA": {
-      "name": "Gremio",
-      "icon": "https://media.api-sports.io/football/teams/121.png"
-    },
-    "teamB": {
-      "name": "Atletico Mineiro",
-      "icon": "https://media.api-sports.io/football/teams/108.png"
-    },
-    "leagueName": "Brasileiro Serie A - Brazil",
-    "prediction": "DRAW",
-    "date": "2026-02-26"
-  },
-  {
-    "id": "betjck_03_270226",
-    "teamA": {
-      "name": "SC Telstar",
-      "icon": "https://media.api-sports.io/football/teams/197.png"
-    },
-    "teamB": {
-      "name": "NAC Breda",
-      "icon": "https://media.api-sports.io/football/teams/193.png"
-    },
-    "leagueName": "Eredivisie - Netherlands",
-    "prediction": "AWAY",
-    "date": "2026-02-27"
-  },
-  {
-    "id": "betjck_04_270226",
-    "teamA": {
-      "name": "Strasbourg",
-      "icon": "https://media.api-sports.io/football/teams/576.png"
-    },
-    "teamB": {
-      "name": "Lens",
-      "icon": "https://media.api-sports.io/football/teams/116.png"
-    },
-    "leagueName": "Ligue 1 - France",
-    "prediction": "DRAW",
-    "date": "2026-02-27"
-  },
-  {
-    "id": "betjck_05_270226",
-    "teamA": {
-      "name": "Augsburg",
-      "icon": "https://media.api-sports.io/football/teams/170.png"
-    },
-    "teamB": {
-      "name": "FC Cologne",
-      "icon": "https://media.api-sports.io/football/teams/192.png"
-    },
-    "leagueName": "Bundesliga - Germany",
-    "prediction": "HOME",
-    "date": "2026-02-27"
-  },
-  {
-    "id": "betjck_06_270226",
-    "teamA": {
-      "name": "Parma",
-      "icon": "https://media.api-sports.io/football/teams/523.png"
-    },
-    "teamB": {
-      "name": "Cagliari",
-      "icon": "https://media.api-sports.io/football/teams/490.png"
-    },
-    "leagueName": "Serie A - Italy",
-    "prediction": "HOME",
-    "date": "2026-02-27"
-  },
-  {
-    "id": "betjck_07_250226",
-    "teamA": {
-      "name": "Millwall",
-      "icon": "https://media.api-sports.io/football/teams/384.png"
-    },
-    "teamB": {
-      "name": "Birmingham",
-      "icon": "https://media.api-sports.io/football/teams/373.png"
-    },
-    "leagueName": "Championship - England",
-    "prediction": "HOME",
-    "date": "2026-02-25"
-  },
-  {
-    "id": "betjck_08_250226",
-    "teamA": {
-      "name": "Sheffield United",
-      "icon": "https://media.api-sports.io/football/teams/62.png"
-    },
-    "teamB": {
-      "name": "Coventry",
-      "icon": "https://media.api-sports.io/football/teams/107.png"
-    },
-    "leagueName": "Championship - England",
-    "prediction": "HOME",
-    "date": "2026-02-25"
-  },
-  {
-    "id": "betjck_09_270226",
-    "teamA": {
-      "name": "Levante",
-      "icon": "https://media.api-sports.io/football/teams/4914.png"
-    },
-    "teamB": {
-      "name": "Alaves",
-      "icon": "https://media.api-sports.io/football/teams/263.png"
+      "name": "Athletic Club",
+      "icon": "https://media.api-sports.io/football/teams/780.png"
     },
     "leagueName": "La Liga - Spain",
     "prediction": "DRAW",
-    "date": "2026-02-27"
+    "date": "2026-03-04"
   },
   {
-    "id": "betjck_10_270226",
+    "id": "betjck_02_040326",
     "teamA": {
-      "name": "Hermannstadt",
-      "icon": "https://media.api-sports.io/football/teams/632.png"
-    },
-    "teamB": {
-      "name": "Botosani",
-      "icon": "https://media.api-sports.io/football/teams/635.png"
-    },
-    "leagueName": "Superliga - Romania",
-    "prediction": "AWAY",
-    "date": "2026-02-27"
-  },
-  {
-    "id": "betjck_11_270226",
-    "teamA": {
-      "name": "Universitatea Cluj",
-      "icon": "https://media.api-sports.io/football/teams/623.png"
-    },
-    "teamB": {
-      "name": "Otelul Galati",
-      "icon": "https://media.api-sports.io/football/teams/635.png"
-    },
-    "leagueName": "Superliga - Romania",
-    "prediction": "HOME",
-    "date": "2026-02-27"
-  },
-  {
-    "id": "betjck_12_260226",
-    "teamA": {
-      "name": "Sarmiento Junin",
-      "icon": "https://media.api-sports.io/football/teams/4427.png"
-    },
-    "teamB": {
-      "name": "Union Santa Fe",
-      "icon": "https://media.api-sports.io/football/teams/439.png"
-    },
-    "leagueName": "Primera LPF - Argentina",
-    "prediction": "AWAY",
-    "date": "2026-02-26"
-  },
-  {
-    "id": "betjck_13_250226",
-    "teamA": {
-      "name": "Gimnasia La Plata",
-      "icon": "https://media.api-sports.io/football/teams/438.png"
-    },
-    "teamB": {
-      "name": "Rosario Central",
+      "name": "Lazio",
       "icon": "https://media.api-sports.io/football/teams/437.png"
     },
-    "leagueName": "Primera LPF - Argentina",
-    "prediction": "DRAW",
-    "date": "2026-02-25"
-  },
-  {
-    "id": "betjck_14_260226",
-    "teamA": {
-      "name": "Newells Old Boys",
-      "icon": "https://media.api-sports.io/football/teams/434.png"
-    },
     "teamB": {
-      "name": "Estudiantes",
-      "icon": "https://media.api-sports.io/football/teams/435.png"
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/473.png"
     },
-    "leagueName": "Primera LPF - Argentina",
+    "leagueName": "Serie A - Italy",
     "prediction": "AWAY",
-    "date": "2026-02-26"
+    "date": "2026-03-04"
   },
   {
-    "id": "betjck_15_250226",
+    "id": "betjck_03_040326",
     "teamA": {
-      "name": "Barracas Central",
-      "icon": "https://media.api-sports.io/football/teams/4398.png"
+      "name": "Fulham",
+      "icon": "https://media.api-sports.io/football/teams/38.png"
     },
     "teamB": {
-      "name": "Tigre",
-      "icon": "https://media.api-sports.io/football/teams/440.png"
+      "name": "West Ham United",
+      "icon": "https://media.api-sports.io/football/teams/44.png"
     },
-    "leagueName": "Primera LPF - Argentina",
+    "leagueName": "Premier League - England",
     "prediction": "DRAW",
-    "date": "2026-02-25"
+    "date": "2026-03-04"
+  },
+  {
+    "id": "betjck_04_040326",
+    "teamA": {
+      "name": "Aston Villa",
+      "icon": "https://media.api-sports.io/football/teams/66.png"
+    },
+    "teamB": {
+      "name": "Chelsea",
+      "icon": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "leagueName": "Premier League - England",
+    "prediction": "AWAY",
+    "date": "2026-03-04"
+  },
+  {
+    "id": "betjck_05_050326",
+    "teamA": {
+      "name": "Tottenham Hotspur",
+      "icon": "https://media.api-sports.io/football/teams/73.png"
+    },
+    "teamB": {
+      "name": "Crystal Palace",
+      "icon": "https://media.api-sports.io/football/teams/52.png"
+    },
+    "leagueName": "Premier League - England",
+    "prediction": "HOME",
+    "date": "2026-03-05"
+  },
+  {
+    "id": "betjck_06_040326",
+    "teamA": {
+      "name": "Hamburger SV",
+      "icon": "https://media.api-sports.io/football/teams/88.png"
+    },
+    "teamB": {
+      "name": "Bayer Leverkusen",
+      "icon": "https://media.api-sports.io/football/teams/82.png"
+    },
+    "leagueName": "Bundesliga - Germany",
+    "prediction": "AWAY",
+    "date": "2026-03-04"
+  },
+  {
+    "id": "betjck_07_050326",
+    "teamA": {
+      "name": "Lanus",
+      "icon": "https://media.api-sports.io/football/teams/4100.png"
+    },
+    "teamB": {
+      "name": "Boca Juniors",
+      "icon": "https://media.api-sports.io/football/teams/4045.png"
+    },
+    "leagueName": "Primera División - Argentina",
+    "prediction": "AWAY",
+    "date": "2026-03-05"
+  },
+  {
+    "id": "betjck_08_040326",
+    "teamA": {
+      "name": "Universitatea Craiova",
+      "icon": "https://media.api-sports.io/football/teams/905.png"
+    },
+    "teamB": {
+      "name": "CFR Cluj",
+      "icon": "https://media.api-sports.io/football/teams/924.png"
+    },
+    "leagueName": "Liga I - Romania",
+    "prediction": "DRAW",
+    "date": "2026-03-04"
+  },
+  {
+    "id": "betjck_09_040326",
+    "teamA": {
+      "name": "FC Luzern",
+      "icon": "https://media.api-sports.io/football/teams/135.png"
+    },
+    "teamB": {
+      "name": "BSC Young Boys",
+      "icon": "https://media.api-sports.io/football/teams/55.png"
+    },
+    "leagueName": "Super League - Switzerland",
+    "prediction": "AWAY",
+    "date": "2026-03-04"
+  },
+  {
+    "id": "betjck_10_050326",
+    "teamA": {
+      "name": "Caracas FC",
+      "icon": "https://media.api-sports.io/football/teams/2806.png"
+    },
+    "teamB": {
+      "name": "Metropolitanos FC",
+      "icon": "https://media.api-sports.io/football/teams/2808.png"
+    },
+    "leagueName": "Primera División - Venezuela",
+    "prediction": "HOME",
+    "date": "2026-03-05"
   }
 ]
