@@ -1,114 +1,114 @@
 [
   {
-    "id": "eng_bri_nfo_010326",
+    "id": "esp_rma_get_020326",
     "teamA": {
-      "name": "Brighton & Hove Albion",
-      "icon": "https://media.api-sports.io/football/teams/397.png"
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/86.png"
     },
     "teamB": {
-      "name": "Nottingham Forest",
-      "icon": "https://media.api-sports.io/football/teams/360.png"
-    },
-    "leagueName": "English Premier League",
-    "prediction": "HOME WIN & UNDER 2.5",
-    "date": "2026-03-01"
-  },
-  {
-    "id": "eng_ful_tot_010326",
-    "teamA": {
-      "name": "Fulham",
-      "icon": "https://media.api-sports.io/football/teams/383.png"
-    },
-    "teamB": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://media.api-sports.io/football/teams/163.png"
-    },
-    "leagueName": "English Premier League",
-    "prediction": "HOME WIN & UNDER 3.5",
-    "date": "2026-03-01"
-  },
-  {
-    "id": "eng_mun_crp_010326",
-    "teamA": {
-      "name": "Manchester United",
-      "icon": "https://media.api-sports.io/football/teams/33.png"
-    },
-    "teamB": {
-      "name": "Crystal Palace",
-      "icon": "https://media.api-sports.io/football/teams/354.png"
-    },
-    "leagueName": "English Premier League",
-    "prediction": "HOME WIN & UNDER 3.0",
-    "date": "2026-03-01"
-  },
-  {
-    "id": "eng_ars_che_010326",
-    "teamA": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
-    },
-    "teamB": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
-    },
-    "leagueName": "English Premier League",
-    "prediction": "HOME WIN & UNDER 3.5",
-    "date": "2026-03-01"
-  },
-  {
-    "id": "ger_stu_wol_010326",
-    "teamA": {
-      "name": "Stuttgart",
-      "icon": "https://media.api-sports.io/football/teams/1570.png"
-    },
-    "teamB": {
-      "name": "Wolfsburg",
-      "icon": "https://media.api-sports.io/football/teams/155.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-03-01"
-  },
-  {
-    "id": "ita_rom_juv_010326",
-    "teamA": {
-      "name": "Roma",
-      "icon": "https://media.api-sports.io/football/teams/343.png"
-    },
-    "teamB": {
-      "name": "Juventus",
-      "icon": "https://media.api-sports.io/football/teams/496.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "HOME WIN & UNDER 3.0",
-    "date": "2026-03-01"
-  },
-  {
-    "id": "ita_sas_ata_010326",
-    "teamA": {
-      "name": "Sassuolo",
-      "icon": "https://media.api-sports.io/football/teams/674.png"
-    },
-    "teamB": {
-      "name": "Atalanta",
-      "icon": "https://media.api-sports.io/football/teams/1556.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "AWAY WIN & OVER 1.5",
-    "date": "2026-03-01"
-  },
-  {
-    "id": "esp_bet_sev_010326",
-    "teamA": {
-      "name": "Real Betis",
-      "icon": "https://media.api-sports.io/football/teams/111.png"
-    },
-    "teamB": {
-      "name": "Sevilla",
-      "icon": "https://media.api-sports.io/football/teams/423.png"
+      "name": "Getafe",
+      "icon": "https://media.api-sports.io/football/teams/89.png"
     },
     "leagueName": "La Liga",
-    "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-03-01"
+    "prediction": "HOME WIN & UNDER 3.0",
+    "date": "2026-03-02"
+  },
+  {
+    "id": "ita_pis_bol_020326",
+    "teamA": {
+      "name": "Pisa",
+      "icon": "https://media.api-sports.io/football/teams/758.png"
+    },
+    "teamB": {
+      "name": "Bologna",
+      "icon": "https://media.api-sports.io/football/teams/259.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "AWAY WIN & UNDER 3.5",
+    "date": "2026-03-02"
+  },
+  {
+    "id": "ita_udi_fio_020326",
+    "teamA": {
+      "name": "Udinese",
+      "icon": "https://media.api-sports.io/football/teams/315.png"
+    },
+    "teamB": {
+      "name": "Fiorentina",
+      "icon": "https://media.api-sports.io/football/teams/362.png"
+    },
+    "leagueName": "Serie A",
+    "prediction": "DRAW & GOALS OVER 1.5",
+    "date": "2026-03-02"
+  },
+  {
+    "id": "arg_est_vel_020326",
+    "teamA": {
+      "name": "Estudiantes La Plata",
+      "icon": "https://media.api-sports.io/football/teams/1618.png"
+    },
+    "teamB": {
+      "name": "Vélez Sarsfield",
+      "icon": "https://media.api-sports.io/football/teams/1624.png"
+    },
+    "leagueName": "Liga Profesional (Argentina)",
+    "prediction": "HOME WIN & UNDER 3.0",
+    "date": "2026-03-02"
+  },
+  {
+    "id": "arg_rie_pla_020326",
+    "teamA": {
+      "name": "Deportivo Riestra",
+      "icon": "https://media.api-sports.io/football/teams/1828.png"
+    },
+    "teamB": {
+      "name": "Platense",
+      "icon": "https://media.api-sports.io/football/teams/1696.png"
+    },
+    "leagueName": "Liga Profesional (Argentina)",
+    "prediction": "AWAY WIN & UNDER 3.0",
+    "date": "2026-03-02"
+  },
+  {
+    "id": "arg_ind_riv_020326",
+    "teamA": {
+      "name": "Independiente Rivadavia",
+      "icon": "https://media.api-sports.io/football/teams/1712.png"
+    },
+    "teamB": {
+      "name": "River Plate",
+      "icon": "https://media.api-sports.io/football/teams/1717.png"
+    },
+    "leagueName": "Liga Profesional (Argentina)",
+    "prediction": "AWAY WIN & OVER 1.5",
+    "date": "2026-03-02"
+  },
+  {
+    "id": "arg_ban_ald_020326",
+    "teamA": {
+      "name": "Banfield",
+      "icon": "https://media.api-sports.io/football/teams/1724.png"
+    },
+    "teamB": {
+      "name": "Aldosivi",
+      "icon": "https://media.api-sports.io/football/teams/1731.png"
+    },
+    "leagueName": "Liga Profesional (Argentina)",
+    "prediction": "HOME WIN & UNDER 3.0",
+    "date": "2026-03-02"
+  },
+  {
+    "id": "prt_gil_ben_020326",
+    "teamA": {
+      "name": "Gil Vicente",
+      "icon": "https://media.api-sports.io/football/teams/1249.png"
+    },
+    "teamB": {
+      "name": "Benfica",
+      "icon": "https://media.api-sports.io/football/teams/162.png"
+    },
+    "leagueName": "Primeira Liga",
+    "prediction": "AWAY WIN & UNDER 3.0",
+    "date": "2026-03-02"
   }
 ]
