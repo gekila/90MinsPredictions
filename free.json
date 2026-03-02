@@ -1,44 +1,44 @@
 [
   {
-    "id": "eng_ars_che_010326",
+    "id": "esp_rma_get_020326",
     "teamA": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/86.png"
     },
     "teamB": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
+      "name": "Getafe",
+      "icon": "https://media.api-sports.io/football/teams/89.png"
     },
-    "leagueName": "English Premier League",
+    "leagueName": "La Liga",
     "prediction": "HOME WIN & UNDER 3.5",
-    "date": "2026-03-01"
+    "date": "2026-03-02"
   },
   {
-    "id": "ita_rom_juv_010326",
+    "id": "ita_udi_fio_020326",
     "teamA": {
-      "name": "Roma",
-      "icon": "https://media.api-sports.io/football/teams/343.png"
+      "name": "Udinese",
+      "icon": "https://media.api-sports.io/football/teams/315.png"
     },
     "teamB": {
-      "name": "Juventus",
-      "icon": "https://media.api-sports.io/football/teams/496.png"
+      "name": "Fiorentina",
+      "icon": "https://media.api-sports.io/football/teams/362.png"
     },
     "leagueName": "Serie A",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-01"
+    "prediction": "DRAW OR AWAY WIN & UNDER 3.5",
+    "date": "2026-03-02"
   },
   {
-    "id": "ger_stu_wol_010326",
+    "id": "prt_gil_ben_020326",
     "teamA": {
-      "name": "Stuttgart",
-      "icon": "https://media.api-sports.io/football/teams/1570.png"
+      "name": "Gil Vicente",
+      "icon": "https://media.api-sports.io/football/teams/1249.png"
     },
     "teamB": {
-      "name": "Wolfsburg",
-      "icon": "https://media.api-sports.io/football/teams/155.png"
+      "name": "Benfica",
+      "icon": "https://media.api-sports.io/football/teams/162.png"
     },
-    "leagueName": "Bundesliga",
-    "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-03-01"
+    "leagueName": "Primeira Liga",
+    "prediction": "AWAY WIN & OVER 1.5",
+    "date": "2026-03-02"
   }
 ]
