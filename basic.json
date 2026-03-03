@@ -10,77 +10,77 @@
       "icon": "https://media.api-sports.io/football/teams/40.png"
     },
     "leagueName": "Premier League",
-    "prediction": "AWAY WIN & UNDER 3.0",
+    "prediction": "DRAW OR AWAY WIN & UNDER 3.0",
     "date": "2026-03-03"
   },
   {
-    "id": "esp_sev_val_030326",
+    "id": "eng_eve_bur_030326",
     "teamA": {
-      "name": "Sevilla",
-      "icon": "https://media.api-sports.io/football/teams/536.png"
+      "name": "Everton",
+      "icon": "https://media.api-sports.io/football/teams/45.png"
     },
     "teamB": {
-      "name": "Valencia",
-      "icon": "https://media.api-sports.io/football/teams/532.png"
+      "name": "Burnley",
+      "icon": "https://media.api-sports.io/football/teams/44.png"
     },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.0",
+    "leagueName": "Premier League",
+    "prediction": "BOTH TEAMS TO SCORE & OVER 2.0",
     "date": "2026-03-03"
   },
   {
-    "id": "ita_laz_tor_030326",
+    "id": "eng_lee_sun_030326",
     "teamA": {
-      "name": "Lazio",
-      "icon": "https://media.api-sports.io/football/teams/487.png"
+      "name": "Leeds United",
+      "icon": "https://media.api-sports.io/football/teams/55.png"
     },
     "teamB": {
-      "name": "Torino",
-      "icon": "https://media.api-sports.io/football/teams/503.png"
+      "name": "Sunderland",
+      "icon": "https://media.api-sports.io/football/teams/73.png"
     },
-    "leagueName": "Serie A",
-    "prediction": "HOME WIN & OVER 1.5",
+    "leagueName": "Premier League",
+    "prediction": "DRAW & UNDER 2.5",
     "date": "2026-03-03"
   },
   {
-    "id": "ger_rbl_fra_030326",
+    "id": "eng_bou_bre_030326",
     "teamA": {
-      "name": "RB Leipzig",
-      "icon": "https://media.api-sports.io/football/teams/173.png"
+      "name": "Bournemouth",
+      "icon": "https://media.api-sports.io/football/teams/51.png"
     },
     "teamB": {
-      "name": "Eintracht Frankfurt",
-      "icon": "https://media.api-sports.io/football/teams/169.png"
+      "name": "Brentford",
+      "icon": "https://media.api-sports.io/football/teams/54.png"
     },
-    "leagueName": "Bundesliga",
-    "prediction": "HOME WIN & OVER 1.5",
+    "leagueName": "Premier League",
+    "prediction": "HOME WIN & OVER 2.5",
     "date": "2026-03-03"
   },
   {
-    "id": "fra_lil_mon_030326",
+    "id": "eng_ips_hul_030326",
     "teamA": {
-      "name": "Lille",
-      "icon": "https://media.api-sports.io/football/teams/79.png"
+      "name": "Ipswich Town",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
     "teamB": {
-      "name": "Monaco",
-      "icon": "https://media.api-sports.io/football/teams/91.png"
+      "name": "Hull City",
+      "icon": "https://media.api-sports.io/football/teams/83.png"
     },
-    "leagueName": "Ligue 1",
-    "prediction": "DRAW OR AWAY WIN & OVER 1.5",
+    "leagueName": "EFL Championship",
+    "prediction": "BOTH TEAMS TO SCORE & DRAW NO BET",
     "date": "2026-03-03"
   },
   {
-    "id": "por_spo_bra_030326",
+    "id": "esp_bar_atm_030326",
     "teamA": {
-      "name": "Sporting CP",
-      "icon": "https://media.api-sports.io/football/teams/228.png"
+      "name": "Barcelona",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
     },
     "teamB": {
-      "name": "SC Braga",
-      "icon": "https://media.api-sports.io/football/teams/151.png"
+      "name": "Atlético Madrid",
+      "icon": "https://media.api-sports.io/football/teams/530.png"
     },
-    "leagueName": "Primeira Liga",
-    "prediction": "HOME WIN & UNDER 3.5",
+    "leagueName": "Copa del Rey",
+    "prediction": "DRAW & UNDER 3.5",
     "date": "2026-03-03"
   }
 ]
