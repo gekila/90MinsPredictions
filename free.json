@@ -11,7 +11,8 @@
     },
     "leagueName": "Premier League",
     "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-03-04"
+    "date": "2026-03-04",
+    "results": "PENDING"
   },
   {
     "id": "eng_bri_ars_040326",
@@ -25,7 +26,8 @@
     },
     "leagueName": "Premier League",
     "prediction": "AWAY WIN & BOTH TEAMS TO SCORE",
-    "date": "2026-03-04"
+    "date": "2026-03-04",
+    "results": "PENDING"
   },
   {
     "id": "ger_hsv_lev_040326",
@@ -39,6 +41,7 @@
     },
     "leagueName": "Bundesliga",
     "prediction": "AWAY WIN & OVER 2.0",
-    "date": "2026-03-04"
+    "date": "2026-03-04",
+    "results": "PENDING"
   }
 ]
