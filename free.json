@@ -1,44 +1,44 @@
 [
   {
-    "id": "eng_wol_liv_030326",
+    "id": "eng_mci_nfo_040326",
     "teamA": {
-      "name": "Wolves",
-      "icon": "https://media.api-sports.io/football/teams/39.png"
+      "name": "Manchester City",
+      "icon": "https://media.api-sports.io/football/teams/50.png"
     },
     "teamB": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
+      "name": "Nottingham Forest",
+      "icon": "https://media.api-sports.io/football/teams/65.png"
     },
     "leagueName": "Premier League",
-    "prediction": "AWAY WIN & UNDER 3.5",
-    "date": "2026-03-03"
+    "prediction": "HOME WIN & OVER 2.5",
+    "date": "2026-03-04"
   },
   {
-    "id": "esp_sev_val_030326",
+    "id": "eng_bri_ars_040326",
     "teamA": {
-      "name": "Sevilla",
-      "icon": "https://media.api-sports.io/football/teams/536.png"
+      "name": "Brighton",
+      "icon": "https://media.api-sports.io/football/teams/397.png"
     },
     "teamB": {
-      "name": "Valencia",
-      "icon": "https://media.api-sports.io/football/teams/532.png"
+      "name": "Arsenal",
+      "icon": "https://media.api-sports.io/football/teams/42.png"
     },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-03"
+    "leagueName": "Premier League",
+    "prediction": "AWAY WIN & BOTH TEAMS TO SCORE",
+    "date": "2026-03-04"
   },
   {
-    "id": "ita_laz_tor_030326",
+    "id": "ger_hsv_lev_040326",
     "teamA": {
-      "name": "Lazio",
-      "icon": "https://media.api-sports.io/football/teams/487.png"
+      "name": "Hamburger SV",
+      "icon": "https://media.api-sports.io/football/teams/100.png"
     },
     "teamB": {
-      "name": "Torino",
-      "icon": "https://media.api-sports.io/football/teams/503.png"
+      "name": "Bayer Leverkusen",
+      "icon": "https://media.api-sports.io/football/teams/168.png"
     },
-    "leagueName": "Serie A",
-    "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-03-03"
+    "leagueName": "Bundesliga",
+    "prediction": "AWAY WIN & OVER 2.0",
+    "date": "2026-03-04"
   }
 ]
