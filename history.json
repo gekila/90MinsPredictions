@@ -1,5 +1,66 @@
 [
   {
+    "date": "Tuesday, 3rd March 2026",
+    "gamesList": [
+      {
+        "teamA": "Wolves",
+        "teamB": "Liverpool",
+        "prediction": "Wolves Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Leeds United",
+        "teamB": "Sunderland",
+        "prediction": "Sunderland Win",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Everton",
+        "teamB": "Burnley",
+        "prediction": "Everton Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bournemouth",
+        "teamB": "Brentford",
+        "prediction": "Draw",
+        "odds": "0-0",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Ipswich Town",
+        "teamB": "Hull City",
+        "prediction": "Ipswich Win",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Como",
+        "teamB": "Inter",
+        "prediction": "Draw",
+        "odds": "0-0",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Barcelona",
+        "teamB": "Atlético Madrid",
+        "prediction": "Barcelona Win",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Port Vale",
+        "teamB": "Bristol City",
+        "prediction": "Port Vale Win",
+        "odds": "1-0",
+        "results": "WIN"
+       }
+  ]
+  },
+  {
     "date": "Monday, 2nd March 2026",
     "gamesList": [
       {
