@@ -1,114 +1,86 @@
 [
   {
-    "id": "eng_vil_che_040326",
+    "id": "eng_tot_crp_050326",
     "teamA": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "Tottenham",
+      "icon": "https://media.api-sports.io/football/teams/47.png"
     },
     "teamB": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/61.png"
+      "name": "Crystal Palace",
+      "icon": "https://media.api-sports.io/football/teams/52.png"
     },
     "leagueName": "Premier League",
-    "prediction": "AWAY WIN OR DRAW & OVER 2.0",
-    "date": "2026-03-04"
+    "prediction": "HOME WIN & OVER 2.0",
+    "date": "2026-03-05"
   },
   {
-    "id": "eng_bri_ars_040326",
+    "id": "fra_lyo_len_050326",
     "teamA": {
-      "name": "Brighton",
-      "icon": "https://media.api-sports.io/football/teams/397.png"
+      "name": "Lyon",
+      "icon": "https://media.api-sports.io/football/teams/80.png"
     },
     "teamB": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
+      "name": "Lens",
+      "icon": "https://media.api-sports.io/football/teams/116.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "AWAY WIN & BOTH TEAMS TO SCORE",
-    "date": "2026-03-04"
+    "leagueName": "Coupe de France",
+    "prediction": "DRAW OR AWAY WIN & UNDER 3.5",
+    "date": "2026-03-05"
   },
   {
-    "id": "eng_ful_wes_040326",
+    "id": "bul_lud_lev_050326",
     "teamA": {
-      "name": "Fulham",
-      "icon": "https://media.api-sports.io/football/teams/55.png"
+      "name": "Ludogorets Razgrad",
+      "icon": "https://media.api-sports.io/football/teams/553.png"
     },
     "teamB": {
-      "name": "West Ham",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
+      "name": "Levski Sofia",
+      "icon": "https://media.api-sports.io/football/teams/554.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN & UNDER 3.0",
-    "date": "2026-03-04"
+    "leagueName": "Bulgarian First League",
+    "prediction": "HOME WIN & UNDER 3.5",
+    "date": "2026-03-05"
   },
   {
-    "id": "eng_mci_nff_040326",
+    "id": "cze_kar_plz_050326",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
+      "name": "Karvina",
+      "icon": "https://media.api-sports.io/football/teams/636.png"
     },
     "teamB": {
-      "name": "Nottingham Forest",
-      "icon": "https://media.api-sports.io/football/teams/75.png"
+      "name": "Viktoria Plzen",
+      "icon": "https://media.api-sports.io/football/teams/645.png"
     },
-    "leagueName": "Premier League",
+    "leagueName": "Czech Cup",
+    "prediction": "AWAY WIN & OVER 2.0",
+    "date": "2026-03-05"
+  },
+  {
+    "id": "afc_bgu_tam_050326",
+    "teamA": {
+      "name": "Bangkok United",
+      "icon": "https://media.api-sports.io/football/teams/1418.png"
+    },
+    "teamB": {
+      "name": "Tampines Rovers",
+      "icon": "https://media.api-sports.io/football/teams/1419.png"
+    },
+    "leagueName": "AFC Champions League Two",
     "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-03-04"
+    "date": "2026-03-05"
   },
   {
-    "id": "eng_new_mun_040326",
+    "id": "ken_pos_gor_050326",
     "teamA": {
-      "name": "Newcastle United",
-      "icon": "https://media.api-sports.io/football/teams/67.png"
+      "name": "Posta Rangers",
+      "icon": "https://media.api-sports.io/football/teams/8765.png"
     },
     "teamB": {
-      "name": "Manchester United",
-      "icon": "https://media.api-sports.io/football/teams/33.png"
+      "name": "Gor Mahia",
+      "icon": "https://media.api-sports.io/football/teams/8770.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "AWAY WIN & OVER 2.0",
-    "date": "2026-03-04"
-  },
-  {
-    "id": "ger_hsv_lev_040326",
-    "teamA": {
-      "name": "Hamburger SV",
-      "icon": "https://media.api-sports.io/football/teams/123.png"
-    },
-    "teamB": {
-      "name": "Bayer Leverkusen",
-      "icon": "https://media.api-sports.io/football/teams/124.png"
-    },
-    "leagueName": "Bundesliga",
-    "prediction": "AWAY WIN & OVER 2.5",
-    "date": "2026-03-04"
-  },
-  {
-    "id": "ita_laz_ata_040326",
-    "teamA": {
-      "name": "Lazio",
-      "icon": "https://media.api-sports.io/football/teams/109.png"
-    },
-    "teamB": {
-      "name": "Atalanta",
-      "icon": "https://media.api-sports.io/football/teams/117.png"
-    },
-    "leagueName": "Coppa Italia",
-    "prediction": "DRAW OR AWAY WIN & UNDER 3.0",
-    "date": "2026-03-04"
-  },
-  {
-    "id": "sco_abe_cel_040326",
-    "teamA": {
-      "name": "Aberdeen",
-      "icon": "https://media.api-sports.io/football/teams/353.png"
-    },
-    "teamB": {
-      "name": "Celtic",
-      "icon": "https://media.api-sports.io/football/teams/352.png"
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "AWAY WIN & OVER 2.0",
-    "date": "2026-03-04"
+    "leagueName": "Kenyan Premier League",
+    "prediction": "AWAY WIN OR DRAW & UNDER 3.5",
+    "date": "2026-03-05"
   }
 ]
