@@ -19,9 +19,9 @@
       {
         "teamA": "Fulham",
         "teamB": "West Ham",
-        "prediction": "Fulham Win",
+        "prediction": "West Ham Win",
         "odds": "0-1",
-        "results": "LOSS"
+        "results": "WIN"
       },
       {
         "teamA": "Newcastle United",
