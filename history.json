@@ -1,5 +1,66 @@
 [
   {
+    "date": "Thursday, 5th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Tottenham",
+        "teamB": "Crystal Palace",
+        "prediction": "Tottenham Win",
+        "odds": "1-3",
+        "results": "LOSE"
+      },
+      {
+        "teamA": "Radomiak Radom",
+        "teamB": "Arka Gdynia",
+        "prediction": "Radomiak Radom Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lyon",
+        "teamB": "Lens",
+        "prediction": "Draw",
+        "odds": "2-2",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Brighton",
+        "teamB": "Arsenal",
+        "prediction": "Arsenal Win",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Manchester City",
+        "teamB": "Nottingham Forest",
+        "prediction": "Manchester City Win",
+        "odds": "2-2",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Fulham",
+        "teamB": "West Ham",
+        "prediction": "West Ham Win",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Aston Villa",
+        "teamB": "Chelsea",
+        "prediction": "Chelsea Win",
+        "odds": "1-4",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Hamburger SV",
+        "teamB": "Bayer Leverkusen",
+        "prediction": "Bayer Leverkusen Win",
+        "odds": "0-1",
+        "results": "WIN"
+     }
+    ]
+  },
+  {
     "date": "Wednesday, 4th March 2026",
     "gamesList": [
       {
