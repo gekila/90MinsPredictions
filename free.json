@@ -1,47 +1,47 @@
 [
   {
-    "id": "eng_tot_crp_050326",
+    "id": "ger_bay_mgl_060326",
     "teamA": {
-      "name": "Tottenham",
-      "icon": "https://media.api-sports.io/football/teams/47.png"
+      "name": "Bayern Munich",
+      "icon": "https://media.api-sports.io/football/teams/157.png"
     },
     "teamB": {
-      "name": "Crystal Palace",
-      "icon": "https://media.api-sports.io/football/teams/52.png"
+      "name": "Borussia Monchengladbach",
+      "icon": "https://media.api-sports.io/football/teams/165.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN & OVER 2.0",
-    "date": "2026-03-05",
+    "leagueName": "German Bundesliga",
+    "prediction": "HOME WIN & OVER 2.5",
+    "date": "2026-03-06",
     "results": "PENDING"
   },
   {
-    "id": "fra_lyo_len_050326",
+    "id": "fra_psg_mon_060326",
     "teamA": {
-      "name": "Lyon",
-      "icon": "https://media.api-sports.io/football/teams/80.png"
+      "name": "Paris Saint-Germain",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
     "teamB": {
-      "name": "Lens",
-      "icon": "https://media.api-sports.io/football/teams/116.png"
+      "name": "Monaco",
+      "icon": "https://media.api-sports.io/football/teams/91.png"
     },
-    "leagueName": "Coupe de France",
-    "prediction": "DRAW OR AWAY WIN & UNDER 3.5",
-    "date": "2026-03-05",
+    "leagueName": "French Ligue 1",
+    "prediction": "HOME WIN OR DRAW & OVER 2.0",
+    "date": "2026-03-06",
     "results": "PENDING"
   },
   {
-    "id": "cze_kar_plz_050326",
+    "id": "ita_nap_tor_060326",
     "teamA": {
-      "name": "Karvina",
-      "icon": "https://media.api-sports.io/football/teams/636.png"
+      "name": "Napoli",
+      "icon": "https://media.api-sports.io/football/teams/492.png"
     },
     "teamB": {
-      "name": "Viktoria Plzen",
-      "icon": "https://media.api-sports.io/football/teams/645.png"
+      "name": "Torino",
+      "icon": "https://media.api-sports.io/football/teams/503.png"
     },
-    "leagueName": "Czech Cup",
-    "prediction": "AWAY WIN & OVER 2.0",
-    "date": "2026-03-05",
+    "leagueName": "Italian Serie A",
+    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+    "date": "2026-03-06",
     "results": "PENDING"
   }
 ]
