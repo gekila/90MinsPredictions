@@ -1,86 +1,86 @@
 [
   {
-    "id": "ger_bay_mgl_060326",
+    "id": "ger_rbl_aug_070326",
     "teamA": {
-      "name": "Bayern Munich",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
+      "name": "RB Leipzig",
+      "icon": "https://media.api-sports.io/football/teams/173.png"
     },
     "teamB": {
-      "name": "Borussia Monchengladbach",
-      "icon": "https://media.api-sports.io/football/teams/165.png"
+      "name": "Augsburg",
+      "icon": "https://media.api-sports.io/football/teams/170.png"
     },
     "leagueName": "German Bundesliga",
     "prediction": "3-1",
-    "date": "2026-03-06"
+    "date": "2026-03-07"
   },
   {
-    "id": "fra_psg_mon_060326",
+    "id": "ger_col_dor_070326",
     "teamA": {
-      "name": "Paris Saint-Germain",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
+      "name": "FC Cologne",
+      "icon": "https://media.api-sports.io/football/teams/192.png"
     },
     "teamB": {
-      "name": "Monaco",
-      "icon": "https://media.api-sports.io/football/teams/91.png"
+      "name": "Borussia Dortmund",
+      "icon": "https://media.api-sports.io/football/teams/165.png"
     },
-    "leagueName": "French Ligue 1",
-    "prediction": "2-1",
-    "date": "2026-03-06"
+    "leagueName": "German Bundesliga",
+    "prediction": "1-2",
+    "date": "2026-03-07"
   },
   {
-    "id": "ita_nap_tor_060326",
+    "id": "ita_ata_udi_070326",
     "teamA": {
-      "name": "Napoli",
-      "icon": "https://media.api-sports.io/football/teams/492.png"
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/499.png"
     },
     "teamB": {
-      "name": "Torino",
-      "icon": "https://media.api-sports.io/football/teams/503.png"
+      "name": "Udinese",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
     },
     "leagueName": "Italian Serie A",
-    "prediction": "2-0",
-    "date": "2026-03-06"
+    "prediction": "2-1",
+    "date": "2026-03-07"
   },
   {
-    "id": "esp_cel_rma_060326",
+    "id": "ita_juv_pis_070326",
     "teamA": {
-      "name": "Celta Vigo",
-      "icon": "https://media.api-sports.io/football/teams/538.png"
+      "name": "Juventus",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
     },
     "teamB": {
-      "name": "Real Madrid",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
+      "name": "Pisa",
+      "icon": "https://media.api-sports.io/football/teams/515.png"
     },
-    "leagueName": "Spanish La Liga",
-    "prediction": "1-2",
-    "date": "2026-03-06"
+    "leagueName": "Italian Serie A",
+    "prediction": "3-0",
+    "date": "2026-03-07"
   },
   {
-    "id": "ned_her_utr_060326",
+    "id": "fra_nan_ang_070326",
     "teamA": {
-      "name": "Heracles",
-      "icon": "https://media.api-sports.io/football/teams/683.png"
+      "name": "Nantes",
+      "icon": "https://media.api-sports.io/football/teams/83.png"
     },
     "teamB": {
-      "name": "FC Utrecht",
-      "icon": "https://media.api-sports.io/football/teams/676.png"
+      "name": "Angers",
+      "icon": "https://media.api-sports.io/football/teams/77.png"
     },
-    "leagueName": "Dutch Eredivisie",
-    "prediction": "1-2",
-    "date": "2026-03-06"
-  },
-  {
-    "id": "eng_pre_oxf_060326",
-    "teamA": {
-      "name": "Preston North End",
-      "icon": "https://media.api-sports.io/football/teams/135.png"
-    },
-    "teamB": {
-      "name": "Oxford United",
-      "icon": "https://media.api-sports.io/football/teams/720.png"
-    },
-    "leagueName": "EFL Championship",
+    "leagueName": "French Ligue 1",
     "prediction": "1-0",
-    "date": "2026-03-06"
+    "date": "2026-03-07"
+  },
+  {
+    "id": "eng_man_ars_070326",
+    "teamA": {
+      "name": "Mansfield Town",
+      "icon": "https://media.api-sports.io/football/teams/746.png"
+    },
+    "teamB": {
+      "name": "Arsenal",
+      "icon": "https://media.api-sports.io/football/teams/42.png"
+    },
+    "leagueName": "FA Cup",
+    "prediction": "0-3",
+    "date": "2026-03-07"
   }
 ]
