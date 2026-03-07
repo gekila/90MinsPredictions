@@ -1,47 +1,47 @@
 [
   {
-    "id": "ger_bay_mgl_060326",
+    "id": "ger_rbl_aug_070326",
     "teamA": {
-      "name": "Bayern Munich",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
+      "name": "RB Leipzig",
+      "icon": "https://media.api-sports.io/football/teams/173.png"
     },
     "teamB": {
-      "name": "Borussia Monchengladbach",
+      "name": "Augsburg",
+      "icon": "https://media.api-sports.io/football/teams/170.png"
+    },
+    "leagueName": "German Bundesliga",
+    "prediction": "HOME WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-07",
+    "results": "PENDING"
+  },
+  {
+    "id": "ita_ata_udi_070326",
+    "teamA": {
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/499.png"
+    },
+    "teamB": {
+      "name": "Udinese",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
+    },
+    "leagueName": "Italian Serie A",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-03-07",
+    "results": "PENDING"
+  },
+  {
+    "id": "ger_col_dor_070326",
+    "teamA": {
+      "name": "FC Cologne",
+      "icon": "https://media.api-sports.io/football/teams/192.png"
+    },
+    "teamB": {
+      "name": "Borussia Dortmund",
       "icon": "https://media.api-sports.io/football/teams/165.png"
     },
     "leagueName": "German Bundesliga",
-    "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-03-06",
-    "results": "PENDING"
-  },
-  {
-    "id": "fra_psg_mon_060326",
-    "teamA": {
-      "name": "Paris Saint-Germain",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
-    },
-    "teamB": {
-      "name": "Monaco",
-      "icon": "https://media.api-sports.io/football/teams/91.png"
-    },
-    "leagueName": "French Ligue 1",
-    "prediction": "HOME WIN OR DRAW & OVER 2.0",
-    "date": "2026-03-06",
-    "results": "PENDING"
-  },
-  {
-    "id": "ita_nap_tor_060326",
-    "teamA": {
-      "name": "Napoli",
-      "icon": "https://media.api-sports.io/football/teams/492.png"
-    },
-    "teamB": {
-      "name": "Torino",
-      "icon": "https://media.api-sports.io/football/teams/503.png"
-    },
-    "leagueName": "Italian Serie A",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-06",
+    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-07",
     "results": "PENDING"
   }
 ]
