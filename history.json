@@ -1,5 +1,66 @@
 [
   {
+    "date": "Friday, 6th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Bayern Munich",
+        "teamB": "Borussia Monchengladbach",
+        "prediction": "Bayern Munich Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Paris Saint-Germain",
+        "teamB": "Monaco",
+        "prediction": "Paris Saint-Germain Win",
+        "odds": "2-2",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Osasuna",
+        "teamB": "Mallorca",
+        "prediction": "Osasuna Win",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Preston North End",
+        "teamB": "Oxford United",
+        "prediction": "Preston North End Win",
+        "odds": "1-1",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Cheltenham Town",
+        "teamB": "Barrow",
+        "prediction": "Cheltenham Town Win",
+        "odds": "0-1",
+        "results": "LOSE"
+      },
+      {
+        "teamA": "Heracles",
+        "teamB": "FC Utrecht",
+        "prediction": "FC Utrecht Win",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Galway United",
+        "teamB": "Dundalk",
+        "prediction": "Dundalk Win",
+        "odds": "2-2",
+        "results": "DRAW"
+      },
+      {
+        "teamA": "Waterford",
+        "teamB": "Bohemian FC",
+        "prediction": "Bohemian FC Win",
+        "odds": "0-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Thursday, 5th March 2026",
     "gamesList": [
       {
