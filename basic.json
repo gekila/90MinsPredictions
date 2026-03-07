@@ -1,86 +1,86 @@
 [
   {
-    "id": "ger_bay_mgl_060326",
+    "id": "ger_rbl_aug_070326",
     "teamA": {
-      "name": "Bayern Munich",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
+      "name": "RB Leipzig",
+      "icon": "https://media.api-sports.io/football/teams/173.png"
     },
     "teamB": {
-      "name": "Borussia Monchengladbach",
+      "name": "Augsburg",
+      "icon": "https://media.api-sports.io/football/teams/170.png"
+    },
+    "leagueName": "German Bundesliga",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-03-07"
+  },
+  {
+    "id": "ger_fre_lev_070326",
+    "teamA": {
+      "name": "Freiburg",
+      "icon": "https://media.api-sports.io/football/teams/160.png"
+    },
+    "teamB": {
+      "name": "Bayer Leverkusen",
+      "icon": "https://media.api-sports.io/football/teams/168.png"
+    },
+    "leagueName": "German Bundesliga",
+    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-07"
+  },
+  {
+    "id": "ger_col_dor_070326",
+    "teamA": {
+      "name": "FC Cologne",
+      "icon": "https://media.api-sports.io/football/teams/192.png"
+    },
+    "teamB": {
+      "name": "Borussia Dortmund",
       "icon": "https://media.api-sports.io/football/teams/165.png"
     },
     "leagueName": "German Bundesliga",
-    "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-03-06"
+    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-07"
   },
   {
-    "id": "fra_psg_mon_060326",
+    "id": "fra_nan_ang_070326",
     "teamA": {
-      "name": "Paris Saint-Germain",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
+      "name": "Nantes",
+      "icon": "https://media.api-sports.io/football/teams/83.png"
     },
     "teamB": {
-      "name": "Monaco",
-      "icon": "https://media.api-sports.io/football/teams/91.png"
+      "name": "Angers",
+      "icon": "https://media.api-sports.io/football/teams/77.png"
     },
     "leagueName": "French Ligue 1",
-    "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-03-06"
-  },
-  {
-    "id": "esp_osa_mal_060326",
-    "teamA": {
-      "name": "Osasuna",
-      "icon": "https://media.api-sports.io/football/teams/727.png"
-    },
-    "teamB": {
-      "name": "Mallorca",
-      "icon": "https://media.api-sports.io/football/teams/798.png"
-    },
-    "leagueName": "Spanish La Liga",
     "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-06"
+    "date": "2026-03-07"
   },
   {
-    "id": "eng_pre_oxf_060326",
+    "id": "ita_ata_udi_070326",
     "teamA": {
-      "name": "Preston North End",
-      "icon": "https://media.api-sports.io/football/teams/135.png"
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/499.png"
     },
     "teamB": {
-      "name": "Oxford United",
-      "icon": "https://media.api-sports.io/football/teams/720.png"
+      "name": "Udinese",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
+    },
+    "leagueName": "Italian Serie A",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-03-07"
+  },
+  {
+    "id": "eng_ips_lei_070326",
+    "teamA": {
+      "name": "Ipswich Town",
+      "icon": "https://media.api-sports.io/football/teams/57.png"
+    },
+    "teamB": {
+      "name": "Leicester City",
+      "icon": "https://media.api-sports.io/football/teams/46.png"
     },
     "leagueName": "EFL Championship",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-06"
-  },
-  {
-    "id": "eng_che_bar_060326",
-    "teamA": {
-      "name": "Cheltenham Town",
-      "icon": "https://media.api-sports.io/football/teams/345.png"
-    },
-    "teamB": {
-      "name": "Barrow",
-      "icon": "https://media.api-sports.io/football/teams/357.png"
-    },
-    "leagueName": "England League Two",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-06"
-  },
-  {
-    "id": "irl_gal_dun_060326",
-    "teamA": {
-      "name": "Galway United",
-      "icon": "https://media.api-sports.io/football/teams/2077.png"
-    },
-    "teamB": {
-      "name": "Dundalk",
-      "icon": "https://media.api-sports.io/football/teams/846.png"
-    },
-    "leagueName": "Ireland Premier Division",
-    "prediction": "AWAY WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-06"
+    "prediction": "HOME WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-07"
   }
 ]
