@@ -1,86 +1,86 @@
 [
   {
-    "id": "ger_rbl_aug_070326",
+    "id": "ita_mil_int_080326",
     "teamA": {
-      "name": "RB Leipzig",
-      "icon": "https://media.api-sports.io/football/teams/173.png"
+      "name": "AC Milan",
+      "icon": "https://media.api-sports.io/football/teams/489.png"
     },
     "teamB": {
-      "name": "Augsburg",
-      "icon": "https://media.api-sports.io/football/teams/170.png"
-    },
-    "leagueName": "German Bundesliga",
-    "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-03-07"
-  },
-  {
-    "id": "ger_fre_lev_070326",
-    "teamA": {
-      "name": "Freiburg",
-      "icon": "https://media.api-sports.io/football/teams/160.png"
-    },
-    "teamB": {
-      "name": "Bayer Leverkusen",
-      "icon": "https://media.api-sports.io/football/teams/168.png"
-    },
-    "leagueName": "German Bundesliga",
-    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-07"
-  },
-  {
-    "id": "ger_col_dor_070326",
-    "teamA": {
-      "name": "FC Cologne",
-      "icon": "https://media.api-sports.io/football/teams/192.png"
-    },
-    "teamB": {
-      "name": "Borussia Dortmund",
-      "icon": "https://media.api-sports.io/football/teams/165.png"
-    },
-    "leagueName": "German Bundesliga",
-    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-07"
-  },
-  {
-    "id": "fra_nan_ang_070326",
-    "teamA": {
-      "name": "Nantes",
-      "icon": "https://media.api-sports.io/football/teams/83.png"
-    },
-    "teamB": {
-      "name": "Angers",
-      "icon": "https://media.api-sports.io/football/teams/77.png"
-    },
-    "leagueName": "French Ligue 1",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-07"
-  },
-  {
-    "id": "ita_ata_udi_070326",
-    "teamA": {
-      "name": "Atalanta",
-      "icon": "https://media.api-sports.io/football/teams/499.png"
-    },
-    "teamB": {
-      "name": "Udinese",
-      "icon": "https://media.api-sports.io/football/teams/496.png"
+      "name": "Inter Milan",
+      "icon": "https://media.api-sports.io/football/teams/505.png"
     },
     "leagueName": "Italian Serie A",
-    "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-03-07"
+    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-08"
   },
   {
-    "id": "eng_ips_lei_070326",
+    "id": "ita_gen_rom_080326",
     "teamA": {
-      "name": "Ipswich Town",
-      "icon": "https://media.api-sports.io/football/teams/57.png"
+      "name": "Genoa",
+      "icon": "https://media.api-sports.io/football/teams/495.png"
     },
     "teamB": {
-      "name": "Leicester City",
-      "icon": "https://media.api-sports.io/football/teams/46.png"
+      "name": "AS Roma",
+      "icon": "https://media.api-sports.io/football/teams/497.png"
     },
-    "leagueName": "EFL Championship",
+    "leagueName": "Italian Serie A",
+    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-08"
+  },
+  {
+    "id": "spa_ath_bar_080326",
+    "teamA": {
+      "name": "Athletic Bilbao",
+      "icon": "https://media.api-sports.io/football/teams/531.png"
+    },
+    "teamB": {
+      "name": "Barcelona",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
+    },
+    "leagueName": "Spanish La Liga",
+    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-08"
+  },
+  {
+    "id": "spa_sev_ray_080326",
+    "teamA": {
+      "name": "Sevilla",
+      "icon": "https://media.api-sports.io/football/teams/536.png"
+    },
+    "teamB": {
+      "name": "Rayo Vallecano",
+      "icon": "https://media.api-sports.io/football/teams/728.png"
+    },
+    "leagueName": "Spanish La Liga",
+    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+    "date": "2026-03-08"
+  },
+  {
+    "id": "ger_unb_wbr_080326",
+    "teamA": {
+      "name": "Union Berlin",
+      "icon": "https://media.api-sports.io/football/teams/182.png"
+    },
+    "teamB": {
+      "name": "Werder Bremen",
+      "icon": "https://media.api-sports.io/football/teams/134.png"
+    },
+    "leagueName": "German Bundesliga",
     "prediction": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-07"
+    "date": "2026-03-08"
+  },
+  {
+    "id": "fra_lens_metz_080326",
+    "teamA": {
+      "name": "Lens",
+      "icon": "https://media.api-sports.io/football/teams/116.png"
+    },
+    "teamB": {
+      "name": "Metz",
+      "icon": "https://media.api-sports.io/football/teams/112.png"
+    },
+    "leagueName": "French Ligue 1",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-03-08"
   }
 ]
