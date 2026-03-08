@@ -1,5 +1,66 @@
 [
   {
+    "date": "Saturday, 7th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Bayern Munich",
+        "teamB": "Borussia Monchengladbach",
+        "prediction": "Bayern Munich Win",
+        "odds": "4-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "RB Leipzig",
+        "teamB": "Augsburg",
+        "prediction": "RB Leipzig Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "FC Cologne",
+        "teamB": "Borussia Dortmund",
+        "prediction": "Borussia Dortmund Win",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atalanta",
+        "teamB": "Udinese",
+        "prediction": "Atalanta Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Juventus",
+        "teamB": "Pisa",
+        "prediction": "Juventus Win",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Nantes",
+        "teamB": "Angers",
+        "prediction": "Nantes Win",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mansfield Town",
+        "teamB": "Arsenal",
+        "prediction": "Arsenal Win",
+        "odds": "0-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Ipswich Town",
+        "teamB": "Leicester City",
+        "prediction": "Ipswich Town or Draw",
+        "odds": "2-2",
+        "results": "DRAW"
+    }
+    ]
+  },
+  {
     "date": "Friday, 6th March 2026",
     "gamesList": [
       {
