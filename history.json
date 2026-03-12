@@ -1,5 +1,188 @@
 [
   {
+    "date": "Wednesday, 11th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Bayer Leverkusen",
+        "teamB": "Arsenal",
+        "prediction": "Arsenal Win or Draw",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bodo/Glimt",
+        "teamB": "Sporting CP",
+        "prediction": "Bodo/Glimt Win",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Paris Saint-Germain",
+        "teamB": "Chelsea",
+        "prediction": "PSG Win",
+        "odds": "5-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Manchester City",
+        "prediction": "Real Madrid Win",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sevilla",
+        "teamB": "Valencia",
+        "prediction": "Sevilla Win or Draw",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Wolfsburg",
+        "prediction": "Borussia Dortmund Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Bologna",
+        "prediction": "Inter Milan Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Monaco",
+        "teamB": "Rennes",
+        "prediction": "Monaco Win",
+        "odds": "2-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Tuesday, 10th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Galatasaray",
+        "teamB": "Liverpool",
+        "prediction": "Liverpool Win or Draw",
+        "odds": "1-0",
+        "results": "LOSE"
+      },
+      {
+        "teamA": "Atalanta",
+        "teamB": "Bayern Munich",
+        "prediction": "Bayern Munich Win",
+        "odds": "1-6",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atletico Madrid",
+        "teamB": "Tottenham",
+        "prediction": "Atletico Madrid Win",
+        "odds": "5-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Newcastle United",
+        "teamB": "Barcelona",
+        "prediction": "Barcelona Win or Draw",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lille",
+        "teamB": "Nice",
+        "prediction": "Lille Win or Draw",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Eintracht Frankfurt",
+        "teamB": "Augsburg",
+        "prediction": "Eintracht Frankfurt Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Fiorentina",
+        "teamB": "Torino",
+        "prediction": "Fiorentina Win",
+        "odds": "1-1",
+        "results": "LOSE"
+      },
+      {
+        "teamA": "Ajax",
+        "teamB": "FC Utrecht",
+        "prediction": "Ajax Win",
+        "odds": "3-0",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Monday, 9th March 2026",
+    "gamesList": [
+      {
+        "teamA": "West Ham United",
+        "teamB": "Brentford",
+        "prediction": "West Ham Win or Draw",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Espanyol",
+        "teamB": "Real Oviedo",
+        "prediction": "Espanyol Win or Draw",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lazio",
+        "teamB": "Sassuolo",
+        "prediction": "Lazio Win or Draw",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Tondela",
+        "teamB": "Rio Ave",
+        "prediction": "Rio Ave Win or Draw",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Kayserispor",
+        "teamB": "Trabzonspor",
+        "prediction": "Trabzonspor Win or Draw",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lokomotiv Moscow",
+        "teamB": "Akhmat Grozny",
+        "prediction": "Lokomotiv Moscow Win or Draw",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Millonarios",
+        "teamB": "Cucuta Deportivo",
+        "prediction": "Millonarios Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Alianza Lima",
+        "teamB": "Melgar",
+        "prediction": "Alianza Lima Win",
+        "odds": "2-1",
+        "results": "WIN"
+  }
+    ]
+  },
+  {
     "date": "Sunday, 8th March 2026",
     "gamesList": [
       {
