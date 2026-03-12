@@ -1,114 +1,86 @@
 [
   {
-    "id": "eng_whu_bre_090326",
+    "id": "uel_bol_rom_120326",
     "teamA": {
-      "name": "West Ham United",
-      "icon": "https://media.api-sports.io/football/teams/48.png"
+      "name": "Bologna",
+      "icon": "https://media.api-sports.io/football/teams/500.png"
     },
     "teamB": {
-      "name": "Brentford",
-      "icon": "https://media.api-sports.io/football/teams/55.png"
+      "name": "AS Roma",
+      "icon": "https://media.api-sports.io/football/teams/497.png"
     },
-    "leagueName": "English FA Cup",
-    "prediction": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-09"
-  },
-  {
-    "id": "spa_esp_ovi_090326",
-    "teamA": {
-      "name": "Espanyol",
-      "icon": "https://media.api-sports.io/football/teams/540.png"
-    },
-    "teamB": {
-      "name": "Real Oviedo",
-      "icon": "https://media.api-sports.io/football/teams/542.png"
-    },
-    "leagueName": "Spanish La Liga",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-09"
-  },
-  {
-    "id": "ita_laz_sas_090326",
-    "teamA": {
-      "name": "Lazio",
-      "icon": "https://media.api-sports.io/football/teams/487.png"
-    },
-    "teamB": {
-      "name": "Sassuolo",
-      "icon": "https://media.api-sports.io/football/teams/488.png"
-    },
-    "leagueName": "Italian Serie A",
-    "prediction": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-09"
-  },
-  {
-    "id": "por_ton_rio_090326",
-    "teamA": {
-      "name": "Tondela",
-      "icon": "https://media.api-sports.io/football/teams/810.png"
-    },
-    "teamB": {
-      "name": "Rio Ave",
-      "icon": "https://media.api-sports.io/football/teams/496.png"
-    },
-    "leagueName": "Portuguese Primeira Liga",
-    "prediction": "AWAY WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-09"
-  },
-  {
-    "id": "tur_kay_tra_090326",
-    "teamA": {
-      "name": "Kayserispor",
-      "icon": "https://media.api-sports.io/football/teams/100.png"
-    },
-    "teamB": {
-      "name": "Trabzonspor",
-      "icon": "https://media.api-sports.io/football/teams/101.png"
-    },
-    "leagueName": "Turkish Super Lig",
+    "leagueName": "UEFA Europa League",
     "prediction": "AWAY WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-09"
+    "date": "2026-03-12"
   },
   {
-    "id": "rus_lok_akh_090326",
+    "id": "uel_lil_avl_120326",
     "teamA": {
-      "name": "Lokomotiv Moscow",
-      "icon": "https://media.api-sports.io/football/teams/108.png"
+      "name": "Lille",
+      "icon": "https://media.api-sports.io/football/teams/79.png"
     },
     "teamB": {
-      "name": "Akhmat Grozny",
-      "icon": "https://media.api-sports.io/football/teams/109.png"
+      "name": "Aston Villa",
+      "icon": "https://media.api-sports.io/football/teams/66.png"
     },
-    "leagueName": "Russian Premier League",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-09"
+    "leagueName": "UEFA Europa League",
+    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-12"
   },
   {
-    "id": "col_mil_cuc_090326",
+    "id": "uel_pan_bet_120326",
     "teamA": {
-      "name": "Millonarios",
-      "icon": "https://media.api-sports.io/football/teams/136.png"
+      "name": "Panathinaikos",
+      "icon": "https://media.api-sports.io/football/teams/530.png"
     },
     "teamB": {
-      "name": "Cucuta Deportivo",
-      "icon": "https://media.api-sports.io/football/teams/140.png"
+      "name": "Real Betis",
+      "icon": "https://media.api-sports.io/football/teams/543.png"
     },
-    "leagueName": "Colombian Primera A",
+    "leagueName": "UEFA Europa League",
+    "prediction": "AWAY WIN OR DRAW & UNDER 3.5",
+    "date": "2026-03-12"
+  },
+  {
+    "id": "uel_stu_por_120326",
+    "teamA": {
+      "name": "VfB Stuttgart",
+      "icon": "https://media.api-sports.io/football/teams/172.png"
+    },
+    "teamB": {
+      "name": "FC Porto",
+      "icon": "https://media.api-sports.io/football/teams/212.png"
+    },
+    "leagueName": "UEFA Europa League",
     "prediction": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-09"
+    "date": "2026-03-12"
   },
   {
-    "id": "per_ali_mel_090326",
+    "id": "uel_cel_lyo_120326",
     "teamA": {
-      "name": "Alianza Lima",
-      "icon": "https://media.api-sports.io/football/teams/254.png"
+      "name": "Celta Vigo",
+      "icon": "https://media.api-sports.io/football/teams/538.png"
     },
     "teamB": {
-      "name": "Melgar",
-      "icon": "https://media.api-sports.io/football/teams/257.png"
+      "name": "Lyon",
+      "icon": "https://media.api-sports.io/football/teams/80.png"
     },
-    "leagueName": "Peruvian Liga 1",
-    "prediction": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-09"
+    "leagueName": "UEFA Europa League",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-03-12"
+  },
+  {
+    "id": "uel_gen_fre_120326",
+    "teamA": {
+      "name": "Genk",
+      "icon": "https://media.api-sports.io/football/teams/615.png"
+    },
+    "teamB": {
+      "name": "SC Freiburg",
+      "icon": "https://media.api-sports.io/football/teams/160.png"
+    },
+    "leagueName": "UEFA Europa League",
+    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-12"
   }
 ]
