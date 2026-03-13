@@ -1,47 +1,47 @@
 [
   {
-    "id": "uel_bol_rom_120326",
+    "id": "ucl_dor_psv_130326",
     "teamA": {
-      "name": "Bologna",
-      "icon": "https://media.api-sports.io/football/teams/500.png"
+      "name": "Borussia Dortmund",
+      "icon": "https://media.api-sports.io/football/teams/165.png"
     },
     "teamB": {
-      "name": "AS Roma",
-      "icon": "https://media.api-sports.io/football/teams/497.png"
+      "name": "PSV Eindhoven",
+      "icon": "https://media.api-sports.io/football/teams/197.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-12",
+    "leagueName": "UEFA Champions League",
+    "prediction": "HOME WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-13",
     "results": "PENDING"
   },
   {
-    "id": "uel_lil_avl_120326",
+    "id": "ucl_int_ben_130326",
     "teamA": {
-      "name": "Lille",
-      "icon": "https://media.api-sports.io/football/teams/79.png"
+      "name": "Inter Milan",
+      "icon": "https://media.api-sports.io/football/teams/505.png"
     },
     "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "Benfica",
+      "icon": "https://media.api-sports.io/football/teams/211.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-12",
+    "leagueName": "UEFA Champions League",
+    "prediction": "HOME WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-13",
     "results": "PENDING"
   },
   {
-    "id": "uel_pan_bet_120326",
+    "id": "uel_wha_fra_130326",
     "teamA": {
-      "name": "Panathinaikos",
-      "icon": "https://media.api-sports.io/football/teams/530.png"
+      "name": "West Ham United",
+      "icon": "https://media.api-sports.io/football/teams/48.png"
     },
     "teamB": {
-      "name": "Real Betis",
-      "icon": "https://media.api-sports.io/football/teams/543.png"
+      "name": "Eintracht Frankfurt",
+      "icon": "https://media.api-sports.io/football/teams/169.png"
     },
     "leagueName": "UEFA Europa League",
-    "prediction": "AWAY WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-12",
+    "prediction": "HOME WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-13",
     "results": "PENDING"
   }
 ]
