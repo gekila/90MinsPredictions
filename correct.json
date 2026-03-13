@@ -1,86 +1,114 @@
 [
   {
-    "id": "eng_whu_bre_090326",
+    "id": "fra_mar_aux_130326",
     "teamA": {
-      "name": "West Ham United",
-      "icon": "https://media.api-sports.io/football/teams/48.png"
+      "name": "Marseille",
+      "icon": "https://media.api-sports.io/football/teams/81.png"
     },
     "teamB": {
-      "name": "Brentford",
-      "icon": "https://media.api-sports.io/football/teams/55.png"
+      "name": "Auxerre",
+      "icon": "https://media.api-sports.io/football/teams/95.png"
     },
-    "leagueName": "English FA Cup",
-    "prediction": "1-1",
-    "date": "2026-03-09"
+    "leagueName": "French Ligue 1",
+    "prediction": "2-0",
+    "date": "2026-03-13"
   },
   {
-    "id": "ita_laz_sas_090326",
+    "id": "ger_mgl_stp_130326",
     "teamA": {
-      "name": "Lazio",
-      "icon": "https://media.api-sports.io/football/teams/487.png"
+      "name": "Borussia Monchengladbach",
+      "icon": "https://media.api-sports.io/football/teams/163.png"
     },
     "teamB": {
-      "name": "Sassuolo",
-      "icon": "https://media.api-sports.io/football/teams/488.png"
+      "name": "St. Pauli",
+      "icon": "https://media.api-sports.io/football/teams/191.png"
+    },
+    "leagueName": "German Bundesliga",
+    "prediction": "2-1",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "ita_tor_par_130326",
+    "teamA": {
+      "name": "Torino",
+      "icon": "https://media.api-sports.io/football/teams/503.png"
+    },
+    "teamB": {
+      "name": "Parma",
+      "icon": "https://media.api-sports.io/football/teams/523.png"
     },
     "leagueName": "Italian Serie A",
-    "prediction": "2-1",
-    "date": "2026-03-09"
+    "prediction": "1-0",
+    "date": "2026-03-13"
   },
   {
-    "id": "spa_esp_ovi_090326",
+    "id": "spa_ala_vil_130326",
     "teamA": {
-      "name": "Espanyol",
-      "icon": "https://media.api-sports.io/football/teams/540.png"
-    },
-    "teamB": {
-      "name": "Real Oviedo",
+      "name": "Alaves",
       "icon": "https://media.api-sports.io/football/teams/542.png"
     },
+    "teamB": {
+      "name": "Villarreal",
+      "icon": "https://media.api-sports.io/football/teams/533.png"
+    },
     "leagueName": "Spanish La Liga",
-    "prediction": "2-0",
-    "date": "2026-03-09"
-  },
-  {
-    "id": "por_ton_rio_090326",
-    "teamA": {
-      "name": "Tondela",
-      "icon": "https://media.api-sports.io/football/teams/810.png"
-    },
-    "teamB": {
-      "name": "Rio Ave",
-      "icon": "https://media.api-sports.io/football/teams/496.png"
-    },
-    "leagueName": "Portuguese Primeira Liga",
-    "prediction": "1-1",
-    "date": "2026-03-09"
-  },
-  {
-    "id": "tur_eyu_koc_090326",
-    "teamA": {
-      "name": "Eyupspor",
-      "icon": "https://media.api-sports.io/football/teams/10085.png"
-    },
-    "teamB": {
-      "name": "Kocaelispor",
-      "icon": "https://media.api-sports.io/football/teams/10102.png"
-    },
-    "leagueName": "Turkish Super Lig",
     "prediction": "1-2",
-    "date": "2026-03-09"
+    "date": "2026-03-13"
   },
   {
-    "id": "pol_wpl_ark_090326",
+    "id": "caf_esp_ahl_130326",
     "teamA": {
-      "name": "Wisla Plock",
-      "icon": "https://media.api-sports.io/football/teams/349.png"
+      "name": "Esperance Tunis",
+      "icon": "https://media.api-sports.io/football/teams/981.png"
     },
     "teamB": {
-      "name": "Arka Gdynia",
-      "icon": "https://media.api-sports.io/football/teams/350.png"
+      "name": "Al Ahly SC",
+      "icon": "https://media.api-sports.io/football/teams/986.png"
     },
-    "leagueName": "Polish Ekstraklasa",
+    "leagueName": "CAF Champions League",
     "prediction": "1-1",
-    "date": "2026-03-09"
+    "date": "2026-03-13"
+  },
+  {
+    "id": "caf_far_pyr_130326",
+    "teamA": {
+      "name": "FAR Rabat",
+      "icon": "https://media.api-sports.io/football/teams/989.png"
+    },
+    "teamB": {
+      "name": "Pyramids FC",
+      "icon": "https://media.api-sports.io/football/teams/1003.png"
+    },
+    "leagueName": "CAF Champions League",
+    "prediction": "1-2",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "caf_mam_sta_130326",
+    "teamA": {
+      "name": "Mamelodi Sundowns",
+      "icon": "https://media.api-sports.io/football/teams/992.png"
+    },
+    "teamB": {
+      "name": "Stade Malien",
+      "icon": "https://media.api-sports.io/football/teams/1012.png"
+    },
+    "leagueName": "CAF Champions League",
+    "prediction": "3-0",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "caf_ber_hil_130326",
+    "teamA": {
+      "name": "RSB Berkane",
+      "icon": "https://media.api-sports.io/football/teams/1001.png"
+    },
+    "teamB": {
+      "name": "Al Hilal Omdurman",
+      "icon": "https://media.api-sports.io/football/teams/1005.png"
+    },
+    "leagueName": "CAF Champions League",
+    "prediction": "1-0",
+    "date": "2026-03-13"
   }
 ]
