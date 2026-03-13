@@ -1,86 +1,114 @@
 [
   {
-    "id": "uel_bol_rom_120326",
+    "id": "ger_mgl_stp_130326",
     "teamA": {
-      "name": "Bologna",
-      "icon": "https://media.api-sports.io/football/teams/500.png"
+      "name": "Borussia Monchengladbach",
+      "icon": "https://media.api-sports.io/football/teams/163.png"
     },
     "teamB": {
-      "name": "AS Roma",
-      "icon": "https://media.api-sports.io/football/teams/497.png"
+      "name": "St. Pauli",
+      "icon": "https://media.api-sports.io/football/teams/191.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-12"
-  },
-  {
-    "id": "uel_lil_avl_120326",
-    "teamA": {
-      "name": "Lille",
-      "icon": "https://media.api-sports.io/football/teams/79.png"
-    },
-    "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
-    },
-    "leagueName": "UEFA Europa League",
-    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-12"
-  },
-  {
-    "id": "uel_pan_bet_120326",
-    "teamA": {
-      "name": "Panathinaikos",
-      "icon": "https://media.api-sports.io/football/teams/530.png"
-    },
-    "teamB": {
-      "name": "Real Betis",
-      "icon": "https://media.api-sports.io/football/teams/543.png"
-    },
-    "leagueName": "UEFA Europa League",
-    "prediction": "AWAY WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-12"
-  },
-  {
-    "id": "uel_stu_por_120326",
-    "teamA": {
-      "name": "VfB Stuttgart",
-      "icon": "https://media.api-sports.io/football/teams/172.png"
-    },
-    "teamB": {
-      "name": "FC Porto",
-      "icon": "https://media.api-sports.io/football/teams/212.png"
-    },
-    "leagueName": "UEFA Europa League",
+    "leagueName": "German Bundesliga",
     "prediction": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-12"
+    "date": "2026-03-13"
   },
   {
-    "id": "uel_cel_lyo_120326",
+    "id": "ita_tor_par_130326",
     "teamA": {
-      "name": "Celta Vigo",
-      "icon": "https://media.api-sports.io/football/teams/538.png"
+      "name": "Torino",
+      "icon": "https://media.api-sports.io/football/teams/503.png"
     },
     "teamB": {
-      "name": "Lyon",
-      "icon": "https://media.api-sports.io/football/teams/80.png"
+      "name": "Parma",
+      "icon": "https://media.api-sports.io/football/teams/523.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-03-12"
+    "leagueName": "Italian Serie A",
+    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+    "date": "2026-03-13"
   },
   {
-    "id": "uel_gen_fre_120326",
+    "id": "spa_ala_vil_130326",
     "teamA": {
-      "name": "Genk",
-      "icon": "https://media.api-sports.io/football/teams/615.png"
+      "name": "Alaves",
+      "icon": "https://media.api-sports.io/football/teams/542.png"
     },
     "teamB": {
-      "name": "SC Freiburg",
-      "icon": "https://media.api-sports.io/football/teams/160.png"
+      "name": "Villarreal",
+      "icon": "https://media.api-sports.io/football/teams/533.png"
     },
-    "leagueName": "UEFA Europa League",
+    "leagueName": "Spanish La Liga",
     "prediction": "AWAY WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-12"
+    "date": "2026-03-13"
+  },
+  {
+    "id": "fra_mar_aux_130326",
+    "teamA": {
+      "name": "Marseille",
+      "icon": "https://media.api-sports.io/football/teams/81.png"
+    },
+    "teamB": {
+      "name": "Auxerre",
+      "icon": "https://media.api-sports.io/football/teams/95.png"
+    },
+    "leagueName": "French Ligue 1",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "caf_esp_ahl_130326",
+    "teamA": {
+      "name": "Esperance Tunis",
+      "icon": "https://media.api-sports.io/football/teams/981.png"
+    },
+    "teamB": {
+      "name": "Al Ahly SC",
+      "icon": "https://media.api-sports.io/football/teams/986.png"
+    },
+    "leagueName": "CAF Champions League",
+    "prediction": "AWAY WIN OR DRAW & UNDER 3.5",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "caf_far_pyr_130326",
+    "teamA": {
+      "name": "FAR Rabat",
+      "icon": "https://media.api-sports.io/football/teams/989.png"
+    },
+    "teamB": {
+      "name": "Pyramids FC",
+      "icon": "https://media.api-sports.io/football/teams/1003.png"
+    },
+    "leagueName": "CAF Champions League",
+    "prediction": "AWAY WIN OR DRAW & OVER 1.5",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "caf_mam_sta_130326",
+    "teamA": {
+      "name": "Mamelodi Sundowns",
+      "icon": "https://media.api-sports.io/football/teams/992.png"
+    },
+    "teamB": {
+      "name": "Stade Malien",
+      "icon": "https://media.api-sports.io/football/teams/1012.png"
+    },
+    "leagueName": "CAF Champions League",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "caf_ber_hil_130326",
+    "teamA": {
+      "name": "RSB Berkane",
+      "icon": "https://media.api-sports.io/football/teams/1001.png"
+    },
+    "teamB": {
+      "name": "Al Hilal Omdurman",
+      "icon": "https://media.api-sports.io/football/teams/1005.png"
+    },
+    "leagueName": "CAF Champions League",
+    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+    "date": "2026-03-13"
   }
 ]
