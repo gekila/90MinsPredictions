@@ -1,5 +1,66 @@
 [
   {
+    "date": "Thursday, 12th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Bologna",
+        "teamB": "AS Roma",
+        "prediction": "Roma Win or Draw",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lille",
+        "teamB": "Aston Villa",
+        "prediction": "Aston Villa Win or Draw",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Panathinaikos",
+        "teamB": "Real Betis",
+        "prediction": "Real Betis Win",
+        "odds": "1-0",
+        "results": "LOSE"
+      },
+      {
+        "teamA": "VfB Stuttgart",
+        "teamB": "FC Porto",
+        "prediction": "Porto Win or Draw",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Celta Vigo",
+        "teamB": "Lyon",
+        "prediction": "Both Teams to Score",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Ferencvaros",
+        "teamB": "Braga",
+        "prediction": "Braga Win or Draw",
+        "odds": "2-0",
+        "results": "LOSE"
+      },
+      {
+        "teamA": "Genk",
+        "teamB": "SC Freiburg",
+        "prediction": "Freiburg Win or Draw",
+        "odds": "1-0",
+        "results": "LOSE"
+      },
+      {
+        "teamA": "Nottingham Forest",
+        "teamB": "FC Midtjylland",
+        "prediction": "Nottingham Forest Win",
+        "odds": "0-1",
+        "results": "LOSE"
+     }
+    ]
+  },
+  {
     "date": "Wednesday, 11th March 2026",
     "gamesList": [
       {
