@@ -20,8 +20,8 @@
         "teamA": "Panathinaikos",
         "teamB": "Real Betis",
         "prediction": "Real Betis Win",
-        "odds": "1-0",
-        "results": "LOSE"
+        "odds": "0-1",
+        "results": "WIN"
       },
       {
         "teamA": "VfB Stuttgart",
@@ -40,9 +40,9 @@
       {
         "teamA": "Ferencvaros",
         "teamB": "Braga",
-        "prediction": "Braga Win or Draw",
+        "prediction": "Ferencvaros Win or Draw",
         "odds": "2-0",
-        "results": "LOSE"
+        "results": "WIN"
       },
       {
         "teamA": "Genk",
@@ -54,9 +54,9 @@
       {
         "teamA": "Nottingham Forest",
         "teamB": "FC Midtjylland",
-        "prediction": "Nottingham Forest Win",
+        "prediction": "FC Midtjylland Win",
         "odds": "0-1",
-        "results": "LOSE"
+        "results": "WIN"
      }
     ]
   },
