@@ -1,92 +1,74 @@
 [
   {
-    "id": "eng_fa_whu_bre_090326",
-    "teamA": { "name": "West Ham United", "icon": "https://media.api-sports.io/football/teams/48.png" },
-    "teamB": { "name": "Brentford", "icon": "https://media.api-sports.io/football/teams/55.png" },
-    "leagueName": "FA Cup - England",
-    "prediction": "DRAW",
-    "expectedScore": "1-1",
-    "date": "2026-03-09"
+    "id": "fra_l1_mar_aux_130326",
+    "teamA": { "name": "Marseille", "icon": "https://media.api-sports.io/football/teams/81.png" },
+    "teamB": { "name": "Auxerre", "icon": "https://media.api-sports.io/football/teams/95.png" },
+    "leagueName": "Ligue 1 - France",
+    "prediction": "HOME WIN",
+    "expectedScore": "2-0",
+    "date": "2026-03-13"
   },
   {
-    "id": "ita_sa_laz_sas_090326",
-    "teamA": { "name": "Lazio", "icon": "https://media.api-sports.io/football/teams/487.png" },
-    "teamB": { "name": "Sassuolo", "icon": "https://media.api-sports.io/football/teams/488.png" },
+    "id": "ger_bl_mgl_stp_130326",
+    "teamA": { "name": "Borussia Monchengladbach", "icon": "https://media.api-sports.io/football/teams/163.png" },
+    "teamB": { "name": "St. Pauli", "icon": "https://media.api-sports.io/football/teams/191.png" },
+    "leagueName": "Bundesliga - Germany",
+    "prediction": "HOME WIN",
+    "expectedScore": "2-1",
+    "date": "2026-03-13"
+  },
+  {
+    "id": "ita_sa_tor_par_130326",
+    "teamA": { "name": "Torino", "icon": "https://media.api-sports.io/football/teams/503.png" },
+    "teamB": { "name": "Parma", "icon": "https://media.api-sports.io/football/teams/523.png" },
     "leagueName": "Serie A - Italy",
     "prediction": "HOME WIN",
-    "expectedScore": "2-1",
-    "date": "2026-03-09"
+    "expectedScore": "1-0",
+    "date": "2026-03-13"
   },
   {
-    "id": "esp_la_esp_ovi_090326",
-    "teamA": { "name": "Espanyol", "icon": "https://media.api-sports.io/football/teams/540.png" },
-    "teamB": { "name": "Real Oviedo", "icon": "https://media.api-sports.io/football/teams/542.png" },
+    "id": "esp_la_ala_vil_130326",
+    "teamA": { "name": "Alaves", "icon": "https://media.api-sports.io/football/teams/542.png" },
+    "teamB": { "name": "Villarreal", "icon": "https://media.api-sports.io/football/teams/533.png" },
     "leagueName": "La Liga - Spain",
-    "prediction": "HOME WIN",
-    "expectedScore": "2-0",
-    "date": "2026-03-09"
-  },
-  {
-    "id": "por_pl_ton_rio_090326",
-    "teamA": { "name": "Tondela", "icon": "https://media.api-sports.io/football/teams/810.png" },
-    "teamB": { "name": "Rio Ave", "icon": "https://media.api-sports.io/football/teams/496.png" },
-    "leagueName": "Primeira Liga - Portugal",
-    "prediction": "DRAW",
-    "expectedScore": "1-1",
-    "date": "2026-03-09"
-  },
-  {
-    "id": "tur_sl_kay_tra_090326",
-    "teamA": { "name": "Kayserispor", "icon": "https://media.api-sports.io/football/teams/100.png" },
-    "teamB": { "name": "Trabzonspor", "icon": "https://media.api-sports.io/football/teams/101.png" },
-    "leagueName": "Super Lig - Turkey",
     "prediction": "AWAY WIN",
     "expectedScore": "1-2",
-    "date": "2026-03-09"
+    "date": "2026-03-13"
   },
   {
-    "id": "pol_eks_wpl_ark_090326",
-    "teamA": { "name": "Wisla Plock", "icon": "https://media.api-sports.io/football/teams/349.png" },
-    "teamB": { "name": "Arka Gdynia", "icon": "https://media.api-sports.io/football/teams/350.png" },
-    "leagueName": "Ekstraklasa - Poland",
-    "prediction": "DRAW",
-    "expectedScore": "1-1",
-    "date": "2026-03-09"
+    "id": "ned_el_aja_utr_130326",
+    "teamA": { "name": "Ajax", "icon": "https://media.api-sports.io/football/teams/194.png" },
+    "teamB": { "name": "FC Utrecht", "icon": "https://media.api-sports.io/football/teams/201.png" },
+    "leagueName": "Eredivisie - Netherlands",
+    "prediction": "HOME WIN",
+    "expectedScore": "3-1",
+    "date": "2026-03-13"
   },
   {
-    "id": "rus_pl_lok_akh_090326",
-    "teamA": { "name": "Lokomotiv Moscow", "icon": "https://media.api-sports.io/football/teams/108.png" },
-    "teamB": { "name": "Akhmat Grozny", "icon": "https://media.api-sports.io/football/teams/109.png" },
-    "leagueName": "Premier League - Russia",
+    "id": "por_pl_ben_aro_130326",
+    "teamA": { "name": "Benfica", "icon": "https://media.api-sports.io/football/teams/211.png" },
+    "teamB": { "name": "Arouca", "icon": "https://media.api-sports.io/football/teams/712.png" },
+    "leagueName": "Primeira Liga - Portugal",
     "prediction": "HOME WIN",
     "expectedScore": "2-0",
-    "date": "2026-03-09"
+    "date": "2026-03-13"
   },
   {
-    "id": "swe_cup_mal_hac_090326",
-    "teamA": { "name": "Malmo FF", "icon": "https://media.api-sports.io/football/teams/278.png" },
-    "teamB": { "name": "Hacken", "icon": "https://media.api-sports.io/football/teams/398.png" },
-    "leagueName": "Swedish Cup - Sweden",
-    "prediction": "HOME WIN",
-    "expectedScore": "2-1",
-    "date": "2026-03-09"
-  },
-  {
-    "id": "den_sl_mid_vib_090326",
-    "teamA": { "name": "Midtjylland", "icon": "https://media.api-sports.io/football/teams/939.png" },
-    "teamB": { "name": "Viborg", "icon": "https://media.api-sports.io/football/teams/942.png" },
-    "leagueName": "Superliga - Denmark",
+    "id": "bel_pl_gen_eup_130326",
+    "teamA": { "name": "Genk", "icon": "https://media.api-sports.io/football/teams/615.png" },
+    "teamB": { "name": "AS Eupen", "icon": "https://media.api-sports.io/football/teams/206.png" },
+    "leagueName": "Pro League - Belgium",
     "prediction": "HOME WIN",
     "expectedScore": "2-0",
-    "date": "2026-03-09"
+    "date": "2026-03-13"
   },
   {
-    "id": "col_pa_mil_cuc_090326",
-    "teamA": { "name": "Millonarios", "icon": "https://media.api-sports.io/football/teams/136.png" },
-    "teamB": { "name": "Cucuta Deportivo", "icon": "https://media.api-sports.io/football/teams/140.png" },
-    "leagueName": "Primera A - Colombia",
+    "id": "tur_sl_gal_kas_130326",
+    "teamA": { "name": "Galatasaray", "icon": "https://media.api-sports.io/football/teams/645.png" },
+    "teamB": { "name": "Kasimpasa", "icon": "https://media.api-sports.io/football/teams/100.png" },
+    "leagueName": "Super Lig - Turkey",
     "prediction": "HOME WIN",
-    "expectedScore": "2-0",
-    "date": "2026-03-09"
+    "expectedScore": "3-1",
+    "date": "2026-03-13"
   }
 ]
