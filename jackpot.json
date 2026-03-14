@@ -1,122 +1,122 @@
 [
   {
-    "id": "betjck_safe_01_110326",
-    "teamA": { "name": "Bodoe/Glimt", "icon": "https://media.api-sports.io/football/teams/2617.png" },
-    "teamB": { "name": "Sporting CP", "icon": "https://media.api-sports.io/football/teams/498.png" },
+    "id": "betjck_safe_01_200326",
+    "teamA": { "name": "Bournemouth", "icon": "https://media.api-sports.io/football/teams/35.png" },
+    "teamB": { "name": "Manchester United", "icon": "https://media.api-sports.io/football/teams/33.png" },
+    "leagueName": "Premier League - England",
+    "prediction": "X2",
+    "date": "2026-03-20"
+  },
+  {
+    "id": "betjck_safe_02_200326",
+    "teamA": { "name": "Heracles Almelo", "icon": "https://media.api-sports.io/football/teams/206.png" },
+    "teamB": { "name": "Excelsior Rotterdam", "icon": "https://media.api-sports.io/football/teams/204.png" },
+    "leagueName": "Eredivisie - Netherlands",
+    "prediction": "1X",
+    "date": "2026-03-20"
+  },
+  {
+    "id": "betjck_safe_03_200326",
+    "teamA": { "name": "Genoa", "icon": "https://media.api-sports.io/football/teams/495.png" },
+    "teamB": { "name": "Udinese", "icon": "https://media.api-sports.io/football/teams/496.png" },
+    "leagueName": "Serie A - Italy",
+    "prediction": "1X",
+    "date": "2026-03-20"
+  },
+  {
+    "id": "betjck_safe_04_180326",
+    "teamA": { "name": "Tottenham Hotspur", "icon": "https://media.api-sports.io/football/teams/47.png" },
+    "teamB": { "name": "Atletico Madrid", "icon": "https://media.api-sports.io/football/teams/530.png" },
     "leagueName": "UEFA Champions League",
     "prediction": "X2",
-    "date": "2026-03-11"
+    "date": "2026-03-18"
   },
   {
-    "id": "betjck_safe_02_110326",
-    "teamA": { "name": "Real Madrid", "icon": "https://media.api-sports.io/football/teams/541.png" },
-    "teamB": { "name": "Manchester City", "icon": "https://media.api-sports.io/football/teams/50.png" },
+    "id": "betjck_safe_05_170326",
+    "teamA": { "name": "Chelsea", "icon": "https://media.api-sports.io/football/teams/49.png" },
+    "teamB": { "name": "Paris Saint-Germain", "icon": "https://media.api-sports.io/football/teams/85.png" },
     "leagueName": "UEFA Champions League",
     "prediction": "X2",
-    "date": "2026-03-11"
+    "date": "2026-03-17"
   },
   {
-    "id": "betjck_safe_03_120326",
-    "teamA": { "name": "Ferencvaros", "icon": "https://media.api-sports.io/football/teams/349.png" },
-    "teamB": { "name": "Braga", "icon": "https://media.api-sports.io/football/teams/217.png" },
-    "leagueName": "UEFA Europa League",
+    "id": "betjck_safe_06_180326",
+    "teamA": { "name": "Carrarese Calcio", "icon": "https://media.api-sports.io/football/teams/1158.png" },
+    "teamB": { "name": "Sampdoria", "icon": "https://media.api-sports.io/football/teams/498.png" },
+    "leagueName": "Serie B - Italy",
     "prediction": "X2",
-    "date": "2026-03-12"
+    "date": "2026-03-18"
   },
   {
-    "id": "betjck_safe_04_120326",
-    "teamA": { "name": "Genk", "icon": "https://media.api-sports.io/football/teams/615.png" },
-    "teamB": { "name": "Freiburg", "icon": "https://media.api-sports.io/football/teams/160.png" },
+    "id": "betjck_safe_07_180326",
+    "teamA": { "name": "Delfino Pescara", "icon": "https://media.api-sports.io/football/teams/494.png" },
+    "teamB": { "name": "Virtus Entella", "icon": "https://media.api-sports.io/football/teams/522.png" },
+    "leagueName": "Serie B - Italy",
+    "prediction": "1X",
+    "date": "2026-03-18"
+  },
+  {
+    "id": "betjck_safe_08_180326",
+    "teamA": { "name": "US Avellino", "icon": "https://media.api-sports.io/football/teams/489.png" },
+    "teamB": { "name": "FC Sudtirol", "icon": "https://media.api-sports.io/football/teams/748.png" },
+    "leagueName": "Serie B - Italy",
+    "prediction": "1X",
+    "date": "2026-03-18"
+  },
+  {
+    "id": "betjck_safe_09_190326",
+    "teamA": { "name": "Dinamo Bucuresti", "icon": "https://media.api-sports.io/football/teams/624.png" },
+    "teamB": { "name": "Universitatea Craiova", "icon": "https://media.api-sports.io/football/teams/623.png" },
+    "leagueName": "Superliga - Romania",
+    "prediction": "X2",
+    "date": "2026-03-19"
+  },
+  {
+    "id": "betjck_safe_10_200326",
+    "teamA": { "name": "CFR Cluj", "icon": "https://media.api-sports.io/football/teams/621.png" },
+    "teamB": { "name": "Rapid Bucuresti", "icon": "https://media.api-sports.io/football/teams/622.png" },
+    "leagueName": "Superliga - Romania",
+    "prediction": "1X",
+    "date": "2026-03-20"
+  },
+  {
+    "id": "betjck_safe_11_190326",
+    "teamA": { "name": "FC Porto", "icon": "https://media.api-sports.io/football/teams/503.png" },
+    "teamB": { "name": "VfB Stuttgart", "icon": "https://media.api-sports.io/football/teams/172.png" },
     "leagueName": "UEFA Europa League",
     "prediction": "1X",
-    "date": "2026-03-12"
+    "date": "2026-03-19"
   },
   {
-    "id": "betjck_safe_05_120326",
-    "teamA": { "name": "Bologna", "icon": "https://media.api-sports.io/football/teams/500.png" },
-    "teamB": { "name": "AS Roma", "icon": "https://media.api-sports.io/football/teams/497.png" },
-    "leagueName": "UEFA Europa League",
-    "prediction": "X2",
-    "date": "2026-03-12"
-  },
-  {
-    "id": "betjck_safe_06_120326",
-    "teamA": { "name": "Panathinaikos", "icon": "https://media.api-sports.io/football/teams/540.png" },
-    "teamB": { "name": "Real Betis", "icon": "https://media.api-sports.io/football/teams/543.png" },
-    "leagueName": "UEFA Europa League",
-    "prediction": "X2",
-    "date": "2026-03-12"
-  },
-  {
-    "id": "betjck_safe_07_120326",
-    "teamA": { "name": "Lille", "icon": "https://media.api-sports.io/football/teams/521.png" },
-    "teamB": { "name": "Aston Villa", "icon": "https://media.api-sports.io/football/teams/66.png" },
-    "leagueName": "UEFA Europa League",
-    "prediction": "1X",
-    "date": "2026-03-12"
-  },
-  {
-    "id": "betjck_safe_08_120326",
-    "teamA": { "name": "Celta Vigo", "icon": "https://media.api-sports.io/football/teams/538.png" },
-    "teamB": { "name": "Lyon", "icon": "https://media.api-sports.io/football/teams/80.png" },
-    "leagueName": "UEFA Europa League",
-    "prediction": "1X",
-    "date": "2026-03-12"
-  },
-  {
-    "id": "betjck_safe_09_120326",
-    "teamA": { "name": "Stuttgart", "icon": "https://media.api-sports.io/football/teams/172.png" },
-    "teamB": { "name": "FC Porto", "icon": "https://media.api-sports.io/football/teams/503.png" },
-    "leagueName": "UEFA Europa League",
-    "prediction": "1X",
-    "date": "2026-03-12"
-  },
-  {
-    "id": "betjck_safe_10_120326",
-    "teamA": { "name": "NK Celje", "icon": "https://media.api-sports.io/football/teams/874.png" },
-    "teamB": { "name": "AEK Athens", "icon": "https://media.api-sports.io/football/teams/1077.png" },
-    "leagueName": "UEFA Conference League",
-    "prediction": "X2",
-    "date": "2026-03-12"
-  },
-  {
-    "id": "betjck_safe_11_120326",
-    "teamA": { "name": "Lech Poznan", "icon": "https://media.api-sports.io/football/teams/356.png" },
-    "teamB": { "name": "Shakhtar Donetsk", "icon": "https://media.api-sports.io/football/teams/596.png" },
-    "leagueName": "UEFA Conference League",
-    "prediction": "DRAW",
-    "date": "2026-03-12"
-  },
-  {
-    "id": "betjck_safe_12_120326",
-    "teamA": { "name": "AZ Alkmaar", "icon": "https://media.api-sports.io/football/teams/195.png" },
-    "teamB": { "name": "Sparta Prague", "icon": "https://media.api-sports.io/football/teams/585.png" },
+    "id": "betjck_safe_12_190326",
+    "teamA": { "name": "Sparta Prague", "icon": "https://media.api-sports.io/football/teams/585.png" },
+    "teamB": { "name": "AZ Alkmaar", "icon": "https://media.api-sports.io/football/teams/195.png" },
     "leagueName": "UEFA Conference League",
     "prediction": "1X",
-    "date": "2026-03-12"
+    "date": "2026-03-19"
   },
   {
-    "id": "betjck_safe_13_120326",
-    "teamA": { "name": "Samsunspor", "icon": "https://media.api-sports.io/football/teams/102.png" },
-    "teamB": { "name": "Rayo Vallecano", "icon": "https://media.api-sports.io/football/teams/728.png" },
+    "id": "betjck_safe_13_190326",
+    "teamA": { "name": "Rakow Czestochowa", "icon": "https://media.api-sports.io/football/teams/3492.png" },
+    "teamB": { "name": "Fiorentina", "icon": "https://media.api-sports.io/football/teams/502.png" },
     "leagueName": "UEFA Conference League",
     "prediction": "X2",
-    "date": "2026-03-12"
+    "date": "2026-03-19"
   },
   {
-    "id": "betjck_safe_14_120326",
-    "teamA": { "name": "Rijeka", "icon": "https://media.api-sports.io/football/teams/604.png" },
-    "teamB": { "name": "Strasbourg", "icon": "https://media.api-sports.io/football/teams/576.png" },
-    "leagueName": "UEFA Conference League",
+    "id": "betjck_safe_14_190326",
+    "teamA": { "name": "FC Midtjylland", "icon": "https://media.api-sports.io/football/teams/939.png" },
+    "teamB": { "name": "Nottingham Forest", "icon": "https://media.api-sports.io/football/teams/65.png" },
+    "leagueName": "UEFA Europa League",
     "prediction": "X2",
-    "date": "2026-03-12"
+    "date": "2026-03-19"
   },
   {
-    "id": "betjck_safe_15_110326",
-    "teamA": { "name": "West Bromwich Albion", "icon": "https://media.api-sports.io/football/teams/60.png" },
-    "teamB": { "name": "Southampton", "icon": "https://media.api-sports.io/football/teams/41.png" },
-    "leagueName": "Championship - England",
+    "id": "betjck_safe_15_190326",
+    "teamA": { "name": "Lyon", "icon": "https://media.api-sports.io/football/teams/80.png" },
+    "teamB": { "name": "Celta Vigo", "icon": "https://media.api-sports.io/football/teams/538.png" },
+    "leagueName": "UEFA Europa League",
     "prediction": "1X",
-    "date": "2026-03-11"
+    "date": "2026-03-19"
   }
 ]
