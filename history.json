@@ -1,5 +1,66 @@
 [
   {
+    "date": "Friday, 13th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Marseille",
+        "teamB": "Auxerre",
+        "prediction": "Marseille Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Borussia Monchengladbach",
+        "teamB": "St. Pauli",
+        "prediction": "Borussia Monchengladbach Win or Draw",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Torino",
+        "teamB": "Parma",
+        "prediction": "Torino Win or Draw",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Alaves",
+        "teamB": "Villarreal",
+        "prediction": "Villarreal Win or Draw",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mamelodi Sundowns",
+        "teamB": "Stade Malien",
+        "prediction": "Mamelodi Sundowns Win",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "FAR Rabat",
+        "teamB": "Pyramids FC",
+        "prediction": "Pyramids Win or Draw",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "PEC Zwolle",
+        "teamB": "FC Groningen",
+        "prediction": "Both Teams to Score",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Antalyaspor",
+        "teamB": "Gaziantep FK",
+        "prediction": "Antalyaspor Win or Draw",
+        "odds": "2-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Thursday, 12th March 2026",
     "gamesList": [
       {
