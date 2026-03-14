@@ -1,47 +1,47 @@
 [
   {
-    "id": "ucl_dor_psv_130326",
+    "id": "eng_mci_whu_140326",
+    "teamA": {
+      "name": "Manchester City",
+      "icon": "https://media.api-sports.io/football/teams/50.png"
+    },
+    "teamB": {
+      "name": "West Ham United",
+      "icon": "https://media.api-sports.io/football/teams/48.png"
+    },
+    "leagueName": "English Premier League",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-03-14",
+    "results": "PENDING"
+  },
+  {
+    "id": "ger_dor_aug_140326",
     "teamA": {
       "name": "Borussia Dortmund",
       "icon": "https://media.api-sports.io/football/teams/165.png"
     },
     "teamB": {
-      "name": "PSV Eindhoven",
-      "icon": "https://media.api-sports.io/football/teams/197.png"
+      "name": "Augsburg",
+      "icon": "https://media.api-sports.io/football/teams/170.png"
     },
-    "leagueName": "UEFA Champions League",
-    "prediction": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-13",
+    "leagueName": "German Bundesliga",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-03-14",
     "results": "PENDING"
   },
   {
-    "id": "ucl_int_ben_130326",
+    "id": "spa_rma_elc_140326",
     "teamA": {
-      "name": "Inter Milan",
-      "icon": "https://media.api-sports.io/football/teams/505.png"
+      "name": "Real Madrid",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
     },
     "teamB": {
-      "name": "Benfica",
-      "icon": "https://media.api-sports.io/football/teams/211.png"
+      "name": "Elche",
+      "icon": "https://media.api-sports.io/football/teams/797.png"
     },
-    "leagueName": "UEFA Champions League",
-    "prediction": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-13",
-    "results": "PENDING"
-  },
-  {
-    "id": "uel_wha_fra_130326",
-    "teamA": {
-      "name": "West Ham United",
-      "icon": "https://media.api-sports.io/football/teams/48.png"
-    },
-    "teamB": {
-      "name": "Eintracht Frankfurt",
-      "icon": "https://media.api-sports.io/football/teams/169.png"
-    },
-    "leagueName": "UEFA Europa League",
-    "prediction": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-13",
+    "leagueName": "Spanish La Liga",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-03-14",
     "results": "PENDING"
   }
 ]
