@@ -1,5 +1,188 @@
 [
   {
+    "date": "Tuesday, 17th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Manchester City",
+        "teamB": "Brentford",
+        "prediction": "Manchester City Win",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Chelsea",
+        "teamB": "Wolves",
+        "prediction": "Chelsea Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atletico Madrid",
+        "teamB": "Granada",
+        "prediction": "Atletico Madrid Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Juventus",
+        "teamB": "Bologna",
+        "prediction": "Juventus Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Udinese",
+        "prediction": "Inter Milan Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Mainz 05",
+        "prediction": "Borussia Dortmund Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "RB Leipzig",
+        "teamB": "Freiburg",
+        "prediction": "RB Leipzig Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Paris Saint-Germain",
+        "teamB": "Lille",
+        "prediction": "PSG Win",
+        "odds": "3-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Monday, 16th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Arsenal",
+        "teamB": "Crystal Palace",
+        "prediction": "Arsenal Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Everton",
+        "teamB": "Leicester City",
+        "prediction": "Everton Win or Draw",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Sociedad",
+        "teamB": "Getafe",
+        "prediction": "Real Sociedad Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "AC Monza",
+        "teamB": "Fiorentina",
+        "prediction": "Fiorentina Win",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atalanta",
+        "teamB": "Sassuolo",
+        "prediction": "Atalanta Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bayer Leverkusen",
+        "teamB": "Hoffenheim",
+        "prediction": "Bayer Leverkusen Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lyon",
+        "teamB": "Nice",
+        "prediction": "Draw or Nice Win",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Porto",
+        "teamB": "Braga",
+        "prediction": "Porto Win",
+        "odds": "2-0",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, 15th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Manchester United",
+        "teamB": "Aston Villa",
+        "prediction": "Manchester United Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Liverpool",
+        "teamB": "Tottenham Hotspur",
+        "prediction": "Liverpool Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Nottingham Forest",
+        "teamB": "Fulham",
+        "prediction": "Draw",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Barcelona",
+        "teamB": "Sevilla",
+        "prediction": "Barcelona Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Werder Bremen",
+        "teamB": "Mainz 05",
+        "prediction": "Werder Bremen Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "VfB Stuttgart",
+        "teamB": "RB Leipzig",
+        "prediction": "RB Leipzig Win",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Como",
+        "teamB": "AS Roma",
+        "prediction": "AS Roma Win",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lazio",
+        "teamB": "AC Milan",
+        "prediction": "Draw",
+        "odds": "1-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Saturday, 14th March 2026",
     "gamesList": [
       {
