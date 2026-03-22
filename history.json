@@ -1,5 +1,249 @@
 [
   {
+    "date": "Saturday, 21st March 2026",
+    "gamesList": [
+      {
+        "teamA": "Arsenal",
+        "teamB": "Burnley",
+        "prediction": "Arsenal Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Manchester United",
+        "teamB": "Everton",
+        "prediction": "Manchester United Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Sevilla",
+        "prediction": "Real Madrid Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Barcelona",
+        "teamB": "Mallorca",
+        "prediction": "Barcelona Win",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Genoa",
+        "prediction": "Inter Milan Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atalanta",
+        "teamB": "Verona",
+        "prediction": "Atalanta Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Freiburg",
+        "prediction": "Borussia Dortmund Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "RB Leipzig",
+        "teamB": "Hoffenheim",
+        "prediction": "RB Leipzig Win",
+        "odds": "2-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Friday, 20th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Bayern Munich",
+        "teamB": "Augsburg",
+        "prediction": "Bayern Munich Win",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Paris Saint-Germain",
+        "teamB": "Nice",
+        "prediction": "PSG Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Juventus",
+        "teamB": "Sassuolo",
+        "prediction": "Juventus Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Chelsea",
+        "teamB": "Fulham",
+        "prediction": "Chelsea Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Sociedad",
+        "teamB": "Osasuna",
+        "prediction": "Real Sociedad Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Monaco",
+        "teamB": "Nantes",
+        "prediction": "Monaco Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Fenerbahce",
+        "teamB": "Antalyaspor",
+        "prediction": "Fenerbahce Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Galatasaray",
+        "teamB": "Kasimpasa",
+        "prediction": "Galatasaray Win",
+        "odds": "2-0",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Thursday, 19th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Lazio",
+        "prediction": "Inter Milan Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Liverpool",
+        "teamB": "Newcastle United",
+        "prediction": "Liverpool Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Roma",
+        "teamB": "Empoli",
+        "prediction": "Roma Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sevilla",
+        "teamB": "Cadiz",
+        "prediction": "Sevilla Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bayer Leverkusen",
+        "teamB": "Koln",
+        "prediction": "Bayer Leverkusen Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lyon",
+        "teamB": "Toulouse",
+        "prediction": "Lyon Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Porto",
+        "teamB": "Braga",
+        "prediction": "Porto Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Celtic",
+        "teamB": "Aberdeen",
+        "prediction": "Celtic Win",
+        "odds": "3-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Wednesday, 18th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Barcelona",
+        "teamB": "Getafe",
+        "prediction": "Barcelona Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atletico Madrid",
+        "teamB": "Almeria",
+        "prediction": "Atletico Madrid Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "AC Milan",
+        "teamB": "Cagliari",
+        "prediction": "AC Milan Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Napoli",
+        "teamB": "Lecce",
+        "prediction": "Napoli Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Bochum",
+        "prediction": "Borussia Dortmund Win",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "RB Leipzig",
+        "teamB": "Heidenheim",
+        "prediction": "RB Leipzig Win",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Ajax",
+        "teamB": "Sparta Rotterdam",
+        "prediction": "Ajax Win",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Benfica",
+        "teamB": "Estoril",
+        "prediction": "Benfica Win",
+        "odds": "2-0",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Tuesday, 17th March 2026",
     "gamesList": [
       {
