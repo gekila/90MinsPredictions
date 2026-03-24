@@ -1,122 +1,122 @@
 [
   {
-    "id": "eng_ars_new_230326",
+    "id": "int_arg_col_240326",
     "teamA": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
+      "name": "Argentina",
+      "icon": "https://media.api-sports.io/football/teams/26.png"
     },
     "teamB": {
-      "name": "Newcastle",
-      "icon": "https://media.api-sports.io/football/teams/34.png"
+      "name": "Colombia",
+      "icon": "https://media.api-sports.io/football/teams/27.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-03-23",
-    "results": "PENDING"
-  },
-  {
-    "id": "eng_che_wol_230326",
-    "teamA": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
-    },
-    "teamB": {
-      "name": "Wolves",
-      "icon": "https://media.api-sports.io/football/teams/39.png"
-    },
-    "leagueName": "English Premier League",
+    "leagueName": "International - World Cup Qualifiers",
     "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-23",
+    "date": "2026-03-24",
     "results": "PENDING"
   },
   {
-    "id": "esp_bar_get_230326",
+    "id": "int_bra_chi_240326",
     "teamA": {
-      "name": "Barcelona",
-      "icon": "https://media.api-sports.io/football/teams/529.png"
+      "name": "Brazil",
+      "icon": "https://media.api-sports.io/football/teams/6.png"
     },
     "teamB": {
-      "name": "Getafe",
-      "icon": "https://media.api-sports.io/football/teams/546.png"
+      "name": "Chile",
+      "icon": "https://media.api-sports.io/football/teams/7.png"
     },
-    "leagueName": "Spanish La Liga",
+    "leagueName": "International - World Cup Qualifiers",
     "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-03-23",
+    "date": "2026-03-24",
     "results": "PENDING"
   },
   {
-    "id": "ita_int_lec_230326",
+    "id": "int_uru_par_240326",
     "teamA": {
-      "name": "Inter Milan",
-      "icon": "https://media.api-sports.io/football/teams/505.png"
+      "name": "Uruguay",
+      "icon": "https://media.api-sports.io/football/teams/8.png"
     },
     "teamB": {
-      "name": "Lecce",
-      "icon": "https://media.api-sports.io/football/teams/867.png"
+      "name": "Paraguay",
+      "icon": "https://media.api-sports.io/football/teams/9.png"
     },
-    "leagueName": "Italian Serie A",
+    "leagueName": "International - World Cup Qualifiers",
+    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+    "date": "2026-03-24",
+    "results": "PENDING"
+  },
+  {
+    "id": "int_per_ven_240326",
+    "teamA": {
+      "name": "Peru",
+      "icon": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "teamB": {
+      "name": "Venezuela",
+      "icon": "https://media.api-sports.io/football/teams/11.png"
+    },
+    "leagueName": "International - World Cup Qualifiers",
+    "prediction": "UNDER 3.5",
+    "date": "2026-03-24",
+    "results": "PENDING"
+  },
+  {
+    "id": "int_pol_est_240326",
+    "teamA": {
+      "name": "Poland",
+      "icon": "https://media.api-sports.io/football/teams/109.png"
+    },
+    "teamB": {
+      "name": "Estonia",
+      "icon": "https://media.api-sports.io/football/teams/110.png"
+    },
+    "leagueName": "International Friendly",
     "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-03-23",
+    "date": "2026-03-24",
     "results": "PENDING"
   },
   {
-    "id": "ger_dor_aug_230326",
+    "id": "int_swe_alb_240326",
     "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://media.api-sports.io/football/teams/165.png"
+      "name": "Sweden",
+      "icon": "https://media.api-sports.io/football/teams/111.png"
     },
     "teamB": {
-      "name": "Augsburg",
-      "icon": "https://media.api-sports.io/football/teams/170.png"
+      "name": "Albania",
+      "icon": "https://media.api-sports.io/football/teams/112.png"
     },
-    "leagueName": "German Bundesliga",
-    "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-03-23",
+    "leagueName": "International Friendly",
+    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+    "date": "2026-03-24",
     "results": "PENDING"
   },
   {
-    "id": "fra_psg_nice_230326",
+    "id": "int_egy_tun_240326",
     "teamA": {
-      "name": "PSG",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
+      "name": "Egypt",
+      "icon": "https://media.api-sports.io/football/teams/161.png"
     },
     "teamB": {
-      "name": "Nice",
-      "icon": "https://media.api-sports.io/football/teams/84.png"
+      "name": "Tunisia",
+      "icon": "https://media.api-sports.io/football/teams/162.png"
     },
-    "leagueName": "French Ligue 1",
-    "prediction": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-03-23",
+    "leagueName": "International Friendly",
+    "prediction": "UNDER 3.5",
+    "date": "2026-03-24",
     "results": "PENDING"
   },
   {
-    "id": "ned_aja_utr_230326",
+    "id": "int_nig_gha_240326",
     "teamA": {
-      "name": "Ajax",
-      "icon": "https://media.api-sports.io/football/teams/194.png"
+      "name": "Nigeria",
+      "icon": "https://media.api-sports.io/football/teams/163.png"
     },
     "teamB": {
-      "name": "Utrecht",
-      "icon": "https://media.api-sports.io/football/teams/201.png"
+      "name": "Ghana",
+      "icon": "https://media.api-sports.io/football/teams/164.png"
     },
-    "leagueName": "Dutch Eredivisie",
-    "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-03-23",
-    "results": "PENDING"
-  },
-  {
-    "id": "por_ben_boa_230326",
-    "teamA": {
-      "name": "Benfica",
-      "icon": "https://media.api-sports.io/football/teams/211.png"
-    },
-    "teamB": {
-      "name": "Boavista",
-      "icon": "https://media.api-sports.io/football/teams/218.png"
-    },
-    "leagueName": "Portuguese Primeira Liga",
-    "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-03-23",
+    "leagueName": "International Friendly",
+    "prediction": "UNDER 3.5",
+    "date": "2026-03-24",
     "results": "PENDING"
   }
 ]
