@@ -1,122 +1,122 @@
 [
   {
-    "id": "int_kaz_com_250326",
+    "id": "wc_ukr_swe_260326",
     "teamA": {
-      "name": "Kazakhstan",
+      "name": "Ukraine",
+      "icon": "https://media.api-sports.io/football/teams/556.png"
+    },
+    "teamB": {
+      "name": "Sweden",
+      "icon": "https://media.api-sports.io/football/teams/29.png"
+    },
+    "leagueName": "World Cup Playoffs Europe",
+    "prediction": "UNDER 3.5",
+    "date": "2026-03-26",
+    "results": "PENDING"
+  },
+  {
+    "id": "wc_pol_alb_260326",
+    "teamA": {
+      "name": "Poland",
+      "icon": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "teamB": {
+      "name": "Albania",
+      "icon": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "leagueName": "World Cup Playoffs Europe",
+    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+    "date": "2026-03-26",
+    "results": "PENDING"
+  },
+  {
+    "id": "wc_ita_nir_260326",
+    "teamA": {
+      "name": "Italy",
+      "icon": "https://media.api-sports.io/football/teams/505.png"
+    },
+    "teamB": {
+      "name": "Northern Ireland",
+      "icon": "https://media.api-sports.io/football/teams/516.png"
+    },
+    "leagueName": "World Cup Playoffs Europe",
+    "prediction": "HOME WIN & UNDER 3.5",
+    "date": "2026-03-26",
+    "results": "PENDING"
+  },
+  {
+    "id": "wc_wal_bih_260326",
+    "teamA": {
+      "name": "Wales",
+      "icon": "https://media.api-sports.io/football/teams/767.png"
+    },
+    "teamB": {
+      "name": "Bosnia & Herzegovina",
+      "icon": "https://media.api-sports.io/football/teams/768.png"
+    },
+    "leagueName": "World Cup Playoffs Europe",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-03-26",
+    "results": "PENDING"
+  },
+  {
+    "id": "wc_tur_rom_260326",
+    "teamA": {
+      "name": "Turkey",
+      "icon": "https://media.api-sports.io/football/teams/611.png"
+    },
+    "teamB": {
+      "name": "Romania",
+      "icon": "https://media.api-sports.io/football/teams/612.png"
+    },
+    "leagueName": "World Cup Playoffs Europe",
+    "prediction": "UNDER 3.5",
+    "date": "2026-03-26",
+    "results": "PENDING"
+  },
+  {
+    "id": "wc_cze_irl_260326",
+    "teamA": {
+      "name": "Czech Republic",
+      "icon": "https://media.api-sports.io/football/teams/770.png"
+    },
+    "teamB": {
+      "name": "Ireland",
+      "icon": "https://media.api-sports.io/football/teams/771.png"
+    },
+    "leagueName": "World Cup Playoffs Europe",
+    "prediction": "UNDER 3.5",
+    "date": "2026-03-26",
+    "results": "PENDING"
+  },
+  {
+    "id": "int_bra_fra_260326",
+    "teamA": {
+      "name": "Brazil",
+      "icon": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "teamB": {
+      "name": "France",
+      "icon": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "leagueName": "International Friendly",
+    "prediction": "UNDER 3.5",
+    "date": "2026-03-26",
+    "results": "PENDING"
+  },
+  {
+    "id": "int_tan_lie_260326",
+    "teamA": {
+      "name": "Tanzania",
+      "icon": "https://media.api-sports.io/football/teams/150.png"
+    },
+    "teamB": {
+      "name": "Liechtenstein",
       "icon": "https://media.api-sports.io/football/teams/151.png"
     },
-    "teamB": {
-      "name": "Comoros",
-      "icon": "https://media.api-sports.io/football/teams/152.png"
-    },
     "leagueName": "International Friendly",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-25",
-    "results": "PENDING"
-  },
-  {
-    "id": "int_kuw_nam_250326",
-    "teamA": {
-      "name": "Kuwait",
-      "icon": "https://media.api-sports.io/football/teams/153.png"
-    },
-    "teamB": {
-      "name": "Namibia",
-      "icon": "https://media.api-sports.io/football/teams/154.png"
-    },
-    "leagueName": "International Friendly",
-    "prediction": "UNDER 3.5",
-    "date": "2026-03-25",
-    "results": "PENDING"
-  },
-  {
-    "id": "int_usv_ams_250326",
-    "teamA": {
-      "name": "US Virgin Islands",
-      "icon": "https://media.api-sports.io/football/teams/155.png"
-    },
-    "teamB": {
-      "name": "American Samoa",
-      "icon": "https://media.api-sports.io/football/teams/156.png"
-    },
-    "leagueName": "International Friendly",
-    "prediction": "OVER 1.5",
-    "date": "2026-03-25",
-    "results": "PENDING"
-  },
-  {
-    "id": "eng_south_wok_250326",
-    "teamA": {
-      "name": "Southend",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
-    },
-    "teamB": {
-      "name": "Woking",
-      "icon": "https://media.api-sports.io/football/teams/158.png"
-    },
-    "leagueName": "England National League",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-25",
-    "results": "PENDING"
-  },
-  {
-    "id": "eng_tru_sol_250326",
-    "teamA": {
-      "name": "Truro City",
-      "icon": "https://media.api-sports.io/football/teams/159.png"
-    },
-    "teamB": {
-      "name": "Solihull Moors",
-      "icon": "https://media.api-sports.io/football/teams/160.png"
-    },
-    "leagueName": "England National League",
-    "prediction": "AWAY WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-25",
-    "results": "PENDING"
-  },
-  {
-    "id": "eng_mor_har_250326",
-    "teamA": {
-      "name": "Morecambe",
-      "icon": "https://media.api-sports.io/football/teams/161.png"
-    },
-    "teamB": {
-      "name": "Hartlepool",
-      "icon": "https://media.api-sports.io/football/teams/162.png"
-    },
-    "leagueName": "England National League",
-    "prediction": "UNDER 3.5",
-    "date": "2026-03-25",
-    "results": "PENDING"
-  },
-  {
-    "id": "eng_wea_yeo_250326",
-    "teamA": {
-      "name": "Wealdstone",
-      "icon": "https://media.api-sports.io/football/teams/163.png"
-    },
-    "teamB": {
-      "name": "Yeovil",
-      "icon": "https://media.api-sports.io/football/teams/164.png"
-    },
-    "leagueName": "England National League",
-    "prediction": "AWAY WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-25",
-    "results": "PENDING"
-  },
-  {
-    "id": "col_for_pas_250326",
-    "teamA": {
-      "name": "Fortaleza CEIF",
-      "icon": "https://media.api-sports.io/football/teams/165.png"
-    },
-    "teamB": {
-      "name": "Deportivo Pasto",
-      "icon": "https://media.api-sports.io/football/teams/166.png"
-    },
-    "leagueName": "Colombia Primera A",
-    "prediction": "UNDER 3.5",
-    "date": "2026-03-25",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-03-26",
     "results": "PENDING"
   }
 ]
