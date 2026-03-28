@@ -1,5 +1,52 @@
 [
   {
+    "date": "Friday, 27th March 2026",
+    "gamesList": [
+      {
+        "teamA": "England",
+        "teamB": "Netherlands",
+        "prediction": "UNDER 3.5",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Germany",
+        "teamB": "Denmark",
+        "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Portugal",
+        "teamB": "Belgium",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Spain",
+        "teamB": "Croatia",
+        "prediction": "UNDER 3.5",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mexico",
+        "teamB": "Chile",
+        "prediction": "UNDER 3.5",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Japan",
+        "teamB": "South Korea",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "1-1",
+        "results": "WIN"
+       }
+    ]
+  },
+  {
     "date": "Wednesday, 25th March 2026",
     "gamesList": [
       {
