@@ -1,122 +1,122 @@
 [
   {
-    "id": "wc_ukr_swe_260326",
+    "id": "int_eng_ned_280326",
     "teamA": {
-      "name": "Ukraine",
-      "icon": "https://media.api-sports.io/football/teams/556.png"
+      "name": "England",
+      "icon": "https://media.api-sports.io/football/teams/10.png"
     },
     "teamB": {
-      "name": "Sweden",
-      "icon": "https://media.api-sports.io/football/teams/29.png"
+      "name": "Netherlands",
+      "icon": "https://media.api-sports.io/football/teams/1118.png"
     },
-    "leagueName": "World Cup Playoffs Europe",
+    "leagueName": "International Friendly",
     "prediction": "UNDER 3.5",
-    "date": "2026-03-26",
+    "date": "2026-03-28",
     "results": "PENDING"
   },
   {
-    "id": "wc_pol_alb_260326",
+    "id": "int_ger_den_280326",
     "teamA": {
-      "name": "Poland",
+      "name": "Germany",
+      "icon": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "teamB": {
+      "name": "Denmark",
+      "icon": "https://media.api-sports.io/football/teams/21.png"
+    },
+    "leagueName": "International Friendly",
+    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+    "date": "2026-03-28",
+    "results": "PENDING"
+  },
+  {
+    "id": "int_por_bel_280326",
+    "teamA": {
+      "name": "Portugal",
+      "icon": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "teamB": {
+      "name": "Belgium",
+      "icon": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "leagueName": "International Friendly",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-03-28",
+    "results": "PENDING"
+  },
+  {
+    "id": "int_esp_cro_280326",
+    "teamA": {
+      "name": "Spain",
+      "icon": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "teamB": {
+      "name": "Croatia",
+      "icon": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "leagueName": "International Friendly",
+    "prediction": "UNDER 3.5",
+    "date": "2026-03-28",
+    "results": "PENDING"
+  },
+  {
+    "id": "int_arg_col_280326",
+    "teamA": {
+      "name": "Argentina",
       "icon": "https://media.api-sports.io/football/teams/26.png"
     },
     "teamB": {
-      "name": "Albania",
-      "icon": "https://media.api-sports.io/football/teams/27.png"
-    },
-    "leagueName": "World Cup Playoffs Europe",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-26",
-    "results": "PENDING"
-  },
-  {
-    "id": "wc_ita_nir_260326",
-    "teamA": {
-      "name": "Italy",
-      "icon": "https://media.api-sports.io/football/teams/505.png"
-    },
-    "teamB": {
-      "name": "Northern Ireland",
-      "icon": "https://media.api-sports.io/football/teams/516.png"
-    },
-    "leagueName": "World Cup Playoffs Europe",
-    "prediction": "HOME WIN & UNDER 3.5",
-    "date": "2026-03-26",
-    "results": "PENDING"
-  },
-  {
-    "id": "wc_wal_bih_260326",
-    "teamA": {
-      "name": "Wales",
-      "icon": "https://media.api-sports.io/football/teams/767.png"
-    },
-    "teamB": {
-      "name": "Bosnia & Herzegovina",
-      "icon": "https://media.api-sports.io/football/teams/768.png"
-    },
-    "leagueName": "World Cup Playoffs Europe",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-03-26",
-    "results": "PENDING"
-  },
-  {
-    "id": "wc_tur_rom_260326",
-    "teamA": {
-      "name": "Turkey",
-      "icon": "https://media.api-sports.io/football/teams/611.png"
-    },
-    "teamB": {
-      "name": "Romania",
-      "icon": "https://media.api-sports.io/football/teams/612.png"
-    },
-    "leagueName": "World Cup Playoffs Europe",
-    "prediction": "UNDER 3.5",
-    "date": "2026-03-26",
-    "results": "PENDING"
-  },
-  {
-    "id": "wc_cze_irl_260326",
-    "teamA": {
-      "name": "Czech Republic",
-      "icon": "https://media.api-sports.io/football/teams/770.png"
-    },
-    "teamB": {
-      "name": "Ireland",
-      "icon": "https://media.api-sports.io/football/teams/771.png"
-    },
-    "leagueName": "World Cup Playoffs Europe",
-    "prediction": "UNDER 3.5",
-    "date": "2026-03-26",
-    "results": "PENDING"
-  },
-  {
-    "id": "int_bra_fra_260326",
-    "teamA": {
-      "name": "Brazil",
-      "icon": "https://media.api-sports.io/football/teams/6.png"
-    },
-    "teamB": {
-      "name": "France",
-      "icon": "https://media.api-sports.io/football/teams/2.png"
-    },
-    "leagueName": "International Friendly",
-    "prediction": "UNDER 3.5",
-    "date": "2026-03-26",
-    "results": "PENDING"
-  },
-  {
-    "id": "int_tan_lie_260326",
-    "teamA": {
-      "name": "Tanzania",
-      "icon": "https://media.api-sports.io/football/teams/150.png"
-    },
-    "teamB": {
-      "name": "Liechtenstein",
-      "icon": "https://media.api-sports.io/football/teams/151.png"
+      "name": "Colombia",
+      "icon": "https://media.api-sports.io/football/teams/8.png"
     },
     "leagueName": "International Friendly",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-03-26",
+    "date": "2026-03-28",
+    "results": "PENDING"
+  },
+  {
+    "id": "int_mex_chi_280326",
+    "teamA": {
+      "name": "Mexico",
+      "icon": "https://media.api-sports.io/football/teams/16.png"
+    },
+    "teamB": {
+      "name": "Chile",
+      "icon": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "leagueName": "International Friendly",
+    "prediction": "UNDER 3.5",
+    "date": "2026-03-28",
+    "results": "PENDING"
+  },
+  {
+    "id": "int_jpn_kor_280326",
+    "teamA": {
+      "name": "Japan",
+      "icon": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "teamB": {
+      "name": "South Korea",
+      "icon": "https://media.api-sports.io/football/teams/17.png"
+    },
+    "leagueName": "International Friendly",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-03-28",
+    "results": "PENDING"
+  },
+  {
+    "id": "int_usa_can_280326",
+    "teamA": {
+      "name": "USA",
+      "icon": "https://media.api-sports.io/football/teams/2384.png"
+    },
+    "teamB": {
+      "name": "Canada",
+      "icon": "https://media.api-sports.io/football/teams/2381.png"
+    },
+    "leagueName": "International Friendly",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-03-28",
     "results": "PENDING"
   }
 ]
