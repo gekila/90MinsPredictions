@@ -1,6 +1,250 @@
 [
   {
+    "date": "Monday, 30th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Tottenham",
+        "teamB": "Newcastle",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Real Betis",
+        "prediction": "HOME WIN & OVER 2.5",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "AC Milan",
+        "teamB": "Torino",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Dortmund",
+        "teamB": "Augsburg",
+        "prediction": "HOME WIN & OVER 2.5",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Monaco",
+        "teamB": "Lille",
+        "prediction": "OVER 2.5",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Wolves",
+        "teamB": "Everton",
+        "prediction": "UNDER 3.5",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Villarreal",
+        "teamB": "Osasuna",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Roma",
+        "teamB": "Fiorentina",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Sunday, 29th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Liverpool",
+        "teamB": "Leicester",
+        "prediction": "HOME WIN & OVER 2.5",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Sociedad",
+        "teamB": "Getafe",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Napoli",
+        "teamB": "Empoli",
+        "prediction": "HOME WIN & OVER 1.5",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "RB Leipzig",
+        "teamB": "Freiburg",
+        "prediction": "HOME WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Marseille",
+        "teamB": "Nice",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Aston Villa",
+        "teamB": "West Ham",
+        "prediction": "OVER 2.5",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Cadiz",
+        "teamB": "Alaves",
+        "prediction": "UNDER 3.5",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bologna",
+        "teamB": "Udinese",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Saturday, 28th March 2026",
+    "gamesList": [
+      {
+        "teamA": "England",
+        "teamB": "Netherlands",
+        "prediction": "UNDER 3.5",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Germany",
+        "teamB": "Denmark",
+        "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Portugal",
+        "teamB": "Belgium",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Spain",
+        "teamB": "Croatia",
+        "prediction": "UNDER 3.5",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Argentina",
+        "teamB": "Colombia",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mexico",
+        "teamB": "Chile",
+        "prediction": "UNDER 3.5",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Japan",
+        "teamB": "South Korea",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "USA",
+        "teamB": "Canada",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "2-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Friday, 27th March 2026",
+    "gamesList": [
+      {
+        "teamA": "Manchester United",
+        "teamB": "Brentford",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sevilla",
+        "teamB": "Granada",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Inter",
+        "teamB": "Genoa",
+        "prediction": "HOME WIN & OVER 1.5",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Stuttgart",
+        "teamB": "Hoffenheim",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Rennes",
+        "teamB": "Strasbourg",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Crystal Palace",
+        "teamB": "Southampton",
+        "prediction": "UNDER 3.5",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mallorca",
+        "teamB": "Espanyol",
+        "prediction": "UNDER 3.5",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Verona",
+        "teamB": "Lecce",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+         }
+    ]
+  },
+  {
+    "date": "Friday, 26th March 2026",
     "gamesList": [
       {
         "teamA": "England",
