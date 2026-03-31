@@ -1,122 +1,122 @@
 [
   {
-    "id": "int_eng_ned_280326",
+    "id": "epl_ars_che_310326",
     "teamA": {
-      "name": "England",
-      "icon": "https://media.api-sports.io/football/teams/10.png"
+      "name": "Arsenal",
+      "icon": "https://media.api-sports.io/football/teams/42.png"
     },
     "teamB": {
-      "name": "Netherlands",
-      "icon": "https://media.api-sports.io/football/teams/1118.png"
+      "name": "Chelsea",
+      "icon": "https://media.api-sports.io/football/teams/49.png"
     },
-    "leagueName": "International Friendly",
-    "prediction": "UNDER 3.5",
-    "date": "2026-03-28",
+    "leagueName": "Premier League",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-03-31",
     "results": "PENDING"
   },
   {
-    "id": "int_ger_den_280326",
+    "id": "laliga_bar_val_310326",
     "teamA": {
-      "name": "Germany",
-      "icon": "https://media.api-sports.io/football/teams/25.png"
+      "name": "Barcelona",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
     },
     "teamB": {
-      "name": "Denmark",
-      "icon": "https://media.api-sports.io/football/teams/21.png"
+      "name": "Valencia",
+      "icon": "https://media.api-sports.io/football/teams/532.png"
     },
-    "leagueName": "International Friendly",
+    "leagueName": "La Liga",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-03-31",
+    "results": "PENDING"
+  },
+  {
+    "id": "seriea_int_laz_310326",
+    "teamA": {
+      "name": "Inter",
+      "icon": "https://media.api-sports.io/football/teams/505.png"
+    },
+    "teamB": {
+      "name": "Lazio",
+      "icon": "https://media.api-sports.io/football/teams/487.png"
+    },
+    "leagueName": "Serie A",
     "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-28",
+    "date": "2026-03-31",
     "results": "PENDING"
   },
   {
-    "id": "int_por_bel_280326",
+    "id": "bund_bay_fra_310326",
     "teamA": {
-      "name": "Portugal",
-      "icon": "https://media.api-sports.io/football/teams/27.png"
+      "name": "Bayern Munich",
+      "icon": "https://media.api-sports.io/football/teams/157.png"
     },
     "teamB": {
-      "name": "Belgium",
-      "icon": "https://media.api-sports.io/football/teams/1.png"
+      "name": "Eintracht Frankfurt",
+      "icon": "https://media.api-sports.io/football/teams/169.png"
     },
-    "leagueName": "International Friendly",
+    "leagueName": "Bundesliga",
+    "prediction": "HOME WIN & OVER 2.5",
+    "date": "2026-03-31",
+    "results": "PENDING"
+  },
+  {
+    "id": "ligue1_psg_lyo_310326",
+    "teamA": {
+      "name": "PSG",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
+    },
+    "teamB": {
+      "name": "Lyon",
+      "icon": "https://media.api-sports.io/football/teams/80.png"
+    },
+    "leagueName": "Ligue 1",
+    "prediction": "HOME WIN & OVER 2.5",
+    "date": "2026-03-31",
+    "results": "PENDING"
+  },
+  {
+    "id": "epl_mci_bha_310326",
+    "teamA": {
+      "name": "Manchester City",
+      "icon": "https://media.api-sports.io/football/teams/50.png"
+    },
+    "teamB": {
+      "name": "Brighton",
+      "icon": "https://media.api-sports.io/football/teams/51.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-03-31",
+    "results": "PENDING"
+  },
+  {
+    "id": "laliga_ath_sev_310326",
+    "teamA": {
+      "name": "Atletico Madrid",
+      "icon": "https://media.api-sports.io/football/teams/530.png"
+    },
+    "teamB": {
+      "name": "Sevilla",
+      "icon": "https://media.api-sports.io/football/teams/536.png"
+    },
+    "leagueName": "La Liga",
+    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+    "date": "2026-03-31",
+    "results": "PENDING"
+  },
+  {
+    "id": "seriea_juv_ata_310326",
+    "teamA": {
+      "name": "Juventus",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
+    },
+    "teamB": {
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/499.png"
+    },
+    "leagueName": "Serie A",
     "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-03-28",
-    "results": "PENDING"
-  },
-  {
-    "id": "int_esp_cro_280326",
-    "teamA": {
-      "name": "Spain",
-      "icon": "https://media.api-sports.io/football/teams/9.png"
-    },
-    "teamB": {
-      "name": "Croatia",
-      "icon": "https://media.api-sports.io/football/teams/3.png"
-    },
-    "leagueName": "International Friendly",
-    "prediction": "UNDER 3.5",
-    "date": "2026-03-28",
-    "results": "PENDING"
-  },
-  {
-    "id": "int_arg_col_280326",
-    "teamA": {
-      "name": "Argentina",
-      "icon": "https://media.api-sports.io/football/teams/26.png"
-    },
-    "teamB": {
-      "name": "Colombia",
-      "icon": "https://media.api-sports.io/football/teams/8.png"
-    },
-    "leagueName": "International Friendly",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-03-28",
-    "results": "PENDING"
-  },
-  {
-    "id": "int_mex_chi_280326",
-    "teamA": {
-      "name": "Mexico",
-      "icon": "https://media.api-sports.io/football/teams/16.png"
-    },
-    "teamB": {
-      "name": "Chile",
-      "icon": "https://media.api-sports.io/football/teams/7.png"
-    },
-    "leagueName": "International Friendly",
-    "prediction": "UNDER 3.5",
-    "date": "2026-03-28",
-    "results": "PENDING"
-  },
-  {
-    "id": "int_jpn_kor_280326",
-    "teamA": {
-      "name": "Japan",
-      "icon": "https://media.api-sports.io/football/teams/12.png"
-    },
-    "teamB": {
-      "name": "South Korea",
-      "icon": "https://media.api-sports.io/football/teams/17.png"
-    },
-    "leagueName": "International Friendly",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-03-28",
-    "results": "PENDING"
-  },
-  {
-    "id": "int_usa_can_280326",
-    "teamA": {
-      "name": "USA",
-      "icon": "https://media.api-sports.io/football/teams/2384.png"
-    },
-    "teamB": {
-      "name": "Canada",
-      "icon": "https://media.api-sports.io/football/teams/2381.png"
-    },
-    "leagueName": "International Friendly",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-03-28",
+    "date": "2026-03-31",
     "results": "PENDING"
   }
 ]
