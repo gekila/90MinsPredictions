@@ -1,114 +1,86 @@
 [
   {
-    "id": "eng_mci_bha_180326",
+    "id": "eng_liv_tot_010426",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
     },
     "teamB": {
-      "name": "Brighton",
-      "icon": "https://media.api-sports.io/football/teams/51.png"
+      "name": "Tottenham",
+      "icon": "https://media.api-sports.io/football/teams/47.png"
     },
     "leagueName": "English Premier League",
-    "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-03-18"
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-04-01"
   },
   {
-    "id": "eng_che_new_180326",
+    "id": "eng_mun_whu_010426",
     "teamA": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
+      "name": "Manchester United",
+      "icon": "https://media.api-sports.io/football/teams/33.png"
     },
     "teamB": {
-      "name": "Newcastle United",
-      "icon": "https://media.api-sports.io/football/teams/34.png"
+      "name": "West Ham",
+      "icon": "https://media.api-sports.io/football/teams/48.png"
     },
     "leagueName": "English Premier League",
-    "prediction": "DRAW OR AWAY & OVER 1.5",
-    "date": "2026-03-18"
+    "prediction": "HOME WIN OR DRAW & OVER 1.5",
+    "date": "2026-04-01"
   },
   {
-    "id": "spa_rma_val_180326",
+    "id": "spa_rma_bet_010426",
     "teamA": {
       "name": "Real Madrid",
       "icon": "https://media.api-sports.io/football/teams/541.png"
-    },
-    "teamB": {
-      "name": "Valencia",
-      "icon": "https://media.api-sports.io/football/teams/532.png"
-    },
-    "leagueName": "Spanish La Liga",
-    "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-03-18"
-  },
-  {
-    "id": "spa_atm_bet_180326",
-    "teamA": {
-      "name": "Atletico Madrid",
-      "icon": "https://media.api-sports.io/football/teams/530.png"
     },
     "teamB": {
       "name": "Real Betis",
       "icon": "https://media.api-sports.io/football/teams/543.png"
     },
     "leagueName": "Spanish La Liga",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-03-18"
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-04-01"
   },
   {
-    "id": "ger_bay_fra_180326",
+    "id": "spa_bar_vil_010426",
+    "teamA": {
+      "name": "Barcelona",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
+    },
+    "teamB": {
+      "name": "Villarreal",
+      "icon": "https://media.api-sports.io/football/teams/533.png"
+    },
+    "leagueName": "Spanish La Liga",
+    "prediction": "HOME WIN OR DRAW & OVER 2.5",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "ita_mil_fio_010426",
+    "teamA": {
+      "name": "AC Milan",
+      "icon": "https://media.api-sports.io/football/teams/489.png"
+    },
+    "teamB": {
+      "name": "Fiorentina",
+      "icon": "https://media.api-sports.io/football/teams/502.png"
+    },
+    "leagueName": "Italian Serie A",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-04-01"
+  },
+  {
+    "id": "ger_bay_lev_010426",
     "teamA": {
       "name": "Bayern Munich",
       "icon": "https://media.api-sports.io/football/teams/157.png"
     },
     "teamB": {
-      "name": "Eintracht Frankfurt",
-      "icon": "https://media.api-sports.io/football/teams/169.png"
+      "name": "Bayer Leverkusen",
+      "icon": "https://media.api-sports.io/football/teams/168.png"
     },
     "leagueName": "German Bundesliga",
     "prediction": "HOME WIN & OVER 2.5",
-    "date": "2026-03-18"
-  },
-  {
-    "id": "ger_dor_aug_180326",
-    "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://media.api-sports.io/football/teams/165.png"
-    },
-    "teamB": {
-      "name": "Augsburg",
-      "icon": "https://media.api-sports.io/football/teams/170.png"
-    },
-    "leagueName": "German Bundesliga",
-    "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-03-18"
-  },
-  {
-    "id": "ita_int_tor_180326",
-    "teamA": {
-      "name": "Inter Milan",
-      "icon": "https://media.api-sports.io/football/teams/505.png"
-    },
-    "teamB": {
-      "name": "Torino",
-      "icon": "https://media.api-sports.io/football/teams/503.png"
-    },
-    "leagueName": "Italian Serie A",
-    "prediction": "HOME WIN & UNDER 4.5",
-    "date": "2026-03-18"
-  },
-  {
-    "id": "ita_juv_ata_180326",
-    "teamA": {
-      "name": "Juventus",
-      "icon": "https://media.api-sports.io/football/teams/496.png"
-    },
-    "teamB": {
-      "name": "Atalanta",
-      "icon": "https://media.api-sports.io/football/teams/499.png"
-    },
-    "leagueName": "Italian Serie A",
-    "prediction": "DRAW OR AWAY & OVER 1.5",
-    "date": "2026-03-18"
+    "date": "2026-04-01"
   }
 ]
