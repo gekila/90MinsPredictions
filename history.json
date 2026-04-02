@@ -1,5 +1,66 @@
 [
   {
+    "date": "Wednesday, 1st April 2026",
+    "gamesList": [
+      {
+        "teamA": "Liverpool",
+        "teamB": "Tottenham",
+        "prediction": "HOME WIN & OVER 1.5",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Manchester United",
+        "teamB": "West Ham",
+        "prediction": "HOME WIN OR DRAW & OVER 1.5",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Real Betis",
+        "prediction": "HOME WIN & OVER 1.5",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Barcelona",
+        "teamB": "Villarreal",
+        "prediction": "HOME WIN OR DRAW & OVER 2.5",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "AC Milan",
+        "teamB": "Fiorentina",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bayern Munich",
+        "teamB": "Bayer Leverkusen",
+        "prediction": "HOME WIN & OVER 2.5",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Paris Saint-Germain",
+        "teamB": "Marseille",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atletico Madrid",
+        "teamB": "Sevilla",
+        "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+        "odds": "1-0",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Tuesday, 31st March 2026",
     "gamesList": [
       {
