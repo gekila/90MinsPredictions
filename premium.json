@@ -1,74 +1,56 @@
 [
   {
-    "id": "eng_epl_liv_tot_010426",
-    "teamA": { "name": "Liverpool", "icon": "https://media.api-sports.io/football/teams/40.png" },
-    "teamB": { "name": "Tottenham Hotspur", "icon": "https://media.api-sports.io/football/teams/47.png" },
-    "leagueName": "Premier League - England",
-    "prediction": "HOME WIN",
-    "expectedScore": "2-1",
-    "date": "2026-04-01"
-  },
-  {
-    "id": "eng_epl_ars_eve_010426",
-    "teamA": { "name": "Arsenal", "icon": "https://media.api-sports.io/football/teams/42.png" },
-    "teamB": { "name": "Everton", "icon": "https://media.api-sports.io/football/teams/45.png" },
-    "leagueName": "Premier League - England",
+    "id": "ita_sa_int_tor_020426",
+    "teamA": { "name": "Inter Milan", "icon": "https://media.api-sports.io/football/teams/505.png" },
+    "teamB": { "name": "Torino", "icon": "https://media.api-sports.io/football/teams/503.png" },
+    "leagueName": "Serie A - Italy",
     "prediction": "HOME WIN",
     "expectedScore": "2-0",
-    "date": "2026-04-01"
+    "date": "2026-04-02"
   },
   {
-    "id": "eng_epl_mun_whu_010426",
-    "teamA": { "name": "Manchester United", "icon": "https://media.api-sports.io/football/teams/33.png" },
-    "teamB": { "name": "West Ham United", "icon": "https://media.api-sports.io/football/teams/48.png" },
-    "leagueName": "Premier League - England",
-    "prediction": "HOME WIN",
-    "expectedScore": "2-0",
-    "date": "2026-04-01"
-  },
-  {
-    "id": "esp_la_rma_bet_010426",
-    "teamA": { "name": "Real Madrid", "icon": "https://media.api-sports.io/football/teams/541.png" },
-    "teamB": { "name": "Real Betis", "icon": "https://media.api-sports.io/football/teams/543.png" },
-    "leagueName": "La Liga - Spain",
-    "prediction": "HOME WIN",
-    "expectedScore": "2-1",
-    "date": "2026-04-01"
-  },
-  {
-    "id": "esp_la_bar_vil_010426",
-    "teamA": { "name": "Barcelona", "icon": "https://media.api-sports.io/football/teams/529.png" },
-    "teamB": { "name": "Villarreal", "icon": "https://media.api-sports.io/football/teams/533.png" },
-    "leagueName": "La Liga - Spain",
+    "id": "fra_l1_psg_len_020426",
+    "teamA": { "name": "Paris Saint-Germain", "icon": "https://media.api-sports.io/football/teams/85.png" },
+    "teamB": { "name": "Lens", "icon": "https://media.api-sports.io/football/teams/116.png" },
+    "leagueName": "Ligue 1 - France",
     "prediction": "HOME WIN",
     "expectedScore": "3-1",
-    "date": "2026-04-01"
+    "date": "2026-04-02"
   },
   {
-    "id": "ger_bl_bay_lev_010426",
-    "teamA": { "name": "Bayern Munich", "icon": "https://media.api-sports.io/football/teams/157.png" },
-    "teamB": { "name": "Bayer Leverkusen", "icon": "https://media.api-sports.io/football/teams/168.png" },
+    "id": "ger_bl_dor_aug_020426",
+    "teamA": { "name": "Borussia Dortmund", "icon": "https://media.api-sports.io/football/teams/165.png" },
+    "teamB": { "name": "Augsburg", "icon": "https://media.api-sports.io/football/teams/170.png" },
     "leagueName": "Bundesliga - Germany",
     "prediction": "HOME WIN",
     "expectedScore": "3-1",
-    "date": "2026-04-01"
+    "date": "2026-04-02"
   },
   {
-    "id": "ita_sa_mil_fio_010426",
-    "teamA": { "name": "AC Milan", "icon": "https://media.api-sports.io/football/teams/489.png" },
-    "teamB": { "name": "Fiorentina", "icon": "https://media.api-sports.io/football/teams/502.png" },
-    "leagueName": "Serie A - Italy",
+    "id": "eng_epl_new_eve_020426",
+    "teamA": { "name": "Newcastle United", "icon": "https://media.api-sports.io/football/teams/34.png" },
+    "teamB": { "name": "Everton", "icon": "https://media.api-sports.io/football/teams/45.png" },
+    "leagueName": "Premier League - England",
     "prediction": "HOME WIN",
     "expectedScore": "2-1",
-    "date": "2026-04-01"
+    "date": "2026-04-02"
   },
   {
-    "id": "fra_l1_psg_mar_010426",
-    "teamA": { "name": "Paris Saint-Germain", "icon": "https://media.api-sports.io/football/teams/85.png" },
-    "teamB": { "name": "Marseille", "icon": "https://media.api-sports.io/football/teams/81.png" },
-    "leagueName": "Ligue 1 - France",
+    "id": "esp_la_atm_sev_020426",
+    "teamA": { "name": "Atletico Madrid", "icon": "https://media.api-sports.io/football/teams/530.png" },
+    "teamB": { "name": "Sevilla", "icon": "https://media.api-sports.io/football/teams/536.png" },
+    "leagueName": "La Liga - Spain",
     "prediction": "HOME WIN",
-    "expectedScore": "2-0",
-    "date": "2026-04-01"
+    "expectedScore": "1-0",
+    "date": "2026-04-02"
+  },
+  {
+    "id": "eng_epl_che_bha_020426",
+    "teamA": { "name": "Chelsea", "icon": "https://media.api-sports.io/football/teams/49.png" },
+    "teamB": { "name": "Brighton", "icon": "https://media.api-sports.io/football/teams/51.png" },
+    "leagueName": "Premier League - England",
+    "prediction": "HOME WIN",
+    "expectedScore": "2-1",
+    "date": "2026-04-02"
   }
 ]
