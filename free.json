@@ -1,47 +1,47 @@
 [
   {
-    "id": "epl_liv_tot_010426",
+    "id": "ita_int_tor_020426",
     "teamA": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
+      "name": "Inter Milan",
+      "icon": "https://media.api-sports.io/football/teams/505.png"
     },
     "teamB": {
-      "name": "Tottenham",
-      "icon": "https://media.api-sports.io/football/teams/47.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-04-01",
-    "results": "PENDING"
-  },
-  {
-    "id": "laliga_rma_bet_010426",
-    "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
-    },
-    "teamB": {
-      "name": "Real Betis",
-      "icon": "https://media.api-sports.io/football/teams/543.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-04-01",
-    "results": "PENDING"
-  },
-  {
-    "id": "seriea_mil_fio_010426",
-    "teamA": {
-      "name": "AC Milan",
-      "icon": "https://media.api-sports.io/football/teams/489.png"
-    },
-    "teamB": {
-      "name": "Fiorentina",
-      "icon": "https://media.api-sports.io/football/teams/502.png"
+      "name": "Torino",
+      "icon": "https://media.api-sports.io/football/teams/503.png"
     },
     "leagueName": "Serie A",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-04-01",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-04-02",
+    "results": "PENDING"
+  },
+  {
+    "id": "fra_psg_len_020426",
+    "teamA": {
+      "name": "PSG",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
+    },
+    "teamB": {
+      "name": "Lens",
+      "icon": "https://media.api-sports.io/football/teams/116.png"
+    },
+    "leagueName": "Ligue 1",
+    "prediction": "HOME WIN & OVER 2.0",
+    "date": "2026-04-02",
+    "results": "PENDING"
+  },
+  {
+    "id": "ger_dor_aug_020426",
+    "teamA": {
+      "name": "Borussia Dortmund",
+      "icon": "https://media.api-sports.io/football/teams/165.png"
+    },
+    "teamB": {
+      "name": "Augsburg",
+      "icon": "https://media.api-sports.io/football/teams/170.png"
+    },
+    "leagueName": "Bundesliga",
+    "prediction": "HOME WIN & OVER 2.5",
+    "date": "2026-04-02",
     "results": "PENDING"
   }
 ]
