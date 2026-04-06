@@ -1,5 +1,249 @@
 [
   {
+    "date": "Sunday, 5th April 2026",
+    "gamesList": [
+      {
+        "teamA": "Arsenal",
+        "teamB": "Fulham",
+        "prediction": "HOME WIN & OVER 1.5",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Chelsea",
+        "teamB": "Burnley",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Juventus",
+        "teamB": "Udinese",
+        "prediction": "HOME WIN & UNDER 4.5",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Roma",
+        "teamB": "Atalanta",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Valencia",
+        "prediction": "HOME WIN & OVER 2.0",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sevilla",
+        "teamB": "Granada",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bayern Munich",
+        "teamB": "Stuttgart",
+        "prediction": "HOME WIN & OVER 2.5",
+        "odds": "4-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "PSG",
+        "teamB": "Lille",
+        "prediction": "HOME WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Saturday, 4th April 2026",
+    "gamesList": [
+      {
+        "teamA": "Manchester City",
+        "teamB": "Brighton",
+        "prediction": "HOME WIN & OVER 2.5",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Liverpool",
+        "teamB": "Everton",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Bologna",
+        "prediction": "HOME WIN & OVER 1.5",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Napoli",
+        "teamB": "Sassuolo",
+        "prediction": "HOME WIN OR DRAW & OVER 1.5",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Barcelona",
+        "teamB": "Mallorca",
+        "prediction": "HOME WIN & OVER 2.5",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atletico Madrid",
+        "teamB": "Osasuna",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Werder Bremen",
+        "prediction": "HOME WIN & OVER 2.5",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lyon",
+        "teamB": "Monaco",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-2",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Friday, 3rd April 2026",
+    "gamesList": [
+      {
+        "teamA": "Tottenham",
+        "teamB": "Leicester",
+        "prediction": "HOME WIN OR DRAW & OVER 1.5",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "West Ham",
+        "teamB": "Leeds",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "AC Milan",
+        "teamB": "Genoa",
+        "prediction": "HOME WIN & UNDER 4.5",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lazio",
+        "teamB": "Verona",
+        "prediction": "HOME WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Sociedad",
+        "teamB": "Alaves",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Villarreal",
+        "teamB": "Cadiz",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "RB Leipzig",
+        "teamB": "Freiburg",
+        "prediction": "HOME WIN & OVER 1.5",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Marseille",
+        "teamB": "Rennes",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
+    "date": "Thursday, 2nd April 2026",
+    "gamesList": [
+      {
+        "teamA": "Chelsea",
+        "teamB": "Brighton",
+        "prediction": "HOME WIN OR DRAW & OVER 1.5",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Newcastle",
+        "teamB": "Everton",
+        "prediction": "HOME WIN OR DRAW & UNDER 4.5",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atletico Madrid",
+        "teamB": "Sevilla",
+        "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Torino",
+        "prediction": "HOME WIN & OVER 1.5",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "PSG",
+        "teamB": "Lens",
+        "prediction": "HOME WIN & OVER 2.0",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Augsburg",
+        "prediction": "HOME WIN & OVER 2.5",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Ajax",
+        "teamB": "Utrecht",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Porto",
+        "teamB": "Braga",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+     }
+    ]
+  },
+  {
     "date": "Wednesday, 1st April 2026",
     "gamesList": [
       {
