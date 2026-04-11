@@ -1,114 +1,114 @@
 [
   {
-    "id": "eng_bur_she_100426",
+    "id": "eng_new_bri_110426",
     "teamA": {
-      "name": "Burnley",
-      "icon": "https://media.api-sports.io/football/teams/44.png"
+      "name": "Newcastle",
+      "icon": "https://media.api-sports.io/football/teams/34.png"
     },
     "teamB": {
-      "name": "Sheffield United",
-      "icon": "https://media.api-sports.io/football/teams/62.png"
+      "name": "Brighton",
+      "icon": "https://media.api-sports.io/football/teams/51.png"
     },
     "leagueName": "English Premier League",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-10"
-  },
-  {
-    "id": "eng_wol_eve_100426",
-    "teamA": {
-      "name": "Wolves",
-      "icon": "https://media.api-sports.io/football/teams/39.png"
-    },
-    "teamB": {
-      "name": "Everton",
-      "icon": "https://media.api-sports.io/football/teams/45.png"
-    },
-    "leagueName": "English Premier League",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-10"
-  },
-  {
-    "id": "spa_val_osa_100426",
-    "teamA": {
-      "name": "Valencia",
-      "icon": "https://media.api-sports.io/football/teams/532.png"
-    },
-    "teamB": {
-      "name": "Osasuna",
-      "icon": "https://media.api-sports.io/football/teams/727.png"
-    },
-    "leagueName": "Spanish La Liga",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-10"
-  },
-  {
-    "id": "spa_soc_gra_100426",
-    "teamA": {
-      "name": "Real Sociedad",
-      "icon": "https://media.api-sports.io/football/teams/548.png"
-    },
-    "teamB": {
-      "name": "Granada",
-      "icon": "https://media.api-sports.io/football/teams/715.png"
-    },
-    "leagueName": "Spanish La Liga",
-    "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-04-10"
-  },
-  {
-    "id": "ita_tor_udi_100426",
-    "teamA": {
-      "name": "Torino",
-      "icon": "https://media.api-sports.io/football/teams/503.png"
-    },
-    "teamB": {
-      "name": "Udinese",
-      "icon": "https://media.api-sports.io/football/teams/494.png"
-    },
-    "leagueName": "Italian Serie A",
-    "prediction": "HOME WIN OR DRAW & UNDER 4.5",
-    "date": "2026-04-10"
-  },
-  {
-    "id": "ita_bol_lec_100426",
-    "teamA": {
-      "name": "Bologna",
-      "icon": "https://media.api-sports.io/football/teams/500.png"
-    },
-    "teamB": {
-      "name": "Lecce",
-      "icon": "https://media.api-sports.io/football/teams/867.png"
-    },
-    "leagueName": "Italian Serie A",
     "prediction": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-04-10"
+    "date": "2026-04-11"
   },
   {
-    "id": "fra_lil_nic_100426",
+    "id": "eng_tot_crys_110426",
     "teamA": {
-      "name": "Lille",
-      "icon": "https://media.api-sports.io/football/teams/79.png"
+      "name": "Tottenham",
+      "icon": "https://media.api-sports.io/football/teams/47.png"
     },
     "teamB": {
-      "name": "Nice",
-      "icon": "https://media.api-sports.io/football/teams/84.png"
+      "name": "Crystal Palace",
+      "icon": "https://media.api-sports.io/football/teams/52.png"
+    },
+    "leagueName": "English Premier League",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "spa_sev_get_110426",
+    "teamA": {
+      "name": "Sevilla",
+      "icon": "https://media.api-sports.io/football/teams/536.png"
+    },
+    "teamB": {
+      "name": "Getafe",
+      "icon": "https://media.api-sports.io/football/teams/546.png"
+    },
+    "leagueName": "Spanish La Liga",
+    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "spa_bet_alv_110426",
+    "teamA": {
+      "name": "Real Betis",
+      "icon": "https://media.api-sports.io/football/teams/543.png"
+    },
+    "teamB": {
+      "name": "Alaves",
+      "icon": "https://media.api-sports.io/football/teams/542.png"
+    },
+    "leagueName": "Spanish La Liga",
+    "prediction": "HOME WIN OR DRAW & OVER 1.5",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "ita_ata_emp_110426",
+    "teamA": {
+      "name": "Atalanta",
+      "icon": "https://media.api-sports.io/football/teams/499.png"
+    },
+    "teamB": {
+      "name": "Empoli",
+      "icon": "https://media.api-sports.io/football/teams/511.png"
+    },
+    "leagueName": "Italian Serie A",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "ita_fio_cag_110426",
+    "teamA": {
+      "name": "Fiorentina",
+      "icon": "https://media.api-sports.io/football/teams/502.png"
+    },
+    "teamB": {
+      "name": "Cagliari",
+      "icon": "https://media.api-sports.io/football/teams/490.png"
+    },
+    "leagueName": "Italian Serie A",
+    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "fra_mar_rei_110426",
+    "teamA": {
+      "name": "Marseille",
+      "icon": "https://media.api-sports.io/football/teams/81.png"
+    },
+    "teamB": {
+      "name": "Reims",
+      "icon": "https://media.api-sports.io/football/teams/93.png"
     },
     "leagueName": "French Ligue 1",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-10"
+    "prediction": "HOME WIN OR DRAW & OVER 1.5",
+    "date": "2026-04-11"
   },
   {
-    "id": "ger_aug_dar_100426",
+    "id": "ger_fra_main_110426",
     "teamA": {
-      "name": "Augsburg",
-      "icon": "https://media.api-sports.io/football/teams/170.png"
+      "name": "Eintracht Frankfurt",
+      "icon": "https://media.api-sports.io/football/teams/169.png"
     },
     "teamB": {
-      "name": "Darmstadt",
-      "icon": "https://media.api-sports.io/football/teams/181.png"
+      "name": "Mainz",
+      "icon": "https://media.api-sports.io/football/teams/164.png"
     },
     "leagueName": "German Bundesliga",
     "prediction": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-04-10"
+    "date": "2026-04-11"
   }
 ]
