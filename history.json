@@ -1,5 +1,66 @@
 [
   {
+    "date": "Friday, 10th April 2026",
+    "gamesList": [
+      {
+        "teamA": "Burnley",
+        "teamB": "Sheffield United",
+        "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Wolves",
+        "teamB": "Everton",
+        "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Valencia",
+        "teamB": "Osasuna",
+        "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Sociedad",
+        "teamB": "Granada",
+        "prediction": "HOME WIN & OVER 1.5",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Torino",
+        "teamB": "Udinese",
+        "prediction": "HOME WIN OR DRAW & UNDER 4.5",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bologna",
+        "teamB": "Lecce",
+        "prediction": "HOME WIN OR DRAW & OVER 1.5",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lille",
+        "teamB": "Nice",
+        "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Augsburg",
+        "teamB": "Darmstadt",
+        "prediction": "HOME WIN OR DRAW & OVER 1.5",
+        "odds": "2-1",
+        "results": "WIN"
+       }
+    ]
+  },
+  {
     "date": "Thursday, 9th April 2026",
     "gamesList": [
       {
