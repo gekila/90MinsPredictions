@@ -1,122 +1,107 @@
 [
   {
-    "id": "eng_tot_eve_130426",
+    "id": "ucl_atm_bar_140426",
     "teamA": {
-      "name": "Tottenham",
-      "icon": "https://media.api-sports.io/football/teams/47.png"
-    },
-    "teamB": {
-      "name": "Everton",
-      "icon": "https://media.api-sports.io/football/teams/45.png"
-    },
-    "leagueName": "English Premier League",
-    "correctScore": "2-1",
-    "hedgeBet": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-04-13"
-  },
-  {
-    "id": "eng_che_bur_130426",
-    "teamA": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
-    },
-    "teamB": {
-      "name": "Burnley",
-      "icon": "https://media.api-sports.io/football/teams/44.png"
-    },
-    "leagueName": "English Premier League",
-    "correctScore": "2-0",
-    "hedgeBet": "HOME WIN & OVER 1.5",
-    "date": "2026-04-13"
-  },
-  {
-    "id": "spa_atm_get_130426",
-    "teamA": {
-      "name": "Atletico Madrid",
+      "name": "Atl. Madrid",
       "icon": "https://media.api-sports.io/football/teams/530.png"
     },
     "teamB": {
-      "name": "Getafe",
-      "icon": "https://media.api-sports.io/football/teams/546.png"
+      "name": "Barcelona",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
     },
-    "leagueName": "Spanish La Liga",
-    "correctScore": "1-0",
-    "hedgeBet": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-13"
-  },
-  {
-    "id": "spa_sev_osa_130426",
-    "teamA": {
-      "name": "Sevilla",
-      "icon": "https://media.api-sports.io/football/teams/536.png"
-    },
-    "teamB": {
-      "name": "Osasuna",
-      "icon": "https://media.api-sports.io/football/teams/727.png"
-    },
-    "leagueName": "Spanish La Liga",
+    "leagueName": "UEFA Champions League",
     "correctScore": "1-1",
-    "hedgeBet": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-13"
+    "hedgeBet": "AWAY WIN OR DRAW & UNDER 3.5",
+    "date": "2026-04-14"
   },
   {
-    "id": "ita_mil_emp_130426",
+    "id": "ucl_liv_psg_140426",
     "teamA": {
-      "name": "AC Milan",
-      "icon": "https://media.api-sports.io/football/teams/489.png"
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
     },
     "teamB": {
-      "name": "Empoli",
-      "icon": "https://media.api-sports.io/football/teams/511.png"
+      "name": "PSG",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
-    "leagueName": "Italian Serie A",
-    "correctScore": "2-0",
-    "hedgeBet": "HOME WIN & OVER 1.5",
-    "date": "2026-04-13"
+    "leagueName": "UEFA Champions League",
+    "correctScore": "2-2",
+    "hedgeBet": "BOTH TEAMS TO SCORE & OVER 2.5",
+    "date": "2026-04-14"
   },
   {
-    "id": "ita_roma_fro_130426",
+    "id": "ken_math_pol_140426",
     "teamA": {
-      "name": "AS Roma",
-      "icon": "https://media.api-sports.io/football/teams/497.png"
+      "name": "Mathare United",
+      "icon": "https://media.api-sports.io/football/teams/4046.png"
     },
     "teamB": {
-      "name": "Frosinone",
-      "icon": "https://media.api-sports.io/football/teams/470.png"
+      "name": "Police FC",
+      "icon": "https://media.api-sports.io/football/teams/4049.png"
     },
-    "leagueName": "Italian Serie A",
+    "leagueName": "Kenya Premier League",
+    "correctScore": "0-1",
+    "hedgeBet": "AWAY WIN OR DRAW & UNDER 3.5",
+    "date": "2026-04-14"
+  },
+  {
+    "id": "ken_tus_gor_140426",
+    "teamA": {
+      "name": "Tusker FC",
+      "icon": "https://media.api-sports.io/football/teams/4044.png"
+    },
+    "teamB": {
+      "name": "Gor Mahia",
+      "icon": "https://media.api-sports.io/football/teams/4042.png"
+    },
+    "leagueName": "Kenya Premier League",
+    "correctScore": "0-1",
+    "hedgeBet": "AWAY WIN OR DRAW & UNDER 3.5",
+    "date": "2026-04-14"
+  },
+  {
+    "id": "eng_por_ips_140426",
+    "teamA": {
+      "name": "Portsmouth",
+      "icon": "https://media.api-sports.io/football/teams/746.png"
+    },
+    "teamB": {
+      "name": "Ipswich Town",
+      "icon": "https://media.api-sports.io/football/teams/349.png"
+    },
+    "leagueName": "English Championship",
+    "correctScore": "1-2",
+    "hedgeBet": "AWAY WIN OR DRAW & OVER 1.5",
+    "date": "2026-04-14"
+  },
+  {
+    "id": "ita_cat_mod_140426",
+    "teamA": {
+      "name": "Catanzaro",
+      "icon": "https://media.api-sports.io/football/teams/515.png"
+    },
+    "teamB": {
+      "name": "Modena",
+      "icon": "https://media.api-sports.io/football/teams/523.png"
+    },
+    "leagueName": "Italian Serie B",
+    "correctScore": "1-1",
+    "hedgeBet": "DRAW OR AWAY & UNDER 3.5",
+    "date": "2026-04-14"
+  },
+  {
+    "id": "hun_fer_pus_140426",
+    "teamA": {
+      "name": "Ferencvaros",
+      "icon": "https://media.api-sports.io/football/teams/809.png"
+    },
+    "teamB": {
+      "name": "Puskas Akademia",
+      "icon": "https://media.api-sports.io/football/teams/810.png"
+    },
+    "leagueName": "Hungarian NB I",
     "correctScore": "2-1",
-    "hedgeBet": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-04-13"
-  },
-  {
-    "id": "fra_mon_lor_130426",
-    "teamA": {
-      "name": "Monaco",
-      "icon": "https://media.api-sports.io/football/teams/91.png"
-    },
-    "teamB": {
-      "name": "Lorient",
-      "icon": "https://media.api-sports.io/football/teams/97.png"
-    },
-    "leagueName": "French Ligue 1",
-    "correctScore": "2-0",
     "hedgeBet": "HOME WIN & OVER 1.5",
-    "date": "2026-04-13"
-  },
-  {
-    "id": "ger_dor_boc_130426",
-    "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://media.api-sports.io/football/teams/165.png"
-    },
-    "teamB": {
-      "name": "Bochum",
-      "icon": "https://media.api-sports.io/football/teams/176.png"
-    },
-    "leagueName": "German Bundesliga",
-    "correctScore": "3-1",
-    "hedgeBet": "HOME WIN & OVER 1.5",
-    "date": "2026-04-13"
+    "date": "2026-04-14"
   }
 ]
