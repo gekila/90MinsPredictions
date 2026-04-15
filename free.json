@@ -1,62 +1,47 @@
 [
   {
-    "id": "esp_atm_bar_140426",
+    "id": "ucl_psg_bay_150426",
     "teamA": {
-      "name": "Atl. Madrid",
-      "icon": "https://media.api-sports.io/football/teams/530.png"
-    },
-    "teamB": {
-      "name": "Barcelona",
-      "icon": "https://media.api-sports.io/football/teams/529.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "AWAY WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-14",
-    "results": "PENDING"
-  },
-  {
-    "id": "ucl_liv_psg_140426",
-    "teamA": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
-    },
-    "teamB": {
       "name": "PSG",
       "icon": "https://media.api-sports.io/football/teams/85.png"
     },
-    "leagueName": "UEFA Competition",
+    "teamB": {
+      "name": "Bayern Munich",
+      "icon": "https://media.api-sports.io/football/teams/157.png"
+    },
+    "leagueName": "UEFA Champions League",
     "prediction": "BOTH TEAMS TO SCORE & OVER 2.5",
-    "date": "2026-04-14",
+    "date": "2026-04-15",
     "results": "PENDING"
   },
   {
-    "id": "ken_math_pol_140426",
+    "id": "ita_int_mil_150426",
     "teamA": {
-      "name": "Mathare United",
-      "icon": "https://media.api-sports.io/football/teams/4046.png"
+      "name": "Inter Milan",
+      "icon": "https://media.api-sports.io/football/teams/505.png"
     },
     "teamB": {
-      "name": "Police FC",
-      "icon": "https://media.api-sports.io/football/teams/4049.png"
+      "name": "AC Milan",
+      "icon": "https://media.api-sports.io/football/teams/489.png"
     },
-    "leagueName": "Kenya Premier League",
-    "prediction": "AWAY WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-14",
+    "leagueName": "Italian Serie A",
+    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
+    "date": "2026-04-15",
     "results": "PENDING"
   },
   {
-    "id": "ken_tus_gor_140426",
+    "id": "eng_ars_new_150426",
     "teamA": {
-      "name": "Tusker",
-      "icon": "https://media.api-sports.io/football/teams/4044.png"
+      "name": "Arsenal",
+      "icon": "https://media.api-sports.io/football/teams/42.png"
     },
     "teamB": {
-      "name": "Gor Mahia",
-      "icon": "https://media.api-sports.io/football/teams/4042.png"
+      "name": "Newcastle",
+      "icon": "https://media.api-sports.io/football/teams/34.png"
     },
-    "leagueName": "Kenya Premier League",
-    "prediction": "AWAY WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-14",
+    "leagueName": "English Premier League",
+    "prediction": "HOME WIN & OVER 1.5",
+    "date": "2026-04-15",
     "results": "PENDING"
   }
 ]
