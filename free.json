@@ -1,47 +1,44 @@
 [
   {
-    "id": "ucl_psg_bay_150426",
+    "id": "eu_mac_aut_u19_160426",
     "teamA": {
-      "name": "PSG",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
+      "name": "Macedonia W U19",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Bayern Munich",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
+      "name": "Austria W U19",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "UEFA Champions League",
-    "prediction": "BOTH TEAMS TO SCORE & OVER 2.5",
-    "date": "2026-04-15",
-    "results": "PENDING"
+    "leagueName": "UEFA Women U19 Championship Qualification",
+    "prediction": "AWAY WIN",
+    "date": "2026-04-16"
   },
   {
-    "id": "ita_int_mil_150426",
+    "id": "egy_alq_dak_160426",
     "teamA": {
-      "name": "Inter Milan",
-      "icon": "https://media.api-sports.io/football/teams/505.png"
+      "name": "Alqana",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "AC Milan",
-      "icon": "https://media.api-sports.io/football/teams/489.png"
+      "name": "El Daklyeh",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Italian Serie A",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-15",
-    "results": "PENDING"
+    "leagueName": "Egypt Second Division",
+    "prediction": "HOME WIN",
+    "date": "2026-04-16"
   },
   {
-    "id": "eng_ars_new_150426",
+    "id": "egy_abo_day_160426",
     "teamA": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
+      "name": "ABO Qair Semads",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Newcastle",
-      "icon": "https://media.api-sports.io/football/teams/34.png"
+      "name": "Dayrout",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "HOME WIN & OVER 1.5",
-    "date": "2026-04-15",
-    "results": "PENDING"
+    "leagueName": "Egypt Second Division",
+    "prediction": "HOME WIN",
+    "date": "2026-04-16"
   }
 ]
