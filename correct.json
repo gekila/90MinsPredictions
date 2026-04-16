@@ -1,122 +1,122 @@
 [
   {
-    "id": "ucl_psg_bay_150426",
+    "id": "fin_kuo_hui_160426",
     "teamA": {
-      "name": "PSG",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
+      "name": "Kuopion Elo",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Bayern Munich",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
+      "name": "Huima/Urho",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "UEFA Champions League",
-    "correctScore": "2-2",
-    "hedgeBet": "BOTH TEAMS TO SCORE & OVER 2.5",
-    "date": "2026-04-15"
+    "leagueName": "Finland Lower Division",
+    "correctScore": "4-0",
+    "hedgeBet": "HOME WIN & OVER 2.5",
+    "date": "2026-04-16"
   },
   {
-    "id": "ucl_dor_mci_150426",
+    "id": "mli_sta_usb_160426",
     "teamA": {
-      "name": "Borussia Dortmund",
-      "icon": "https://media.api-sports.io/football/teams/165.png"
+      "name": "Stade Malien",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
+      "name": "Union Sportive Bougouba",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "UEFA Champions League",
+    "leagueName": "Mali Premier Division",
+    "correctScore": "2-0",
+    "hedgeBet": "HOME WIN OR DRAW & UNDER 3.5",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "mli_fcm_kor_160426",
+    "teamA": {
+      "name": "FC Mali Coura",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "AS Korofina",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "Mali Premier Division",
     "correctScore": "1-2",
     "hedgeBet": "AWAY WIN OR DRAW & OVER 1.5",
-    "date": "2026-04-15"
+    "date": "2026-04-16"
   },
   {
-    "id": "eng_ars_new_150426",
+    "id": "uel_cel_fre_160426",
     "teamA": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
+      "name": "Celta Vigo",
+      "icon": "https://media.api-sports.io/football/teams/541.png"
     },
     "teamB": {
-      "name": "Newcastle",
-      "icon": "https://media.api-sports.io/football/teams/34.png"
+      "name": "SC Freiburg",
+      "icon": "https://media.api-sports.io/football/teams/160.png"
     },
-    "leagueName": "English Premier League",
+    "leagueName": "UEFA Europa League",
     "correctScore": "2-1",
-    "hedgeBet": "HOME WIN & OVER 1.5",
-    "date": "2026-04-15"
+    "hedgeBet": "HOME WIN OR DRAW & OVER 1.5",
+    "date": "2026-04-16"
   },
   {
-    "id": "ita_int_mil_150426",
+    "id": "uecl_az_sha_160426",
     "teamA": {
-      "name": "Inter Milan",
-      "icon": "https://media.api-sports.io/football/teams/505.png"
+      "name": "AZ Alkmaar",
+      "icon": "https://media.api-sports.io/football/teams/195.png"
     },
     "teamB": {
-      "name": "AC Milan",
-      "icon": "https://media.api-sports.io/football/teams/489.png"
+      "name": "Shakhtar Donetsk",
+      "icon": "https://media.api-sports.io/football/teams/560.png"
     },
-    "leagueName": "Italian Serie A",
+    "leagueName": "UEFA Europa Conference League",
+    "correctScore": "2-1",
+    "hedgeBet": "HOME WIN OR DRAW & OVER 1.5",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "esp_san_rso_160426",
+    "teamA": {
+      "name": "Santutxu FC",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "Real Sociedad Youth",
+      "icon": "https://media.api-sports.io/football/teams/548.png"
+    },
+    "leagueName": "Spain Division de Honor Juvenil",
+    "correctScore": "0-2",
+    "hedgeBet": "AWAY WIN & UNDER 3.5",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "int_fra_usa_u23_160426",
+    "teamA": {
+      "name": "France W U23",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "USA W U23",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "International Friendly Women U23",
     "correctScore": "1-1",
-    "hedgeBet": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-15"
+    "hedgeBet": "AWAY WIN OR DRAW & UNDER 3.5",
+    "date": "2026-04-16"
   },
   {
-    "id": "spa_sev_val_150426",
+    "id": "alg_csc_mca_160426",
     "teamA": {
-      "name": "Sevilla",
-      "icon": "https://media.api-sports.io/football/teams/536.png"
+      "name": "CS Constantine",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Valencia",
-      "icon": "https://media.api-sports.io/football/teams/532.png"
+      "name": "MC Alger",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Spanish La Liga",
+    "leagueName": "Algeria Ligue 1",
     "correctScore": "1-0",
     "hedgeBet": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-15"
-  },
-  {
-    "id": "fra_lil_ren_150426",
-    "teamA": {
-      "name": "Lille",
-      "icon": "https://media.api-sports.io/football/teams/79.png"
-    },
-    "teamB": {
-      "name": "Rennes",
-      "icon": "https://media.api-sports.io/football/teams/94.png"
-    },
-    "leagueName": "French Ligue 1",
-    "correctScore": "2-1",
-    "hedgeBet": "HOME WIN & OVER 1.5",
-    "date": "2026-04-15"
-  },
-  {
-    "id": "ger_fra_lep_150426",
-    "teamA": {
-      "name": "Eintracht Frankfurt",
-      "icon": "https://media.api-sports.io/football/teams/169.png"
-    },
-    "teamB": {
-      "name": "RB Leipzig",
-      "icon": "https://media.api-sports.io/football/teams/173.png"
-    },
-    "leagueName": "German Bundesliga",
-    "correctScore": "1-2",
-    "hedgeBet": "AWAY WIN OR DRAW & OVER 1.5",
-    "date": "2026-04-15"
-  },
-  {
-    "id": "eng_lei_cov_150426",
-    "teamA": {
-      "name": "Leicester City",
-      "icon": "https://media.api-sports.io/football/teams/46.png"
-    },
-    "teamB": {
-      "name": "Coventry City",
-      "icon": "https://media.api-sports.io/football/teams/1078.png"
-    },
-    "leagueName": "English Championship",
-    "correctScore": "1-1",
-    "hedgeBet": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-15"
+    "date": "2026-04-16"
   }
 ]
