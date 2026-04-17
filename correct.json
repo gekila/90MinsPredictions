@@ -1,122 +1,122 @@
 [
   {
-    "id": "fin_kuo_hui_160426",
+    "id": "fra_len_tou_170426",
     "teamA": {
-      "name": "Kuopion Elo",
+      "name": "Lens",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Huima/Urho",
+      "name": "Toulouse",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Finland Lower Division",
-    "correctScore": "4-0",
-    "hedgeBet": "HOME WIN & OVER 2.5",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "mli_sta_usb_160426",
-    "teamA": {
-      "name": "Stade Malien",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Union Sportive Bougouba",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Mali Premier Division",
+    "leagueName": "France Ligue 1",
     "correctScore": "2-0",
-    "hedgeBet": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-16"
+    "hedgeBet": "HOME WIN & UNDER 3.5",
+    "date": "2026-04-17"
   },
   {
-    "id": "mli_fcm_kor_160426",
+    "id": "ger_stp_kol_170426",
     "teamA": {
-      "name": "FC Mali Coura",
+      "name": "St. Pauli",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "AS Korofina",
+      "name": "FC Koln",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Mali Premier Division",
+    "leagueName": "Germany Bundesliga",
     "correctScore": "1-2",
     "hedgeBet": "AWAY WIN OR DRAW & OVER 1.5",
-    "date": "2026-04-16"
+    "date": "2026-04-17"
   },
   {
-    "id": "uel_cel_fre_160426",
+    "id": "ita_sas_com_170426",
     "teamA": {
-      "name": "Celta Vigo",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
-    },
-    "teamB": {
-      "name": "SC Freiburg",
-      "icon": "https://media.api-sports.io/football/teams/160.png"
-    },
-    "leagueName": "UEFA Europa League",
-    "correctScore": "2-1",
-    "hedgeBet": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "uecl_az_sha_160426",
-    "teamA": {
-      "name": "AZ Alkmaar",
-      "icon": "https://media.api-sports.io/football/teams/195.png"
-    },
-    "teamB": {
-      "name": "Shakhtar Donetsk",
-      "icon": "https://media.api-sports.io/football/teams/560.png"
-    },
-    "leagueName": "UEFA Europa Conference League",
-    "correctScore": "2-1",
-    "hedgeBet": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "esp_san_rso_160426",
-    "teamA": {
-      "name": "Santutxu FC",
+      "name": "Sassuolo",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Real Sociedad Youth",
-      "icon": "https://media.api-sports.io/football/teams/548.png"
+      "name": "Como",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Spain Division de Honor Juvenil",
-    "correctScore": "0-2",
-    "hedgeBet": "AWAY WIN & UNDER 3.5",
-    "date": "2026-04-16"
+    "leagueName": "Italy Serie A",
+    "correctScore": "1-2",
+    "hedgeBet": "AWAY WIN & OVER 1.5",
+    "date": "2026-04-17"
   },
   {
-    "id": "int_fra_usa_u23_160426",
+    "id": "ita_int_cag_170426",
     "teamA": {
-      "name": "France W U23",
+      "name": "Inter",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "USA W U23",
+      "name": "Cagliari",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "International Friendly Women U23",
-    "correctScore": "1-1",
-    "hedgeBet": "AWAY WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-16"
+    "leagueName": "Italy Serie A",
+    "correctScore": "3-0",
+    "hedgeBet": "HOME WIN & OVER 2.5",
+    "date": "2026-04-17"
   },
   {
-    "id": "alg_csc_mca_160426",
+    "id": "caf_zam_crb_170426",
     "teamA": {
-      "name": "CS Constantine",
+      "name": "Zamalek",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "MC Alger",
+      "name": "CR Belouizdad",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Algeria Ligue 1",
+    "leagueName": "CAF Confederation Cup",
     "correctScore": "1-0",
-    "hedgeBet": "HOME WIN OR DRAW & UNDER 3.5",
-    "date": "2026-04-16"
+    "hedgeBet": "HOME WIN OR DRAW & UNDER 2.5",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "aus_mel_new_170426",
+    "teamA": {
+      "name": "Melbourne Victory",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "Newcastle Jets",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "Australia A-League",
+    "correctScore": "2-1",
+    "hedgeBet": "HOME WIN OR DRAW & OVER 1.5",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "aus_bro_coo_170426",
+    "teamA": {
+      "name": "Broadmeadow",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "Cooks Hill United",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "Australia NPL Northern NSW",
+    "correctScore": "3-0",
+    "hedgeBet": "HOME WIN & OVER 2.5",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "eng_bla_cov_170426",
+    "teamA": {
+      "name": "Blackburn",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "Coventry",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "England Championship",
+    "correctScore": "1-2",
+    "hedgeBet": "AWAY WIN OR DRAW & OVER 1.5",
+    "date": "2026-04-17"
   }
 ]
