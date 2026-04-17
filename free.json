@@ -1,16 +1,30 @@
 [
   {
-    "id": "ita_sas_com_170426",
+    "id": "eng_bla_cov_170426",
     "teamA": {
-      "name": "Sassuolo",
+      "name": "Blackburn Rovers",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Como",
+      "name": "Coventry City",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Italian Serie A",
-    "prediction": "AWAY WIN",
+    "leagueName": "English Championship",
+    "prediction": "DRAW OR AWAY",
+    "date": "2026-04-17"
+  },
+  {
+    "id": "irl_sha_boh_170426",
+    "teamA": {
+      "name": "Shamrock Rovers",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "teamB": {
+      "name": "Bohemians",
+      "icon": "https://media.api-sports.io/football/teams/0.png"
+    },
+    "leagueName": "Ireland Premier Division",
+    "prediction": "HOME WIN",
     "date": "2026-04-17"
   },
   {
@@ -28,17 +42,17 @@
     "date": "2026-04-17"
   },
   {
-    "id": "caf_zam_crb_170426",
+    "id": "ger_stp_kol_170426",
     "teamA": {
-      "name": "Zamalek SC",
+      "name": "St. Pauli",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "CR Belouizdad",
+      "name": "Köln",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "CAF Champions League",
-    "prediction": "HOME OR DRAW",
+    "leagueName": "German Bundesliga 2",
+    "prediction": "DRAW OR AWAY",
     "date": "2026-04-17"
   }
 ]
