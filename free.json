@@ -1,44 +1,44 @@
 [
   {
-    "id": "eu_mac_aut_u19_160426",
+    "id": "ita_sas_com_170426",
     "teamA": {
-      "name": "Macedonia W U19",
+      "name": "Sassuolo",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Austria W U19",
+      "name": "Como",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "UEFA Women U19 Championship Qualification",
+    "leagueName": "Italian Serie A",
     "prediction": "AWAY WIN",
-    "date": "2026-04-16"
+    "date": "2026-04-17"
   },
   {
-    "id": "egy_alq_dak_160426",
+    "id": "ita_int_cag_170426",
     "teamA": {
-      "name": "Alqana",
+      "name": "Inter Milan",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "El Daklyeh",
+      "name": "Cagliari",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Egypt Second Division",
+    "leagueName": "Italian Serie A",
     "prediction": "HOME WIN",
-    "date": "2026-04-16"
+    "date": "2026-04-17"
   },
   {
-    "id": "egy_abo_day_160426",
+    "id": "caf_zam_crb_170426",
     "teamA": {
-      "name": "ABO Qair Semads",
+      "name": "Zamalek SC",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Dayrout",
+      "name": "CR Belouizdad",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Egypt Second Division",
-    "prediction": "HOME WIN",
-    "date": "2026-04-16"
+    "leagueName": "CAF Champions League",
+    "prediction": "HOME OR DRAW",
+    "date": "2026-04-17"
   }
 ]
