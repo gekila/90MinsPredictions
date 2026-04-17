@@ -1,156 +1,58 @@
 [
   {
-    "id": "int_bel_por_u23_160426",
+    "id": "fra_len_tou_170426",
     "teamA": {
-      "name": "Belgium W U23",
+      "name": "Lens",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Portugal W U23",
+      "name": "Toulouse",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "International Friendly Women U23",
-    "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-04-16"
+    "leagueName": "France Ligue 1",
+    "prediction": "HOME WIN",
+    "date": "2026-04-17"
   },
   {
-    "id": "int_sco_den_u23_160426",
+    "id": "ger_stp_kol_170426",
     "teamA": {
-      "name": "Scotland W U23",
+      "name": "St. Pauli",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Denmark W U23",
+      "name": "FC Koln",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "International Friendly Women U23",
+    "leagueName": "Germany Bundesliga",
     "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-04-16"
+    "date": "2026-04-17"
   },
   {
-    "id": "afc_man_sva_160426",
+    "id": "ita_sas_com_170426",
     "teamA": {
-      "name": "Manila Digger FC",
+      "name": "Sassuolo",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Svay Rieng",
+      "name": "Como",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "AFC Challenge League",
+    "leagueName": "Italy Serie A",
     "prediction": "AWAY WIN",
-    "date": "2026-04-16"
+    "date": "2026-04-17"
   },
   {
-    "id": "eu_sco_nor_u19_160426",
+    "id": "ita_int_cag_170426",
     "teamA": {
-      "name": "Scotland W U19",
+      "name": "Inter",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Norway W U19",
+      "name": "Cagliari",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "UEFA Women U19 Championship Qualification",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "eu_mac_aut_u19_160426",
-    "teamA": {
-      "name": "Macedonia W U19",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Austria W U19",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "UEFA Women U19 Championship Qualification",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "arm_shi_bkm_160426",
-    "teamA": {
-      "name": "Shirak Gyumri",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "BKMA Yerevan",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Armenia Premier League",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "egy_abo_day_160426",
-    "teamA": {
-      "name": "ABO Qair Semads",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Dayrout",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Egypt Second Division",
+    "leagueName": "Italy Serie A",
     "prediction": "HOME WIN",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "egy_mas_mal_160426",
-    "teamA": {
-      "name": "FC Masar",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Maleyat Kafr El Zayat",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Egypt Second Division",
-    "prediction": "HOME WIN",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "egy_alq_dak_160426",
-    "teamA": {
-      "name": "Alqana",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "El Daklyeh",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Egypt Second Division",
-    "prediction": "HOME WIN",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "egy_tan_tel_160426",
-    "teamA": {
-      "name": "Tanta FC",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Telecom Egypt",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Egypt Second Division",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-04-16"
-  },
-  {
-    "id": "egy_sek_asw_160426",
-    "teamA": {
-      "name": "El Sekka El Hadid",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Aswan FC",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Egypt Second Division",
-    "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-04-16"
+    "date": "2026-04-17"
   }
 ]
