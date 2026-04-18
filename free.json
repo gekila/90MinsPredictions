@@ -1,58 +1,44 @@
 [
   {
-    "id": "eng_bla_cov_170426",
+    "id": "eng_mil_qpr_180426",
     "teamA": {
-      "name": "Blackburn Rovers",
+      "name": "Millwall",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Coventry City",
+      "name": "QPR",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "leagueName": "English Championship",
-    "prediction": "DRAW OR AWAY",
-    "date": "2026-04-17"
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-04-18"
   },
   {
-    "id": "irl_sha_boh_170426",
+    "id": "eng_der_oxf_180426",
     "teamA": {
-      "name": "Shamrock Rovers",
+      "name": "Derby County",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Bohemians",
+      "name": "Oxford United",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Ireland Premier Division",
-    "prediction": "HOME WIN",
-    "date": "2026-04-17"
+    "leagueName": "English Championship",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-04-18"
   },
   {
-    "id": "ita_int_cag_170426",
+    "id": "eng_bri_nor_180426",
     "teamA": {
-      "name": "Inter Milan",
+      "name": "Bristol City",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Cagliari",
+      "name": "Norwich City",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
-    "leagueName": "Italian Serie A",
-    "prediction": "HOME WIN",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "ger_stp_kol_170426",
-    "teamA": {
-      "name": "St. Pauli",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Köln",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "German Bundesliga 2",
-    "prediction": "DRAW OR AWAY",
-    "date": "2026-04-17"
+    "leagueName": "English Championship",
+    "prediction": "OVER 1.5",
+    "date": "2026-04-18"
   }
 ]
