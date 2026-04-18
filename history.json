@@ -1,5 +1,66 @@
 [
   {
+    "date": "Friday, 17th April 2026",
+    "gamesList": [
+      {
+        "teamA": "Blackburn Rovers",
+        "teamB": "Coventry City",
+        "prediction": "DRAW OR AWAY",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Inter Milan",
+        "teamB": "Cagliari",
+        "prediction": "HOME WIN",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sassuolo",
+        "teamB": "Como",
+        "prediction": "AWAY WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "St. Pauli",
+        "teamB": "Köln",
+        "prediction": "DRAW OR AWAY",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lens",
+        "teamB": "Toulouse",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Ajax",
+        "teamB": "Utrecht",
+        "prediction": "HOME WIN",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Benfica",
+        "teamB": "Farense",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Galatasaray",
+        "teamB": "Kasimpasa",
+        "prediction": "HOME WIN",
+        "odds": "3-1",
+        "results": "WIN"
+   }
+    ]
+  },
+  {
     "date": "Thursday, 16th April 2026",
     "gamesList": [
       {
