@@ -1,122 +1,38 @@
 [
   {
-    "id": "fra_len_tou_170426",
-    "teamA": {
-      "name": "Lens",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Toulouse",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "France Ligue 1",
-    "correctScore": "2-0",
-    "hedgeBet": "HOME WIN & UNDER 3.5",
-    "date": "2026-04-17"
+    "id": "eng_lee_wol_180426",
+    "match": "Leeds vs Wolves",
+    "pick": "HOME WIN",
+    "saferOption": "HOME WIN & UNDER 3.5"
   },
   {
-    "id": "ger_stp_kol_170426",
-    "teamA": {
-      "name": "St. Pauli",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "FC Koln",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Germany Bundesliga",
-    "correctScore": "1-2",
-    "hedgeBet": "AWAY WIN OR DRAW & OVER 1.5",
-    "date": "2026-04-17"
+    "id": "eng_mil_qpr_180426",
+    "match": "Millwall vs QPR",
+    "pick": "HOME WIN",
+    "saferOption": "HOME WIN & UNDER 3.5"
   },
   {
-    "id": "ita_sas_com_170426",
-    "teamA": {
-      "name": "Sassuolo",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Como",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Italy Serie A",
-    "correctScore": "1-2",
-    "hedgeBet": "AWAY WIN & OVER 1.5",
-    "date": "2026-04-17"
+    "id": "eng_der_oxf_180426",
+    "match": "Derby vs Oxford Utd",
+    "pick": "HOME WIN",
+    "saferOption": "HOME WIN & UNDER 3.5"
   },
   {
-    "id": "ita_int_cag_170426",
-    "teamA": {
-      "name": "Inter",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Cagliari",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Italy Serie A",
-    "correctScore": "3-0",
-    "hedgeBet": "HOME WIN & OVER 2.5",
-    "date": "2026-04-17"
+    "id": "eng_shw_cha_180426",
+    "match": "Sheffield Wednesday vs Charlton",
+    "pick": "AWAY WIN",
+    "saferOption": "AWAY WIN OR DRAW"
   },
   {
-    "id": "caf_zam_crb_170426",
-    "teamA": {
-      "name": "Zamalek",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "CR Belouizdad",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "CAF Confederation Cup",
-    "correctScore": "1-0",
-    "hedgeBet": "HOME WIN OR DRAW & UNDER 2.5",
-    "date": "2026-04-17"
+    "id": "eng_bri_nor_180426",
+    "match": "Bristol City vs Norwich",
+    "pick": "AWAY OR DRAW",
+    "saferOption": "OVER 1.5 GOALS"
   },
   {
-    "id": "aus_mel_new_170426",
-    "teamA": {
-      "name": "Melbourne Victory",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Newcastle Jets",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Australia A-League",
-    "correctScore": "2-1",
-    "hedgeBet": "HOME WIN OR DRAW & OVER 1.5",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "aus_bro_coo_170426",
-    "teamA": {
-      "name": "Broadmeadow",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Cooks Hill United",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Australia NPL Northern NSW",
-    "correctScore": "3-0",
-    "hedgeBet": "HOME WIN & OVER 2.5",
-    "date": "2026-04-17"
-  },
-  {
-    "id": "eng_bla_cov_170426",
-    "teamA": {
-      "name": "Blackburn",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Coventry",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "England Championship",
-    "correctScore": "1-2",
-    "hedgeBet": "AWAY WIN OR DRAW & OVER 1.5",
-    "date": "2026-04-17"
+    "id": "eng_wre_sto_180426",
+    "match": "Wrexham vs Stoke",
+    "pick": "HOME WIN",
+    "saferOption": "HOME WIN & UNDER 3.5"
   }
 ]
