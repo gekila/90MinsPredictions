@@ -1,5 +1,66 @@
 [
   {
+    "date": "Saturday, 18th April 2026",
+    "gamesList": [
+      {
+        "teamA": "Montrose",
+        "teamB": "Hamilton Academical",
+        "prediction": "AWAY WIN",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Peterhead",
+        "teamB": "Queen of the South",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Palermo",
+        "teamB": "Cesena",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Juve Stabia",
+        "teamB": "Catanzaro",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Aston Villa",
+        "teamB": "Newcastle",
+        "prediction": "UNDER 3.5 GOALS",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Brighton",
+        "teamB": "Fulham",
+        "prediction": "DRAW OR HOME",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sunderland",
+        "teamB": "West Ham",
+        "prediction": "HOME WIN",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Tottenham",
+        "teamB": "Burnley",
+        "prediction": "HOME WIN",
+        "odds": "3-0",
+        "results": "WIN"
+    }
+    ]
+  },
+  {
     "date": "Friday, 17th April 2026",
     "gamesList": [
       {
