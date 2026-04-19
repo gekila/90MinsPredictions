@@ -1,38 +1,50 @@
 [
   {
-    "id": "eng_lee_wol_180426",
-    "match": "Leeds vs Wolves",
+    "id": "eng_avl_sun_190426",
+    "match": "Aston Villa vs Sunderland",
     "pick": "HOME WIN",
-    "saferOption": "HOME WIN & UNDER 3.5"
+    "saferOption": "HOME WIN OR DRAW"
   },
   {
-    "id": "eng_mil_qpr_180426",
-    "match": "Millwall vs QPR",
+    "id": "ger_bay_stu_190426",
+    "match": "Bayern Munich vs Stuttgart",
     "pick": "HOME WIN",
-    "saferOption": "HOME WIN & UNDER 3.5"
+    "saferOption": "HOME WIN OR DRAW"
   },
   {
-    "id": "eng_der_oxf_180426",
-    "match": "Derby vs Oxford Utd",
+    "id": "fra_mon_aux_190426",
+    "match": "Monaco vs Auxerre",
     "pick": "HOME WIN",
-    "saferOption": "HOME WIN & UNDER 3.5"
-  },
-  {
-    "id": "eng_shw_cha_180426",
-    "match": "Sheffield Wednesday vs Charlton",
-    "pick": "AWAY WIN",
-    "saferOption": "AWAY WIN OR DRAW"
-  },
-  {
-    "id": "eng_bri_nor_180426",
-    "match": "Bristol City vs Norwich",
-    "pick": "AWAY OR DRAW",
     "saferOption": "OVER 1.5 GOALS"
   },
   {
-    "id": "eng_wre_sto_180426",
-    "match": "Wrexham vs Stoke",
-    "pick": "HOME WIN",
-    "saferOption": "HOME WIN & UNDER 3.5"
+    "id": "ita_juv_bol_190426",
+    "match": "Juventus vs Bologna",
+    "pick": "HOME WIN OR DRAW",
+    "saferOption": "UNDER 3.5 GOALS"
+  },
+  {
+    "id": "eng_mci_ars_190426",
+    "match": "Manchester City vs Arsenal",
+    "pick": "OVER 1.5 GOALS",
+    "saferOption": "OVER 2.0 GOALS"
+  },
+  {
+    "id": "eng_eve_liv_190426",
+    "match": "Everton vs Liverpool",
+    "pick": "AWAY WIN OR DRAW",
+    "saferOption": "UNDER 3.5 GOALS"
+  },
+  {
+    "id": "ita_ver_mil_190426",
+    "match": "Hellas Verona vs AC Milan",
+    "pick": "AWAY WIN OR DRAW",
+    "saferOption": "OVER 1.5 GOALS"
+  },
+  {
+    "id": "ger_fre_hei_190426",
+    "match": "SC Freiburg vs Heidenheim",
+    "pick": "HOME WIN OR DRAW",
+    "saferOption": "UNDER 3.5 GOALS"
   }
 ]
