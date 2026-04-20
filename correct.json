@@ -1,50 +1,44 @@
 [
   {
-    "id": "eng_avl_sun_190426",
-    "match": "Aston Villa vs Sunderland",
-    "pick": "HOME WIN",
-    "saferOption": "HOME WIN OR DRAW"
-  },
-  {
-    "id": "ger_bay_stu_190426",
-    "match": "Bayern Munich vs Stuttgart",
-    "pick": "HOME WIN",
-    "saferOption": "HOME WIN OR DRAW"
-  },
-  {
-    "id": "fra_mon_aux_190426",
-    "match": "Monaco vs Auxerre",
-    "pick": "HOME WIN",
-    "saferOption": "OVER 1.5 GOALS"
-  },
-  {
-    "id": "ita_juv_bol_190426",
-    "match": "Juventus vs Bologna",
-    "pick": "HOME WIN OR DRAW",
-    "saferOption": "UNDER 3.5 GOALS"
-  },
-  {
-    "id": "eng_mci_ars_190426",
-    "match": "Manchester City vs Arsenal",
-    "pick": "OVER 1.5 GOALS",
-    "saferOption": "OVER 2.0 GOALS"
-  },
-  {
-    "id": "eng_eve_liv_190426",
-    "match": "Everton vs Liverpool",
+    "id": "eng_crp_whu_200426",
+    "match": "Crystal Palace vs West Ham United",
     "pick": "AWAY WIN OR DRAW",
-    "saferOption": "UNDER 3.5 GOALS"
+    "saferOption": "UNDER 3.5 GOALS",
+    "correctScore": "1-1"
   },
   {
-    "id": "ita_ver_mil_190426",
-    "match": "Hellas Verona vs AC Milan",
+    "id": "ita_lec_fio_200426",
+    "match": "Lecce vs Fiorentina",
+    "pick": "AWAY WIN",
+    "saferOption": "OVER 1.5 GOALS",
+    "correctScore": "0-2"
+  },
+  {
+    "id": "nor_lyn_san_200426",
+    "match": "Lyn vs Sandnes Ulf",
+    "pick": "BOTH TEAMS TO SCORE",
+    "saferOption": "OVER 1.5 GOALS",
+    "correctScore": "2-1"
+  },
+  {
+    "id": "afc_vko_ahl_200426",
+    "match": "Vissel Kobe vs Al-Ahli",
+    "pick": "UNDER 3.5 GOALS",
+    "saferOption": "UNDER 4.5 GOALS",
+    "correctScore": "1-1"
+  },
+  {
+    "id": "arm_noa_van_200426",
+    "match": "Noah vs Van",
+    "pick": "HOME WIN",
+    "saferOption": "HOME WIN OR DRAW",
+    "correctScore": "2-0"
+  },
+  {
+    "id": "arm_shi_ara_200426",
+    "match": "Shirak vs Ararat-Armenia",
     "pick": "AWAY WIN OR DRAW",
-    "saferOption": "OVER 1.5 GOALS"
-  },
-  {
-    "id": "ger_fre_hei_190426",
-    "match": "SC Freiburg vs Heidenheim",
-    "pick": "HOME WIN OR DRAW",
-    "saferOption": "UNDER 3.5 GOALS"
+    "saferOption": "UNDER 3.5 GOALS",
+    "correctScore": "0-1"
   }
 ]
