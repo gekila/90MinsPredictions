@@ -1,5 +1,66 @@
 [
   {
+    "date": "Monday, 20th April 2026",
+    "gamesList": [
+      {
+        "teamA": "Crystal Palace",
+        "teamB": "West Ham United",
+        "prediction": "AWAY WIN OR DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lecce",
+        "teamB": "Fiorentina",
+        "prediction": "OVER 1.5 GOALS",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Vissel Kobe",
+        "teamB": "Al-Ahli",
+        "prediction": "UNDER 3.5 GOALS",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Betis",
+        "teamB": "Girona",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Marseille",
+        "teamB": "Lyon",
+        "prediction": "OVER 1.5 GOALS",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Galatasaray",
+        "teamB": "Besiktas",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Ajax",
+        "teamB": "AZ Alkmaar",
+        "prediction": "OVER 2.5 GOALS",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Porto",
+        "teamB": "Sporting CP",
+        "prediction": "UNDER 3.5 GOALS",
+        "odds": "1-1",
+        "results": "WIN"
+ }
+    ]
+  },
+  {
     "date": "Sunday, 19th April 2026",
     "gamesList": [
       {
