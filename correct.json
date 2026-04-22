@@ -1,44 +1,58 @@
 [
   {
-    "id": "eng_crp_whu_200426",
-    "match": "Crystal Palace vs West Ham United",
+    "id": "eng_bur_mci_220426",
+    "match": "Burnley vs Manchester City",
     "pick": "AWAY WIN OR DRAW",
-    "saferOption": "UNDER 3.5 GOALS",
-    "correctScore": "1-1"
-  },
-  {
-    "id": "ita_lec_fio_200426",
-    "match": "Lecce vs Fiorentina",
-    "pick": "AWAY WIN",
     "saferOption": "OVER 1.5 GOALS",
     "correctScore": "0-2"
   },
   {
-    "id": "nor_lyn_san_200426",
-    "match": "Lyn vs Sandnes Ulf",
+    "id": "eng_bou_lee_220426",
+    "match": "Bournemouth vs Leeds United",
     "pick": "BOTH TEAMS TO SCORE",
     "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "2-1"
-  },
-  {
-    "id": "afc_vko_ahl_200426",
-    "match": "Vissel Kobe vs Al-Ahli",
-    "pick": "UNDER 3.5 GOALS",
-    "saferOption": "UNDER 4.5 GOALS",
     "correctScore": "1-1"
   },
   {
-    "id": "arm_noa_van_200426",
-    "match": "Noah vs Van",
-    "pick": "HOME WIN",
-    "saferOption": "HOME WIN OR DRAW",
+    "id": "esp_bar_cel_220426",
+    "match": "Barcelona vs Celta Vigo",
+    "pick": "HOME WIN OR DRAW",
+    "saferOption": "OVER 1.5 GOALS",
     "correctScore": "2-0"
   },
   {
-    "id": "arm_shi_ara_200426",
-    "match": "Shirak vs Ararat-Armenia",
+    "id": "esp_elm_atm_220426",
+    "match": "Elche vs Atletico Madrid",
     "pick": "AWAY WIN OR DRAW",
     "saferOption": "UNDER 3.5 GOALS",
     "correctScore": "0-1"
+  },
+  {
+    "id": "esp_rso_get_220426",
+    "match": "Real Sociedad vs Getafe",
+    "pick": "HOME WIN OR DRAW",
+    "saferOption": "UNDER 3.5 GOALS",
+    "correctScore": "1-0"
+  },
+  {
+    "id": "fra_psg_nan_220426",
+    "match": "PSG vs Nantes",
+    "pick": "HOME WIN OR DRAW",
+    "saferOption": "OVER 1.5 GOALS",
+    "correctScore": "2-0"
+  },
+  {
+    "id": "ger_lev_bay_220426",
+    "match": "Bayer Leverkusen vs Bayern Munich",
+    "pick": "AWAY WIN OR DRAW",
+    "saferOption": "OVER 1.5 GOALS",
+    "correctScore": "1-2"
+  },
+  {
+    "id": "eng_mid_shw_220426",
+    "match": "Middlesbrough vs Sheffield Wednesday",
+    "pick": "HOME WIN OR DRAW",
+    "saferOption": "UNDER 3.5 GOALS",
+    "correctScore": "1-0"
   }
 ]
