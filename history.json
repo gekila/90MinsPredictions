@@ -1,5 +1,66 @@
 [
   {
+    "date": "Tuesday, 21st April 2026",
+    "gamesList": [
+      {
+        "teamA": "Brighton",
+        "teamB": "Chelsea",
+        "prediction": "HOME WIN",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Madrid",
+        "teamB": "Alaves",
+        "prediction": "HOME WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Girona",
+        "teamB": "Real Betis",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Athletic Bilbao",
+        "teamB": "Osasuna",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mallorca",
+        "teamB": "Valencia",
+        "prediction": "UNDER 3.5 GOALS",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Norwich",
+        "teamB": "Derby",
+        "prediction": "OVER 1.5 GOALS",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "QPR",
+        "teamB": "Swansea",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Leicester",
+        "teamB": "Hull",
+        "prediction": "OVER 1.5 GOALS",
+        "odds": "1-2",
+        "results": "WIN"
+   }
+    ]
+  },
+  {
     "date": "Monday, 20th April 2026",
     "gamesList": [
       {
