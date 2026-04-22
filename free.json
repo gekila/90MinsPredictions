@@ -1,44 +1,44 @@
 [
   {
-    "id": "eng_bha_che_210426_safe",
+    "id": "eng_bur_mci_220426_safe",
     "teamA": {
-      "name": "Brighton",
-      "icon": "https://media.api-sports.io/football/teams/51.png"
+      "name": "Burnley",
+      "icon": "https://media.api-sports.io/football/teams/44.png"
     },
     "teamB": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
+      "name": "Manchester City",
+      "icon": "https://media.api-sports.io/football/teams/50.png"
     },
     "leagueName": "England Premier League",
-    "prediction": "UNDER 4.5 GOALS",
+    "prediction": "MANCHESTER CITY WIN",
     "date": "2026-04-22"
   },
   {
-    "id": "eng_nor_der_210426_safe",
+    "id": "fra_psg_nant_220426_safe",
     "teamA": {
-      "name": "Norwich",
-      "icon": "https://media.api-sports.io/football/teams/71.png"
+      "name": "Paris Saint-Germain",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
     "teamB": {
-      "name": "Derby",
-      "icon": "https://media.api-sports.io/football/teams/75.png"
+      "name": "Nantes",
+      "icon": "https://media.api-sports.io/football/teams/unknown.png"
     },
-    "leagueName": "England Championship",
-    "prediction": "OVER 1.5 GOALS",
+    "leagueName": "France Ligue 1",
+    "prediction": "PARIS SAINT-GERMAIN WIN",
     "date": "2026-04-22"
   },
   {
-    "id": "par_rub_lib_210426_safe",
+    "id": "esp_bar_cel_220426_safe",
     "teamA": {
-      "name": "Rubio Nu",
-      "icon": "https://media.api-sports.io/football/teams/unknown.png"
+      "name": "Barcelona",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
     },
     "teamB": {
-      "name": "Libertad",
-      "icon": "https://media.api-sports.io/football/teams/unknown.png"
+      "name": "Celta Vigo",
+      "icon": "https://media.api-sports.io/football/teams/538.png"
     },
-    "leagueName": "Paraguay Primera Division",
-    "prediction": "UNDER 3.5 GOALS",
+    "leagueName": "Spain La Liga",
+    "prediction": "BARCELONA WIN",
     "date": "2026-04-22"
   }
 ]
