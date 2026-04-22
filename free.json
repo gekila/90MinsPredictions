@@ -1,44 +1,23 @@
 [
   {
     "id": "eng_bha_che_210426_safe",
-    "teamA": {
-      "name": "Brighton",
-      "icon": "https://media.api-sports.io/football/teams/51.png"
-    },
-    "teamB": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
-    },
-    "leagueName": "England Premier League",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-21"
+    "match": "Brighton vs Chelsea",
+    "pick": "UNDER 3.5 GOALS",
+    "saferOption": "UNDER 4.5 GOALS",
+    "correctScore": "1-1"
   },
   {
     "id": "eng_nor_der_210426_safe",
-    "teamA": {
-      "name": "Norwich",
-      "icon": "https://media.api-sports.io/football/teams/71.png"
-    },
-    "teamB": {
-      "name": "Derby",
-      "icon": "https://media.api-sports.io/football/teams/75.png"
-    },
-    "leagueName": "England Championship",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-21"
+    "match": "Norwich vs Derby",
+    "pick": "OVER 1.5 GOALS",
+    "saferOption": "UNDER 3.5 GOALS",
+    "correctScore": "2-0"
   },
   {
     "id": "par_rub_lib_210426_safe",
-    "teamA": {
-      "name": "Rubio Nu",
-      "icon": "https://media.api-sports.io/football/teams/unknown.png"
-    },
-    "teamB": {
-      "name": "Libertad",
-      "icon": "https://media.api-sports.io/football/teams/unknown.png"
-    },
-    "leagueName": "Paraguay Primera Division",
-    "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-04-21"
+    "match": "Rubio Nu vs Libertad",
+    "pick": "AWAY WIN OR DRAW",
+    "saferOption": "UNDER 3.5 GOALS",
+    "correctScore": "0-1"
   }
 ]
