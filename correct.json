@@ -9,8 +9,8 @@
   {
     "id": "eng_bou_lee_220426",
     "match": "Bournemouth vs Leeds United",
-    "pick": "BOTH TEAMS TO SCORE",
-    "saferOption": "OVER 1.5 GOALS",
+    "pick": "OVER 1.5 GOALS",
+    "saferOption": "OVER 2.5 GOALS",
     "correctScore": "1-1"
   },
   {
@@ -44,7 +44,7 @@
   {
     "id": "ger_lev_bay_220426",
     "match": "Bayer Leverkusen vs Bayern Munich",
-    "pick": "AWAY WIN OR DRAW",
+    "pick": "BOTH TEAMS TO SCORE",
     "saferOption": "OVER 1.5 GOALS",
     "correctScore": "1-2"
   },
