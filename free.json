@@ -1,4 +1,3 @@
-
 [
   {
     "id": "eng_bha_che_210426_safe",
@@ -11,8 +10,8 @@
       "icon": "https://media.api-sports.io/football/teams/49.png"
     },
     "leagueName": "England Premier League",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-21"
+    "prediction": "UNDER 4.5 GOALS",
+    "date": "2026-04-22"
   },
   {
     "id": "eng_nor_der_210426_safe",
@@ -26,7 +25,7 @@
     },
     "leagueName": "England Championship",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-21"
+    "date": "2026-04-22"
   },
   {
     "id": "par_rub_lib_210426_safe",
@@ -39,7 +38,7 @@
       "icon": "https://media.api-sports.io/football/teams/unknown.png"
     },
     "leagueName": "Paraguay Primera Division",
-    "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-04-21"
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-04-22"
   }
 ]
