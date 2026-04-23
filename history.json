@@ -1,5 +1,67 @@
 [
   {
+    "date": "Thursday, 22rd April 2026",
+    "gamesList": [
+      {
+        "teamA": "AFC Bournemouth",
+        "teamB": "Leeds United",
+        "prediction": "OVER 1.5 GOALS",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Burnley",
+        "teamB": "Manchester City",
+        "prediction": "MANCHESTER CITY WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Birmingham City",
+        "teamB": "Preston North End",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Charlton Athletic",
+        "teamB": "Ipswich Town",
+        "prediction": "AWAY WIN OR DRAW",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Middlesbrough",
+        "teamB": "Sheffield Wednesday",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sheffield United",
+        "teamB": "Blackburn Rovers",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "1-3",
+        "results": "LOSS"
+      },
+      {
+        "teamA": "Cardiff City",
+        "teamB": "Port Vale",
+        "prediction": "UNDER 3.5 GOALS",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Ipswich Town W",
+        "teamB": "Sheffield United W",
+        "prediction": "HOME WIN",
+        "odds": "4-1",
+        "results": "WIN"
+          "results": "WIN"
+   }
+    ]
+  },
+  {
     "date": "Tuesday, 21st April 2026",
     "gamesList": [
       {
