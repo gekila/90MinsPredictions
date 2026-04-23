@@ -1,86 +1,86 @@
 [
   {
-    "id": "eng_bou_lee_220426_safe",
+    "id": "ned_psv_zwolle_230426_ultra",
     "teamA": {
-      "name": "AFC Bournemouth",
-      "icon": "https://media.api-sports.io/football/teams/35.png"
+      "name": "PSV",
+      "icon": "https://media.api-sports.io/football/teams/197.png"
     },
     "teamB": {
-      "name": "Leeds United",
-      "icon": "https://media.api-sports.io/football/teams/63.png"
+      "name": "PEC Zwolle",
+      "icon": "https://media.api-sports.io/football/teams/191.png"
     },
-    "leagueName": "England Premier League",
+    "leagueName": "Netherlands Eredivisie",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-22"
+    "date": "2026-04-23"
   },
   {
-    "id": "eng_bur_mci_220426_safe",
+    "id": "swe_mal_sir_230426_ultra",
     "teamA": {
-      "name": "Burnley",
-      "icon": "https://media.api-sports.io/football/teams/44.png"
+      "name": "Malmö FF",
+      "icon": "https://media.api-sports.io/football/teams/752.png"
     },
     "teamB": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
+      "name": "Sirius",
+      "icon": "https://media.api-sports.io/football/teams/739.png"
     },
-    "leagueName": "England Premier League",
+    "leagueName": "Sweden Allsvenskan",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "den_son_mid_230426_ultra",
+    "teamA": {
+      "name": "Sønderjyske",
+      "icon": "https://media.api-sports.io/football/teams/939.png"
+    },
+    "teamB": {
+      "name": "Midtjylland",
+      "icon": "https://media.api-sports.io/football/teams/858.png"
+    },
+    "leagueName": "Denmark Superliga",
     "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-04-22"
+    "date": "2026-04-23"
   },
   {
-    "id": "esp_elm_atm_220426_safe",
+    "id": "bel_str_and_230426_ultra",
     "teamA": {
-      "name": "Elche",
-      "icon": "https://media.api-sports.io/football/teams/531.png"
+      "name": "Sint-Truiden",
+      "icon": "https://media.api-sports.io/football/teams/734.png"
     },
     "teamB": {
-      "name": "Atlético Madrid",
-      "icon": "https://media.api-sports.io/football/teams/530.png"
+      "name": "Anderlecht",
+      "icon": "https://media.api-sports.io/football/teams/554.png"
+    },
+    "leagueName": "Belgium First Division A",
+    "prediction": "AWAY WIN OR DRAW",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "ger_stu_fre_230426_ultra",
+    "teamA": {
+      "name": "Stuttgart",
+      "icon": "https://media.api-sports.io/football/teams/172.png"
+    },
+    "teamB": {
+      "name": "Freiburg",
+      "icon": "https://media.api-sports.io/football/teams/160.png"
+    },
+    "leagueName": "Germany DFB Pokal",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-04-23"
+  },
+  {
+    "id": "esp_ray_esp_230426_ultra",
+    "teamA": {
+      "name": "Rayo Vallecano",
+      "icon": "https://media.api-sports.io/football/teams/728.png"
+    },
+    "teamB": {
+      "name": "Espanyol",
+      "icon": "https://media.api-sports.io/football/teams/540.png"
     },
     "leagueName": "Spain La Liga",
-    "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-04-22"
-  },
-  {
-    "id": "esp_bar_cel_220426_safe",
-    "teamA": {
-      "name": "Barcelona",
-      "icon": "https://media.api-sports.io/football/teams/529.png"
-    },
-    "teamB": {
-      "name": "Celta de Vigo",
-      "icon": "https://media.api-sports.io/football/teams/538.png"
-    },
-    "leagueName": "Spain La Liga",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-04-22"
-  },
-  {
-    "id": "fra_psg_nan_220426_safe",
-    "teamA": {
-      "name": "PSG",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
-    },
-    "teamB": {
-      "name": "Nantes",
-      "icon": "https://media.api-sports.io/football/teams/83.png"
-    },
-    "leagueName": "France Ligue 1",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-04-22"
-  },
-  {
-    "id": "den_hob_hbk_220426_safe",
-    "teamA": {
-      "name": "Hobro",
-      "icon": "https://media.api-sports.io/football/teams/unknown.png"
-    },
-    "teamB": {
-      "name": "HB Køge",
-      "icon": "https://media.api-sports.io/football/teams/unknown.png"
-    },
-    "leagueName": "Denmark 1st Division",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-22"
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-04-23"
   }
 ]
