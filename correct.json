@@ -1,58 +1,44 @@
 [
   {
-    "id": "eng_bur_mci_220426",
-    "match": "Burnley vs Manchester City",
+    "id": "ned_psv_zwolle_230426",
+    "match": "PSV vs PEC Zwolle",
+    "pick": "OVER 1.5 GOALS",
+    "saferOption": "HOME WIN OR DRAW",
+    "correctScore": "3-0"
+  },
+  {
+    "id": "swe_mal_sir_230426",
+    "match": "Malmo FF vs Sirius",
+    "pick": "HOME WIN OR DRAW",
+    "saferOption": "OVER 1.5 GOALS",
+    "correctScore": "2-0"
+  },
+  {
+    "id": "den_son_mid_230426",
+    "match": "Sonderjyske vs Midtjylland",
     "pick": "AWAY WIN OR DRAW",
     "saferOption": "OVER 1.5 GOALS",
     "correctScore": "0-2"
   },
   {
-    "id": "eng_bou_lee_220426",
-    "match": "Bournemouth vs Leeds United",
-    "pick": "OVER 1.5 GOALS",
-    "saferOption": "OVER 2.5 GOALS",
-    "correctScore": "1-1"
-  },
-  {
-    "id": "esp_bar_cel_220426",
-    "match": "Barcelona vs Celta Vigo",
-    "pick": "HOME WIN OR DRAW",
-    "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "2-0"
-  },
-  {
-    "id": "esp_elm_atm_220426",
-    "match": "Elche vs Atletico Madrid",
+    "id": "bel_str_and_230426",
+    "match": "Sint-Truiden vs Anderlecht",
     "pick": "AWAY WIN OR DRAW",
     "saferOption": "UNDER 3.5 GOALS",
-    "correctScore": "0-1"
-  },
-  {
-    "id": "esp_rso_get_220426",
-    "match": "Real Sociedad vs Getafe",
-    "pick": "HOME WIN OR DRAW",
-    "saferOption": "UNDER 3.5 GOALS",
-    "correctScore": "1-0"
-  },
-  {
-    "id": "fra_psg_nan_220426",
-    "match": "PSG vs Nantes",
-    "pick": "HOME WIN OR DRAW",
-    "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "2-0"
-  },
-  {
-    "id": "ger_lev_bay_220426",
-    "match": "Bayer Leverkusen vs Bayern Munich",
-    "pick": "BOTH TEAMS TO SCORE",
-    "saferOption": "OVER 1.5 GOALS",
     "correctScore": "1-2"
   },
   {
-    "id": "eng_mid_shw_220426",
-    "match": "Middlesbrough vs Sheffield Wednesday",
-    "pick": "HOME WIN OR DRAW",
+    "id": "ger_stu_fre_230426",
+    "match": "Stuttgart vs Freiburg",
+    "pick": "OVER 1.5 GOALS",
     "saferOption": "UNDER 3.5 GOALS",
-    "correctScore": "1-0"
+    "correctScore": "2-1"
+  },
+  {
+    "id": "esp_ray_esp_230426",
+    "match": "Rayo Vallecano vs Espanyol",
+    "pick": "UNDER 3.5 GOALS",
+    "saferOption": "BOTH TEAMS TO SCORE",
+    "correctScore": "1-1"
   }
 ]
