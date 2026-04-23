@@ -1,44 +1,44 @@
 [
   {
-    "id": "eng_bur_mci_220426_safe",
+    "id": "ned_psv_zwolle_230426_safe",
     "teamA": {
-      "name": "Burnley",
-      "icon": "https://media.api-sports.io/football/teams/44.png"
+      "name": "PSV",
+      "icon": "https://media.api-sports.io/football/teams/197.png"
     },
     "teamB": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
+      "name": "PEC Zwolle",
+      "icon": "https://media.api-sports.io/football/teams/191.png"
     },
-    "leagueName": "England Premier League",
-    "prediction": "MANCHESTER CITY WIN",
-    "date": "2026-04-22"
+    "leagueName": "Netherlands Eredivisie",
+    "prediction": "PSV WIN",
+    "date": "2026-04-23"
   },
   {
-    "id": "fra_psg_nant_220426_safe",
+    "id": "swe_mal_sir_230426_safe",
     "teamA": {
-      "name": "Paris Saint-Germain",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
+      "name": "Malmo FF",
+      "icon": "https://media.api-sports.io/football/teams/752.png"
     },
     "teamB": {
-      "name": "Nantes",
-      "icon": "https://media.api-sports.io/football/teams/unknown.png"
+      "name": "Sirius",
+      "icon": "https://media.api-sports.io/football/teams/739.png"
     },
-    "leagueName": "France Ligue 1",
-    "prediction": "PARIS SAINT-GERMAIN WIN",
-    "date": "2026-04-22"
+    "leagueName": "Sweden Allsvenskan",
+    "prediction": "MALMO FF WIN",
+    "date": "2026-04-23"
   },
   {
-    "id": "esp_bar_cel_220426_safe",
+    "id": "den_son_mid_230426_safe",
     "teamA": {
-      "name": "Barcelona",
-      "icon": "https://media.api-sports.io/football/teams/529.png"
+      "name": "Sonderjyske",
+      "icon": "https://media.api-sports.io/football/teams/939.png"
     },
     "teamB": {
-      "name": "Celta Vigo",
-      "icon": "https://media.api-sports.io/football/teams/538.png"
+      "name": "Midtjylland",
+      "icon": "https://media.api-sports.io/football/teams/858.png"
     },
-    "leagueName": "Spain La Liga",
-    "prediction": "BARCELONA WIN",
-    "date": "2026-04-22"
+    "leagueName": "Denmark Superliga",
+    "prediction": "MIDTJYLLAND WIN",
+    "date": "2026-04-23"
   }
 ]
