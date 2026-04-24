@@ -1,5 +1,66 @@
 [
   {
+    "date": "Thursday, 23th April 2026",
+    "gamesList": [
+      {
+        "teamA": "Salford City",
+        "teamB": "Bromley",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Levante",
+        "teamB": "Sevilla",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Rayo Vallecano",
+        "teamB": "Espanyol",
+        "prediction": "UNDER 3.5 GOALS",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Oviedo",
+        "teamB": "Villarreal",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Stuttgart",
+        "teamB": "Freiburg",
+        "prediction": "OVER 1.5 GOALS",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sint-Truiden",
+        "teamB": "Anderlecht",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Nordsjaelland",
+        "teamB": "AGF",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sonderjyske",
+        "teamB": "Midtjylland",
+        "prediction": "AWAY WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Wednesday, 22rd April 2026",
     "gamesList": [
       {
