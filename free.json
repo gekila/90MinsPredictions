@@ -1,44 +1,44 @@
 [
   {
-    "id": "ned_psv_zwolle_230426_safe",
+    "id": "ita_nap_cre_240426_safe",
     "teamA": {
-      "name": "PSV",
-      "icon": "https://media.api-sports.io/football/teams/197.png"
+      "name": "Napoli",
+      "icon": "https://media.api-sports.io/football/teams/492.png"
     },
     "teamB": {
-      "name": "PEC Zwolle",
-      "icon": "https://media.api-sports.io/football/teams/191.png"
+      "name": "Cremonese",
+      "icon": "https://media.api-sports.io/football/teams/503.png"
     },
-    "leagueName": "Netherlands Eredivisie",
-    "prediction": "PSV WIN",
-    "date": "2026-04-23"
+    "leagueName": "Italy Serie A",
+    "prediction": "NAPOLI WIN",
+    "date": "2026-04-24"
   },
   {
-    "id": "swe_mal_sir_230426_safe",
+    "id": "sco_par_gla_w_240426_safe",
     "teamA": {
-      "name": "Malmo FF",
-      "icon": "https://media.api-sports.io/football/teams/752.png"
+      "name": "Partick Thistle W",
+      "icon": "https://media.api-sports.io/football/teams/252.png"
     },
     "teamB": {
-      "name": "Sirius",
-      "icon": "https://media.api-sports.io/football/teams/739.png"
+      "name": "Glasgow City W",
+      "icon": "https://media.api-sports.io/football/teams/253.png"
     },
-    "leagueName": "Sweden Allsvenskan",
-    "prediction": "MALMO FF WIN",
-    "date": "2026-04-23"
+    "leagueName": "Scotland SWPL 1",
+    "prediction": "GLASGOW CITY W WIN",
+    "date": "2026-04-24"
   },
   {
-    "id": "den_son_mid_230426_safe",
+    "id": "eng_lei_mil_240426_safe",
     "teamA": {
-      "name": "Sonderjyske",
-      "icon": "https://media.api-sports.io/football/teams/939.png"
+      "name": "Leicester City",
+      "icon": "https://media.api-sports.io/football/teams/46.png"
     },
     "teamB": {
-      "name": "Midtjylland",
-      "icon": "https://media.api-sports.io/football/teams/858.png"
+      "name": "Millwall",
+      "icon": "https://media.api-sports.io/football/teams/43.png"
     },
-    "leagueName": "Denmark Superliga",
-    "prediction": "MIDTJYLLAND WIN",
-    "date": "2026-04-23"
+    "leagueName": "England Championship",
+    "prediction": "LEICESTER CITY WIN",
+    "date": "2026-04-24"
   }
 ]
