@@ -1,5 +1,80 @@
 [
   {
+    "date": "Friday, 24th April 2026",
+    "gamesList": [
+      {
+        "teamA": "Sunderland",
+        "teamB": "Nottingham Forest",
+        "prediction": "AWAY WIN OR DRAW",
+        "odds": "0-5",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Leicester City",
+        "teamB": "Millwall",
+        "prediction": "HOME WIN",
+        "odds": "1-1",
+        "results": "LOSS"
+      },
+      {
+        "teamA": "St. Johnstone",
+        "teamB": "Raith Rovers",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Rangers",
+        "teamB": "Hearts",
+        "prediction": "HOME WIN",
+        "odds": "1-2",
+        "results": "LOSS"
+      },
+      {
+        "teamA": "Hibernian",
+        "teamB": "Celtic",
+        "prediction": "AWAY WIN",
+        "odds": "1-0",
+        "results": "LOSS"
+      },
+      {
+        "teamA": "Partick Thistle",
+        "teamB": "Glasgow City",
+        "prediction": "AWAY WIN",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Shelbourne",
+        "teamB": "Drogheda United",
+        "prediction": "HOME WIN",
+        "odds": "3-4",
+        "results": "LOSS"
+      },
+      {
+        "teamA": "St Patrick's Athletic",
+        "teamB": "Bohemians",
+        "prediction": "UNDER 3.5 GOALS",
+        "odds": "3-1",
+        "results": "LOSS"
+      },
+      {
+        "teamA": "Waterford",
+        "teamB": "Galway United",
+        "prediction": "UNDER 3.5 GOALS",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Derry City",
+        "teamB": "Shamrock Rovers",
+        "prediction": "AWAY WIN OR DRAW",
+        "odds": "1-0",
+        "results": "LOSS"
+      }
+    ]
+  },
+  {
     "date": "Thursday, 23th April 2026",
     "gamesList": [
       {
