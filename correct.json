@@ -1,93 +1,51 @@
 [
   {
-    "id": "eng_sun_for_240426",
-    "match": "Sunderland vs Nottingham Forest",
-    "pick": "AWAY WIN OR DRAW",
-    "saferOption": "UNDER 3.5 GOALS",
-    "correctScore": "1-2"
-  },
-  {
-    "id": "eng_lei_mil_240426",
-    "match": "Leicester City vs Millwall",
+    "id": "eng_mci_sou_260426",
+    "match": "Manchester City vs Southampton",
     "pick": "HOME WIN",
     "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "2-0"
+    "correctScore": "3-0"
   },
   {
-    "id": "sco_stj_rai_240426",
-    "match": "St. Johnstone vs Raith Rovers",
-    "pick": "HOME WIN OR DRAW",
-    "saferOption": "UNDER 3.5 GOALS",
-    "correctScore": "1-0"
+    "id": "eng_ful_avl_260426",
+    "match": "Fulham vs Aston Villa",
+    "pick": "AWAY WIN OR DRAW",
+    "saferOption": "BOTH TEAMS TO SCORE",
+    "correctScore": "1-1"
   },
   {
-    "id": "sco_ran_hea_w_240426",
-    "match": "Rangers W vs Hearts W",
+    "id": "eng_liv_crp_260426",
+    "match": "Liverpool vs Crystal Palace",
     "pick": "HOME WIN",
     "saferOption": "OVER 1.5 GOALS",
     "correctScore": "3-1"
   },
   {
-    "id": "sco_hib_cel_w_240426",
-    "match": "Hibernian W vs Celtic W",
-    "pick": "AWAY WIN",
-    "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "1-2"
-  },
-  {
-    "id": "sco_par_gla_w_240426",
-    "match": "Partick Thistle W vs Glasgow City W",
-    "pick": "AWAY WIN",
-    "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "0-3"
-  },
-  {
-    "id": "irl_she_dro_240426",
-    "match": "Shelbourne vs Drogheda United",
-    "pick": "HOME WIN",
-    "saferOption": "UNDER 3.5 GOALS",
-    "correctScore": "2-0"
-  },
-  {
-    "id": "irl_pat_boh_240426",
-    "match": "St Patrick's Athletic vs Bohemians",
+    "id": "eng_whu_eve_260426",
+    "match": "West Ham United vs Everton",
     "pick": "UNDER 3.5 GOALS",
     "saferOption": "DRAW",
     "correctScore": "1-1"
   },
   {
-    "id": "irl_wat_gal_240426",
-    "match": "Waterford vs Galway United",
-    "pick": "UNDER 3.5 GOALS",
-    "saferOption": "DRAW",
-    "correctScore": "1-1"
-  },
-  {
-    "id": "irl_der_sha_240426",
-    "match": "Derry City vs Shamrock Rovers",
-    "pick": "AWAY WIN OR DRAW",
-    "saferOption": "UNDER 3.5 GOALS",
-    "correctScore": "1-1"
-  },
-  {
-    "id": "esp_bet_rma_240426",
-    "match": "Real Betis vs Real Madrid",
-    "pick": "AWAY WIN",
+    "id": "eng_wol_tot_260426",
+    "match": "Wolverhampton Wanderers vs Tottenham Hotspur",
+    "pick": "BOTH TEAMS TO SCORE",
     "saferOption": "OVER 1.5 GOALS",
     "correctScore": "1-2"
   },
   {
-    "id": "ger_rbl_uni_240426",
-    "match": "RB Leipzig vs Union Berlin",
-    "pick": "HOME WIN",
-    "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "2-0"
-  },
-  {
-    "id": "ita_nap_cre_240426",
-    "match": "Napoli vs Cremonese",
+    "id": "eng_ars_new_260426",
+    "match": "Arsenal vs Newcastle United",
     "pick": "OVER 1.5 GOALS",
-    "saferOption": "HOME WIN",
-    "correctScore": "3-0"
+    "saferOption": "HOME WIN OR DRAW",
+    "correctScore": "2-1"
+  },
+  {
+    "id": "sco_abe_kil_260426",
+    "match": "Aberdeen vs Kilmarnock",
+    "pick": "HOME WIN",
+    "saferOption": "UNDER 3.5 GOALS",
+    "correctScore": "2-0"
   }
 ]
