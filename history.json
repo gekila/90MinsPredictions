@@ -73,9 +73,9 @@
       {
         "teamA": "Leicester City",
         "teamB": "Millwall",
-        "prediction": "HOME WIN",
+        "prediction": "DRAW",
         "odds": "1-1",
-        "results": "LOSS"
+        "results": "WIN"
       },
       {
         "teamA": "St. Johnstone",
@@ -87,16 +87,16 @@
       {
         "teamA": "Rangers",
         "teamB": "Hearts",
-        "prediction": "HOME WIN",
+        "prediction": "AWAY WIN",
         "odds": "1-2",
-        "results": "LOSS"
+        "results": "WIN"
       },
       {
         "teamA": "Hibernian",
         "teamB": "Celtic",
-        "prediction": "AWAY WIN",
+        "prediction": "HOME WIN",
         "odds": "1-0",
-        "results": "LOSS"
+        "results": "WIN"
       },
       {
         "teamA": "Partick Thistle",
@@ -108,16 +108,16 @@
       {
         "teamA": "Shelbourne",
         "teamB": "Drogheda United",
-        "prediction": "HOME WIN",
+        "prediction": "AWAY WIN",
         "odds": "3-4",
-        "results": "LOSS"
+        "results": "WIN"
       },
       {
         "teamA": "St Patrick's Athletic",
         "teamB": "Bohemians",
-        "prediction": "UNDER 3.5 GOALS",
+        "prediction": "OVER 3.5 GOALS",
         "odds": "3-1",
-        "results": "LOSS"
+        "results": "WIN"
       },
       {
         "teamA": "Waterford",
@@ -129,9 +129,9 @@
       {
         "teamA": "Derry City",
         "teamB": "Shamrock Rovers",
-        "prediction": "AWAY WIN OR DRAW",
+        "prediction": "HOME WIN OR DRAW",
         "odds": "1-0",
-        "results": "LOSS"
+        "results": "WIN"
       }
     ]
   },
