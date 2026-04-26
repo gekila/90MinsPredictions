@@ -1,5 +1,66 @@
 [
   {
+    "date": "Sunday, 25th April 2026",
+    "gamesList": [
+      {
+        "teamA": "Manchester City",
+        "teamB": "Southampton",
+        "prediction": "HOME WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Fulham",
+        "teamB": "Aston Villa",
+        "prediction": "HOME WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Liverpool",
+        "teamB": "Crystal Palace",
+        "prediction": "HOME WIN",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "West Ham United",
+        "teamB": "Everton",
+        "prediction": "HOME WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Wolverhampton Wanderers",
+        "teamB": "Tottenham Hotspur",
+        "prediction": "AWAY WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Arsenal",
+        "teamB": "Newcastle United",
+        "prediction": "HOME WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Aberdeen",
+        "teamB": "Kilmarnock",
+        "prediction": "HOME WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "St. Mirren",
+        "teamB": "Livingston",
+        "prediction": "AWAY WIN",
+        "odds": "0-2",
+        "results": "WIN"
+       }
+    ]
+  },
+  {
     "date": "Friday, 24th April 2026",
     "gamesList": [
       {
