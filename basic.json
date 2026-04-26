@@ -1,99 +1,127 @@
 [
   {
-    "id": "eng_mci_sou_260426_ultra",
+    "id": "eng_che_lee_260426_ultra",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
+      "name": "Chelsea",
+      "icon": "https://media.api-sports.io/football/teams/49.png"
     },
     "teamB": {
-      "name": "Southampton",
-      "icon": "https://media.api-sports.io/football/teams/41.png"
+      "name": "Leeds United",
+      "icon": "https://media.api-sports.io/football/teams/63.png"
     },
     "leagueName": "FA Cup",
     "prediction": "HOME WIN",
     "date": "2026-04-26"
   },
   {
-    "id": "eng_ful_avl_260426_ultra",
+    "id": "sco_dundu_dund_260426_ultra",
     "teamA": {
-      "name": "Fulham",
-      "icon": "https://media.api-sports.io/football/teams/36.png"
+      "name": "Dundee United",
+      "icon": "https://media.api-sports.io/football/teams/258.png"
     },
     "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "Dundee",
+      "icon": "https://media.api-sports.io/football/teams/259.png"
     },
-    "leagueName": "England Premier League",
-    "prediction": "AWAY WIN OR DRAW",
+    "leagueName": "Scotland Premiership",
+    "prediction": "BOTH TEAMS TO SCORE",
     "date": "2026-04-26"
   },
   {
-    "id": "eng_liv_crp_260426_ultra",
+    "id": "sco_ran_mot_260426_ultra",
+    "teamA": {
+      "name": "Rangers",
+      "icon": "https://media.api-sports.io/football/teams/257.png"
+    },
+    "teamB": {
+      "name": "Motherwell",
+      "icon": "https://media.api-sports.io/football/teams/255.png"
+    },
+    "leagueName": "Scotland Premiership",
+    "prediction": "HOME WIN",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "sco_hib_hea_260426_ultra",
+    "teamA": {
+      "name": "Hibernian",
+      "icon": "https://media.api-sports.io/football/teams/252.png"
+    },
+    "teamB": {
+      "name": "Hearts",
+      "icon": "https://media.api-sports.io/football/teams/253.png"
+    },
+    "leagueName": "Scotland Premiership",
+    "prediction": "UNDER 2.5 GOALS",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "eng_cov_wre_260426_ultra",
+    "teamA": {
+      "name": "Coventry City",
+      "icon": "https://media.api-sports.io/football/teams/1076.png"
+    },
+    "teamB": {
+      "name": "Wrexham",
+      "icon": "https://media.api-sports.io/football/teams/746.png"
+    },
+    "leagueName": "England Championship",
+    "prediction": "HOME WIN",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "wsl_eve_che_260426_ultra",
+    "teamA": {
+      "name": "Everton",
+      "icon": "https://media.api-sports.io/football/teams/45.png"
+    },
+    "teamB": {
+      "name": "Chelsea",
+      "icon": "https://media.api-sports.io/football/teams/49.png"
+    },
+    "leagueName": "Women's Super League",
+    "prediction": "AWAY WIN",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "wsl_lcl_lei_260426_ultra",
+    "teamA": {
+      "name": "London City Lionesses",
+      "icon": "https://media.api-sports.io/football/teams/1357.png"
+    },
+    "teamB": {
+      "name": "Leicester City",
+      "icon": "https://media.api-sports.io/football/teams/46.png"
+    },
+    "leagueName": "Women's Super League",
+    "prediction": "DRAW OR AWAY WIN",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "wsl_tot_mun_260426_ultra",
+    "teamA": {
+      "name": "Tottenham Hotspur",
+      "icon": "https://media.api-sports.io/football/teams/47.png"
+    },
+    "teamB": {
+      "name": "Manchester United",
+      "icon": "https://media.api-sports.io/football/teams/33.png"
+    },
+    "leagueName": "Women's Super League",
+    "prediction": "AWAY WIN",
+    "date": "2026-04-26"
+  },
+  {
+    "id": "wsl_liv_whu_260426_ultra",
     "teamA": {
       "name": "Liverpool",
       "icon": "https://media.api-sports.io/football/teams/40.png"
     },
     "teamB": {
-      "name": "Crystal Palace",
-      "icon": "https://media.api-sports.io/football/teams/52.png"
-    },
-    "leagueName": "England Premier League",
-    "prediction": "HOME WIN",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "eng_whu_eve_260426_ultra",
-    "teamA": {
       "name": "West Ham United",
       "icon": "https://media.api-sports.io/football/teams/48.png"
     },
-    "teamB": {
-      "name": "Everton",
-      "icon": "https://media.api-sports.io/football/teams/45.png"
-    },
-    "leagueName": "England Premier League",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "eng_wol_tot_260426_ultra",
-    "teamA": {
-      "name": "Wolverhampton Wanderers",
-      "icon": "https://media.api-sports.io/football/teams/39.png"
-    },
-    "teamB": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://media.api-sports.io/football/teams/47.png"
-    },
-    "leagueName": "England Premier League",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "eng_ars_new_260426_ultra",
-    "teamA": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
-    },
-    "teamB": {
-      "name": "Newcastle United",
-      "icon": "https://media.api-sports.io/football/teams/34.png"
-    },
-    "leagueName": "England Premier League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "sco_abe_kil_260426_ultra",
-    "teamA": {
-      "name": "Aberdeen",
-      "icon": "https://media.api-sports.io/football/teams/247.png"
-    },
-    "teamB": {
-      "name": "Kilmarnock",
-      "icon": "https://media.api-sports.io/football/teams/250.png"
-    },
-    "leagueName": "Scotland Premiership",
+    "leagueName": "Women's Super League",
     "prediction": "HOME WIN",
     "date": "2026-04-26"
   }
