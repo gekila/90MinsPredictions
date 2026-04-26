@@ -1,49 +1,63 @@
 [
   {
-    "id": "eng_mci_sou_260426",
-    "match": "Manchester City vs Southampton",
+    "id": "eng_che_lee_260426",
+    "match": "Chelsea vs Leeds United",
+    "pick": "HOME WIN",
+    "saferOption": "OVER 1.5 GOALS",
+    "correctScore": "2-0"
+  },
+  {
+    "id": "sco_dundu_dund_260426",
+    "match": "Dundee United vs Dundee",
+    "pick": "BOTH TEAMS TO SCORE",
+    "saferOption": "OVER 1.5 GOALS",
+    "correctScore": "1-1"
+  },
+  {
+    "id": "sco_ran_mot_260426",
+    "match": "Rangers vs Motherwell",
     "pick": "HOME WIN",
     "saferOption": "OVER 1.5 GOALS",
     "correctScore": "3-0"
   },
   {
-    "id": "eng_ful_avl_260426",
-    "match": "Fulham vs Aston Villa",
-    "pick": "AWAY WIN OR DRAW",
-    "saferOption": "BOTH TEAMS TO SCORE",
-    "correctScore": "1-1"
+    "id": "sco_hib_hea_260426",
+    "match": "Hibernian vs Hearts",
+    "pick": "UNDER 2.5 GOALS",
+    "saferOption": "DRAW OR AWAY WIN",
+    "correctScore": "0-1"
   },
   {
-    "id": "eng_liv_crp_260426",
-    "match": "Liverpool vs Crystal Palace",
+    "id": "eng_cov_wre_260426",
+    "match": "Coventry City vs Wrexham",
     "pick": "HOME WIN",
     "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "3-1"
+    "correctScore": "2-1"
   },
   {
-    "id": "eng_whu_eve_260426",
-    "match": "West Ham United vs Everton",
-    "pick": "UNDER 3.5 GOALS",
-    "saferOption": "DRAW",
-    "correctScore": "1-1"
+    "id": "wsl_eve_che_260426",
+    "match": "Everton vs Chelsea",
+    "pick": "AWAY WIN",
+    "saferOption": "OVER 1.5 GOALS",
+    "correctScore": "0-2"
   },
   {
-    "id": "eng_wol_tot_260426",
-    "match": "Wolverhampton Wanderers vs Tottenham Hotspur",
-    "pick": "BOTH TEAMS TO SCORE",
+    "id": "wsl_lcl_lei_260426",
+    "match": "London City Lionesses vs Leicester City",
+    "pick": "DRAW OR AWAY WIN",
+    "saferOption": "UNDER 3.5 GOALS",
+    "correctScore": "1-2"
+  },
+  {
+    "id": "wsl_tot_mun_260426",
+    "match": "Tottenham Hotspur vs Manchester United",
+    "pick": "AWAY WIN",
     "saferOption": "OVER 1.5 GOALS",
     "correctScore": "1-2"
   },
   {
-    "id": "eng_ars_new_260426",
-    "match": "Arsenal vs Newcastle United",
-    "pick": "OVER 1.5 GOALS",
-    "saferOption": "HOME WIN OR DRAW",
-    "correctScore": "2-1"
-  },
-  {
-    "id": "sco_abe_kil_260426",
-    "match": "Aberdeen vs Kilmarnock",
+    "id": "wsl_liv_whu_260426",
+    "match": "Liverpool vs West Ham United",
     "pick": "HOME WIN",
     "saferOption": "UNDER 3.5 GOALS",
     "correctScore": "2-0"
