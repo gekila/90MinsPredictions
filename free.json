@@ -1,43 +1,43 @@
 [
   {
-    "id": "eng_mci_sou_260426_safe",
+    "id": "eng_che_lee_260426_safe",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
+      "name": "Chelsea",
+      "icon": "https://media.api-sports.io/football/teams/49.png"
     },
     "teamB": {
-      "name": "Southampton",
-      "icon": "https://media.api-sports.io/football/teams/41.png"
+      "name": "Leeds United",
+      "icon": "https://media.api-sports.io/football/teams/63.png"
     },
     "leagueName": "FA Cup",
-    "prediction": "MANCHESTER CITY WIN",
+    "prediction": "CHELSEA WIN",
     "date": "2026-04-26"
   },
   {
-    "id": "eng_liv_crp_260426_safe",
+    "id": "sco_ran_mot_260426_safe",
     "teamA": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
+      "name": "Rangers",
+      "icon": "https://media.api-sports.io/football/teams/257.png"
     },
     "teamB": {
-      "name": "Crystal Palace",
-      "icon": "https://media.api-sports.io/football/teams/52.png"
+      "name": "Motherwell",
+      "icon": "https://media.api-sports.io/football/teams/255.png"
     },
-    "leagueName": "England Premier League",
-    "prediction": "LIVERPOOL WIN",
+    "leagueName": "Scotland Premiership",
+    "prediction": "RANGERS WIN",
     "date": "2026-04-26"
   },
   {
-    "id": "eng_ars_new_260426_safe",
+    "id": "eng_cov_wre_260426_safe",
     "teamA": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
+      "name": "Coventry City",
+      "icon": "https://media.api-sports.io/football/teams/1076.png"
     },
     "teamB": {
-      "name": "Newcastle United",
-      "icon": "https://media.api-sports.io/football/teams/34.png"
+      "name": "Wrexham",
+      "icon": "https://media.api-sports.io/football/teams/746.png"
     },
-    "leagueName": "England Premier League",
+    "leagueName": "England Championship",
     "prediction": "OVER 1.5 GOALS",
     "date": "2026-04-26"
   }
