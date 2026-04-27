@@ -1,128 +1,44 @@
 [
   {
-    "id": "eng_che_lee_260426_ultra",
+    "id": "eng_mun_bre_270426_ultra",
     "teamA": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
-    },
-    "teamB": {
-      "name": "Leeds United",
-      "icon": "https://media.api-sports.io/football/teams/63.png"
-    },
-    "leagueName": "FA Cup",
-    "prediction": "HOME WIN",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "sco_dundu_dund_260426_ultra",
-    "teamA": {
-      "name": "Dundee United",
-      "icon": "https://media.api-sports.io/football/teams/258.png"
-    },
-    "teamB": {
-      "name": "Dundee",
-      "icon": "https://media.api-sports.io/football/teams/259.png"
-    },
-    "leagueName": "Scotland Premiership",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "sco_ran_mot_260426_ultra",
-    "teamA": {
-      "name": "Rangers",
-      "icon": "https://media.api-sports.io/football/teams/257.png"
-    },
-    "teamB": {
-      "name": "Motherwell",
-      "icon": "https://media.api-sports.io/football/teams/255.png"
-    },
-    "leagueName": "Scotland Premiership",
-    "prediction": "HOME WIN",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "sco_hib_hea_260426_ultra",
-    "teamA": {
-      "name": "Hibernian",
-      "icon": "https://media.api-sports.io/football/teams/252.png"
-    },
-    "teamB": {
-      "name": "Hearts",
-      "icon": "https://media.api-sports.io/football/teams/253.png"
-    },
-    "leagueName": "Scotland Premiership",
-    "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "eng_cov_wre_260426_ultra",
-    "teamA": {
-      "name": "Coventry City",
-      "icon": "https://media.api-sports.io/football/teams/1076.png"
-    },
-    "teamB": {
-      "name": "Wrexham",
-      "icon": "https://media.api-sports.io/football/teams/746.png"
-    },
-    "leagueName": "England Championship",
-    "prediction": "HOME WIN",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "wsl_eve_che_260426_ultra",
-    "teamA": {
-      "name": "Everton",
-      "icon": "https://media.api-sports.io/football/teams/45.png"
-    },
-    "teamB": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
-    },
-    "leagueName": "Women's Super League",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "wsl_lcl_lei_260426_ultra",
-    "teamA": {
-      "name": "London City Lionesses",
-      "icon": "https://media.api-sports.io/football/teams/1357.png"
-    },
-    "teamB": {
-      "name": "Leicester City",
-      "icon": "https://media.api-sports.io/football/teams/46.png"
-    },
-    "leagueName": "Women's Super League",
-    "prediction": "DRAW OR AWAY WIN",
-    "date": "2026-04-26"
-  },
-  {
-    "id": "wsl_tot_mun_260426_ultra",
-    "teamA": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://media.api-sports.io/football/teams/47.png"
-    },
-    "teamB": {
       "name": "Manchester United",
       "icon": "https://media.api-sports.io/football/teams/33.png"
     },
-    "leagueName": "Women's Super League",
-    "prediction": "AWAY WIN",
-    "date": "2026-04-26"
+    "teamB": {
+      "name": "Brentford",
+      "icon": "https://media.api-sports.io/football/teams/55.png"
+    },
+    "leagueName": "Premier League",
+    "prediction": "HOME WIN",
+    "date": "2026-04-27"
   },
   {
-    "id": "wsl_liv_whu_260426_ultra",
+    "id": "esp_esp_lev_270426_ultra",
     "teamA": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
+      "name": "Espanyol",
+      "icon": "https://media.api-sports.io/football/teams/88.png"
     },
     "teamB": {
-      "name": "West Ham United",
-      "icon": "https://media.api-sports.io/football/teams/48.png"
+      "name": "Levante",
+      "icon": "https://media.api-sports.io/football/teams/96.png"
     },
-    "leagueName": "Women's Super League",
+    "leagueName": "La Liga",
+    "prediction": "UNDER 2.5 GOALS",
+    "date": "2026-04-27"
+  },
+  {
+    "id": "ita_laz_udi_270426_ultra",
+    "teamA": {
+      "name": "Lazio",
+      "icon": "https://media.api-sports.io/football/teams/487.png"
+    },
+    "teamB": {
+      "name": "Udinese",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
+    },
+    "leagueName": "Serie A",
     "prediction": "HOME WIN",
-    "date": "2026-04-26"
+    "date": "2026-04-27"
   }
 ]
