@@ -1,65 +1,60 @@
+```json id="k3p9sx"
 [
   {
-    "id": "eng_che_lee_260426",
-    "match": "Chelsea vs Leeds United",
-    "pick": "HOME WIN",
-    "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "2-0"
-  },
-  {
-    "id": "sco_dundu_dund_260426",
-    "match": "Dundee United vs Dundee",
-    "pick": "BOTH TEAMS TO SCORE",
-    "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "1-1"
-  },
-  {
-    "id": "sco_ran_mot_260426",
-    "match": "Rangers vs Motherwell",
-    "pick": "HOME WIN",
-    "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "3-0"
-  },
-  {
-    "id": "sco_hib_hea_260426",
-    "match": "Hibernian vs Hearts",
-    "pick": "UNDER 2.5 GOALS",
-    "saferOption": "DRAW OR AWAY WIN",
-    "correctScore": "0-1"
-  },
-  {
-    "id": "eng_cov_wre_260426",
-    "match": "Coventry City vs Wrexham",
+    "id": "eng_mun_bre_270426",
+    "match": "Manchester United vs Brentford",
     "pick": "HOME WIN",
     "saferOption": "OVER 1.5 GOALS",
     "correctScore": "2-1"
   },
   {
-    "id": "wsl_eve_che_260426",
-    "match": "Everton vs Chelsea",
-    "pick": "AWAY WIN",
-    "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "0-2"
+    "id": "esp_esp_lev_270426",
+    "match": "Espanyol vs Levante",
+    "pick": "UNDER 2.5 GOALS",
+    "saferOption": "DRAW",
+    "correctScore": "1-1"
   },
   {
-    "id": "wsl_lcl_lei_260426",
-    "match": "London City Lionesses vs Leicester City",
-    "pick": "DRAW OR AWAY WIN",
-    "saferOption": "UNDER 3.5 GOALS",
-    "correctScore": "1-2"
-  },
-  {
-    "id": "wsl_tot_mun_260426",
-    "match": "Tottenham Hotspur vs Manchester United",
-    "pick": "AWAY WIN",
-    "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "1-2"
-  },
-  {
-    "id": "wsl_liv_whu_260426",
-    "match": "Liverpool vs West Ham United",
+    "id": "ita_laz_udi_270426",
+    "match": "Lazio vs Udinese",
     "pick": "HOME WIN",
-    "saferOption": "UNDER 3.5 GOALS",
+    "saferOption": "OVER 1.5 GOALS",
+    "correctScore": "2-0"
+  },
+  {
+    "id": "ita_cag_ata_270426",
+    "match": "Cagliari vs Atalanta",
+    "pick": "DRAW OR AWAY WIN",
+    "saferOption": "OVER 1.5 GOALS",
+    "correctScore": "2-2"
+  },
+  {
+    "id": "bra_atm_fla_270426",
+    "match": "Atletico Mineiro vs Flamengo",
+    "pick": "AWAY WIN",
+    "saferOption": "OVER 2.5 GOALS",
+    "correctScore": "0-3"
+  },
+  {
+    "id": "bra_flu_cha_270426",
+    "match": "Fluminense vs Chapecoense",
+    "pick": "HOME WIN",
+    "saferOption": "OVER 1.5 GOALS",
+    "correctScore": "2-1"
+  },
+  {
+    "id": "eng_mun_bre_goals_270426",
+    "match": "Manchester United vs Brentford",
+    "pick": "BOTH TEAMS TO SCORE",
+    "saferOption": "OVER 1.5 GOALS",
+    "correctScore": "2-1"
+  },
+  {
+    "id": "ita_laz_udi_goals_270426",
+    "match": "Lazio vs Udinese",
+    "pick": "OVER 1.5 GOALS",
+    "saferOption": "HOME WIN",
     "correctScore": "2-0"
   }
 ]
+```
