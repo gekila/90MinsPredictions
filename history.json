@@ -1,5 +1,66 @@
 [
   {
+    "date": "Monday, 27th April 2026",
+    "gamesList": [
+      {
+        "teamA": "Manchester United",
+        "teamB": "Brentford",
+        "prediction": "HOME WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Espanyol",
+        "teamB": "Levante",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Cagliari",
+        "teamB": "Atalanta",
+        "prediction": "HOME WIN",
+        "odds": "3-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lazio",
+        "teamB": "Udinese",
+        "prediction": "DRAW",
+        "odds": "3-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atletico Mineiro",
+        "teamB": "Flamengo",
+        "prediction": "AWAY WIN",
+        "odds": "0-4",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Fluminense",
+        "teamB": "Chapecoense",
+        "prediction": "HOME WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "HNK Gorica",
+        "teamB": "Istra 1961",
+        "prediction": "HOME WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Copenhagen",
+        "teamB": "Vejle",
+        "prediction": "HOME WIN",
+        "odds": "3-0",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Sunday, 26th April 2026",
     "gamesList": [
       {
