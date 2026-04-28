@@ -1,58 +1,44 @@
 [
   {
-    "id": "eng_mun_bre_270426",
-    "match": "Manchester United vs Brentford",
-    "pick": "HOME WIN",
-    "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "2-1"
-  },
-  {
-    "id": "esp_esp_lev_270426",
-    "match": "Espanyol vs Levante",
-    "pick": "UNDER 2.5 GOALS",
-    "saferOption": "DRAW",
-    "correctScore": "1-1"
-  },
-  {
-    "id": "ita_laz_udi_270426",
-    "match": "Lazio vs Udinese",
-    "pick": "HOME WIN",
-    "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "2-0"
-  },
-  {
-    "id": "ita_cag_ata_270426",
-    "match": "Cagliari vs Atalanta",
-    "pick": "DRAW OR AWAY WIN",
+    "id": "ucl_psg_bay_280426",
+    "match": "Paris Saint-Germain vs Bayern Munich",
+    "pick": "BOTH TEAMS TO SCORE",
     "saferOption": "OVER 1.5 GOALS",
     "correctScore": "2-2"
   },
   {
-    "id": "bra_atm_fla_270426",
-    "match": "Atletico Mineiro vs Flamengo",
-    "pick": "AWAY WIN",
-    "saferOption": "OVER 2.5 GOALS",
-    "correctScore": "0-3"
+    "id": "eng_sou_ips_280426",
+    "match": "Southampton vs Ipswich Town",
+    "pick": "OVER 1.5 GOALS",
+    "saferOption": "BOTH TEAMS TO SCORE",
+    "correctScore": "2-1"
   },
   {
-    "id": "bra_flu_cha_270426",
-    "match": "Fluminense vs Chapecoense",
+    "id": "eng_nor_bar_280426",
+    "match": "Northampton Town vs Barnsley",
+    "pick": "DRAW OR AWAY WIN",
+    "saferOption": "UNDER 3.5 GOALS",
+    "correctScore": "1-2"
+  },
+  {
+    "id": "eng_pet_man_280426",
+    "match": "Peterborough United vs Mansfield Town",
     "pick": "HOME WIN",
     "saferOption": "OVER 1.5 GOALS",
     "correctScore": "2-1"
   },
   {
-    "id": "eng_mun_bre_goals_270426",
-    "match": "Manchester United vs Brentford",
-    "pick": "BOTH TEAMS TO SCORE",
+    "id": "eng_sto_por_280426",
+    "match": "Stockport County vs Port Vale",
+    "pick": "HOME WIN",
     "saferOption": "OVER 1.5 GOALS",
-    "correctScore": "2-1"
+    "correctScore": "2-0"
   },
   {
-    "id": "ita_laz_udi_goals_270426",
-    "match": "Lazio vs Udinese",
-    "pick": "OVER 1.5 GOALS",
-    "saferOption": "HOME WIN",
-    "correctScore": "2-0"
+    "id": "eng_scu_sou_280426",
+    "match": "Scunthorpe United vs Southend United",
+    "pick": "UNDER 2.5 GOALS",
+    "saferOption": "DRAW OR AWAY WIN",
+    "correctScore": "0-1"
   }
 ]
