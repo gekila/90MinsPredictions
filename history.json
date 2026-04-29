@@ -1,5 +1,66 @@
 [
   {
+    "date": "Tuesday, 28th April 2026",
+    "gamesList": [
+      {
+        "teamA": "Paris Saint-Germain",
+        "teamB": "Bayern Munich",
+        "prediction": "OVER 2.5 GOALS",
+        "odds": "5-4",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Southampton",
+        "teamB": "Ipswich Town",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Northampton Town",
+        "teamB": "Barnsley",
+        "prediction": "DRAW OR AWAY WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Peterborough United",
+        "teamB": "Mansfield Town",
+        "prediction": "OVER 1.5 GOALS",
+        "odds": "0-0",
+        "results": "LOSE"
+      },
+      {
+        "teamA": "Stockport County",
+        "teamB": "Port Vale",
+        "prediction": "OVER 1.5 GOALS",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Scunthorpe United",
+        "teamB": "Southend United",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Buxton",
+        "teamB": "Scarborough Athletic",
+        "prediction": "OVER 2.5 GOALS",
+        "odds": "4-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Hemel Hempstead Town",
+        "teamB": "Weston-super-Mare",
+        "prediction": "UNDER 3.5 GOALS",
+        "odds": "1-1",
+        "results": "WIN"
+            }
+    ]
+  },
+  {
     "date": "Monday, 27th April 2026",
     "gamesList": [
       {
