@@ -1,100 +1,86 @@
 [
   {
-    "id": "ucl_atm_ars_290426_ultra",
+    "id": "uel_nfo_avl_300426_ultra",
     "teamA": {
-      "name": "Atletico Madrid",
-      "icon": "https://media.api-sports.io/football/teams/530.png"
+      "name": "Nottingham Forest",
+      "icon": "https://media.api-sports.io/football/teams/65.png"
     },
     "teamB": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
+      "name": "Aston Villa",
+      "icon": "https://media.api-sports.io/football/teams/66.png"
     },
-    "leagueName": "UEFA Competition",
+    "leagueName": "UEFA Europa League",
     "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-29"
+    "date": "2026-04-30"
   },
   {
-    "id": "eng_ars_leiw_290426_ultra",
+    "id": "uel_bra_fre_300426_ultra",
     "teamA": {
-      "name": "Arsenal Women",
-      "icon": "https://media.api-sports.io/football/teams/524.png"
+      "name": "Sporting Braga",
+      "icon": "https://media.api-sports.io/football/teams/217.png"
     },
     "teamB": {
-      "name": "Leicester City Women",
-      "icon": "https://media.api-sports.io/football/teams/10744.png"
+      "name": "SC Freiburg",
+      "icon": "https://media.api-sports.io/football/teams/160.png"
     },
-    "leagueName": "Women's Super League",
+    "leagueName": "UEFA Europa League",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "uecl_ray_str_300426_ultra",
+    "teamA": {
+      "name": "Rayo Vallecano",
+      "icon": "https://media.api-sports.io/football/teams/728.png"
+    },
+    "teamB": {
+      "name": "Strasbourg",
+      "icon": "https://media.api-sports.io/football/teams/576.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "UNDER 3.5 GOALS",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "uecl_sha_crp_300426_ultra",
+    "teamA": {
+      "name": "Shakhtar Donetsk",
+      "icon": "https://media.api-sports.io/football/teams/558.png"
+    },
+    "teamB": {
+      "name": "Crystal Palace",
+      "icon": "https://media.api-sports.io/football/teams/52.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-04-30"
+  },
+  {
+    "id": "lib_bol_flu_300426_ultra",
+    "teamA": {
+      "name": "Bolívar",
+      "icon": "https://media.api-sports.io/football/teams/2226.png"
+    },
+    "teamB": {
+      "name": "Fluminense",
+      "icon": "https://media.api-sports.io/football/teams/124.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
     "prediction": "OVER 2.5 GOALS",
-    "date": "2026-04-29"
+    "date": "2026-04-30"
   },
   {
-    "id": "eng_bor_fgr_290426_ultra",
+    "id": "lib_ind_lag_300426_ultra",
     "teamA": {
-      "name": "Boreham Wood",
-      "icon": "https://media.api-sports.io/football/teams/3717.png"
+      "name": "Independiente Rivadavia",
+      "icon": "https://media.api-sports.io/football/teams/4413.png"
     },
     "teamB": {
-      "name": "Forest Green Rovers",
-      "icon": "https://media.api-sports.io/football/teams/354.png"
+      "name": "Deportivo La Guaira",
+      "icon": "https://media.api-sports.io/football/teams/6210.png"
     },
-    "leagueName": "National League",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-04-29"
-  },
-  {
-    "id": "eng_mac_che_290426_ultra",
-    "teamA": {
-      "name": "Macclesfield",
-      "icon": "https://media.api-sports.io/football/teams/3734.png"
-    },
-    "teamB": {
-      "name": "Chester",
-      "icon": "https://media.api-sports.io/football/teams/3731.png"
-    },
-    "leagueName": "National League North",
+    "leagueName": "CONMEBOL Libertadores",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-04-29"
-  },
-  {
-    "id": "eng_dor_mai_290426_ultra",
-    "teamA": {
-      "name": "Dorking Wanderers",
-      "icon": "https://media.api-sports.io/football/teams/10532.png"
-    },
-    "teamB": {
-      "name": "Maidenhead United",
-      "icon": "https://media.api-sports.io/football/teams/3726.png"
-    },
-    "leagueName": "National League South",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-04-29"
-  },
-  {
-    "id": "sco_gla_celw_290426_ultra",
-    "teamA": {
-      "name": "Glasgow City Women",
-      "icon": "https://media.api-sports.io/football/teams/10550.png"
-    },
-    "teamB": {
-      "name": "Celtic Women",
-      "icon": "https://media.api-sports.io/football/teams/10552.png"
-    },
-    "leagueName": "Scottish SWPL 1",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-04-29"
-  },
-  {
-    "id": "sco_ran_hibw_290426_ultra",
-    "teamA": {
-      "name": "Rangers Women",
-      "icon": "https://media.api-sports.io/football/teams/10551.png"
-    },
-    "teamB": {
-      "name": "Hibernian Women",
-      "icon": "https://media.api-sports.io/football/teams/10553.png"
-    },
-    "leagueName": "Scottish SWPL 1",
-    "prediction": "OVER 2.5 GOALS",
-    "date": "2026-04-29"
+    "date": "2026-04-30"
   }
 ]
