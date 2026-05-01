@@ -1,5 +1,52 @@
 [
   {
+    "date": "Thursday, 30th April 2026",
+    "gamesList": [
+      {
+        "teamA": "Nottingham Forest",
+        "teamB": "Aston Villa",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sporting Braga",
+        "teamB": "SC Freiburg",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Rayo Vallecano",
+        "teamB": "Strasbourg",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Shakhtar Donetsk",
+        "teamB": "Crystal Palace",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "1-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bolívar",
+        "teamB": "Fluminense",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Independiente Rivadavia",
+        "teamB": "Deportivo La Guaira",
+        "prediction": "HOME WIN",
+        "odds": "4-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Wednesday, 29th April 2026",
     "gamesList": [
       {
