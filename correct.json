@@ -1,86 +1,114 @@
 [
   {
-    "id": "uel_nfo_avl_300426_ultra",
+    "id": "epl_lee_bur_010526_ultra",
     "teamA": {
-      "name": "Nottingham Forest",
-      "icon": "https://media.api-sports.io/football/teams/65.png"
+      "name": "Leeds United",
+      "icon": "https://media.api-sports.io/football/teams/63.png"
     },
     "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "Burnley",
+      "icon": "https://media.api-sports.io/football/teams/44.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "1-1",
-    "date": "2026-04-30"
-  },
-  {
-    "id": "uel_bra_fre_300426_ultra",
-    "teamA": {
-      "name": "Sporting Braga",
-      "icon": "https://media.api-sports.io/football/teams/217.png"
-    },
-    "teamB": {
-      "name": "SC Freiburg",
-      "icon": "https://media.api-sports.io/football/teams/160.png"
-    },
-    "leagueName": "UEFA Europa League",
+    "leagueName": "Premier League",
     "prediction": "2-1",
-    "date": "2026-04-30"
+    "date": "2026-05-01"
   },
   {
-    "id": "uecl_ray_str_300426_ultra",
+    "id": "scot_liv_abe_010526_ultra",
     "teamA": {
-      "name": "Rayo Vallecano",
-      "icon": "https://media.api-sports.io/football/teams/728.png"
+      "name": "Livingston",
+      "icon": "https://media.api-sports.io/football/teams/257.png"
     },
     "teamB": {
-      "name": "Strasbourg",
-      "icon": "https://media.api-sports.io/football/teams/576.png"
+      "name": "Aberdeen",
+      "icon": "https://media.api-sports.io/football/teams/258.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "1-1",
-    "date": "2026-04-30"
+    "leagueName": "Scottish Premiership",
+    "prediction": "0-1",
+    "date": "2026-05-01"
   },
   {
-    "id": "uecl_sha_crp_300426_ultra",
+    "id": "scot_ayr_stj_010526_ultra",
     "teamA": {
-      "name": "Shakhtar Donetsk",
-      "icon": "https://media.api-sports.io/football/teams/558.png"
+      "name": "Ayr United",
+      "icon": "https://media.api-sports.io/football/teams/2564.png"
     },
     "teamB": {
-      "name": "Crystal Palace",
-      "icon": "https://media.api-sports.io/football/teams/52.png"
+      "name": "St. Johnstone",
+      "icon": "https://media.api-sports.io/football/teams/259.png"
     },
-    "leagueName": "UEFA Conference League",
+    "leagueName": "Scottish Championship",
     "prediction": "1-2",
-    "date": "2026-04-30"
+    "date": "2026-05-01"
   },
   {
-    "id": "lib_bol_flu_300426_ultra",
+    "id": "scot_dun_arb_010526_ultra",
     "teamA": {
-      "name": "Bolívar",
-      "icon": "https://media.api-sports.io/football/teams/2226.png"
+      "name": "Dunfermline Athletic",
+      "icon": "https://media.api-sports.io/football/teams/261.png"
     },
     "teamB": {
-      "name": "Fluminense",
-      "icon": "https://media.api-sports.io/football/teams/124.png"
+      "name": "Arbroath",
+      "icon": "https://media.api-sports.io/football/teams/262.png"
     },
-    "leagueName": "CONMEBOL Libertadores",
+    "leagueName": "Scottish Championship",
+    "prediction": "1-0",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "scot_mor_air_010526_ultra",
+    "teamA": {
+      "name": "Greenock Morton",
+      "icon": "https://media.api-sports.io/football/teams/263.png"
+    },
+    "teamB": {
+      "name": "Airdrieonians",
+      "icon": "https://media.api-sports.io/football/teams/264.png"
+    },
+    "leagueName": "Scottish Championship",
     "prediction": "2-2",
-    "date": "2026-04-30"
+    "date": "2026-05-01"
   },
   {
-    "id": "lib_ind_lag_300426_ultra",
+    "id": "scot_par_que_010526_ultra",
     "teamA": {
-      "name": "Independiente Rivadavia",
-      "icon": "https://media.api-sports.io/football/teams/4413.png"
+      "name": "Partick Thistle",
+      "icon": "https://media.api-sports.io/football/teams/268.png"
     },
     "teamB": {
-      "name": "Deportivo La Guaira",
-      "icon": "https://media.api-sports.io/football/teams/6210.png"
+      "name": "Queen's Park",
+      "icon": "https://media.api-sports.io/football/teams/269.png"
     },
-    "leagueName": "CONMEBOL Libertadores",
-    "prediction": "2-0",
-    "date": "2026-04-30"
+    "leagueName": "Scottish Championship",
+    "prediction": "2-1",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "scot_rai_ros_010526_ultra",
+    "teamA": {
+      "name": "Raith Rovers",
+      "icon": "https://media.api-sports.io/football/teams/270.png"
+    },
+    "teamB": {
+      "name": "Ross County",
+      "icon": "https://media.api-sports.io/football/teams/271.png"
+    },
+    "leagueName": "Scottish Championship",
+    "prediction": "1-1",
+    "date": "2026-05-01"
+  },
+  {
+    "id": "ni_cru_ann_010526_ultra",
+    "teamA": {
+      "name": "Crusaders",
+      "icon": "https://media.api-sports.io/football/teams/350.png"
+    },
+    "teamB": {
+      "name": "Annagh United",
+      "icon": "https://media.api-sports.io/football/teams/351.png"
+    },
+    "leagueName": "Northern Ireland Play-offs",
+    "prediction": "3-1",
+    "date": "2026-05-01"
   }
 ]
