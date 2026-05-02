@@ -1,5 +1,66 @@
 [
   {
+    "date": "Friday, 1st May 2026",
+    "gamesList": [
+      {
+        "teamA": "Leeds United",
+        "teamB": "Burnley",
+        "prediction": "OVER 1.5 GOALS",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Livingston",
+        "teamB": "Aberdeen",
+        "prediction": "OVER 3.5 GOALS",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Ayr United",
+        "teamB": "St. Johnstone",
+        "prediction": "AWAY WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Dunfermline Athletic",
+        "teamB": "Arbroath",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Greenock Morton",
+        "teamB": "Airdrieonians",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Partick Thistle",
+        "teamB": "Queen's Park",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Raith Rovers",
+        "teamB": "Ross County",
+        "prediction": "HOME OR DRAW",
+        "odds": "3-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Crusaders",
+        "teamB": "Annagh United",
+        "prediction": "AWAY WIN & OVER 2.5 GOALS",
+        "odds": "1-2",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Thursday, 30th April 2026",
     "gamesList": [
       {
