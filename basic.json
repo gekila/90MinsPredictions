@@ -1,198 +1,114 @@
 [
   {
-    "id": "epl_bre_whu_020526_ultra",
+    "id": "epl_bou_crp_030526_ultra",
     "teamA": {
-      "name": "Brentford",
-      "icon": "https://media.api-sports.io/football/teams/55.png"
+      "name": "AFC Bournemouth",
+      "icon": "https://media.api-sports.io/football/teams/35.png"
     },
     "teamB": {
-      "name": "West Ham United",
-      "icon": "https://media.api-sports.io/football/teams/48.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-02"
-  },
-  {
-    "id": "epl_new_bha_020526_ultra",
-    "teamA": {
-      "name": "Newcastle United",
-      "icon": "https://media.api-sports.io/football/teams/34.png"
-    },
-    "teamB": {
-      "name": "Brighton & Hove Albion",
-      "icon": "https://media.api-sports.io/football/teams/51.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "NEWCASTLE UNITED WIN",
-    "date": "2026-05-02"
-  },
-  {
-    "id": "epl_wol_sun_020526_ultra",
-    "teamA": {
-      "name": "Wolverhampton Wanderers",
-      "icon": "https://media.api-sports.io/football/teams/39.png"
-    },
-    "teamB": {
-      "name": "Sunderland",
-      "icon": "https://media.api-sports.io/football/teams/77.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "WOLVERHAMPTON WANDERERS WIN",
-    "date": "2026-05-02"
-  },
-  {
-    "id": "epl_ars_ful_020526_ultra",
-    "teamA": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
-    },
-    "teamB": {
-      "name": "Fulham",
-      "icon": "https://media.api-sports.io/football/teams/36.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "ARSENAL WIN & OVER 2.5 GOALS",
-    "date": "2026-05-02"
-  },
-  {
-    "id": "scot_dun_stm_020526_ultra",
-    "teamA": {
-      "name": "Dundee",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
-    },
-    "teamB": {
-      "name": "St. Mirren",
-      "icon": "https://media.api-sports.io/football/teams/62.png"
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-05-02"
-  },
-  {
-    "id": "scot_kil_duu_020526_ultra",
-    "teamA": {
-      "name": "Kilmarnock",
-      "icon": "https://media.api-sports.io/football/teams/64.png"
-    },
-    "teamB": {
-      "name": "Dundee United",
-      "icon": "https://media.api-sports.io/football/teams/67.png"
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "KILMARNOCK OR DRAW",
-    "date": "2026-05-02"
-  },
-  {
-    "id": "scot_fal_mot_020526_ultra",
-    "teamA": {
-      "name": "Falkirk",
-      "icon": "https://media.api-sports.io/football/teams/2573.png"
-    },
-    "teamB": {
-      "name": "Motherwell",
-      "icon": "https://media.api-sports.io/football/teams/60.png"
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "MOTHERWELL WIN",
-    "date": "2026-05-02"
-  },
-  {
-    "id": "eng_bla_lei_020526_ultra",
-    "teamA": {
-      "name": "Blackburn Rovers",
-      "icon": "https://media.api-sports.io/football/teams/59.png"
-    },
-    "teamB": {
-      "name": "Leicester City",
-      "icon": "https://media.api-sports.io/football/teams/46.png"
-    },
-    "leagueName": "Championship",
-    "prediction": "LEICESTER CITY WIN",
-    "date": "2026-05-02"
-  },
-  {
-    "id": "eng_bri_sto_020526_ultra",
-    "teamA": {
-      "name": "Bristol City",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
-    },
-    "teamB": {
-      "name": "Stoke City",
-      "icon": "https://media.api-sports.io/football/teams/70.png"
-    },
-    "leagueName": "Championship",
-    "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-05-02"
-  },
-  {
-    "id": "eng_der_shu_020526_ultra",
-    "teamA": {
-      "name": "Derby County",
-      "icon": "https://media.api-sports.io/football/teams/68.png"
-    },
-    "teamB": {
-      "name": "Sheffield United",
-      "icon": "https://media.api-sports.io/football/teams/62.png"
-    },
-    "leagueName": "Championship",
-    "prediction": "SHEFFIELD UNITED OR DRAW",
-    "date": "2026-05-02"
-  },
-  {
-    "id": "eng_hul_nor_020526_ultra",
-    "teamA": {
-      "name": "Hull City",
+      "name": "Crystal Palace",
       "icon": "https://media.api-sports.io/football/teams/52.png"
     },
-    "teamB": {
-      "name": "Norwich City",
-      "icon": "https://media.api-sports.io/football/teams/71.png"
-    },
-    "leagueName": "Championship",
+    "leagueName": "Premier League",
     "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-02"
+    "date": "2026-05-03"
   },
   {
-    "id": "eng_ips_qpr_020526_ultra",
+    "id": "epl_mun_liv_030526_ultra",
     "teamA": {
-      "name": "Ipswich Town",
-      "icon": "https://media.api-sports.io/football/teams/57.png"
+      "name": "Manchester United",
+      "icon": "https://media.api-sports.io/football/teams/33.png"
     },
     "teamB": {
-      "name": "Queens Park Rangers",
-      "icon": "https://media.api-sports.io/football/teams/72.png"
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
     },
-    "leagueName": "Championship",
-    "prediction": "IPSWICH TOWN WIN",
-    "date": "2026-05-02"
+    "leagueName": "Premier League",
+    "prediction": "LIVERPOOL WIN",
+    "date": "2026-05-03"
   },
   {
-    "id": "eng_mil_oxf_020526_ultra",
+    "id": "epl_avl_tot_030526_ultra",
     "teamA": {
-      "name": "Millwall",
-      "icon": "https://media.api-sports.io/football/teams/58.png"
+      "name": "Aston Villa",
+      "icon": "https://media.api-sports.io/football/teams/66.png"
     },
     "teamB": {
-      "name": "Oxford United",
-      "icon": "https://media.api-sports.io/football/teams/76.png"
+      "name": "Tottenham Hotspur",
+      "icon": "https://media.api-sports.io/football/teams/47.png"
     },
-    "leagueName": "Championship",
-    "prediction": "MILLWALL WIN",
-    "date": "2026-05-02"
+    "leagueName": "Premier League",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-05-03"
   },
   {
-    "id": "eng_por_bir_020526_ultra",
+    "id": "scot_hib_cel_030526_ultra",
     "teamA": {
-      "name": "Portsmouth",
-      "icon": "https://media.api-sports.io/football/teams/73.png"
+      "name": "Hibernian",
+      "icon": "https://media.api-sports.io/football/teams/61.png"
     },
     "teamB": {
-      "name": "Birmingham City",
-      "icon": "https://media.api-sports.io/football/teams/45.png"
+      "name": "Celtic",
+      "icon": "https://media.api-sports.io/football/teams/62.png"
     },
-    "leagueName": "Championship",
-    "prediction": "PORTSMOUTH OR DRAW",
-    "date": "2026-05-02"
+    "leagueName": "Scottish Premiership",
+    "prediction": "CELTIC WIN & OVER 2.5 GOALS",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "wsl_mci_liv_030526_ultra",
+    "teamA": {
+      "name": "Manchester City Women",
+      "icon": "https://media.api-sports.io/football/teams/135.png"
+    },
+    "teamB": {
+      "name": "Liverpool Women",
+      "icon": "https://media.api-sports.io/football/teams/136.png"
+    },
+    "leagueName": "Women's Super League",
+    "prediction": "MANCHESTER CITY WOMEN WIN",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "wsl_tot_lcl_030526_ultra",
+    "teamA": {
+      "name": "Tottenham Hotspur Women",
+      "icon": "https://media.api-sports.io/football/teams/137.png"
+    },
+    "teamB": {
+      "name": "London City Lionesses",
+      "icon": "https://media.api-sports.io/football/teams/139.png"
+    },
+    "leagueName": "Women's Super League",
+    "prediction": "TOTTENHAM HOTSPUR WOMEN WIN",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "wsl_lei_che_030526_ultra",
+    "teamA": {
+      "name": "Leicester City Women",
+      "icon": "https://media.api-sports.io/football/teams/138.png"
+    },
+    "teamB": {
+      "name": "Chelsea Women",
+      "icon": "https://media.api-sports.io/football/teams/132.png"
+    },
+    "leagueName": "Women's Super League",
+    "prediction": "CHELSEA WOMEN WIN & OVER 2.5 GOALS",
+    "date": "2026-05-03"
+  },
+  {
+    "id": "uwcl_bar_bay_030526_ultra",
+    "teamA": {
+      "name": "Barcelona Women",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
+    },
+    "teamB": {
+      "name": "Bayern Munich Women",
+      "icon": "https://media.api-sports.io/football/teams/530.png"
+    },
+    "leagueName": "UEFA Women's Champions League",
+    "prediction": "BARCELONA WOMEN WIN",
+    "date": "2026-05-03"
   }
 ]
