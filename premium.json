@@ -1,170 +1,72 @@
 [
   {
-    "id": "epl_che_nfo_040526",
+    "id": "ucl_bay_psg_060526",
     "teamA": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
+      "name": "Bayern Munich",
+      "icon": "https://media.api-sports.io/football/teams/157.png"
     },
     "teamB": {
-      "name": "Nottingham Forest",
-      "icon": "https://media.api-sports.io/football/teams/65.png"
+      "name": "Paris Saint-Germain",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN & OVER 2.5 GOALS",
-    "date": "2026-05-04"
+    "leagueName": "UEFA Champions League",
+    "prediction": "BOTH TEAMS TO SCORE & OVER 2.5 GOALS",
+    "date": "2026-05-06"
   },
   {
-    "id": "epl_eve_mci_040526",
+    "id": "wsl_bha_ars_060526",
     "teamA": {
-      "name": "Everton",
-      "icon": "https://media.api-sports.io/football/teams/45.png"
+      "name": "Brighton & Hove Albion Women",
+      "icon": "https://media.api-sports.io/football/teams/145.png"
     },
     "teamB": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "AWAY WIN TO NIL",
-    "date": "2026-05-04"
-  },
-  {
-    "id": "scot_hea_ran_040526",
-    "teamA": {
-      "name": "Hearts",
-      "icon": "https://media.api-sports.io/football/teams/63.png"
-    },
-    "teamB": {
-      "name": "Rangers",
-      "icon": "https://media.api-sports.io/football/teams/64.png"
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "AWAY WIN",
-    "date": "2026-05-04"
-  },
-  {
-    "id": "wsl_avl_whu_040526",
-    "teamA": {
-      "name": "Aston Villa Women",
-      "icon": "https://media.api-sports.io/football/teams/140.png"
-    },
-    "teamB": {
-      "name": "West Ham United Women",
-      "icon": "https://media.api-sports.io/football/teams/141.png"
+      "name": "Arsenal Women",
+      "icon": "https://media.api-sports.io/football/teams/143.png"
     },
     "leagueName": "Women's Super League",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-04"
+    "prediction": "AWAY WIN & OVER 2.5 GOALS",
+    "date": "2026-05-06"
   },
   {
-    "id": "irl_boh_she_040526",
+    "id": "irl_dun_car_060526",
     "teamA": {
-      "name": "Bohemians",
-      "icon": "https://media.api-sports.io/football/teams/306.png"
+      "name": "Dungannon Swifts",
+      "icon": "https://media.api-sports.io/football/teams/828.png"
     },
     "teamB": {
-      "name": "Shelbourne",
-      "icon": "https://media.api-sports.io/football/teams/307.png"
+      "name": "Carrick Rangers",
+      "icon": "https://media.api-sports.io/football/teams/829.png"
     },
-    "leagueName": "Irish Premier Division",
+    "leagueName": "Irish Premiership",
     "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-05-04"
+    "date": "2026-05-06"
   },
   {
-    "id": "irl_der_gal_040526",
+    "id": "lib_cus_est_060526",
     "teamA": {
-      "name": "Derry City",
-      "icon": "https://media.api-sports.io/football/teams/308.png"
+      "name": "Cusco FC",
+      "icon": "https://media.api-sports.io/football/teams/2540.png"
     },
     "teamB": {
-      "name": "Galway United",
-      "icon": "https://media.api-sports.io/football/teams/309.png"
+      "name": "Estudiantes",
+      "icon": "https://media.api-sports.io/football/teams/451.png"
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "HOME WIN",
-    "date": "2026-05-04"
-  },
-  {
-    "id": "irl_sha_dro_040526",
-    "teamA": {
-      "name": "Shamrock Rovers",
-      "icon": "https://media.api-sports.io/football/teams/310.png"
-    },
-    "teamB": {
-      "name": "Drogheda United",
-      "icon": "https://media.api-sports.io/football/teams/311.png"
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "HOME WIN & OVER 2.5 GOALS",
-    "date": "2026-05-04"
-  },
-  {
-    "id": "irl_sli_pat_040526",
-    "teamA": {
-      "name": "Sligo Rovers",
-      "icon": "https://media.api-sports.io/football/teams/312.png"
-    },
-    "teamB": {
-      "name": "St Patrick's Athletic",
-      "icon": "https://media.api-sports.io/football/teams/313.png"
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-04"
-  },
-  {
-    "id": "irl_wat_dun_040526",
-    "teamA": {
-      "name": "Waterford",
-      "icon": "https://media.api-sports.io/football/teams/314.png"
-    },
-    "teamB": {
-      "name": "Dundalk",
-      "icon": "https://media.api-sports.io/football/teams/315.png"
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-05-04"
-  },
-  {
-    "id": "lal_sev_rso_040526",
-    "teamA": {
-      "name": "Sevilla",
-      "icon": "https://media.api-sports.io/football/teams/536.png"
-    },
-    "teamB": {
-      "name": "Real Sociedad",
-      "icon": "https://media.api-sports.io/football/teams/548.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-05-04"
-  },
-  {
-    "id": "ser_cre_laz_040526",
-    "teamA": {
-      "name": "Cremonese",
-      "icon": "https://media.api-sports.io/football/teams/739.png"
-    },
-    "teamB": {
-      "name": "Lazio",
-      "icon": "https://media.api-sports.io/football/teams/487.png"
-    },
-    "leagueName": "Serie A",
+    "leagueName": "CONMEBOL Libertadores",
     "prediction": "AWAY WIN",
-    "date": "2026-05-04"
+    "date": "2026-05-06"
   },
   {
-    "id": "ser_rom_fio_040526",
+    "id": "lib_lag_bol_060526",
     "teamA": {
-      "name": "Roma",
-      "icon": "https://media.api-sports.io/football/teams/497.png"
+      "name": "Deportivo La Guaira",
+      "icon": "https://media.api-sports.io/football/teams/2547.png"
     },
     "teamB": {
-      "name": "Fiorentina",
-      "icon": "https://media.api-sports.io/football/teams/502.png"
+      "name": "Bolívar",
+      "icon": "https://media.api-sports.io/football/teams/2539.png"
     },
-    "leagueName": "Serie A",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-04"
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "AWAY WIN & OVER 2.5 GOALS",
+    "date": "2026-05-06"
   }
 ]
