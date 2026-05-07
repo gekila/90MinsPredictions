@@ -1,72 +1,100 @@
 [
   {
-    "id": "ucl_bay_psg_060526_ultra",
+    "id": "uel_avl_nfo_070526_ultra",
     "teamA": {
-      "name": "Bayern Munich",
-      "icon": "https://media.api-sports.io/football/teams/157.png"
+      "name": "Aston Villa",
+      "icon": "https://media.api-sports.io/football/teams/66.png"
     },
     "teamB": {
-      "name": "Paris Saint-Germain",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
+      "name": "Nottingham Forest",
+      "icon": "https://media.api-sports.io/football/teams/65.png"
     },
-    "leagueName": "UEFA Champions League",
-    "prediction": "2-2",
-    "date": "2026-05-06"
+    "leagueName": "UEFA Europa League",
+    "prediction": "2-1",
+    "date": "2026-05-07"
   },
   {
-    "id": "wsl_bha_ars_060526_ultra",
+    "id": "uel_fre_bra_070526_ultra",
     "teamA": {
-      "name": "Brighton & Hove Albion Women",
-      "icon": "https://media.api-sports.io/football/teams/145.png"
+      "name": "Freiburg",
+      "icon": "https://media.api-sports.io/football/teams/160.png"
     },
     "teamB": {
-      "name": "Arsenal Women",
-      "icon": "https://media.api-sports.io/football/teams/143.png"
+      "name": "Sporting Braga",
+      "icon": "https://media.api-sports.io/football/teams/217.png"
     },
-    "leagueName": "Women's Super League",
-    "prediction": "1-3",
-    "date": "2026-05-06"
+    "leagueName": "UEFA Europa League",
+    "prediction": "1-1",
+    "date": "2026-05-07"
   },
   {
-    "id": "irl_dun_car_060526_ultra",
+    "id": "uecl_crp_sha_070526_ultra",
     "teamA": {
-      "name": "Dungannon Swifts",
-      "icon": "https://media.api-sports.io/football/teams/828.png"
+      "name": "Crystal Palace",
+      "icon": "https://media.api-sports.io/football/teams/52.png"
     },
     "teamB": {
-      "name": "Carrick Rangers",
-      "icon": "https://media.api-sports.io/football/teams/829.png"
+      "name": "Shakhtar Donetsk",
+      "icon": "https://media.api-sports.io/football/teams/558.png"
     },
-    "leagueName": "Irish Premiership",
-    "prediction": "1-0",
-    "date": "2026-05-06"
+    "leagueName": "UEFA Conference League",
+    "prediction": "2-0",
+    "date": "2026-05-07"
   },
   {
-    "id": "lib_cus_est_060526_ultra",
+    "id": "uecl_str_ray_070526_ultra",
     "teamA": {
-      "name": "Cusco FC",
-      "icon": "https://media.api-sports.io/football/teams/2540.png"
+      "name": "Strasbourg",
+      "icon": "https://media.api-sports.io/football/teams/576.png"
     },
     "teamB": {
-      "name": "Estudiantes",
-      "icon": "https://media.api-sports.io/football/teams/451.png"
+      "name": "Rayo Vallecano",
+      "icon": "https://media.api-sports.io/football/teams/728.png"
+    },
+    "leagueName": "UEFA Conference League",
+    "prediction": "0-1",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "lib_tol_nac_070526_ultra",
+    "teamA": {
+      "name": "Deportes Tolima",
+      "icon": "https://media.api-sports.io/football/teams/2392.png"
+    },
+    "teamB": {
+      "name": "Nacional",
+      "icon": "https://media.api-sports.io/football/teams/2351.png"
     },
     "leagueName": "CONMEBOL Libertadores",
-    "prediction": "0-2",
-    "date": "2026-05-06"
+    "prediction": "2-0",
+    "date": "2026-05-07"
   },
   {
-    "id": "lib_lag_bol_060526_ultra",
+    "id": "lib_cat_cru_070526_ultra",
     "teamA": {
-      "name": "Deportivo La Guaira",
-      "icon": "https://media.api-sports.io/football/teams/2547.png"
+      "name": "Universidad Católica",
+      "icon": "https://media.api-sports.io/football/teams/2354.png"
     },
     "teamB": {
-      "name": "Bolívar",
-      "icon": "https://media.api-sports.io/football/teams/2539.png"
+      "name": "Cruzeiro",
+      "icon": "https://media.api-sports.io/football/teams/221.png"
     },
     "leagueName": "CONMEBOL Libertadores",
-    "prediction": "1-3",
-    "date": "2026-05-06"
+    "prediction": "0-0",
+    "date": "2026-05-07"
+  },
+  {
+    "id": "lib_pla_pen_070526_ultra",
+    "teamA": {
+      "name": "Platense",
+      "icon": "https://media.api-sports.io/football/teams/1064.png"
+    },
+    "teamB": {
+      "name": "Peñarol",
+      "icon": "https://media.api-sports.io/football/teams/2364.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "1-2",
+    "date": "2026-05-07"
   }
 ]
