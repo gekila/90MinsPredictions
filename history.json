@@ -1,5 +1,45 @@
 [
   {
+    "date": "Thursday, 7th May 2026",
+    "gamesList": [
+      {
+        "teamA": "Bayern Munich",
+        "teamB": "Paris Saint-Germain",
+        "prediction": "BOTH TEAMS TO SCORE & UNDER 2.5 GOALS",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Brighton & Hove Albion Women",
+        "teamB": "Arsenal Women",
+        "prediction": "DRAW & UNDER 2.5 GOALS",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Dungannon Swifts",
+        "teamB": "Carrick Rangers",
+        "prediction": "OVER 2.5 GOALS",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Cusco FC",
+        "teamB": "Estudiantes",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Deportivo La Guaira",
+        "teamB": "Bolívar",
+        "prediction": "DRAW & UNDER 2.5 GOALS",
+        "odds": "1-1",
+        "results": "WIN"
+          }
+    ]
+  },
+  {
     "date": "Wednesday, 5th May 2026",
     "gamesList": [
       {
