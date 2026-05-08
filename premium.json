@@ -1,100 +1,114 @@
 [
   {
-    "id": "uel_avl_nfo_070526",
+    "id": "eng_hul_mil_080526",
     "teamA": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "Hull City",
+      "icon": "https://media.api-sports.io/football/teams/63.png"
     },
     "teamB": {
-      "name": "Nottingham Forest",
-      "icon": "https://media.api-sports.io/football/teams/65.png"
+      "name": "Millwall",
+      "icon": "https://media.api-sports.io/football/teams/46.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "HOME WIN & OVER 1.5 GOALS",
-    "date": "2026-05-07"
+    "leagueName": "Championship Play-offs",
+    "prediction": "HOME WIN & UNDER 3.5 GOALS",
+    "date": "2026-05-08"
   },
   {
-    "id": "uel_fre_bra_070526",
+    "id": "sco_arb_dun_080526",
     "teamA": {
-      "name": "Freiburg",
-      "icon": "https://media.api-sports.io/football/teams/160.png"
+      "name": "Arbroath",
+      "icon": "https://media.api-sports.io/football/teams/2474.png"
     },
     "teamB": {
-      "name": "Sporting Braga",
-      "icon": "https://media.api-sports.io/football/teams/217.png"
+      "name": "Dunfermline Athletic",
+      "icon": "https://media.api-sports.io/football/teams/2473.png"
     },
-    "leagueName": "UEFA Europa League",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "uecl_crp_sha_070526",
-    "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://media.api-sports.io/football/teams/52.png"
-    },
-    "teamB": {
-      "name": "Shakhtar Donetsk",
-      "icon": "https://media.api-sports.io/football/teams/558.png"
-    },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "uecl_str_ray_070526",
-    "teamA": {
-      "name": "Strasbourg",
-      "icon": "https://media.api-sports.io/football/teams/576.png"
-    },
-    "teamB": {
-      "name": "Rayo Vallecano",
-      "icon": "https://media.api-sports.io/football/teams/728.png"
-    },
-    "leagueName": "UEFA Conference League",
+    "leagueName": "Scottish Premiership Play-offs",
     "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-05-07"
+    "date": "2026-05-08"
   },
   {
-    "id": "lib_tol_nac_070526",
+    "id": "irl_dro_der_080526",
     "teamA": {
-      "name": "Deportes Tolima",
-      "icon": "https://media.api-sports.io/football/teams/2392.png"
+      "name": "Drogheda United",
+      "icon": "https://media.api-sports.io/football/teams/892.png"
     },
     "teamB": {
-      "name": "Nacional",
-      "icon": "https://media.api-sports.io/football/teams/2351.png"
+      "name": "Derry City",
+      "icon": "https://media.api-sports.io/football/teams/895.png"
     },
-    "leagueName": "CONMEBOL Libertadores",
-    "prediction": "HOME WIN",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "lib_cat_cru_070526",
-    "teamA": {
-      "name": "Universidad Católica",
-      "icon": "https://media.api-sports.io/football/teams/2354.png"
-    },
-    "teamB": {
-      "name": "Cruzeiro",
-      "icon": "https://media.api-sports.io/football/teams/221.png"
-    },
-    "leagueName": "CONMEBOL Libertadores",
-    "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "lib_pla_pen_070526",
-    "teamA": {
-      "name": "Platense",
-      "icon": "https://media.api-sports.io/football/teams/1064.png"
-    },
-    "teamB": {
-      "name": "Peñarol",
-      "icon": "https://media.api-sports.io/football/teams/2364.png"
-    },
-    "leagueName": "CONMEBOL Libertadores",
+    "leagueName": "Irish Premier Division",
     "prediction": "AWAY WIN",
-    "date": "2026-05-07"
+    "date": "2026-05-08"
+  },
+  {
+    "id": "irl_dun_boh_080526",
+    "teamA": {
+      "name": "Dundalk",
+      "icon": "https://media.api-sports.io/football/teams/888.png"
+    },
+    "teamB": {
+      "name": "Bohemians",
+      "icon": "https://media.api-sports.io/football/teams/867.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "irl_gal_sha_080526",
+    "teamA": {
+      "name": "Galway United",
+      "icon": "https://media.api-sports.io/football/teams/901.png"
+    },
+    "teamB": {
+      "name": "Shamrock Rovers",
+      "icon": "https://media.api-sports.io/football/teams/891.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "AWAY WIN",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "irl_she_sli_080526",
+    "teamA": {
+      "name": "Shelbourne",
+      "icon": "https://media.api-sports.io/football/teams/890.png"
+    },
+    "teamB": {
+      "name": "Sligo Rovers",
+      "icon": "https://media.api-sports.io/football/teams/889.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "HOME WIN",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "irl_stp_wat_080526",
+    "teamA": {
+      "name": "St Patrick's Athletic",
+      "icon": "https://media.api-sports.io/football/teams/898.png"
+    },
+    "teamB": {
+      "name": "Waterford",
+      "icon": "https://media.api-sports.io/football/teams/902.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "HOME WIN & OVER 1.5 GOALS",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "esp_lev_osa_080526",
+    "teamA": {
+      "name": "Levante",
+      "icon": "https://media.api-sports.io/football/teams/88.png"
+    },
+    "teamB": {
+      "name": "Osasuna",
+      "icon": "https://media.api-sports.io/football/teams/727.png"
+    },
+    "leagueName": "Spanish La Liga",
+    "prediction": "AWAY DRAW NO BET",
+    "date": "2026-05-08"
   }
 ]
