@@ -1,44 +1,44 @@
 [
   {
-    "id": "uecl_crp_sha_070526_safe",
+    "id": "irl_gal_sha_080526_safe",
     "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://media.api-sports.io/football/teams/52.png"
+      "name": "Galway United",
+      "icon": "https://media.api-sports.io/football/teams/901.png"
     },
     "teamB": {
-      "name": "Shakhtar Donetsk",
-      "icon": "https://media.api-sports.io/football/teams/558.png"
+      "name": "Shamrock Rovers",
+      "icon": "https://media.api-sports.io/football/teams/891.png"
     },
-    "leagueName": "UEFA Conference League",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "uel_fre_bra_070526_safe",
-    "teamA": {
-      "name": "Freiburg",
-      "icon": "https://media.api-sports.io/football/teams/160.png"
-    },
-    "teamB": {
-      "name": "Sporting Braga",
-      "icon": "https://media.api-sports.io/football/teams/217.png"
-    },
-    "leagueName": "UEFA Europa League",
-    "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-07"
-  },
-  {
-    "id": "lib_pla_pen_070526_safe",
-    "teamA": {
-      "name": "Platense",
-      "icon": "https://media.api-sports.io/football/teams/1064.png"
-    },
-    "teamB": {
-      "name": "Peñarol",
-      "icon": "https://media.api-sports.io/football/teams/2364.png"
-    },
-    "leagueName": "CONMEBOL Libertadores",
+    "leagueName": "Irish Premier Division",
     "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-05-07"
+    "date": "2026-05-08"
+  },
+  {
+    "id": "irl_stp_wat_080526_safe",
+    "teamA": {
+      "name": "St Patrick's Athletic",
+      "icon": "https://media.api-sports.io/football/teams/898.png"
+    },
+    "teamB": {
+      "name": "Waterford",
+      "icon": "https://media.api-sports.io/football/teams/902.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "OVER 1.5 GOALS",
+    "date": "2026-05-08"
+  },
+  {
+    "id": "irl_she_sli_080526_safe",
+    "teamA": {
+      "name": "Shelbourne",
+      "icon": "https://media.api-sports.io/football/teams/890.png"
+    },
+    "teamB": {
+      "name": "Sligo Rovers",
+      "icon": "https://media.api-sports.io/football/teams/889.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-05-08"
   }
 ]
