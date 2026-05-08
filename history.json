@@ -1,6 +1,60 @@
 [
   {
-    "date": "Thursday, 6th May 2026",
+    "date": "Thursday, 7th May 2026",
+    "gamesList": [
+      {
+        "teamA": "Aston Villa",
+        "teamB": "Nottingham Forest",
+        "prediction": "HOME WIN & OVER 1.5 GOALS",
+        "odds": "4-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Freiburg",
+        "teamB": "Sporting Braga",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Crystal Palace",
+        "teamB": "Shakhtar Donetsk",
+        "prediction": "HOME WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Strasbourg",
+        "teamB": "Rayo Vallecano",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Deportes Tolima",
+        "teamB": "Nacional",
+        "prediction": "HOME WIN",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Universidad Católica",
+        "teamB": "Cruzeiro",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Platense",
+        "teamB": "Peñarol",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "win"
+          }
+    ]
+  },
+  {
+    "date": "Wednesday, 6th May 2026",
     "gamesList": [
       {
         "teamA": "Bayern Munich",
@@ -40,7 +94,7 @@
     ]
   },
   {
-    "date": "Wednesday, 5th May 2026",
+    "date": "Tuesday, 5th May 2026",
     "gamesList": [
       {
         "teamA": "Arsenal",
@@ -101,7 +155,7 @@
     ]
   },
   {
-    "date": "Sunday, 3rd May 2026",
+    "date": "Monday, 4rd May 2026",
     "gamesList": [
       {
         "teamA": "AFC Bournemouth",
