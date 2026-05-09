@@ -1,114 +1,114 @@
 [
   {
-    "id": "eng_hul_mil_080526_ultra",
+    "id": "eng_liv_che_090526_ultra",
     "teamA": {
-      "name": "Hull City",
-      "icon": "https://media.api-sports.io/football/teams/63.png"
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
     },
     "teamB": {
-      "name": "Millwall",
-      "icon": "https://media.api-sports.io/football/teams/46.png"
+      "name": "Chelsea",
+      "icon": "https://media.api-sports.io/football/teams/49.png"
     },
-    "leagueName": "Championship Play-offs",
-    "prediction": "HULL CITY WIN OR DRAW & UNDER 3.5 GOALS",
-    "date": "2026-05-08"
+    "leagueName": "Premier League",
+    "prediction": "LIVERPOOL WIN & OVER 1.5 GOALS",
+    "date": "2026-05-09"
   },
   {
-    "id": "sco_arb_dun_080526_ultra",
+    "id": "eng_bha_wol_090526_ultra",
     "teamA": {
-      "name": "Arbroath",
-      "icon": "https://media.api-sports.io/football/teams/2474.png"
+      "name": "Brighton & Hove Albion",
+      "icon": "https://media.api-sports.io/football/teams/51.png"
     },
     "teamB": {
-      "name": "Dunfermline Athletic",
-      "icon": "https://media.api-sports.io/football/teams/2473.png"
+      "name": "Wolverhampton Wanderers",
+      "icon": "https://media.api-sports.io/football/teams/39.png"
     },
-    "leagueName": "Scottish Premiership Play-offs",
-    "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-05-08"
+    "leagueName": "Premier League",
+    "prediction": "BRIGHTON WIN OR DRAW & UNDER 4.5 GOALS",
+    "date": "2026-05-09"
   },
   {
-    "id": "irl_dro_der_080526_ultra",
+    "id": "eng_ful_bou_090526_ultra",
     "teamA": {
-      "name": "Drogheda United",
-      "icon": "https://media.api-sports.io/football/teams/892.png"
+      "name": "Fulham",
+      "icon": "https://media.api-sports.io/football/teams/36.png"
     },
     "teamB": {
-      "name": "Derry City",
-      "icon": "https://media.api-sports.io/football/teams/895.png"
+      "name": "AFC Bournemouth",
+      "icon": "https://media.api-sports.io/football/teams/35.png"
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "DERRY CITY WIN",
-    "date": "2026-05-08"
-  },
-  {
-    "id": "irl_dun_boh_080526_ultra",
-    "teamA": {
-      "name": "Dundalk",
-      "icon": "https://media.api-sports.io/football/teams/888.png"
-    },
-    "teamB": {
-      "name": "Bohemians",
-      "icon": "https://media.api-sports.io/football/teams/867.png"
-    },
-    "leagueName": "Irish Premier Division",
+    "leagueName": "Premier League",
     "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
-    "id": "irl_gal_sha_080526_ultra",
+    "id": "eng_sun_mun_090526_ultra",
     "teamA": {
-      "name": "Galway United",
-      "icon": "https://media.api-sports.io/football/teams/901.png"
+      "name": "Sunderland",
+      "icon": "https://media.api-sports.io/football/teams/45.png"
     },
     "teamB": {
-      "name": "Shamrock Rovers",
-      "icon": "https://media.api-sports.io/football/teams/891.png"
+      "name": "Manchester United",
+      "icon": "https://media.api-sports.io/football/teams/33.png"
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "SHAMROCK ROVERS WIN",
-    "date": "2026-05-08"
+    "leagueName": "Premier League",
+    "prediction": "MANCHESTER UNITED WIN",
+    "date": "2026-05-09"
   },
   {
-    "id": "irl_she_sli_080526_ultra",
+    "id": "eng_mci_bre_090526_ultra",
     "teamA": {
-      "name": "Shelbourne",
-      "icon": "https://media.api-sports.io/football/teams/890.png"
+      "name": "Manchester City",
+      "icon": "https://media.api-sports.io/football/teams/50.png"
     },
     "teamB": {
-      "name": "Sligo Rovers",
-      "icon": "https://media.api-sports.io/football/teams/889.png"
+      "name": "Brentford",
+      "icon": "https://media.api-sports.io/football/teams/55.png"
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "SHELBOURNE WIN",
-    "date": "2026-05-08"
+    "leagueName": "Premier League",
+    "prediction": "MANCHESTER CITY WIN & OVER 2.5 GOALS",
+    "date": "2026-05-09"
   },
   {
-    "id": "irl_stp_wat_080526_ultra",
+    "id": "sco_abe_dun_090526_ultra",
     "teamA": {
-      "name": "St Patrick's Athletic",
-      "icon": "https://media.api-sports.io/football/teams/898.png"
+      "name": "Aberdeen",
+      "icon": "https://media.api-sports.io/football/teams/247.png"
     },
     "teamB": {
-      "name": "Waterford",
-      "icon": "https://media.api-sports.io/football/teams/902.png"
+      "name": "Dundee United",
+      "icon": "https://media.api-sports.io/football/teams/258.png"
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "ST PATRICK'S ATHLETIC WIN & OVER 1.5 GOALS",
-    "date": "2026-05-08"
+    "leagueName": "Scottish Premiership",
+    "prediction": "ABERDEEN WIN OR DRAW & UNDER 3.5 GOALS",
+    "date": "2026-05-09"
   },
   {
-    "id": "esp_lev_osa_080526_ultra",
+    "id": "sco_dund_liv_090526_ultra",
     "teamA": {
-      "name": "Levante",
-      "icon": "https://media.api-sports.io/football/teams/88.png"
+      "name": "Dundee",
+      "icon": "https://media.api-sports.io/football/teams/256.png"
     },
     "teamB": {
-      "name": "Osasuna",
-      "icon": "https://media.api-sports.io/football/teams/727.png"
+      "name": "Livingston",
+      "icon": "https://media.api-sports.io/football/teams/252.png"
     },
-    "leagueName": "Spanish La Liga",
-    "prediction": "OSASUNA DRAW NO BET",
-    "date": "2026-05-08"
+    "leagueName": "Scottish Premiership",
+    "prediction": "UNDER 2.5 GOALS",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "sco_stm_kil_090526_ultra",
+    "teamA": {
+      "name": "St. Mirren",
+      "icon": "https://media.api-sports.io/football/teams/255.png"
+    },
+    "teamB": {
+      "name": "Kilmarnock",
+      "icon": "https://media.api-sports.io/football/teams/260.png"
+    },
+    "leagueName": "Scottish Premiership",
+    "prediction": "ST. MIRREN WIN OR DRAW",
+    "date": "2026-05-09"
   }
 ]
