@@ -1,44 +1,44 @@
 [
   {
-    "id": "irl_gal_sha_080526_safe",
+    "id": "eng_mci_bre_090526_safe",
     "teamA": {
-      "name": "Galway United",
-      "icon": "https://media.api-sports.io/football/teams/901.png"
+      "name": "Manchester City",
+      "icon": "https://media.api-sports.io/football/teams/50.png"
     },
     "teamB": {
-      "name": "Shamrock Rovers",
-      "icon": "https://media.api-sports.io/football/teams/891.png"
+      "name": "Brentford",
+      "icon": "https://media.api-sports.io/football/teams/55.png"
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-05-08"
+    "leagueName": "Premier League",
+    "prediction": "HOME WIN",
+    "date": "2026-05-09"
   },
   {
-    "id": "irl_stp_wat_080526_safe",
+    "id": "eng_liv_che_090526_safe",
     "teamA": {
-      "name": "St Patrick's Athletic",
-      "icon": "https://media.api-sports.io/football/teams/898.png"
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
     },
     "teamB": {
-      "name": "Waterford",
-      "icon": "https://media.api-sports.io/football/teams/902.png"
+      "name": "Chelsea",
+      "icon": "https://media.api-sports.io/football/teams/49.png"
     },
-    "leagueName": "Irish Premier Division",
+    "leagueName": "Premier League",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-08"
+    "date": "2026-05-09"
   },
   {
-    "id": "irl_she_sli_080526_safe",
+    "id": "eng_ful_bou_090526_safe",
     "teamA": {
-      "name": "Shelbourne",
-      "icon": "https://media.api-sports.io/football/teams/890.png"
+      "name": "Fulham",
+      "icon": "https://media.api-sports.io/football/teams/36.png"
     },
     "teamB": {
-      "name": "Sligo Rovers",
-      "icon": "https://media.api-sports.io/football/teams/889.png"
+      "name": "AFC Bournemouth",
+      "icon": "https://media.api-sports.io/football/teams/35.png"
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-08"
+    "leagueName": "Premier League",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-05-09"
   }
 ]
