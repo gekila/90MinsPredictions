@@ -1,5 +1,80 @@
 [
   {
+    "date": "Friday, 8th May 2026",
+    "gamesList": [
+      {
+        "teamA": "Hull City",
+        "teamB": "Millwall",
+        "prediction": "DRAW",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Arbroath",
+        "teamB": "Dunfermline Athletic",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Drogheda United",
+        "teamB": "Derry City",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Dundalk",
+        "teamB": "Bohemians",
+        "prediction": "AWAY WIN",
+        "odds": "1-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Galway United",
+        "teamB": "Shamrock Rovers",
+        "prediction": "AWAY WIN & OVER 2.5 GOALS",
+        "odds": "1-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Shelbourne",
+        "teamB": "Sligo Rovers",
+        "prediction": "DRAW",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "St Patrick's Athletic",
+        "teamB": "Waterford",
+        "prediction": "HOME WIN & OVER 2.5 GOALS",
+        "odds": "4-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Levante",
+        "teamB": "Osasuna",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "3-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Borussia Dortmund",
+        "teamB": "Eintracht Frankfurt",
+        "prediction": "HOME WIN & BOTH TEAMS TO SCORE",
+        "odds": "3-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Torino",
+        "teamB": "Sassuolo",
+        "prediction": "HOME WIN",
+        "odds": "2-1",
+        "results": "WIN"
+    }
+    ]
+  },
+  {
     "date": "Thursday, 7th May 2026",
     "gamesList": [
       {
@@ -50,7 +125,7 @@
         "prediction": "DRAW",
         "odds": "1-1",
         "results": "win"
-          }
+      }
     ]
   },
   {
