@@ -1,44 +1,44 @@
 [
   {
-    "id": "eng_mci_bre_090526_safe",
+    "id": "eng_tot_lee_110526_ultrasafe",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
+      "name": "Tottenham Hotspur",
+      "icon": "https://media.api-sports.io/football/teams/47.png"
     },
     "teamB": {
-      "name": "Brentford",
-      "icon": "https://media.api-sports.io/football/teams/55.png"
-    },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN",
-    "date": "2026-05-09"
-  },
-  {
-    "id": "eng_liv_che_090526_safe",
-    "teamA": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
-    },
-    "teamB": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
+      "name": "Leeds United",
+      "icon": "https://media.api-sports.io/football/teams/63.png"
     },
     "leagueName": "Premier League",
     "prediction": "OVER 1.5 GOALS",
-    "date": "2026-05-09"
+    "date": "2026-05-11"
   },
   {
-    "id": "eng_ful_bou_090526_safe",
+    "id": "por_ben_bra_110526_ultrasafe",
     "teamA": {
-      "name": "Fulham",
-      "icon": "https://media.api-sports.io/football/teams/36.png"
+      "name": "Benfica",
+      "icon": "https://media.api-sports.io/football/teams/211.png"
     },
     "teamB": {
-      "name": "AFC Bournemouth",
-      "icon": "https://media.api-sports.io/football/teams/35.png"
+      "name": "Sporting Braga",
+      "icon": "https://media.api-sports.io/football/teams/217.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-09"
+    "leagueName": "Primeira Liga",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-05-11"
+  },
+  {
+    "id": "por_rav_scp_110526_ultrasafe",
+    "teamA": {
+      "name": "Rio Ave",
+      "icon": "https://media.api-sports.io/football/teams/496.png"
+    },
+    "teamB": {
+      "name": "Sporting CP",
+      "icon": "https://media.api-sports.io/football/teams/2283.png"
+    },
+    "leagueName": "Primeira Liga",
+    "prediction": "AWAY WIN OR DRAW",
+    "date": "2026-05-11"
   }
 ]
