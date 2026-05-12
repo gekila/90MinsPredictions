@@ -1,226 +1,114 @@
 [
   {
-    "id": "eng_tot_lee_110526_ultra",
+    "id": "sco_abe_stm_120526_ultra",
     "teamA": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://media.api-sports.io/football/teams/47.png"
+      "name": "Aberdeen",
+      "icon": "https://media.api-sports.io/football/teams/257.png"
     },
     "teamB": {
-      "name": "Leeds United",
-      "icon": "https://media.api-sports.io/football/teams/63.png"
+      "name": "St. Mirren",
+      "icon": "https://media.api-sports.io/football/teams/273.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "3-1",
-    "date": "2026-05-11"
+    "leagueName": "Scottish Premiership",
+    "prediction": "2-1",
+    "date": "2026-05-12"
   },
   {
-    "id": "eng_mil_hul_110526_ultra",
+    "id": "sco_duu_liv_120526_ultra",
     "teamA": {
-      "name": "Millwall",
-      "icon": "https://media.api-sports.io/football/teams/46.png"
+      "name": "Dundee United",
+      "icon": "https://media.api-sports.io/football/teams/266.png"
     },
     "teamB": {
-      "name": "Hull City",
-      "icon": "https://media.api-sports.io/football/teams/48.png"
+      "name": "Livingston",
+      "icon": "https://media.api-sports.io/football/teams/284.png"
+    },
+    "leagueName": "Scottish Premiership",
+    "prediction": "2-0",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "sco_kil_dun_120526_ultra",
+    "teamA": {
+      "name": "Kilmarnock",
+      "icon": "https://media.api-sports.io/football/teams/255.png"
+    },
+    "teamB": {
+      "name": "Dundee FC",
+      "icon": "https://media.api-sports.io/football/teams/282.png"
+    },
+    "leagueName": "Scottish Premiership",
+    "prediction": "2-1",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "eng_sou_mid_120526_ultra",
+    "teamA": {
+      "name": "Southampton",
+      "icon": "https://media.api-sports.io/football/teams/41.png"
+    },
+    "teamB": {
+      "name": "Middlesbrough",
+      "icon": "https://media.api-sports.io/football/teams/71.png"
     },
     "leagueName": "Championship Play-offs",
     "prediction": "1-0",
-    "date": "2026-05-11"
+    "date": "2026-05-12"
   },
   {
-    "id": "esp_ray_gir_110526_ultra",
+    "id": "sco_dun_par_120526_ultra",
     "teamA": {
-      "name": "Rayo Vallecano",
-      "icon": "https://media.api-sports.io/football/teams/728.png"
+      "name": "Dunfermline Athletic",
+      "icon": "https://media.api-sports.io/football/teams/274.png"
     },
     "teamB": {
-      "name": "Girona",
-      "icon": "https://media.api-sports.io/football/teams/547.png"
+      "name": "Partick Thistle",
+      "icon": "https://media.api-sports.io/football/teams/268.png"
+    },
+    "leagueName": "Scottish Premiership Play-offs",
+    "prediction": "1-1",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "sco_cly_ham_120526_ultra",
+    "teamA": {
+      "name": "Clyde",
+      "icon": "https://media.api-sports.io/football/teams/275.png"
+    },
+    "teamB": {
+      "name": "Hamilton Academical",
+      "icon": "https://media.api-sports.io/football/teams/258.png"
+    },
+    "leagueName": "Scottish League One Play-offs",
+    "prediction": "0-2",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "nir_lin_dsw_120526_ultra",
+    "teamA": {
+      "name": "Linfield",
+      "icon": "https://media.api-sports.io/football/teams/829.png"
+    },
+    "teamB": {
+      "name": "Dungannon Swifts",
+      "icon": "https://media.api-sports.io/football/teams/841.png"
+    },
+    "leagueName": "Irish Premiership",
+    "prediction": "3-1",
+    "date": "2026-05-12"
+  },
+  {
+    "id": "esp_cel_lev_120526_ultra",
+    "teamA": {
+      "name": "Celta Vigo",
+      "icon": "https://media.api-sports.io/football/teams/538.png"
+    },
+    "teamB": {
+      "name": "Levante",
+      "icon": "https://media.api-sports.io/football/teams/546.png"
     },
     "leagueName": "La Liga",
-    "prediction": "2-1",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "ita_nap_bol_110526_ultra",
-    "teamA": {
-      "name": "Napoli",
-      "icon": "https://media.api-sports.io/football/teams/492.png"
-    },
-    "teamB": {
-      "name": "Bologna",
-      "icon": "https://media.api-sports.io/football/teams/500.png"
-    },
-    "leagueName": "Serie A",
-    "prediction": "2-1",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "den_ran_ob_110526_ultra",
-    "teamA": {
-      "name": "Randers",
-      "icon": "https://media.api-sports.io/football/teams/396.png"
-    },
-    "teamB": {
-      "name": "OB",
-      "icon": "https://media.api-sports.io/football/teams/390.png"
-    },
-    "leagueName": "Danish Superligaen",
     "prediction": "2-0",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "ned_nac_hee_110526_ultra",
-    "teamA": {
-      "name": "NAC Breda",
-      "icon": "https://media.api-sports.io/football/teams/191.png"
-    },
-    "teamB": {
-      "name": "Heerenveen",
-      "icon": "https://media.api-sports.io/football/teams/193.png"
-    },
-    "leagueName": "Eredivisie",
-    "prediction": "2-1",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "ind_eas_pun_110526_ultra",
-    "teamA": {
-      "name": "East Bengal",
-      "icon": "https://media.api-sports.io/football/teams/1518.png"
-    },
-    "teamB": {
-      "name": "Punjab",
-      "icon": "https://media.api-sports.io/football/teams/5150.png"
-    },
-    "leagueName": "Indian Super League",
-    "prediction": "2-0",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "pol_cra_rad_110526_ultra",
-    "teamA": {
-      "name": "Cracovia",
-      "icon": "https://media.api-sports.io/football/teams/349.png"
-    },
-    "teamB": {
-      "name": "Radomiak Radom",
-      "icon": "https://media.api-sports.io/football/teams/3498.png"
-    },
-    "leagueName": "Ekstraklasa",
-    "prediction": "2-1",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "por_ben_bra_110526_ultra",
-    "teamA": {
-      "name": "Benfica",
-      "icon": "https://media.api-sports.io/football/teams/211.png"
-    },
-    "teamB": {
-      "name": "Sporting Braga",
-      "icon": "https://media.api-sports.io/football/teams/217.png"
-    },
-    "leagueName": "Primeira Liga",
-    "prediction": "3-1",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "por_est_fam_110526_ultra",
-    "teamA": {
-      "name": "Estrela",
-      "icon": "https://media.api-sports.io/football/teams/9136.png"
-    },
-    "teamB": {
-      "name": "Famalicão",
-      "icon": "https://media.api-sports.io/football/teams/228.png"
-    },
-    "leagueName": "Primeira Liga",
-    "prediction": "1-1",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "por_gil_aro_110526_ultra",
-    "teamA": {
-      "name": "Gil Vicente",
-      "icon": "https://media.api-sports.io/football/teams/212.png"
-    },
-    "teamB": {
-      "name": "Arouca",
-      "icon": "https://media.api-sports.io/football/teams/240.png"
-    },
-    "leagueName": "Primeira Liga",
-    "prediction": "2-2",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "por_rav_scp_110526_ultra",
-    "teamA": {
-      "name": "Rio Ave",
-      "icon": "https://media.api-sports.io/football/teams/496.png"
-    },
-    "teamB": {
-      "name": "Sporting CP",
-      "icon": "https://media.api-sports.io/football/teams/2283.png"
-    },
-    "leagueName": "Primeira Liga",
-    "prediction": "1-3",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "por_scl_nat_110526_ultra",
-    "teamA": {
-      "name": "Santa Clara",
-      "icon": "https://media.api-sports.io/football/teams/227.png"
-    },
-    "teamB": {
-      "name": "Nacional",
-      "icon": "https://media.api-sports.io/football/teams/5529.png"
-    },
-    "leagueName": "Primeira Liga",
-    "prediction": "2-0",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "por_ton_mor_110526_ultra",
-    "teamA": {
-      "name": "Tondela",
-      "icon": "https://media.api-sports.io/football/teams/234.png"
-    },
-    "teamB": {
-      "name": "Moreirense",
-      "icon": "https://media.api-sports.io/football/teams/226.png"
-    },
-    "leagueName": "Primeira Liga",
-    "prediction": "1-1",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "por_gui_cas_110526_ultra",
-    "teamA": {
-      "name": "Vitória Guimarães",
-      "icon": "https://media.api-sports.io/football/teams/223.png"
-    },
-    "teamB": {
-      "name": "Casa Pia",
-      "icon": "https://media.api-sports.io/football/teams/6618.png"
-    },
-    "leagueName": "Primeira Liga",
-    "prediction": "2-0",
-    "date": "2026-05-11"
-  },
-  {
-    "id": "sau_neo_sha_110526_ultra",
-    "teamA": {
-      "name": "NEOM",
-      "icon": "https://media.api-sports.io/football/teams/24228.png"
-    },
-    "teamB": {
-      "name": "Al Shabab",
-      "icon": "https://media.api-sports.io/football/teams/2939.png"
-    },
-    "leagueName": "Saudi Pro League",
-    "prediction": "1-2",
-    "date": "2026-05-11"
+    "date": "2026-05-12"
   }
 ]
