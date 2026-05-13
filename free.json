@@ -1,44 +1,44 @@
 [
   {
-    "id": "eng_sou_mid_120526_ultrasafe",
+    "id": "eng_mci_crp_130526_ultrasafe",
     "teamA": {
-      "name": "Southampton",
-      "icon": "https://media.api-sports.io/football/teams/41.png"
+      "name": "Manchester City",
+      "icon": "https://media.api-sports.io/football/teams/50.png"
     },
     "teamB": {
-      "name": "Middlesbrough",
-      "icon": "https://media.api-sports.io/football/teams/71.png"
+      "name": "Crystal Palace",
+      "icon": "https://media.api-sports.io/football/teams/52.png"
     },
-    "leagueName": "Championship Play-offs",
-    "prediction": "UNDER 3.5 GOALS",
-    "date": "2026-05-12"
-  },
-  {
-    "id": "nir_lin_dsw_120526_ultrasafe",
-    "teamA": {
-      "name": "Linfield",
-      "icon": "https://media.api-sports.io/football/teams/829.png"
-    },
-    "teamB": {
-      "name": "Dungannon Swifts",
-      "icon": "https://media.api-sports.io/football/teams/841.png"
-    },
-    "leagueName": "Irish Premiership",
+    "leagueName": "Premier League",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-12"
+    "date": "2026-05-13"
   },
   {
-    "id": "esp_cel_lev_120526_ultrasafe",
+    "id": "sco_mot_cel_130526_ultrasafe",
     "teamA": {
-      "name": "Celta Vigo",
-      "icon": "https://media.api-sports.io/football/teams/538.png"
+      "name": "Motherwell",
+      "icon": "https://media.api-sports.io/football/teams/257.png"
     },
     "teamB": {
-      "name": "Levante",
-      "icon": "https://media.api-sports.io/football/teams/546.png"
+      "name": "Celtic",
+      "icon": "https://media.api-sports.io/football/teams/247.png"
+    },
+    "leagueName": "Scottish Premiership",
+    "prediction": "AWAY WIN OR DRAW",
+    "date": "2026-05-13"
+  },
+  {
+    "id": "esp_ala_bar_130526_ultrasafe",
+    "teamA": {
+      "name": "Alavés",
+      "icon": "https://media.api-sports.io/football/teams/542.png"
+    },
+    "teamB": {
+      "name": "Barcelona",
+      "icon": "https://media.api-sports.io/football/teams/529.png"
     },
     "leagueName": "La Liga",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-12"
+    "prediction": "AWAY WIN OR DRAW",
+    "date": "2026-05-13"
   }
 ]
