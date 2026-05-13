@@ -96,6 +96,88 @@
     ]
   },
   {
+    "date": "Tuesday, 11h May 2026",
+    "gamesList": [
+      {
+        "teamA": "Tottenham Hotspur",
+        "teamB": "Leeds United",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Millwall",
+        "teamB": "Hull City",
+        "prediction": "AWAY WIN",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Rayo Vallecano",
+        "teamB": "Girona",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Napoli",
+        "teamB": "Bologna",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Vasco da Gama",
+        "teamB": "Athletico Paranaense",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Randers",
+        "teamB": "OB",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "NAC Breda",
+        "teamB": "Heerenveen",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "East Bengal",
+        "teamB": "Punjab",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Pachuca",
+        "teamB": "Toluca",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Pumas UNAM",
+        "teamB": "Club América",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "3-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Cracovia",
+        "teamB": "Radomiak Radom",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "0-0",
+        "results": "WIN"
+      }
+    ]
+  },
+    {
     "date": "Friday, 8th May 2026",
     "gamesList": [
       {
