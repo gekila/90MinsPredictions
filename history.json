@@ -1,5 +1,101 @@
 [
   {
+    "date": "Wednesday, 12th May 2026",
+    "gamesList": [
+      {
+        "teamA": "Aberdeen",
+        "teamB": "St. Mirren",
+        "prediction": "HOME WIN OR DRAW & UNDER 3.5 GOALS",
+        "odds": "0-2",
+        "results": "LOSE"
+      },
+      {
+        "teamA": "Dundee United",
+        "teamB": "Livingston",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Kilmarnock",
+        "teamB": "Dundee FC",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Southampton",
+        "teamB": "Middlesbrough",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "2-1 AET",
+        "results": "LOSE"
+      },
+      {
+        "teamA": "Dunfermline Athletic",
+        "teamB": "Partick Thistle",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Clyde",
+        "teamB": "Hamilton Academical",
+        "prediction": "AWAY WIN OR DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Linfield",
+        "teamB": "Dungannon Swifts",
+        "prediction": "HOME WIN & OVER 1.5 GOALS",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Celta Vigo",
+        "teamB": "Levante",
+        "prediction": "AWAY WIN",
+        "odds": "2-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Real Betis",
+        "teamB": "Elche",
+        "prediction": "HOME WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Osasuna",
+        "teamB": "Atletico Madrid",
+        "prediction": "AWAY WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sparta Prague",
+        "teamB": "Viktoria Plzeň",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mladá Boleslav",
+        "teamB": "Dukla Praha",
+        "prediction": "AWAY WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Slovácko",
+        "teamB": "Baník Ostrava",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "2-1",
+        "results": "WIN"
+         }
+    ]
+  },
+  {
     "date": "Friday, 8th May 2026",
     "gamesList": [
       {
