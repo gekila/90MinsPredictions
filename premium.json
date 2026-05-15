@@ -1,170 +1,142 @@
 [
   {
-    "id": "eng_bra_bol_140526",
+    "id": "eng_avl_liv_150526_ultra",
     "teamA": {
-      "name": "Bradford City",
-      "icon": "https://media.api-sports.io/football/teams/58.png"
+      "name": "Aston Villa",
+      "icon": "https://media.api-sports.io/football/teams/66.png"
     },
     "teamB": {
-      "name": "Bolton Wanderers",
-      "icon": "https://media.api-sports.io/football/teams/75.png"
+      "name": "Liverpool",
+      "icon": "https://media.api-sports.io/football/teams/40.png"
     },
-    "leagueName": "League One Promotion Play-offs",
-    "prediction": "AWAY WIN OR DRAW & UNDER 3.5 GOALS",
-    "date": "2026-05-14"
+    "leagueName": "Premier League",
+    "prediction": "1-2",
+    "date": "2026-05-15"
   },
   {
-    "id": "irl_mid_may_140526",
+    "id": "eng_sal_gri_150526_ultra",
     "teamA": {
-      "name": "Midleton",
+      "name": "Salford City",
+      "icon": "https://media.api-sports.io/football/teams/1355.png"
+    },
+    "teamB": {
+      "name": "Grimsby Town",
+      "icon": "https://media.api-sports.io/football/teams/65.png"
+    },
+    "leagueName": "League Two Promotion Play-offs",
+    "prediction": "1-1",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "eng_not_che_150526_ultra",
+    "teamA": {
+      "name": "Notts County",
+      "icon": "https://media.api-sports.io/football/teams/43.png"
+    },
+    "teamB": {
+      "name": "Chesterfield",
+      "icon": "https://media.api-sports.io/football/teams/70.png"
+    },
+    "leagueName": "League Two Promotion Play-offs",
+    "prediction": "1-0",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "sco_par_dun_150526_ultra",
+    "teamA": {
+      "name": "Partick Thistle",
+      "icon": "https://media.api-sports.io/football/teams/2576.png"
+    },
+    "teamB": {
+      "name": "Dunfermline Athletic",
+      "icon": "https://media.api-sports.io/football/teams/2585.png"
+    },
+    "leagueName": "Scottish Premiership Play-offs",
+    "prediction": "2-1",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "sco_ham_cly_150526_ultra",
+    "teamA": {
+      "name": "Hamilton Academical",
+      "icon": "https://media.api-sports.io/football/teams/2581.png"
+    },
+    "teamB": {
+      "name": "Clyde",
+      "icon": "https://media.api-sports.io/football/teams/2579.png"
+    },
+    "leagueName": "Scottish League One Play-offs",
+    "prediction": "2-0",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "irl_boh_dro_150526_ultra",
+    "teamA": {
+      "name": "Bohemians",
+      "icon": "https://media.api-sports.io/football/teams/562.png"
+    },
+    "teamB": {
+      "name": "Drogheda United",
+      "icon": "https://media.api-sports.io/football/teams/567.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "1-0",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "irl_stp_she_150526_ultra",
+    "teamA": {
+      "name": "St Patrick's Athletic",
+      "icon": "https://media.api-sports.io/football/teams/570.png"
+    },
+    "teamB": {
+      "name": "Shelbourne",
+      "icon": "https://media.api-sports.io/football/teams/571.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "1-1",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "irl_wat_der_150526_ultra",
+    "teamA": {
+      "name": "Waterford",
+      "icon": "https://media.api-sports.io/football/teams/588.png"
+    },
+    "teamB": {
+      "name": "Derry City",
+      "icon": "https://media.api-sports.io/football/teams/566.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "0-2",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "irl_dun_sha_150526_ultra",
+    "teamA": {
+      "name": "Dundalk",
+      "icon": "https://media.api-sports.io/football/teams/568.png"
+    },
+    "teamB": {
+      "name": "Shamrock Rovers",
+      "icon": "https://media.api-sports.io/football/teams/572.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "1-2",
+    "date": "2026-05-15"
+  },
+  {
+    "id": "irl_way_stm_150526_ultra",
+    "teamA": {
+      "name": "Wayside Celtic",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "teamB": {
-      "name": "Mayfield United",
+      "name": "St Mochtas",
       "icon": "https://media.api-sports.io/football/teams/0.png"
     },
     "leagueName": "Irish FAI Cup",
-    "prediction": "HOME WIN & OVER 1.5 GOALS",
-    "date": "2026-05-14"
-  },
-  {
-    "id": "esp_val_ray_140526",
-    "teamA": {
-      "name": "Valencia",
-      "icon": "https://media.api-sports.io/football/teams/532.png"
-    },
-    "teamB": {
-      "name": "Rayo Vallecano",
-      "icon": "https://media.api-sports.io/football/teams/728.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN",
-    "date": "2026-05-14"
-  },
-  {
-    "id": "esp_gir_rso_140526",
-    "teamA": {
-      "name": "Girona",
-      "icon": "https://media.api-sports.io/football/teams/547.png"
-    },
-    "teamB": {
-      "name": "Real Sociedad",
-      "icon": "https://media.api-sports.io/football/teams/548.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-14"
-  },
-  {
-    "id": "esp_rma_rov_140526",
-    "teamA": {
-      "name": "Real Madrid",
-      "icon": "https://media.api-sports.io/football/teams/541.png"
-    },
-    "teamB": {
-      "name": "Real Oviedo",
-      "icon": "https://media.api-sports.io/football/teams/720.png"
-    },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN & OVER 2.5 GOALS",
-    "date": "2026-05-14"
-  },
-  {
-    "id": "mex_cru_gua_140526",
-    "teamA": {
-      "name": "Cruz Azul",
-      "icon": "https://media.api-sports.io/football/teams/2287.png"
-    },
-    "teamB": {
-      "name": "Guadalajara",
-      "icon": "https://media.api-sports.io/football/teams/2288.png"
-    },
-    "leagueName": "Liga MX Clausura Play-offs",
-    "prediction": "HOME WIN OR DRAW & UNDER 3.5 GOALS",
-    "date": "2026-05-14"
-  },
-  {
-    "id": "sau_fat_naj_140526",
-    "teamA": {
-      "name": "Al Fateh",
-      "icon": "https://media.api-sports.io/football/teams/2936.png"
-    },
-    "teamB": {
-      "name": "Al Najma",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Saudi Pro League",
-    "prediction": "HOME WIN",
-    "date": "2026-05-14"
-  },
-  {
-    "id": "sau_ett_itt_140526",
-    "teamA": {
-      "name": "Al Ettifaq",
-      "icon": "https://media.api-sports.io/football/teams/2939.png"
-    },
-    "teamB": {
-      "name": "Al Ittihad",
-      "icon": "https://media.api-sports.io/football/teams/2938.png"
-    },
-    "leagueName": "Saudi Pro League",
-    "prediction": "AWAY WIN & OVER 1.5 GOALS",
-    "date": "2026-05-14"
-  },
-  {
-    "id": "sau_qad_haz_140526",
-    "teamA": {
-      "name": "Al Qadsiah",
-      "icon": "https://media.api-sports.io/football/teams/2941.png"
-    },
-    "teamB": {
-      "name": "Al Hazem",
-      "icon": "https://media.api-sports.io/football/teams/2947.png"
-    },
-    "leagueName": "Saudi Pro League",
-    "prediction": "HOME WIN",
-    "date": "2026-05-14"
-  },
-  {
-    "id": "swi_bas_stg_140526",
-    "teamA": {
-      "name": "Basel",
-      "icon": "https://media.api-sports.io/football/teams/1606.png"
-    },
-    "teamB": {
-      "name": "St.Gallen",
-      "icon": "https://media.api-sports.io/football/teams/1609.png"
-    },
-    "leagueName": "Swiss Super League",
-    "prediction": "HOME WIN & OVER 1.5 GOALS",
-    "date": "2026-05-14"
-  },
-  {
-    "id": "swi_sio_lug_140526",
-    "teamA": {
-      "name": "Sion",
-      "icon": "https://media.api-sports.io/football/teams/1612.png"
-    },
-    "teamB": {
-      "name": "Lugano",
-      "icon": "https://media.api-sports.io/football/teams/1618.png"
-    },
-    "leagueName": "Swiss Super League",
-    "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-05-14"
-  },
-  {
-    "id": "swi_thu_ybo_140526",
-    "teamA": {
-      "name": "Thun",
-      "icon": "https://media.api-sports.io/football/teams/1624.png"
-    },
-    "teamB": {
-      "name": "Young Boys",
-      "icon": "https://media.api-sports.io/football/teams/1610.png"
-    },
-    "leagueName": "Swiss Super League",
-    "prediction": "AWAY WIN & OVER 2.5 GOALS",
-    "date": "2026-05-14"
+    "prediction": "2-1",
+    "date": "2026-05-15"
   }
 ]
