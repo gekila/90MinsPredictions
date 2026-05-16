@@ -1,44 +1,44 @@
 [
   {
-    "id": "eng_avl_liv_150526_ultrasafe",
+    "id": "sco_cel_hea_170526_ultrasafe",
     "teamA": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "Celtic",
+      "icon": "https://media.api-sports.io/football/teams/247.png"
     },
     "teamB": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
+      "name": "Hearts",
+      "icon": "https://media.api-sports.io/football/teams/256.png"
     },
-    "leagueName": "Premier League",
-    "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-05-15"
-  },
-  {
-    "id": "eng_not_che_150526_ultrasafe",
-    "teamA": {
-      "name": "Notts County",
-      "icon": "https://media.api-sports.io/football/teams/43.png"
-    },
-    "teamB": {
-      "name": "Chesterfield",
-      "icon": "https://media.api-sports.io/football/teams/70.png"
-    },
-    "leagueName": "League Two Promotion Play-offs",
+    "leagueName": "Scottish Premiership",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-15"
+    "date": "2026-05-17"
   },
   {
-    "id": "irl_dun_sha_150526_ultrasafe",
+    "id": "sco_fal_ran_170526_ultrasafe",
     "teamA": {
-      "name": "Dundalk",
-      "icon": "https://media.api-sports.io/football/teams/568.png"
+      "name": "Falkirk",
+      "icon": "https://media.api-sports.io/football/teams/252.png"
     },
     "teamB": {
-      "name": "Shamrock Rovers",
-      "icon": "https://media.api-sports.io/football/teams/572.png"
+      "name": "Rangers",
+      "icon": "https://media.api-sports.io/football/teams/257.png"
     },
-    "leagueName": "Irish Premier Division",
+    "leagueName": "Scottish Premiership",
     "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-05-15"
+    "date": "2026-05-17"
+  },
+  {
+    "id": "int_irl_gre_170526_ultrasafe",
+    "teamA": {
+      "name": "Republic of Ireland",
+      "icon": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "teamB": {
+      "name": "Grenada",
+      "icon": "https://media.api-sports.io/football/teams/2388.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-05-17"
   }
 ]
