@@ -1,184 +1,128 @@
 [
   {
-    "id": "eng_che_mci_170526_ultra",
+    "id": "epl_bou_mci_190526_ultra",
     "teamA": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
+      "name": "AFC Bournemouth",
+      "icon": "https://media.api-sports.io/football/teams/35.png"
     },
     "teamB": {
       "name": "Manchester City",
       "icon": "https://media.api-sports.io/football/teams/50.png"
     },
-    "leagueName": "FA Cup Final",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "sco_cel_hea_170526_ultra",
-    "teamA": {
-      "name": "Celtic",
-      "icon": "https://media.api-sports.io/football/teams/247.png"
-    },
-    "teamB": {
-      "name": "Hearts",
-      "icon": "https://media.api-sports.io/football/teams/256.png"
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "CELTIC WIN & OVER 2.5 GOALS",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "sco_fal_ran_170526_ultra",
-    "teamA": {
-      "name": "Falkirk",
-      "icon": "https://media.api-sports.io/football/teams/252.png"
-    },
-    "teamB": {
-      "name": "Rangers",
-      "icon": "https://media.api-sports.io/football/teams/257.png"
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "RANGERS WIN",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "sco_hib_mot_170526_ultra",
-    "teamA": {
-      "name": "Hibernian",
-      "icon": "https://media.api-sports.io/football/teams/258.png"
-    },
-    "teamB": {
-      "name": "Motherwell",
-      "icon": "https://media.api-sports.io/football/teams/255.png"
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "HIBERNIAN WIN OR DRAW",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "wsl_bha_tot_170526_ultra",
-    "teamA": {
-      "name": "Brighton & Hove Albion Women",
-      "icon": "https://media.api-sports.io/football/teams/1897.png"
-    },
-    "teamB": {
-      "name": "Tottenham Hotspur Women",
-      "icon": "https://media.api-sports.io/football/teams/1886.png"
-    },
-    "leagueName": "Women's Super League",
-    "prediction": "OVER 2.5 GOALS",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "wsl_che_mun_170526_ultra",
-    "teamA": {
-      "name": "Chelsea Women",
-      "icon": "https://media.api-sports.io/football/teams/1881.png"
-    },
-    "teamB": {
-      "name": "Manchester United Women",
-      "icon": "https://media.api-sports.io/football/teams/1890.png"
-    },
-    "leagueName": "Women's Super League",
-    "prediction": "CHELSEA WIN",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "wsl_eve_lei_170526_ultra",
-    "teamA": {
-      "name": "Everton Women",
-      "icon": "https://media.api-sports.io/football/teams/1883.png"
-    },
-    "teamB": {
-      "name": "Leicester City Women",
-      "icon": "https://media.api-sports.io/football/teams/1894.png"
-    },
-    "leagueName": "Women's Super League",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "wsl_liv_ars_170526_ultra",
-    "teamA": {
-      "name": "Liverpool Women",
-      "icon": "https://media.api-sports.io/football/teams/1888.png"
-    },
-    "teamB": {
-      "name": "Arsenal Women",
-      "icon": "https://media.api-sports.io/football/teams/1882.png"
-    },
-    "leagueName": "Women's Super League",
-    "prediction": "OVER 2.5 GOALS",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "wsl_lcl_avl_170526_ultra",
-    "teamA": {
-      "name": "London City Lionesses",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Aston Villa Women",
-      "icon": "https://media.api-sports.io/football/teams/1891.png"
-    },
-    "leagueName": "Women's Super League",
-    "prediction": "ASTON VILLA WIN OR DRAW",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "wsl_whu_mci_170526_ultra",
-    "teamA": {
-      "name": "West Ham United Women",
-      "icon": "https://media.api-sports.io/football/teams/1893.png"
-    },
-    "teamB": {
-      "name": "Manchester City Women",
-      "icon": "https://media.api-sports.io/football/teams/1887.png"
-    },
-    "leagueName": "Women's Super League",
+    "leagueName": "Premier League",
     "prediction": "MANCHESTER CITY WIN & OVER 2.5 GOALS",
-    "date": "2026-05-17"
+    "date": "2026-05-19"
   },
   {
-    "id": "int_irl_gre_170526_ultra",
+    "id": "epl_che_tot_190526_ultra",
     "teamA": {
-      "name": "Republic of Ireland",
-      "icon": "https://media.api-sports.io/football/teams/1118.png"
+      "name": "Chelsea",
+      "icon": "https://media.api-sports.io/football/teams/49.png"
     },
     "teamB": {
-      "name": "Grenada",
-      "icon": "https://media.api-sports.io/football/teams/2388.png"
+      "name": "Tottenham Hotspur",
+      "icon": "https://media.api-sports.io/football/teams/47.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "REPUBLIC OF IRELAND WIN",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "sco_ste_all_170526_ultra",
-    "teamA": {
-      "name": "Stenhousemuir",
-      "icon": "https://media.api-sports.io/football/teams/2538.png"
-    },
-    "teamB": {
-      "name": "Alloa Athletic",
-      "icon": "https://media.api-sports.io/football/teams/2540.png"
-    },
-    "leagueName": "Scottish Championship Play-offs",
-    "prediction": "STENHOUSEMUIR WIN OR DRAW",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "sco_edi_bro_170526_ultra",
-    "teamA": {
-      "name": "Edinburgh City",
-      "icon": "https://media.api-sports.io/football/teams/2580.png"
-    },
-    "teamB": {
-      "name": "Brora Rangers",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Scottish League Two Play-offs",
+    "leagueName": "Premier League",
     "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-17"
+    "date": "2026-05-19"
+  },
+  {
+    "id": "lib_coq_tol_190526_ultra",
+    "teamA": {
+      "name": "Coquimbo Unido",
+      "icon": "https://media.api-sports.io/football/teams/893.png"
+    },
+    "teamB": {
+      "name": "Deportes Tolima",
+      "icon": "https://media.api-sports.io/football/teams/1153.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "COQUIMBO UNIDO WIN OR DRAW",
+    "date": "2026-05-19"
+  },
+  {
+    "id": "lib_flu_bol_190526_ultra",
+    "teamA": {
+      "name": "Fluminense",
+      "icon": "https://media.api-sports.io/football/teams/124.png"
+    },
+    "teamB": {
+      "name": "Bolívar",
+      "icon": "https://media.api-sports.io/football/teams/531.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "FLUMINENSE WIN & OVER 2.5 GOALS",
+    "date": "2026-05-19"
+  },
+  {
+    "id": "lib_ros_ucv_190526_ultra",
+    "teamA": {
+      "name": "Rosario Central",
+      "icon": "https://media.api-sports.io/football/teams/131.png"
+    },
+    "teamB": {
+      "name": "UCV",
+      "icon": "https://media.api-sports.io/football/teams/10686.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "ROSARIO CENTRAL WIN",
+    "date": "2026-05-19"
+  },
+  {
+    "id": "aut_ried_wac_190526_ultra",
+    "teamA": {
+      "name": "Ried",
+      "icon": "https://media.api-sports.io/football/teams/595.png"
+    },
+    "teamB": {
+      "name": "Wolfsberger AC",
+      "icon": "https://media.api-sports.io/football/teams/618.png"
+    },
+    "leagueName": "Austrian Bundesliga",
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-05-19"
+  },
+  {
+    "id": "bel_gen_ant_190526_ultra",
+    "teamA": {
+      "name": "Genk",
+      "icon": "https://media.api-sports.io/football/teams/615.png"
+    },
+    "teamB": {
+      "name": "Antwerp",
+      "icon": "https://media.api-sports.io/football/teams/734.png"
+    },
+    "leagueName": "Belgian First Division A",
+    "prediction": "GENK WIN",
+    "date": "2026-05-19"
+  },
+  {
+    "id": "bel_cha_ohl_190526_ultra",
+    "teamA": {
+      "name": "Sporting Charleroi",
+      "icon": "https://media.api-sports.io/football/teams/670.png"
+    },
+    "teamB": {
+      "name": "OH Leuven",
+      "icon": "https://media.api-sports.io/football/teams/2721.png"
+    },
+    "leagueName": "Belgian First Division A",
+    "prediction": "SPORTING CHARLEROI WIN OR DRAW",
+    "date": "2026-05-19"
+  },
+  {
+    "id": "bel_wes_sta_190526_ultra",
+    "teamA": {
+      "name": "Westerlo",
+      "icon": "https://media.api-sports.io/football/teams/621.png"
+    },
+    "teamB": {
+      "name": "Standard Liège",
+      "icon": "https://media.api-sports.io/football/teams/675.png"
+    },
+    "leagueName": "Belgian First Division A",
+    "prediction": "OVER 2.5 GOALS",
+    "date": "2026-05-19"
   }
 ]
