@@ -1,184 +1,156 @@
 [
   {
-    "id": "eng_che_mci_170526_ultra",
+    "id": "uel_fre_avl_200526_ultra",
     "teamA": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
+      "name": "Freiburg",
+      "icon": "https://media.api-sports.io/football/teams/160.png"
     },
     "teamB": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
+      "name": "Aston Villa",
+      "icon": "https://media.api-sports.io/football/teams/66.png"
     },
-    "leagueName": "FA Cup Final",
+    "leagueName": "UEFA Europa League Final",
     "prediction": "1-2",
-    "date": "2026-05-17"
+    "date": "2026-05-20"
   },
   {
-    "id": "sco_cel_hea_170526_ultra",
+    "id": "lib_nac_uni_200526_ultra",
     "teamA": {
-      "name": "Celtic",
-      "icon": "https://media.api-sports.io/football/teams/247.png"
+      "name": "Nacional",
+      "icon": "https://media.api-sports.io/football/teams/2351.png"
     },
     "teamB": {
-      "name": "Hearts",
-      "icon": "https://media.api-sports.io/football/teams/256.png"
+      "name": "Universitario",
+      "icon": "https://media.api-sports.io/football/teams/2544.png"
     },
-    "leagueName": "Scottish Premiership",
-    "prediction": "3-1",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "sco_fal_ran_170526_ultra",
-    "teamA": {
-      "name": "Falkirk",
-      "icon": "https://media.api-sports.io/football/teams/252.png"
-    },
-    "teamB": {
-      "name": "Rangers",
-      "icon": "https://media.api-sports.io/football/teams/257.png"
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "0-2",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "sco_hib_mot_170526_ultra",
-    "teamA": {
-      "name": "Hibernian",
-      "icon": "https://media.api-sports.io/football/teams/258.png"
-    },
-    "teamB": {
-      "name": "Motherwell",
-      "icon": "https://media.api-sports.io/football/teams/255.png"
-    },
-    "leagueName": "Scottish Premiership",
+    "leagueName": "CONMEBOL Libertadores",
     "prediction": "2-1",
-    "date": "2026-05-17"
+    "date": "2026-05-20"
   },
   {
-    "id": "wsl_bha_tot_170526_ultra",
+    "id": "lib_boc_cru_200526_ultra",
     "teamA": {
-      "name": "Brighton & Hove Albion Women",
-      "icon": "https://media.api-sports.io/football/teams/1897.png"
+      "name": "Boca Juniors",
+      "icon": "https://media.api-sports.io/football/teams/451.png"
     },
     "teamB": {
-      "name": "Tottenham Hotspur Women",
-      "icon": "https://media.api-sports.io/football/teams/1886.png"
+      "name": "Cruzeiro",
+      "icon": "https://media.api-sports.io/football/teams/122.png"
     },
-    "leagueName": "Women's Super League",
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "1-1",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "lib_sfe_pla_200526_ultra",
+    "teamA": {
+      "name": "Independiente Santa Fe",
+      "icon": "https://media.api-sports.io/football/teams/2387.png"
+    },
+    "teamB": {
+      "name": "Platense",
+      "icon": "https://media.api-sports.io/football/teams/445.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "2-1",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "lib_alr_mir_200526_ultra",
+    "teamA": {
+      "name": "Always Ready",
+      "icon": "https://media.api-sports.io/football/teams/7819.png"
+    },
+    "teamB": {
+      "name": "Mirassol",
+      "icon": "https://media.api-sports.io/football/teams/13143.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "1-2",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "lib_idv_lib_200526_ultra",
+    "teamA": {
+      "name": "Independiente del Valle",
+      "icon": "https://media.api-sports.io/football/teams/2762.png"
+    },
+    "teamB": {
+      "name": "Libertad",
+      "icon": "https://media.api-sports.io/football/teams/2354.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "4-1",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "csl_lia_qha_200526_ultra",
+    "teamA": {
+      "name": "Liaoning Tieren",
+      "icon": "https://media.api-sports.io/football/teams/8364.png"
+    },
+    "teamB": {
+      "name": "Qingdao Hainiu",
+      "icon": "https://media.api-sports.io/football/teams/8367.png"
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "1-0",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "csl_shs_wtt_200526_ultra",
+    "teamA": {
+      "name": "Shanghai Shenhua",
+      "icon": "https://media.api-sports.io/football/teams/8362.png"
+    },
+    "teamB": {
+      "name": "Wuhan Three Towns",
+      "icon": "https://media.api-sports.io/football/teams/15706.png"
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "2-0",
+    "date": "2026-05-20"
+  },
+  {
+    "id": "csl_ctl_yyk_200526_ultra",
+    "teamA": {
+      "name": "Chongqing Tonglianglong",
+      "icon": "https://media.api-sports.io/football/teams/15703.png"
+    },
+    "teamB": {
+      "name": "Yunnan Yukun",
+      "icon": "https://media.api-sports.io/football/teams/15707.png"
+    },
+    "leagueName": "Chinese Super League",
     "prediction": "2-2",
-    "date": "2026-05-17"
+    "date": "2026-05-20"
   },
   {
-    "id": "wsl_che_mun_170526_ultra",
+    "id": "csl_zhe_sdt_200526_ultra",
     "teamA": {
-      "name": "Chelsea Women",
-      "icon": "https://media.api-sports.io/football/teams/1881.png"
+      "name": "Zhejiang",
+      "icon": "https://media.api-sports.io/football/teams/8361.png"
     },
     "teamB": {
-      "name": "Manchester United Women",
-      "icon": "https://media.api-sports.io/football/teams/1890.png"
+      "name": "Shandong Taishan",
+      "icon": "https://media.api-sports.io/football/teams/8360.png"
     },
-    "leagueName": "Women's Super League",
-    "prediction": "2-1",
-    "date": "2026-05-17"
+    "leagueName": "Chinese Super League",
+    "prediction": "2-3",
+    "date": "2026-05-20"
   },
   {
-    "id": "wsl_eve_lei_170526_ultra",
+    "id": "ned_wil_vol_200526_ultra",
     "teamA": {
-      "name": "Everton Women",
-      "icon": "https://media.api-sports.io/football/teams/1883.png"
+      "name": "Willem II",
+      "icon": "https://media.api-sports.io/football/teams/682.png"
     },
     "teamB": {
-      "name": "Leicester City Women",
-      "icon": "https://media.api-sports.io/football/teams/1894.png"
+      "name": "Volendam",
+      "icon": "https://media.api-sports.io/football/teams/678.png"
     },
-    "leagueName": "Women's Super League",
+    "leagueName": "Dutch Play-offs",
     "prediction": "1-1",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "wsl_liv_ars_170526_ultra",
-    "teamA": {
-      "name": "Liverpool Women",
-      "icon": "https://media.api-sports.io/football/teams/1888.png"
-    },
-    "teamB": {
-      "name": "Arsenal Women",
-      "icon": "https://media.api-sports.io/football/teams/1882.png"
-    },
-    "leagueName": "Women's Super League",
-    "prediction": "1-3",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "wsl_lcl_avl_170526_ultra",
-    "teamA": {
-      "name": "London City Lionesses",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "teamB": {
-      "name": "Aston Villa Women",
-      "icon": "https://media.api-sports.io/football/teams/1891.png"
-    },
-    "leagueName": "Women's Super League",
-    "prediction": "1-2",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "wsl_whu_mci_170526_ultra",
-    "teamA": {
-      "name": "West Ham United Women",
-      "icon": "https://media.api-sports.io/football/teams/1893.png"
-    },
-    "teamB": {
-      "name": "Manchester City Women",
-      "icon": "https://media.api-sports.io/football/teams/1887.png"
-    },
-    "leagueName": "Women's Super League",
-    "prediction": "1-3",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "int_irl_gre_170526_ultra",
-    "teamA": {
-      "name": "Republic of Ireland",
-      "icon": "https://media.api-sports.io/football/teams/1118.png"
-    },
-    "teamB": {
-      "name": "Grenada",
-      "icon": "https://media.api-sports.io/football/teams/2388.png"
-    },
-    "leagueName": "International Friendlies",
-    "prediction": "3-0",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "sco_ste_all_170526_ultra",
-    "teamA": {
-      "name": "Stenhousemuir",
-      "icon": "https://media.api-sports.io/football/teams/2538.png"
-    },
-    "teamB": {
-      "name": "Alloa Athletic",
-      "icon": "https://media.api-sports.io/football/teams/2540.png"
-    },
-    "leagueName": "Scottish Championship Play-offs",
-    "prediction": "1-1",
-    "date": "2026-05-17"
-  },
-  {
-    "id": "sco_edi_bro_170526_ultra",
-    "teamA": {
-      "name": "Edinburgh City",
-      "icon": "https://media.api-sports.io/football/teams/2580.png"
-    },
-    "teamB": {
-      "name": "Brora Rangers",
-      "icon": "https://media.api-sports.io/football/teams/0.png"
-    },
-    "leagueName": "Scottish League Two Play-offs",
-    "prediction": "2-1",
-    "date": "2026-05-17"
+    "date": "2026-05-20"
   }
 ]
