@@ -1,156 +1,100 @@
 [
   {
-    "id": "uel_fre_avl_200526_ultra",
+    "id": "sco_par_stm_210526_ultra",
     "teamA": {
-      "name": "Freiburg",
-      "icon": "https://media.api-sports.io/football/teams/160.png"
+      "name": "Partick Thistle",
+      "icon": "https://media.api-sports.io/football/teams/247.png"
     },
     "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "St. Mirren",
+      "icon": "https://media.api-sports.io/football/teams/258.png"
     },
-    "leagueName": "UEFA Europa League",
+    "leagueName": "Scottish Premiership Play-offs",
+    "prediction": "ST. MIRREN WIN OR DRAW",
+    "date": "2026-05-21"
+  },
+  {
+    "id": "ger_wol_pad_210526_ultra",
+    "teamA": {
+      "name": "Wolfsburg",
+      "icon": "https://media.api-sports.io/football/teams/161.png"
+    },
+    "teamB": {
+      "name": "Paderborn",
+      "icon": "https://media.api-sports.io/football/teams/185.png"
+    },
+    "leagueName": "German Bundesliga Playoff",
     "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-20"
+    "date": "2026-05-21"
   },
   {
-    "id": "lib_nac_uni_200526_ultra",
+    "id": "lib_fla_est_210526_ultra",
     "teamA": {
-      "name": "Nacional",
-      "icon": "https://media.api-sports.io/football/teams/2351.png"
+      "name": "Flamengo",
+      "icon": "https://media.api-sports.io/football/teams/127.png"
     },
     "teamB": {
-      "name": "Universitario",
-      "icon": "https://media.api-sports.io/football/teams/2544.png"
+      "name": "Estudiantes",
+      "icon": "https://media.api-sports.io/football/teams/645.png"
     },
     "leagueName": "CONMEBOL Libertadores",
-    "prediction": "NACIONAL WIN OR DRAW",
-    "date": "2026-05-20"
+    "prediction": "FLAMENGO WIN",
+    "date": "2026-05-21"
   },
   {
-    "id": "lib_boc_cru_200526_ultra",
+    "id": "lib_cus_med_210526_ultra",
     "teamA": {
-      "name": "Boca Juniors",
-      "icon": "https://media.api-sports.io/football/teams/451.png"
+      "name": "Cusco",
+      "icon": "https://media.api-sports.io/football/teams/2538.png"
     },
     "teamB": {
-      "name": "Cruzeiro",
-      "icon": "https://media.api-sports.io/football/teams/122.png"
-    },
-    "leagueName": "CONMEBOL Libertadores",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-20"
-  },
-  {
-    "id": "lib_sfe_pla_200526_ultra",
-    "teamA": {
-      "name": "Independiente Santa Fe",
-      "icon": "https://media.api-sports.io/football/teams/2387.png"
-    },
-    "teamB": {
-      "name": "Platense",
-      "icon": "https://media.api-sports.io/football/teams/445.png"
-    },
-    "leagueName": "CONMEBOL Libertadores",
-    "prediction": "SANTA FE WIN",
-    "date": "2026-05-20"
-  },
-  {
-    "id": "lib_alr_mir_200526_ultra",
-    "teamA": {
-      "name": "Always Ready",
-      "icon": "https://media.api-sports.io/football/teams/7819.png"
-    },
-    "teamB": {
-      "name": "Mirassol",
-      "icon": "https://media.api-sports.io/football/teams/13143.png"
+      "name": "Independiente Medellín",
+      "icon": "https://media.api-sports.io/football/teams/2392.png"
     },
     "leagueName": "CONMEBOL Libertadores",
     "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-20"
+    "date": "2026-05-21"
   },
   {
-    "id": "lib_idv_lib_200526_ultra",
+    "id": "lib_lag_indr_210526_ultra",
     "teamA": {
-      "name": "Independiente del Valle",
-      "icon": "https://media.api-sports.io/football/teams/2762.png"
+      "name": "Deportivo La Guaira",
+      "icon": "https://media.api-sports.io/football/teams/7822.png"
     },
     "teamB": {
-      "name": "Libertad",
-      "icon": "https://media.api-sports.io/football/teams/2354.png"
+      "name": "Independiente Rivadavia",
+      "icon": "https://media.api-sports.io/football/teams/4406.png"
     },
     "leagueName": "CONMEBOL Libertadores",
-    "prediction": "INDEPENDIENTE DEL VALLE WIN & OVER 2.5 GOALS",
-    "date": "2026-05-20"
-  },
-  {
-    "id": "csl_lia_qha_200526_ultra",
-    "teamA": {
-      "name": "Liaoning Tieren",
-      "icon": "https://media.api-sports.io/football/teams/8364.png"
-    },
-    "teamB": {
-      "name": "Qingdao Hainiu",
-      "icon": "https://media.api-sports.io/football/teams/8367.png"
-    },
-    "leagueName": "Chinese Super League",
     "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-05-20"
+    "date": "2026-05-21"
   },
   {
-    "id": "csl_shs_wtt_200526_ultra",
+    "id": "lib_pal_cer_210526_ultra",
     "teamA": {
-      "name": "Shanghai Shenhua",
-      "icon": "https://media.api-sports.io/football/teams/8362.png"
+      "name": "Palmeiras",
+      "icon": "https://media.api-sports.io/football/teams/119.png"
     },
     "teamB": {
-      "name": "Wuhan Three Towns",
-      "icon": "https://media.api-sports.io/football/teams/15706.png"
+      "name": "Cerro Porteño",
+      "icon": "https://media.api-sports.io/football/teams/2355.png"
     },
-    "leagueName": "Chinese Super League",
-    "prediction": "SHANGHAI SHENHUA WIN",
-    "date": "2026-05-20"
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "PALMEIRAS WIN OR DRAW",
+    "date": "2026-05-21"
   },
   {
-    "id": "csl_ctl_yyk_200526_ultra",
+    "id": "lib_jun_cri_210526_ultra",
     "teamA": {
-      "name": "Chongqing Tonglianglong",
-      "icon": "https://media.api-sports.io/football/teams/15703.png"
+      "name": "Junior",
+      "icon": "https://media.api-sports.io/football/teams/2397.png"
     },
     "teamB": {
-      "name": "Yunnan Yukun",
-      "icon": "https://media.api-sports.io/football/teams/15707.png"
+      "name": "Sporting Cristal",
+      "icon": "https://media.api-sports.io/football/teams/2542.png"
     },
-    "leagueName": "Chinese Super League",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-20"
-  },
-  {
-    "id": "csl_zhe_sdt_200526_ultra",
-    "teamA": {
-      "name": "Zhejiang",
-      "icon": "https://media.api-sports.io/football/teams/8361.png"
-    },
-    "teamB": {
-      "name": "Shandong Taishan",
-      "icon": "https://media.api-sports.io/football/teams/8360.png"
-    },
-    "leagueName": "Chinese Super League",
+    "leagueName": "CONMEBOL Libertadores",
     "prediction": "OVER 2.5 GOALS",
-    "date": "2026-05-20"
-  },
-  {
-    "id": "ned_wil_vol_200526_ultra",
-    "teamA": {
-      "name": "Willem II",
-      "icon": "https://media.api-sports.io/football/teams/682.png"
-    },
-    "teamB": {
-      "name": "Volendam",
-      "icon": "https://media.api-sports.io/football/teams/678.png"
-    },
-    "leagueName": "Dutch Play-offs",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-20"
+    "date": "2026-05-21"
   }
 ]
