@@ -1,44 +1,44 @@
 [
   {
-    "id": "lib_fla_est_210526_ultrasafe",
+    "id": "irl_sha_sli_220526_ultrasafe",
     "teamA": {
-      "name": "Flamengo",
-      "icon": "https://media.api-sports.io/football/teams/127.png"
+      "name": "Shamrock Rovers",
+      "icon": "https://media.api-sports.io/football/teams/1896.png"
     },
     "teamB": {
-      "name": "Estudiantes",
-      "icon": "https://media.api-sports.io/football/teams/645.png"
+      "name": "Sligo Rovers",
+      "icon": "https://media.api-sports.io/football/teams/1898.png"
     },
-    "leagueName": "CONMEBOL Libertadores",
+    "leagueName": "Irish Premier Division",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-21"
+    "date": "2026-05-22"
   },
   {
-    "id": "lib_pal_cer_210526_ultrasafe",
+    "id": "irl_she_wat_220526_ultrasafe",
     "teamA": {
-      "name": "Palmeiras",
-      "icon": "https://media.api-sports.io/football/teams/119.png"
+      "name": "Shelbourne",
+      "icon": "https://media.api-sports.io/football/teams/1895.png"
     },
     "teamB": {
-      "name": "Cerro Porteño",
-      "icon": "https://media.api-sports.io/football/teams/2355.png"
+      "name": "Waterford",
+      "icon": "https://media.api-sports.io/football/teams/1903.png"
     },
-    "leagueName": "CONMEBOL Libertadores",
+    "leagueName": "Irish Premier Division",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-21"
+    "date": "2026-05-22"
   },
   {
-    "id": "ger_wol_pad_210526_ultrasafe",
+    "id": "irl_der_stp_220526_ultrasafe",
     "teamA": {
-      "name": "Wolfsburg",
-      "icon": "https://media.api-sports.io/football/teams/161.png"
+      "name": "Derry City",
+      "icon": "https://media.api-sports.io/football/teams/1889.png"
     },
     "teamB": {
-      "name": "Paderborn",
-      "icon": "https://media.api-sports.io/football/teams/185.png"
+      "name": "St Patrick's Athletic",
+      "icon": "https://media.api-sports.io/football/teams/1897.png"
     },
-    "leagueName": "German Bundesliga Playoff",
+    "leagueName": "Irish Premier Division",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-21"
+    "date": "2026-05-22"
   }
 ]
