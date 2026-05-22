@@ -1,5 +1,66 @@
 [
   {
+    "date": "Thursday, 21nd May 2026",
+    "gamesList": [
+      {
+        "teamA": "Partick Thistle",
+        "teamB": "St. Mirren",
+        "prediction": "ST. MIRREN WIN OR DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Wolfsburg",
+        "teamB": "Paderborn",
+        "prediction": "HOME WIN OR DRAW",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Flamengo",
+        "teamB": "Estudiantes",
+        "prediction": "FLAMENGO WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Cusco",
+        "teamB": "Independiente Medellín",
+        "prediction": "BOTH TEAMS TO SCORE",
+        "odds": "2-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Junior",
+        "teamB": "Sporting Cristal",
+        "prediction": "OVER 2.5 GOALS",
+        "odds": "3-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Anderlecht",
+        "teamB": "Sint-Truiden",
+        "prediction": "HOME WIN",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Gent",
+        "teamB": "Union Saint-Gilloise",
+        "prediction": "UNDER 2.5 GOALS",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "LDU Quito",
+        "teamB": "Lanús",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Friday, 15th May 2026",
     "gamesList": [
       {
