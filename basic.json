@@ -1,142 +1,114 @@
 [
   {
-    "id": "epl_bha_mun_240526_ultra",
+    "id": "league2_notts_salford_260526_ultra",
     "teamA": {
-      "name": "Brighton & Hove Albion",
-      "icon": "https://media.api-sports.io/football/teams/51.png"
+      "name": "Notts County",
+      "icon": "https://media.api-sports.io/football/teams/2617.png"
     },
     "teamB": {
-      "name": "Manchester United",
-      "icon": "https://media.api-sports.io/football/teams/33.png"
+      "name": "Salford City",
+      "icon": "https://media.api-sports.io/football/teams/1359.png"
     },
-    "leagueName": "English Premier League",
+    "leagueName": "League Two Play-offs",
     "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-24"
+    "date": "2026-05-25"
   },
   {
-    "id": "epl_bur_wol_240526_ultra",
+    "id": "scotprem_stmir_partick_260526_ultra",
     "teamA": {
-      "name": "Burnley",
-      "icon": "https://media.api-sports.io/football/teams/44.png"
+      "name": "St. Mirren",
+      "icon": "https://media.api-sports.io/football/teams/247.png"
     },
     "teamB": {
-      "name": "Wolverhampton Wanderers",
-      "icon": "https://media.api-sports.io/football/teams/39.png"
+      "name": "Partick Thistle",
+      "icon": "https://media.api-sports.io/football/teams/2644.png"
     },
-    "leagueName": "English Premier League",
+    "leagueName": "Scottish Premiership Play-offs",
     "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-05-24"
+    "date": "2026-05-25"
   },
   {
-    "id": "epl_cry_ars_240526_ultra",
+    "id": "u17_cro_bel_260526_ultra",
     "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://media.api-sports.io/football/teams/52.png"
+      "name": "Croatia U17",
+      "icon": "https://media.api-sports.io/football/teams/1106.png"
     },
     "teamB": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
+      "name": "Belgium U17",
+      "icon": "https://media.api-sports.io/football/teams/1118.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "ARSENAL WIN",
-    "date": "2026-05-24"
+    "leagueName": "UEFA Under-17 Championship",
+    "prediction": "BELGIUM U17 WIN",
+    "date": "2026-05-25"
   },
   {
-    "id": "epl_ful_new_240526_ultra",
+    "id": "u17_est_spa_260526_ultra",
     "teamA": {
-      "name": "Fulham",
-      "icon": "https://media.api-sports.io/football/teams/36.png"
+      "name": "Estonia U17",
+      "icon": "https://media.api-sports.io/football/teams/1951.png"
     },
     "teamB": {
-      "name": "Newcastle United",
-      "icon": "https://media.api-sports.io/football/teams/34.png"
+      "name": "Spain U17",
+      "icon": "https://media.api-sports.io/football/teams/1098.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-24"
+    "leagueName": "UEFA Under-17 Championship",
+    "prediction": "SPAIN U17 WIN & OVER 2.5 GOALS",
+    "date": "2026-05-25"
   },
   {
-    "id": "epl_liv_bre_240526_ultra",
+    "id": "ireland_derry_shel_260526_ultra",
     "teamA": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
+      "name": "Derry City",
+      "icon": "https://media.api-sports.io/football/teams/376.png"
     },
     "teamB": {
-      "name": "Brentford",
-      "icon": "https://media.api-sports.io/football/teams/55.png"
+      "name": "Shelbourne",
+      "icon": "https://media.api-sports.io/football/teams/387.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "LIVERPOOL WIN & OVER 2.5 GOALS",
-    "date": "2026-05-24"
+    "leagueName": "Irish Premier Division",
+    "prediction": "UNDER 2.5 GOALS",
+    "date": "2026-05-25"
   },
   {
-    "id": "epl_mci_avl_240526_ultra",
+    "id": "ireland_bohs_shamrock_260526_ultra",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
+      "name": "Bohemians",
+      "icon": "https://media.api-sports.io/football/teams/375.png"
     },
     "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "Shamrock Rovers",
+      "icon": "https://media.api-sports.io/football/teams/379.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "MANCHESTER CITY WIN",
-    "date": "2026-05-24"
+    "leagueName": "Irish Premier Division",
+    "prediction": "SHAMROCK ROVERS WIN",
+    "date": "2026-05-25"
   },
   {
-    "id": "epl_nfo_bou_240526_ultra",
+    "id": "bundplay_pader_wolfs_260526_ultra",
     "teamA": {
-      "name": "Nottingham Forest",
-      "icon": "https://media.api-sports.io/football/teams/65.png"
+      "name": "Paderborn",
+      "icon": "https://media.api-sports.io/football/teams/1857.png"
     },
     "teamB": {
-      "name": "AFC Bournemouth",
-      "icon": "https://media.api-sports.io/football/teams/35.png"
+      "name": "Wolfsburg",
+      "icon": "https://media.api-sports.io/football/teams/1615.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-24"
+    "leagueName": "German Bundesliga Playoff",
+    "prediction": "WOLFSBURG TO QUALIFY",
+    "date": "2026-05-25"
   },
   {
-    "id": "epl_sun_che_240526_ultra",
+    "id": "austria_rapid_ried_260526_ultra",
     "teamA": {
-      "name": "Sunderland",
-      "icon": "https://media.api-sports.io/football/teams/46.png"
+      "name": "Rapid Vienna",
+      "icon": "https://media.api-sports.io/football/teams/173.png"
     },
     "teamB": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
+      "name": "Ried",
+      "icon": "https://media.api-sports.io/football/teams/179.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "CHELSEA WIN",
-    "date": "2026-05-24"
-  },
-  {
-    "id": "epl_tot_eve_240526_ultra",
-    "teamA": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://media.api-sports.io/football/teams/47.png"
-    },
-    "teamB": {
-      "name": "Everton",
-      "icon": "https://media.api-sports.io/football/teams/45.png"
-    },
-    "leagueName": "English Premier League",
-    "prediction": "TOTTENHAM HOTSPUR WIN",
-    "date": "2026-05-24"
-  },
-  {
-    "id": "epl_whu_lee_240526_ultra",
-    "teamA": {
-      "name": "West Ham United",
-      "icon": "https://media.api-sports.io/football/teams/48.png"
-    },
-    "teamB": {
-      "name": "Leeds United",
-      "icon": "https://media.api-sports.io/football/teams/63.png"
-    },
-    "leagueName": "English Premier League",
-    "prediction": "OVER 2.5 GOALS",
-    "date": "2026-05-24"
+    "leagueName": "Austrian Bundesliga",
+    "prediction": "RAPID VIENNA WIN",
+    "date": "2026-05-25"
   }
 ]
