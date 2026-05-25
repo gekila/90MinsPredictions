@@ -1,44 +1,44 @@
 [
   {
-    "id": "epl_liv_bre_240526_ultrasafe",
+    "id": "u17_est_spa_260526_ultrasafe",
     "teamA": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
+      "name": "Estonia U17",
+      "icon": "https://media.api-sports.io/football/teams/1951.png"
     },
     "teamB": {
-      "name": "Brentford",
-      "icon": "https://media.api-sports.io/football/teams/55.png"
+      "name": "Spain U17",
+      "icon": "https://media.api-sports.io/football/teams/1098.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-24"
-  },
-  {
-    "id": "epl_mci_avl_240526_ultrasafe",
-    "teamA": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
-    },
-    "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
-    },
-    "leagueName": "English Premier League",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-24"
-  },
-  {
-    "id": "epl_che_sun_240526_ultrasafe",
-    "teamA": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
-    },
-    "teamB": {
-      "name": "Sunderland",
-      "icon": "https://media.api-sports.io/football/teams/46.png"
-    },
-    "leagueName": "English Premier League",
+    "leagueName": "UEFA Under-17 Championship",
     "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-05-24"
+    "date": "2026-05-25"
+  },
+  {
+    "id": "austria_rapid_ried_260526_ultrasafe",
+    "teamA": {
+      "name": "Rapid Vienna",
+      "icon": "https://media.api-sports.io/football/teams/173.png"
+    },
+    "teamB": {
+      "name": "Ried",
+      "icon": "https://media.api-sports.io/football/teams/179.png"
+    },
+    "leagueName": "Austrian Bundesliga",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-05-25"
+  },
+  {
+    "id": "bundplay_pader_wolfs_260526_ultrasafe",
+    "teamA": {
+      "name": "Paderborn",
+      "icon": "https://media.api-sports.io/football/teams/1857.png"
+    },
+    "teamB": {
+      "name": "Wolfsburg",
+      "icon": "https://media.api-sports.io/football/teams/1615.png"
+    },
+    "leagueName": "German Bundesliga Playoff",
+    "prediction": "AWAY WIN OR DRAW",
+    "date": "2026-05-25"
   }
 ]
