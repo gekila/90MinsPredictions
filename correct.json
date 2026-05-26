@@ -1,114 +1,114 @@
 [
   {
-    "id": "league2_notts_salford_260526_ultra",
+    "id": "friendly_morocco_burundi_260526_ultra",
     "teamA": {
-      "name": "Notts County",
-      "icon": "https://media.api-sports.io/football/teams/2617.png"
+      "name": "Morocco",
+      "icon": "https://media.api-sports.io/football/teams/31.png"
     },
     "teamB": {
-      "name": "Salford City",
-      "icon": "https://media.api-sports.io/football/teams/1359.png"
+      "name": "Burundi",
+      "icon": "https://media.api-sports.io/football/teams/551.png"
     },
-    "leagueName": "League Two Play-offs",
-    "prediction": "1-1",
-    "date": "2026-05-25"
+    "leagueName": "International Friendlies",
+    "prediction": "5-0",
+    "date": "2026-05-26"
   },
   {
-    "id": "scotprem_stmir_partick_260526_ultra",
+    "id": "friendly_nigeria_zimbabwe_260526_ultra",
     "teamA": {
-      "name": "St. Mirren",
-      "icon": "https://media.api-sports.io/football/teams/247.png"
+      "name": "Nigeria",
+      "icon": "https://media.api-sports.io/football/teams/554.png"
     },
     "teamB": {
-      "name": "Partick Thistle",
-      "icon": "https://media.api-sports.io/football/teams/2644.png"
+      "name": "Zimbabwe",
+      "icon": "https://media.api-sports.io/football/teams/570.png"
     },
-    "leagueName": "Scottish Premiership Play-offs",
+    "leagueName": "International Friendlies",
+    "prediction": "2-0",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "u17_italy_france_260526_ultra",
+    "teamA": {
+      "name": "Italy U17",
+      "icon": "https://media.api-sports.io/football/teams/1119.png"
+    },
+    "teamB": {
+      "name": "France U17",
+      "icon": "https://media.api-sports.io/football/teams/1066.png"
+    },
+    "leagueName": "UEFA Under-17 Championship",
     "prediction": "1-0",
-    "date": "2026-05-25"
+    "date": "2026-05-26"
   },
   {
-    "id": "u17_cro_bel_260526_ultra",
+    "id": "u17_montenegro_denmark_260526_ultra",
     "teamA": {
-      "name": "Croatia U17",
-      "icon": "https://media.api-sports.io/football/teams/1106.png"
+      "name": "Montenegro U17",
+      "icon": "https://media.api-sports.io/football/teams/1094.png"
     },
     "teamB": {
-      "name": "Belgium U17",
-      "icon": "https://media.api-sports.io/football/teams/1118.png"
+      "name": "Denmark U17",
+      "icon": "https://media.api-sports.io/football/teams/1091.png"
     },
     "leagueName": "UEFA Under-17 Championship",
-    "prediction": "1-2",
-    "date": "2026-05-25"
+    "prediction": "0-2",
+    "date": "2026-05-26"
   },
   {
-    "id": "u17_est_spa_260526_ultra",
+    "id": "libertadores_ldu_alwaysready_260526_ultra",
     "teamA": {
-      "name": "Estonia U17",
-      "icon": "https://media.api-sports.io/football/teams/1951.png"
+      "name": "LDU Quito",
+      "icon": "https://media.api-sports.io/football/teams/1151.png"
     },
     "teamB": {
-      "name": "Spain U17",
-      "icon": "https://media.api-sports.io/football/teams/1098.png"
+      "name": "Always Ready",
+      "icon": "https://media.api-sports.io/football/teams/7814.png"
     },
-    "leagueName": "UEFA Under-17 Championship",
-    "prediction": "0-4",
-    "date": "2026-05-25"
-  },
-  {
-    "id": "ireland_derry_shel_260526_ultra",
-    "teamA": {
-      "name": "Derry City",
-      "icon": "https://media.api-sports.io/football/teams/376.png"
-    },
-    "teamB": {
-      "name": "Shelbourne",
-      "icon": "https://media.api-sports.io/football/teams/387.png"
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "1-1",
-    "date": "2026-05-25"
-  },
-  {
-    "id": "ireland_bohs_shamrock_260526_ultra",
-    "teamA": {
-      "name": "Bohemians",
-      "icon": "https://media.api-sports.io/football/teams/375.png"
-    },
-    "teamB": {
-      "name": "Shamrock Rovers",
-      "icon": "https://media.api-sports.io/football/teams/379.png"
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "1-2",
-    "date": "2026-05-25"
-  },
-  {
-    "id": "bundplay_pader_wolfs_260526_ultra",
-    "teamA": {
-      "name": "Paderborn",
-      "icon": "https://media.api-sports.io/football/teams/1857.png"
-    },
-    "teamB": {
-      "name": "Wolfsburg",
-      "icon": "https://media.api-sports.io/football/teams/1615.png"
-    },
-    "leagueName": "German Bundesliga Playoff",
-    "prediction": "0-1",
-    "date": "2026-05-25"
-  },
-  {
-    "id": "austria_rapid_ried_260526_ultra",
-    "teamA": {
-      "name": "Rapid Vienna",
-      "icon": "https://media.api-sports.io/football/teams/173.png"
-    },
-    "teamB": {
-      "name": "Ried",
-      "icon": "https://media.api-sports.io/football/teams/179.png"
-    },
-    "leagueName": "Austrian Bundesliga",
+    "leagueName": "CONMEBOL Libertadores",
     "prediction": "3-1",
-    "date": "2026-05-25"
+    "date": "2026-05-26"
+  },
+  {
+    "id": "libertadores_lanus_mirassol_260526_ultra",
+    "teamA": {
+      "name": "Lanús",
+      "icon": "https://media.api-sports.io/football/teams/435.png"
+    },
+    "teamB": {
+      "name": "Mirassol",
+      "icon": "https://media.api-sports.io/football/teams/13143.png"
+    },
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "2-1",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "brasileirao_coritiba_bahia_260526_ultra",
+    "teamA": {
+      "name": "Coritiba",
+      "icon": "https://media.api-sports.io/football/teams/120.png"
+    },
+    "teamB": {
+      "name": "Bahia",
+      "icon": "https://media.api-sports.io/football/teams/131.png"
+    },
+    "leagueName": "Brazilian Serie A",
+    "prediction": "3-2",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "franceplayoffs_stetienne_nice_260526_ultra",
+    "teamA": {
+      "name": "Saint-Étienne",
+      "icon": "https://media.api-sports.io/football/teams/106.png"
+    },
+    "teamB": {
+      "name": "Nice",
+      "icon": "https://media.api-sports.io/football/teams/84.png"
+    },
+    "leagueName": "French Play-offs",
+    "prediction": "1-2",
+    "date": "2026-05-26"
   }
 ]
