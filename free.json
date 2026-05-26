@@ -1,44 +1,44 @@
 [
   {
-    "id": "u17_est_spa_260526_ultrasafe",
+    "id": "friendly_nigeria_zimbabwe_260526_ultrasafe",
     "teamA": {
-      "name": "Estonia U17",
-      "icon": "https://media.api-sports.io/football/teams/1951.png"
+      "name": "Nigeria",
+      "icon": "https://media.api-sports.io/football/teams/554.png"
     },
     "teamB": {
-      "name": "Spain U17",
-      "icon": "https://media.api-sports.io/football/teams/1098.png"
+      "name": "Zimbabwe",
+      "icon": "https://media.api-sports.io/football/teams/570.png"
     },
-    "leagueName": "UEFA Under-17 Championship",
-    "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-05-25"
-  },
-  {
-    "id": "austria_rapid_ried_260526_ultrasafe",
-    "teamA": {
-      "name": "Rapid Vienna",
-      "icon": "https://media.api-sports.io/football/teams/173.png"
-    },
-    "teamB": {
-      "name": "Ried",
-      "icon": "https://media.api-sports.io/football/teams/179.png"
-    },
-    "leagueName": "Austrian Bundesliga",
+    "leagueName": "International Friendlies",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-25"
+    "date": "2026-05-26"
   },
   {
-    "id": "bundplay_pader_wolfs_260526_ultrasafe",
+    "id": "libertadores_ldu_alwaysready_260526_ultrasafe",
     "teamA": {
-      "name": "Paderborn",
-      "icon": "https://media.api-sports.io/football/teams/1857.png"
+      "name": "LDU Quito",
+      "icon": "https://media.api-sports.io/football/teams/1151.png"
     },
     "teamB": {
-      "name": "Wolfsburg",
-      "icon": "https://media.api-sports.io/football/teams/1615.png"
+      "name": "Always Ready",
+      "icon": "https://media.api-sports.io/football/teams/7814.png"
     },
-    "leagueName": "German Bundesliga Playoff",
+    "leagueName": "CONMEBOL Libertadores",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-05-26"
+  },
+  {
+    "id": "franceplayoffs_stetienne_nice_260526_ultrasafe",
+    "teamA": {
+      "name": "Saint-Étienne",
+      "icon": "https://media.api-sports.io/football/teams/106.png"
+    },
+    "teamB": {
+      "name": "Nice",
+      "icon": "https://media.api-sports.io/football/teams/84.png"
+    },
+    "leagueName": "French Play-offs",
     "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-05-25"
+    "date": "2026-05-26"
   }
 ]
