@@ -1,142 +1,170 @@
 [
   {
-    "id": "epl_bha_mun_240526_ultra",
+    "id": "ucl_psg_arsenal_300526_ultra",
     "teamA": {
-      "name": "Brighton & Hove Albion",
-      "icon": "https://media.api-sports.io/football/teams/51.png"
-    },
-    "teamB": {
-      "name": "Manchester United",
-      "icon": "https://media.api-sports.io/football/teams/33.png"
-    },
-    "leagueName": "English Premier League",
-    "prediction": "2-2",
-    "date": "2026-05-24"
-  },
-  {
-    "id": "epl_bur_wol_240526_ultra",
-    "teamA": {
-      "name": "Burnley",
-      "icon": "https://media.api-sports.io/football/teams/44.png"
-    },
-    "teamB": {
-      "name": "Wolverhampton Wanderers",
-      "icon": "https://media.api-sports.io/football/teams/39.png"
-    },
-    "leagueName": "English Premier League",
-    "prediction": "1-1",
-    "date": "2026-05-24"
-  },
-  {
-    "id": "epl_cry_ars_240526_ultra",
-    "teamA": {
-      "name": "Crystal Palace",
-      "icon": "https://media.api-sports.io/football/teams/52.png"
+      "name": "Paris Saint-Germain",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
     "teamB": {
       "name": "Arsenal",
       "icon": "https://media.api-sports.io/football/teams/42.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "1-3",
-    "date": "2026-05-24"
+    "leagueName": "UEFA Champions League Final",
+    "prediction": "2-1",
+    "date": "2026-05-30"
   },
   {
-    "id": "epl_ful_new_240526_ultra",
+    "id": "friendly_sco_cur_300526_ultra",
     "teamA": {
-      "name": "Fulham",
-      "icon": "https://media.api-sports.io/football/teams/36.png"
+      "name": "Scotland",
+      "icon": "https://media.api-sports.io/football/teams/1108.png"
     },
     "teamB": {
-      "name": "Newcastle United",
-      "icon": "https://media.api-sports.io/football/teams/34.png"
+      "name": "Curaçao",
+      "icon": "https://media.api-sports.io/football/teams/2387.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "2-2",
-    "date": "2026-05-24"
-  },
-  {
-    "id": "epl_liv_bre_240526_ultra",
-    "teamA": {
-      "name": "Liverpool",
-      "icon": "https://media.api-sports.io/football/teams/40.png"
-    },
-    "teamB": {
-      "name": "Brentford",
-      "icon": "https://media.api-sports.io/football/teams/55.png"
-    },
-    "leagueName": "English Premier League",
+    "leagueName": "International Friendlies",
     "prediction": "3-1",
-    "date": "2026-05-24"
+    "date": "2026-05-30"
   },
   {
-    "id": "epl_mci_avl_240526_ultra",
+    "id": "friendly_jam_nga_300526_ultra",
     "teamA": {
-      "name": "Manchester City",
-      "icon": "https://media.api-sports.io/football/teams/50.png"
+      "name": "Jamaica",
+      "icon": "https://media.api-sports.io/football/teams/552.png"
     },
     "teamB": {
-      "name": "Aston Villa",
-      "icon": "https://media.api-sports.io/football/teams/66.png"
+      "name": "Nigeria",
+      "icon": "https://media.api-sports.io/football/teams/554.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "2-1",
-    "date": "2026-05-24"
+    "leagueName": "International Friendlies",
+    "prediction": "1-2",
+    "date": "2026-05-30"
   },
   {
-    "id": "epl_nfo_bou_240526_ultra",
+    "id": "friendly_zim_ind_300526_ultra",
     "teamA": {
-      "name": "Nottingham Forest",
-      "icon": "https://media.api-sports.io/football/teams/65.png"
+      "name": "Zimbabwe",
+      "icon": "https://media.api-sports.io/football/teams/570.png"
     },
     "teamB": {
-      "name": "AFC Bournemouth",
-      "icon": "https://media.api-sports.io/football/teams/35.png"
+      "name": "India",
+      "icon": "https://media.api-sports.io/football/teams/1567.png"
     },
-    "leagueName": "English Premier League",
-    "prediction": "2-1",
-    "date": "2026-05-24"
-  },
-  {
-    "id": "epl_sun_che_240526_ultra",
-    "teamA": {
-      "name": "Sunderland",
-      "icon": "https://media.api-sports.io/football/teams/46.png"
-    },
-    "teamB": {
-      "name": "Chelsea",
-      "icon": "https://media.api-sports.io/football/teams/49.png"
-    },
-    "leagueName": "English Premier League",
-    "prediction": "0-2",
-    "date": "2026-05-24"
-  },
-  {
-    "id": "epl_tot_eve_240526_ultra",
-    "teamA": {
-      "name": "Tottenham Hotspur",
-      "icon": "https://media.api-sports.io/football/teams/47.png"
-    },
-    "teamB": {
-      "name": "Everton",
-      "icon": "https://media.api-sports.io/football/teams/45.png"
-    },
-    "leagueName": "English Premier League",
+    "leagueName": "International Friendlies",
     "prediction": "2-0",
-    "date": "2026-05-24"
+    "date": "2026-05-30"
   },
   {
-    "id": "epl_whu_lee_240526_ultra",
+    "id": "u21_cro_gre_300526_ultra",
     "teamA": {
-      "name": "West Ham United",
-      "icon": "https://media.api-sports.io/football/teams/48.png"
+      "name": "Croatia U21",
+      "icon": "https://media.api-sports.io/football/teams/1043.png"
     },
     "teamB": {
-      "name": "Leeds United",
-      "icon": "https://media.api-sports.io/football/teams/63.png"
+      "name": "Greece U21",
+      "icon": "https://media.api-sports.io/football/teams/1049.png"
     },
-    "leagueName": "English Premier League",
+    "leagueName": "Under-21 International Friendlies",
+    "prediction": "2-1",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "bra_ath_mir_300526_ultra",
+    "teamA": {
+      "name": "Athletico Paranaense",
+      "icon": "https://media.api-sports.io/football/teams/185.png"
+    },
+    "teamB": {
+      "name": "Mirassol",
+      "icon": "https://media.api-sports.io/football/teams/13143.png"
+    },
+    "leagueName": "Brazilian Serie A",
+    "prediction": "2-0",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "bra_fla_cor_300526_ultra",
+    "teamA": {
+      "name": "Flamengo",
+      "icon": "https://media.api-sports.io/football/teams/127.png"
+    },
+    "teamB": {
+      "name": "Coritiba",
+      "icon": "https://media.api-sports.io/football/teams/120.png"
+    },
+    "leagueName": "Brazilian Serie A",
+    "prediction": "3-1",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "bra_bah_bot_300526_ultra",
+    "teamA": {
+      "name": "Bahia",
+      "icon": "https://media.api-sports.io/football/teams/131.png"
+    },
+    "teamB": {
+      "name": "Botafogo",
+      "icon": "https://media.api-sports.io/football/teams/128.png"
+    },
+    "leagueName": "Brazilian Serie A",
+    "prediction": "1-1",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "bra_gre_cor_300526_ultra",
+    "teamA": {
+      "name": "Grêmio",
+      "icon": "https://media.api-sports.io/football/teams/121.png"
+    },
+    "teamB": {
+      "name": "Corinthians",
+      "icon": "https://media.api-sports.io/football/teams/119.png"
+    },
+    "leagueName": "Brazilian Serie A",
+    "prediction": "2-1",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "csl_qwc_shs_300526_ultra",
+    "teamA": {
+      "name": "Qingdao West Coast",
+      "icon": "https://media.api-sports.io/football/teams/19963.png"
+    },
+    "teamB": {
+      "name": "Shanghai Shenhua",
+      "icon": "https://media.api-sports.io/football/teams/650.png"
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "0-2",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "csl_hen_zhe_300526_ultra",
+    "teamA": {
+      "name": "Henan",
+      "icon": "https://media.api-sports.io/football/teams/658.png"
+    },
+    "teamB": {
+      "name": "Zhejiang",
+      "icon": "https://media.api-sports.io/football/teams/666.png"
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "1-1",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "csl_che_sdt_300526_ultra",
+    "teamA": {
+      "name": "Chengdu Rongcheng",
+      "icon": "https://media.api-sports.io/football/teams/8366.png"
+    },
+    "teamB": {
+      "name": "Shandong Taishan",
+      "icon": "https://media.api-sports.io/football/teams/649.png"
+    },
+    "leagueName": "Chinese Super League",
     "prediction": "2-2",
-    "date": "2026-05-24"
+    "date": "2026-05-30"
   }
 ]
