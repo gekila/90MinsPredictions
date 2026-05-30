@@ -1,44 +1,44 @@
 [
   {
-    "id": "friendly_nigeria_zimbabwe_260526_ultrasafe",
+    "id": "friendly_sco_cur_300526_ultrasafe",
     "teamA": {
-      "name": "Nigeria",
-      "icon": "https://media.api-sports.io/football/teams/554.png"
+      "name": "Scotland",
+      "icon": "https://media.api-sports.io/football/teams/1108.png"
     },
     "teamB": {
-      "name": "Zimbabwe",
-      "icon": "https://media.api-sports.io/football/teams/570.png"
+      "name": "Curaçao",
+      "icon": "https://media.api-sports.io/football/teams/2387.png"
     },
     "leagueName": "International Friendlies",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-26"
+    "date": "2026-05-30"
   },
   {
-    "id": "libertadores_ldu_alwaysready_260526_ultrasafe",
+    "id": "bra_fla_cor_300526_ultrasafe",
     "teamA": {
-      "name": "LDU Quito",
-      "icon": "https://media.api-sports.io/football/teams/1151.png"
+      "name": "Flamengo",
+      "icon": "https://media.api-sports.io/football/teams/127.png"
     },
     "teamB": {
-      "name": "Always Ready",
-      "icon": "https://media.api-sports.io/football/teams/7814.png"
+      "name": "Coritiba",
+      "icon": "https://media.api-sports.io/football/teams/120.png"
     },
-    "leagueName": "CONMEBOL Libertadores",
+    "leagueName": "Brazilian Serie A",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-26"
+    "date": "2026-05-30"
   },
   {
-    "id": "franceplayoffs_stetienne_nice_260526_ultrasafe",
+    "id": "csl_qwc_shs_300526_ultrasafe",
     "teamA": {
-      "name": "Saint-Étienne",
-      "icon": "https://media.api-sports.io/football/teams/106.png"
+      "name": "Qingdao West Coast",
+      "icon": "https://media.api-sports.io/football/teams/19963.png"
     },
     "teamB": {
-      "name": "Nice",
-      "icon": "https://media.api-sports.io/football/teams/84.png"
+      "name": "Shanghai Shenhua",
+      "icon": "https://media.api-sports.io/football/teams/650.png"
     },
-    "leagueName": "French Play-offs",
+    "leagueName": "Chinese Super League",
     "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-05-26"
+    "date": "2026-05-30"
   }
 ]
