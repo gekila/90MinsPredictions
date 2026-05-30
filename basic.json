@@ -1,114 +1,170 @@
 [
   {
-    "id": "friendly_morocco_burundi_260526_ultra",
+    "id": "ucl_psg_arsenal_300526_ultra",
     "teamA": {
-      "name": "Morocco",
-      "icon": "https://media.api-sports.io/football/teams/31.png"
+      "name": "Paris Saint-Germain",
+      "icon": "https://media.api-sports.io/football/teams/85.png"
     },
     "teamB": {
-      "name": "Burundi",
-      "icon": "https://media.api-sports.io/football/teams/551.png"
+      "name": "Arsenal",
+      "icon": "https://media.api-sports.io/football/teams/42.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "MOROCCO WIN & OVER 2.5 GOALS",
-    "date": "2026-05-26"
+    "leagueName": "UEFA Champions League Final",
+    "prediction": "PARIS SAINT-GERMAIN WIN",
+    "date": "2026-05-30"
   },
   {
-    "id": "friendly_nigeria_zimbabwe_260526_ultra",
+    "id": "friendly_scotland_curacao_300526_ultra",
     "teamA": {
+      "name": "Scotland",
+      "icon": "https://media.api-sports.io/football/teams/1108.png"
+    },
+    "teamB": {
+      "name": "Curaçao",
+      "icon": "https://media.api-sports.io/football/teams/2387.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "SCOTLAND WIN & OVER 1.5 GOALS",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "friendly_jamaica_nigeria_300526_ultra",
+    "teamA": {
+      "name": "Jamaica",
+      "icon": "https://media.api-sports.io/football/teams/552.png"
+    },
+    "teamB": {
       "name": "Nigeria",
       "icon": "https://media.api-sports.io/football/teams/554.png"
     },
-    "teamB": {
+    "leagueName": "International Friendlies",
+    "prediction": "NIGERIA DRAW NO BET",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "friendly_zimbabwe_india_300526_ultra",
+    "teamA": {
       "name": "Zimbabwe",
       "icon": "https://media.api-sports.io/football/teams/570.png"
     },
+    "teamB": {
+      "name": "India",
+      "icon": "https://media.api-sports.io/football/teams/1567.png"
+    },
     "leagueName": "International Friendlies",
-    "prediction": "NIGERIA WIN",
-    "date": "2026-05-26"
+    "prediction": "ZIMBABWE WIN",
+    "date": "2026-05-30"
   },
   {
-    "id": "u17_italy_france_260526_ultra",
+    "id": "u21_croatia_greece_300526_ultra",
     "teamA": {
-      "name": "Italy U17",
-      "icon": "https://media.api-sports.io/football/teams/1119.png"
+      "name": "Croatia U21",
+      "icon": "https://media.api-sports.io/football/teams/1043.png"
     },
     "teamB": {
-      "name": "France U17",
-      "icon": "https://media.api-sports.io/football/teams/1066.png"
+      "name": "Greece U21",
+      "icon": "https://media.api-sports.io/football/teams/1049.png"
     },
-    "leagueName": "UEFA Under-17 Championship",
-    "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-05-26"
+    "leagueName": "Under-21 International Friendly",
+    "prediction": "CROATIA U21 WIN",
+    "date": "2026-05-30"
   },
   {
-    "id": "u17_montenegro_denmark_260526_ultra",
+    "id": "seriea_athleticoparanaense_mirassol_300526_ultra",
     "teamA": {
-      "name": "Montenegro U17",
-      "icon": "https://media.api-sports.io/football/teams/1094.png"
-    },
-    "teamB": {
-      "name": "Denmark U17",
-      "icon": "https://media.api-sports.io/football/teams/1091.png"
-    },
-    "leagueName": "UEFA Under-17 Championship",
-    "prediction": "UNDER 2.5 GOALS",
-    "date": "2026-05-26"
-  },
-  {
-    "id": "libertadores_ldu_alwaysready_260526_ultra",
-    "teamA": {
-      "name": "LDU Quito",
-      "icon": "https://media.api-sports.io/football/teams/1151.png"
-    },
-    "teamB": {
-      "name": "Always Ready",
-      "icon": "https://media.api-sports.io/football/teams/7814.png"
-    },
-    "leagueName": "CONMEBOL Libertadores",
-    "prediction": "LDU QUITO WIN",
-    "date": "2026-05-26"
-  },
-  {
-    "id": "libertadores_lanus_mirassol_260526_ultra",
-    "teamA": {
-      "name": "Lanús",
-      "icon": "https://media.api-sports.io/football/teams/435.png"
+      "name": "Athletico Paranaense",
+      "icon": "https://media.api-sports.io/football/teams/185.png"
     },
     "teamB": {
       "name": "Mirassol",
       "icon": "https://media.api-sports.io/football/teams/13143.png"
     },
-    "leagueName": "CONMEBOL Libertadores",
-    "prediction": "LANUS WIN",
-    "date": "2026-05-26"
+    "leagueName": "Brazilian Serie A",
+    "prediction": "ATHLETICO PARANAENSE WIN",
+    "date": "2026-05-30"
   },
   {
-    "id": "brasileirao_coritiba_bahia_260526_ultra",
+    "id": "seriea_flamengo_coritiba_300526_ultra",
     "teamA": {
+      "name": "Flamengo",
+      "icon": "https://media.api-sports.io/football/teams/127.png"
+    },
+    "teamB": {
       "name": "Coritiba",
       "icon": "https://media.api-sports.io/football/teams/120.png"
     },
-    "teamB": {
+    "leagueName": "Brazilian Serie A",
+    "prediction": "FLAMENGO WIN & OVER 2.5 GOALS",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "seriea_bahia_botafogo_300526_ultra",
+    "teamA": {
       "name": "Bahia",
       "icon": "https://media.api-sports.io/football/teams/131.png"
     },
+    "teamB": {
+      "name": "Botafogo",
+      "icon": "https://media.api-sports.io/football/teams/128.png"
+    },
     "leagueName": "Brazilian Serie A",
-    "prediction": "BOTH TEAMS TO SCORE & OVER 2.5 GOALS",
-    "date": "2026-05-26"
+    "prediction": "BOTH TEAMS TO SCORE",
+    "date": "2026-05-30"
   },
   {
-    "id": "franceplayoffs_stetienne_nice_260526_ultra",
+    "id": "seriea_gremio_corinthians_300526_ultra",
     "teamA": {
-      "name": "Saint-Étienne",
-      "icon": "https://media.api-sports.io/football/teams/106.png"
+      "name": "Grêmio",
+      "icon": "https://media.api-sports.io/football/teams/121.png"
     },
     "teamB": {
-      "name": "Nice",
-      "icon": "https://media.api-sports.io/football/teams/84.png"
+      "name": "Corinthians",
+      "icon": "https://media.api-sports.io/football/teams/119.png"
     },
-    "leagueName": "French Play-offs",
+    "leagueName": "Brazilian Serie A",
+    "prediction": "GRÊMIO WIN OR DRAW & UNDER 3.5 GOALS",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "csl_qingdao_shenhua_300526_ultra",
+    "teamA": {
+      "name": "Qingdao West Coast",
+      "icon": "https://media.api-sports.io/football/teams/19963.png"
+    },
+    "teamB": {
+      "name": "Shanghai Shenhua",
+      "icon": "https://media.api-sports.io/football/teams/650.png"
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "SHANGHAI SHENHUA WIN",
+    "date": "2026-05-30"
+  },
+  {
+    "id": "csl_henan_zhejiang_300526_ultra",
+    "teamA": {
+      "name": "Henan",
+      "icon": "https://media.api-sports.io/football/teams/658.png"
+    },
+    "teamB": {
+      "name": "Zhejiang",
+      "icon": "https://media.api-sports.io/football/teams/666.png"
+    },
+    "leagueName": "Chinese Super League",
     "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-26"
+    "date": "2026-05-30"
+  },
+  {
+    "id": "csl_chengdu_shandong_300526_ultra",
+    "teamA": {
+      "name": "Chengdu Rongcheng",
+      "icon": "https://media.api-sports.io/football/teams/8366.png"
+    },
+    "teamB": {
+      "name": "Shandong Taishan",
+      "icon": "https://media.api-sports.io/football/teams/649.png"
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "BOTH TEAMS TO SCORE & OVER 2.5 GOALS",
+    "date": "2026-05-30"
   }
 ]
