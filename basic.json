@@ -1,170 +1,170 @@
 [
   {
-    "id": "ucl_psg_arsenal_300526_ultra",
+    "id": "friendly_ecuador_saudiarabia_310526_ultra",
     "teamA": {
-      "name": "Paris Saint-Germain",
-      "icon": "https://media.api-sports.io/football/teams/85.png"
+      "name": "Ecuador",
+      "icon": "https://media.api-sports.io/football/teams/2382.png"
     },
     "teamB": {
-      "name": "Arsenal",
-      "icon": "https://media.api-sports.io/football/teams/42.png"
-    },
-    "leagueName": "UEFA Champions League Final",
-    "prediction": "PARIS SAINT-GERMAIN WIN",
-    "date": "2026-05-30"
-  },
-  {
-    "id": "friendly_scotland_curacao_300526_ultra",
-    "teamA": {
-      "name": "Scotland",
-      "icon": "https://media.api-sports.io/football/teams/1108.png"
-    },
-    "teamB": {
-      "name": "Curaçao",
-      "icon": "https://media.api-sports.io/football/teams/2387.png"
+      "name": "Saudi Arabia",
+      "icon": "https://media.api-sports.io/football/teams/23.png"
     },
     "leagueName": "International Friendlies",
-    "prediction": "SCOTLAND WIN & OVER 1.5 GOALS",
-    "date": "2026-05-30"
+    "prediction": "ECUADOR WIN",
+    "date": "2026-05-31"
   },
   {
-    "id": "friendly_jamaica_nigeria_300526_ultra",
+    "id": "friendly_southkorea_trinidadandtobago_310526_ultra",
     "teamA": {
-      "name": "Jamaica",
-      "icon": "https://media.api-sports.io/football/teams/552.png"
+      "name": "South Korea",
+      "icon": "https://media.api-sports.io/football/teams/1570.png"
     },
     "teamB": {
-      "name": "Nigeria",
-      "icon": "https://media.api-sports.io/football/teams/554.png"
+      "name": "Trinidad and Tobago",
+      "icon": "https://media.api-sports.io/football/teams/2384.png"
     },
     "leagueName": "International Friendlies",
-    "prediction": "NIGERIA DRAW NO BET",
-    "date": "2026-05-30"
+    "prediction": "SOUTH KOREA WIN & OVER 2.5 GOALS",
+    "date": "2026-05-31"
   },
   {
-    "id": "friendly_zimbabwe_india_300526_ultra",
+    "id": "friendly_mexico_australia_310526_ultra",
     "teamA": {
-      "name": "Zimbabwe",
-      "icon": "https://media.api-sports.io/football/teams/570.png"
+      "name": "Mexico",
+      "icon": "https://media.api-sports.io/football/teams/16.png"
     },
     "teamB": {
-      "name": "India",
-      "icon": "https://media.api-sports.io/football/teams/1567.png"
+      "name": "Australia",
+      "icon": "https://media.api-sports.io/football/teams/20.png"
     },
     "leagueName": "International Friendlies",
-    "prediction": "ZIMBABWE WIN",
-    "date": "2026-05-30"
+    "prediction": "MEXICO WIN",
+    "date": "2026-05-31"
   },
   {
-    "id": "u21_croatia_greece_300526_ultra",
+    "id": "friendly_japan_iceland_310526_ultra",
     "teamA": {
-      "name": "Croatia U21",
-      "icon": "https://media.api-sports.io/football/teams/1043.png"
+      "name": "Japan",
+      "icon": "https://media.api-sports.io/football/teams/25.png"
     },
     "teamB": {
-      "name": "Greece U21",
-      "icon": "https://media.api-sports.io/football/teams/1049.png"
+      "name": "Iceland",
+      "icon": "https://media.api-sports.io/football/teams/1117.png"
     },
-    "leagueName": "Under-21 International Friendly",
-    "prediction": "CROATIA U21 WIN",
-    "date": "2026-05-30"
+    "leagueName": "International Friendlies",
+    "prediction": "JAPAN WIN",
+    "date": "2026-05-31"
   },
   {
-    "id": "seriea_athleticoparanaense_mirassol_300526_ultra",
+    "id": "friendly_switzerland_jordan_310526_ultra",
     "teamA": {
-      "name": "Athletico Paranaense",
-      "icon": "https://media.api-sports.io/football/teams/185.png"
+      "name": "Switzerland",
+      "icon": "https://media.api-sports.io/football/teams/1118.png"
     },
     "teamB": {
-      "name": "Mirassol",
-      "icon": "https://media.api-sports.io/football/teams/13143.png"
+      "name": "Jordan",
+      "icon": "https://media.api-sports.io/football/teams/1569.png"
     },
-    "leagueName": "Brazilian Serie A",
-    "prediction": "ATHLETICO PARANAENSE WIN",
-    "date": "2026-05-30"
+    "leagueName": "International Friendlies",
+    "prediction": "SWITZERLAND WIN",
+    "date": "2026-05-31"
   },
   {
-    "id": "seriea_flamengo_coritiba_300526_ultra",
+    "id": "friendly_czechrepublic_kosovo_310526_ultra",
     "teamA": {
-      "name": "Flamengo",
-      "icon": "https://media.api-sports.io/football/teams/127.png"
+      "name": "Czech Republic",
+      "icon": "https://media.api-sports.io/football/teams/1114.png"
     },
     "teamB": {
-      "name": "Coritiba",
-      "icon": "https://media.api-sports.io/football/teams/120.png"
+      "name": "Kosovo",
+      "icon": "https://media.api-sports.io/football/teams/2386.png"
     },
-    "leagueName": "Brazilian Serie A",
-    "prediction": "FLAMENGO WIN & OVER 2.5 GOALS",
-    "date": "2026-05-30"
+    "leagueName": "International Friendlies",
+    "prediction": "CZECH REPUBLIC WIN",
+    "date": "2026-05-31"
   },
   {
-    "id": "seriea_bahia_botafogo_300526_ultra",
+    "id": "friendly_capeverde_serbia_310526_ultra",
     "teamA": {
-      "name": "Bahia",
-      "icon": "https://media.api-sports.io/football/teams/131.png"
+      "name": "Cape Verde",
+      "icon": "https://media.api-sports.io/football/teams/1575.png"
     },
     "teamB": {
-      "name": "Botafogo",
-      "icon": "https://media.api-sports.io/football/teams/128.png"
+      "name": "Serbia",
+      "icon": "https://media.api-sports.io/football/teams/635.png"
     },
-    "leagueName": "Brazilian Serie A",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-30"
+    "leagueName": "International Friendlies",
+    "prediction": "SERBIA WIN",
+    "date": "2026-05-31"
   },
   {
-    "id": "seriea_gremio_corinthians_300526_ultra",
+    "id": "friendly_poland_ukraine_310526_ultra",
     "teamA": {
-      "name": "Grêmio",
-      "icon": "https://media.api-sports.io/football/teams/121.png"
+      "name": "Poland",
+      "icon": "https://media.api-sports.io/football/teams/1098.png"
     },
     "teamB": {
-      "name": "Corinthians",
-      "icon": "https://media.api-sports.io/football/teams/119.png"
+      "name": "Ukraine",
+      "icon": "https://media.api-sports.io/football/teams/1113.png"
     },
-    "leagueName": "Brazilian Serie A",
-    "prediction": "GRÊMIO WIN OR DRAW & UNDER 3.5 GOALS",
-    "date": "2026-05-30"
+    "leagueName": "International Friendlies",
+    "prediction": "POLAND WIN OR DRAW",
+    "date": "2026-05-31"
   },
   {
-    "id": "csl_qingdao_shenhua_300526_ultra",
+    "id": "friendly_germany_finland_310526_ultra",
     "teamA": {
-      "name": "Qingdao West Coast",
-      "icon": "https://media.api-sports.io/football/teams/19963.png"
+      "name": "Germany",
+      "icon": "https://media.api-sports.io/football/teams/25.png"
     },
     "teamB": {
-      "name": "Shanghai Shenhua",
-      "icon": "https://media.api-sports.io/football/teams/650.png"
+      "name": "Finland",
+      "icon": "https://media.api-sports.io/football/teams/1111.png"
     },
-    "leagueName": "Chinese Super League",
-    "prediction": "SHANGHAI SHENHUA WIN",
-    "date": "2026-05-30"
+    "leagueName": "International Friendlies",
+    "prediction": "GERMANY WIN",
+    "date": "2026-05-31"
   },
   {
-    "id": "csl_henan_zhejiang_300526_ultra",
+    "id": "friendly_usa_senegal_310526_ultra",
     "teamA": {
-      "name": "Henan",
-      "icon": "https://media.api-sports.io/football/teams/658.png"
+      "name": "United States",
+      "icon": "https://media.api-sports.io/football/teams/2380.png"
     },
     "teamB": {
-      "name": "Zhejiang",
-      "icon": "https://media.api-sports.io/football/teams/666.png"
+      "name": "Senegal",
+      "icon": "https://media.api-sports.io/football/teams/5526.png"
     },
-    "leagueName": "Chinese Super League",
-    "prediction": "BOTH TEAMS TO SCORE",
-    "date": "2026-05-30"
+    "leagueName": "International Friendlies",
+    "prediction": "UNITED STATES WIN OR DRAW",
+    "date": "2026-05-31"
   },
   {
-    "id": "csl_chengdu_shandong_300526_ultra",
+    "id": "friendly_brazil_panama_310526_ultra",
     "teamA": {
-      "name": "Chengdu Rongcheng",
-      "icon": "https://media.api-sports.io/football/teams/8366.png"
+      "name": "Brazil",
+      "icon": "https://media.api-sports.io/football/teams/6.png"
     },
     "teamB": {
-      "name": "Shandong Taishan",
-      "icon": "https://media.api-sports.io/football/teams/649.png"
+      "name": "Panama",
+      "icon": "https://media.api-sports.io/football/teams/26.png"
     },
-    "leagueName": "Chinese Super League",
-    "prediction": "BOTH TEAMS TO SCORE & OVER 2.5 GOALS",
-    "date": "2026-05-30"
+    "leagueName": "International Friendlies",
+    "prediction": "BRAZIL WIN & OVER 2.5 GOALS",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "friendly_singapore_mongolia_310526_ultra",
+    "teamA": {
+      "name": "Singapore",
+      "icon": "https://media.api-sports.io/football/teams/1564.png"
+    },
+    "teamB": {
+      "name": "Mongolia",
+      "icon": "https://media.api-sports.io/football/teams/1579.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "SINGAPORE WIN",
+    "date": "2026-05-31"
   }
 ]
