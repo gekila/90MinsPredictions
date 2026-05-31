@@ -1,44 +1,72 @@
 [
   {
-    "id": "friendly_sco_cur_300526_ultrasafe",
+    "id": "friendly_ecu_sau_310526_ultrasafe",
     "teamA": {
-      "name": "Scotland",
-      "icon": "https://media.api-sports.io/football/teams/1108.png"
+      "name": "Ecuador",
+      "icon": "https://media.api-sports.io/football/teams/2382.png"
     },
     "teamB": {
-      "name": "Curaçao",
-      "icon": "https://media.api-sports.io/football/teams/2387.png"
+      "name": "Saudi Arabia",
+      "icon": "https://media.api-sports.io/football/teams/23.png"
     },
     "leagueName": "International Friendlies",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-30"
+    "date": "2026-05-31"
   },
   {
-    "id": "bra_fla_cor_300526_ultrasafe",
+    "id": "friendly_kor_tri_310526_ultrasafe",
     "teamA": {
-      "name": "Flamengo",
-      "icon": "https://media.api-sports.io/football/teams/127.png"
+      "name": "South Korea",
+      "icon": "https://media.api-sports.io/football/teams/1570.png"
     },
     "teamB": {
-      "name": "Coritiba",
-      "icon": "https://media.api-sports.io/football/teams/120.png"
+      "name": "Trinidad and Tobago",
+      "icon": "https://media.api-sports.io/football/teams/2384.png"
     },
-    "leagueName": "Brazilian Serie A",
+    "leagueName": "International Friendlies",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-30"
+    "date": "2026-05-31"
   },
   {
-    "id": "csl_qwc_shs_300526_ultrasafe",
+    "id": "friendly_mex_aus_310526_ultrasafe",
     "teamA": {
-      "name": "Qingdao West Coast",
-      "icon": "https://media.api-sports.io/football/teams/19963.png"
+      "name": "Mexico",
+      "icon": "https://media.api-sports.io/football/teams/16.png"
     },
     "teamB": {
-      "name": "Shanghai Shenhua",
-      "icon": "https://media.api-sports.io/football/teams/650.png"
+      "name": "Australia",
+      "icon": "https://media.api-sports.io/football/teams/20.png"
     },
-    "leagueName": "Chinese Super League",
-    "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-05-30"
+    "leagueName": "International Friendlies",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "friendly_jpn_ice_310526_ultrasafe",
+    "teamA": {
+      "name": "Japan",
+      "icon": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "teamB": {
+      "name": "Iceland",
+      "icon": "https://media.api-sports.io/football/teams/1117.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-05-31"
+  },
+  {
+    "id": "friendly_sui_jor_310526_ultrasafe",
+    "teamA": {
+      "name": "Switzerland",
+      "icon": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "teamB": {
+      "name": "Jordan",
+      "icon": "https://media.api-sports.io/football/teams/1569.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "HOME WIN OR DRAW",
+    "date": "2026-05-31"
   }
 ]
