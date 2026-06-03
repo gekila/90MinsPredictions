@@ -1,170 +1,114 @@
 [
   {
-    "id": "friendly_ecuador_saudiarabia_310526_ultra",
+    "id": "playoff_nottscounty_salfordcity_030626_ultra",
     "teamA": {
-      "name": "Ecuador",
-      "icon": "https://media.api-sports.io/football/teams/2382.png"
+      "name": "Notts County",
+      "icon": "https://media.api-sports.io/football/teams/2617.png"
     },
     "teamB": {
-      "name": "Saudi Arabia",
-      "icon": "https://media.api-sports.io/football/teams/23.png"
+      "name": "Salford City",
+      "icon": "https://media.api-sports.io/football/teams/1355.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "ECUADOR WIN",
-    "date": "2026-05-31"
+    "leagueName": "Promotion Play-offs - Final",
+    "prediction": "NOTTS COUNTY WIN",
+    "date": "2026-06-03"
   },
   {
-    "id": "friendly_southkorea_trinidadandtobago_310526_ultra",
+    "id": "playoff_stmirren_partickthistle_030626_ultra",
     "teamA": {
-      "name": "South Korea",
-      "icon": "https://media.api-sports.io/football/teams/1570.png"
+      "name": "St. Mirren",
+      "icon": "https://media.api-sports.io/football/teams/2578.png"
     },
     "teamB": {
-      "name": "Trinidad and Tobago",
-      "icon": "https://media.api-sports.io/football/teams/2384.png"
+      "name": "Partick Thistle",
+      "icon": "https://media.api-sports.io/football/teams/2584.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "SOUTH KOREA WIN & OVER 2.5 GOALS",
-    "date": "2026-05-31"
+    "leagueName": "Scottish Premiership Play-offs - Final",
+    "prediction": "ST. MIRREN WIN",
+    "date": "2026-06-03"
   },
   {
-    "id": "friendly_mexico_australia_310526_ultra",
+    "id": "u17_croatia_belgium_030626_ultra",
     "teamA": {
-      "name": "Mexico",
-      "icon": "https://media.api-sports.io/football/teams/16.png"
+      "name": "Croatia U17",
+      "icon": "https://media.api-sports.io/football/teams/5546.png"
     },
     "teamB": {
-      "name": "Australia",
-      "icon": "https://media.api-sports.io/football/teams/20.png"
+      "name": "Belgium U17",
+      "icon": "https://media.api-sports.io/football/teams/5548.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "MEXICO WIN",
-    "date": "2026-05-31"
+    "leagueName": "UEFA Under-17 Championship",
+    "prediction": "BELGIUM U17 WIN",
+    "date": "2026-06-03"
   },
   {
-    "id": "friendly_japan_iceland_310526_ultra",
+    "id": "u17_estonia_spain_030626_ultra",
     "teamA": {
-      "name": "Japan",
-      "icon": "https://media.api-sports.io/football/teams/25.png"
+      "name": "Estonia U17",
+      "icon": "https://media.api-sports.io/football/teams/5556.png"
     },
     "teamB": {
-      "name": "Iceland",
-      "icon": "https://media.api-sports.io/football/teams/1117.png"
+      "name": "Spain U17",
+      "icon": "https://media.api-sports.io/football/teams/5561.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "JAPAN WIN",
-    "date": "2026-05-31"
+    "leagueName": "UEFA Under-17 Championship",
+    "prediction": "SPAIN U17 WIN & OVER 2.5 GOALS",
+    "date": "2026-06-03"
   },
   {
-    "id": "friendly_switzerland_jordan_310526_ultra",
+    "id": "ireland_derrycity_shelbourne_030626_ultra",
     "teamA": {
-      "name": "Switzerland",
-      "icon": "https://media.api-sports.io/football/teams/1118.png"
+      "name": "Derry City",
+      "icon": "https://media.api-sports.io/football/teams/845.png"
     },
     "teamB": {
-      "name": "Jordan",
-      "icon": "https://media.api-sports.io/football/teams/1569.png"
+      "name": "Shelbourne",
+      "icon": "https://media.api-sports.io/football/teams/846.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "SWITZERLAND WIN",
-    "date": "2026-05-31"
+    "leagueName": "Irish Premier Division",
+    "prediction": "DRAW",
+    "date": "2026-06-03"
   },
   {
-    "id": "friendly_czechrepublic_kosovo_310526_ultra",
+    "id": "ireland_bohemians_shamrockrovers_030626_ultra",
     "teamA": {
-      "name": "Czech Republic",
-      "icon": "https://media.api-sports.io/football/teams/1114.png"
+      "name": "Bohemians",
+      "icon": "https://media.api-sports.io/football/teams/842.png"
     },
     "teamB": {
-      "name": "Kosovo",
-      "icon": "https://media.api-sports.io/football/teams/2386.png"
+      "name": "Shamrock Rovers",
+      "icon": "https://media.api-sports.io/football/teams/848.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "CZECH REPUBLIC WIN",
-    "date": "2026-05-31"
+    "leagueName": "Irish Premier Division",
+    "prediction": "SHAMROCK ROVERS WIN",
+    "date": "2026-06-03"
   },
   {
-    "id": "friendly_capeverde_serbia_310526_ultra",
+    "id": "bundesliga_playoff_paderborn_wolfsburg_030626_ultra",
     "teamA": {
-      "name": "Cape Verde",
-      "icon": "https://media.api-sports.io/football/teams/1575.png"
+      "name": "Paderborn",
+      "icon": "https://media.api-sports.io/football/teams/36.png"
     },
     "teamB": {
-      "name": "Serbia",
-      "icon": "https://media.api-sports.io/football/teams/635.png"
+      "name": "Wolfsburg",
+      "icon": "https://media.api-sports.io/football/teams/39.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "SERBIA WIN",
-    "date": "2026-05-31"
+    "leagueName": "German Bundesliga Playoff",
+    "prediction": "PADERBORN WIN",
+    "date": "2026-06-03"
   },
   {
-    "id": "friendly_poland_ukraine_310526_ultra",
+    "id": "austria_rapidvienna_ried_030626_ultra",
     "teamA": {
-      "name": "Poland",
-      "icon": "https://media.api-sports.io/football/teams/1098.png"
+      "name": "Rapid Vienna",
+      "icon": "https://media.api-sports.io/football/teams/781.png"
     },
     "teamB": {
-      "name": "Ukraine",
-      "icon": "https://media.api-sports.io/football/teams/1113.png"
+      "name": "Ried",
+      "icon": "https://media.api-sports.io/football/teams/790.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "POLAND WIN OR DRAW",
-    "date": "2026-05-31"
-  },
-  {
-    "id": "friendly_germany_finland_310526_ultra",
-    "teamA": {
-      "name": "Germany",
-      "icon": "https://media.api-sports.io/football/teams/25.png"
-    },
-    "teamB": {
-      "name": "Finland",
-      "icon": "https://media.api-sports.io/football/teams/1111.png"
-    },
-    "leagueName": "International Friendlies",
-    "prediction": "GERMANY WIN",
-    "date": "2026-05-31"
-  },
-  {
-    "id": "friendly_usa_senegal_310526_ultra",
-    "teamA": {
-      "name": "United States",
-      "icon": "https://media.api-sports.io/football/teams/2380.png"
-    },
-    "teamB": {
-      "name": "Senegal",
-      "icon": "https://media.api-sports.io/football/teams/5526.png"
-    },
-    "leagueName": "International Friendlies",
-    "prediction": "UNITED STATES WIN OR DRAW",
-    "date": "2026-05-31"
-  },
-  {
-    "id": "friendly_brazil_panama_310526_ultra",
-    "teamA": {
-      "name": "Brazil",
-      "icon": "https://media.api-sports.io/football/teams/6.png"
-    },
-    "teamB": {
-      "name": "Panama",
-      "icon": "https://media.api-sports.io/football/teams/26.png"
-    },
-    "leagueName": "International Friendlies",
-    "prediction": "BRAZIL WIN & OVER 2.5 GOALS",
-    "date": "2026-05-31"
-  },
-  {
-    "id": "friendly_singapore_mongolia_310526_ultra",
-    "teamA": {
-      "name": "Singapore",
-      "icon": "https://media.api-sports.io/football/teams/1564.png"
-    },
-    "teamB": {
-      "name": "Mongolia",
-      "icon": "https://media.api-sports.io/football/teams/1579.png"
-    },
-    "leagueName": "International Friendlies",
-    "prediction": "SINGAPORE WIN",
-    "date": "2026-05-31"
+    "leagueName": "Austrian Bundesliga Conference League Play-offs - Final",
+    "prediction": "RAPID VIENNA WIN & OVER 2.5 GOALS",
+    "date": "2026-06-03"
   }
 ]
