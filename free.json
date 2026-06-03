@@ -1,72 +1,72 @@
 [
   {
-    "id": "friendly_ecu_sau_310526_ultrasafe",
+    "id": "playoff_not_sal_030626_ultrasafe",
     "teamA": {
-      "name": "Ecuador",
-      "icon": "https://media.api-sports.io/football/teams/2382.png"
+      "name": "Notts County",
+      "icon": "https://media.api-sports.io/football/teams/2617.png"
     },
     "teamB": {
-      "name": "Saudi Arabia",
-      "icon": "https://media.api-sports.io/football/teams/23.png"
+      "name": "Salford City",
+      "icon": "https://media.api-sports.io/football/teams/1355.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Promotion Play-offs - Final",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-31"
+    "date": "2026-06-03"
   },
   {
-    "id": "friendly_kor_tri_310526_ultrasafe",
+    "id": "playoff_stm_par_030626_ultrasafe",
     "teamA": {
-      "name": "South Korea",
-      "icon": "https://media.api-sports.io/football/teams/1570.png"
+      "name": "St. Mirren",
+      "icon": "https://media.api-sports.io/football/teams/2578.png"
     },
     "teamB": {
-      "name": "Trinidad and Tobago",
-      "icon": "https://media.api-sports.io/football/teams/2384.png"
+      "name": "Partick Thistle",
+      "icon": "https://media.api-sports.io/football/teams/2584.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Scottish Premiership Play-offs - Final",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-31"
+    "date": "2026-06-03"
   },
   {
-    "id": "friendly_mex_aus_310526_ultrasafe",
+    "id": "u17_esp_est_030626_ultrasafe",
     "teamA": {
-      "name": "Mexico",
-      "icon": "https://media.api-sports.io/football/teams/16.png"
+      "name": "Spain U17",
+      "icon": "https://media.api-sports.io/football/teams/5561.png"
     },
     "teamB": {
-      "name": "Australia",
-      "icon": "https://media.api-sports.io/football/teams/20.png"
+      "name": "Estonia U17",
+      "icon": "https://media.api-sports.io/football/teams/5556.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "UEFA Under-17 Championship",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-31"
+    "date": "2026-06-03"
   },
   {
-    "id": "friendly_jpn_ice_310526_ultrasafe",
+    "id": "bundesliga_pad_wol_030626_ultrasafe",
     "teamA": {
-      "name": "Japan",
-      "icon": "https://media.api-sports.io/football/teams/25.png"
+      "name": "Paderborn",
+      "icon": "https://media.api-sports.io/football/teams/36.png"
     },
     "teamB": {
-      "name": "Iceland",
-      "icon": "https://media.api-sports.io/football/teams/1117.png"
+      "name": "Wolfsburg",
+      "icon": "https://media.api-sports.io/football/teams/39.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "German Bundesliga Playoff",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-31"
+    "date": "2026-06-03"
   },
   {
-    "id": "friendly_sui_jor_310526_ultrasafe",
+    "id": "austria_rap_ried_030626_ultrasafe",
     "teamA": {
-      "name": "Switzerland",
-      "icon": "https://media.api-sports.io/football/teams/1118.png"
+      "name": "Rapid Vienna",
+      "icon": "https://media.api-sports.io/football/teams/781.png"
     },
     "teamB": {
-      "name": "Jordan",
-      "icon": "https://media.api-sports.io/football/teams/1569.png"
+      "name": "Ried",
+      "icon": "https://media.api-sports.io/football/teams/790.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Austrian Bundesliga Conference League Play-offs - Final",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-05-31"
+    "date": "2026-06-03"
   }
 ]
