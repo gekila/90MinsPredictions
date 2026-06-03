@@ -1,44 +1,114 @@
 [
   {
-    "id": "friendly_ecuador_saudiarabia_310526_ultra",
+    "id": "playoff_nottscounty_salfordcity_030626_ultra",
     "teamA": {
-      "name": "Ecuador",
-      "icon": "https://media.api-sports.io/football/teams/2382.png"
+      "name": "Notts County",
+      "icon": "https://media.api-sports.io/football/teams/2617.png"
     },
     "teamB": {
-      "name": "Saudi Arabia",
-      "icon": "https://media.api-sports.io/football/teams/23.png"
+      "name": "Salford City",
+      "icon": "https://media.api-sports.io/football/teams/1355.png"
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Promotion Play-offs - Final",
     "prediction": "2-1",
-    "date": "2026-05-31"
+    "date": "2026-06-03"
   },
   {
-    "id": "friendly_southkorea_trinidadandtobago_310526_ultra",
+    "id": "playoff_stmirren_partickthistle_030626_ultra",
     "teamA": {
-      "name": "South Korea",
-      "icon": "https://media.api-sports.io/football/teams/1570.png"
+      "name": "St. Mirren",
+      "icon": "https://media.api-sports.io/football/teams/2578.png"
     },
     "teamB": {
-      "name": "Trinidad and Tobago",
-      "icon": "https://media.api-sports.io/football/teams/2384.png"
+      "name": "Partick Thistle",
+      "icon": "https://media.api-sports.io/football/teams/2584.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "5-0",
-    "date": "2026-05-31"
+    "leagueName": "Scottish Premiership Play-offs - Final",
+    "prediction": "2-0",
+    "date": "2026-06-03"
   },
   {
-    "id": "friendly_mexico_australia_310526_ultra",
+    "id": "u17_croatia_belgium_030626_ultra",
     "teamA": {
-      "name": "Mexico",
-      "icon": "https://media.api-sports.io/football/teams/16.png"
+      "name": "Croatia U17",
+      "icon": "https://media.api-sports.io/football/teams/5546.png"
     },
     "teamB": {
-      "name": "Australia",
-      "icon": "https://media.api-sports.io/football/teams/20.png"
+      "name": "Belgium U17",
+      "icon": "https://media.api-sports.io/football/teams/5548.png"
     },
-    "leagueName": "International Friendlies",
-    "prediction": "1-0",
-    "date": "2026-05-31"
+    "leagueName": "UEFA Under-17 Championship",
+    "prediction": "1-2",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "u17_estonia_spain_030626_ultra",
+    "teamA": {
+      "name": "Estonia U17",
+      "icon": "https://media.api-sports.io/football/teams/5556.png"
+    },
+    "teamB": {
+      "name": "Spain U17",
+      "icon": "https://media.api-sports.io/football/teams/5561.png"
+    },
+    "leagueName": "UEFA Under-17 Championship",
+    "prediction": "0-4",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "ireland_derrycity_shelbourne_030626_ultra",
+    "teamA": {
+      "name": "Derry City",
+      "icon": "https://media.api-sports.io/football/teams/845.png"
+    },
+    "teamB": {
+      "name": "Shelbourne",
+      "icon": "https://media.api-sports.io/football/teams/846.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "1-1",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "ireland_bohemians_shamrockrovers_030626_ultra",
+    "teamA": {
+      "name": "Bohemians",
+      "icon": "https://media.api-sports.io/football/teams/842.png"
+    },
+    "teamB": {
+      "name": "Shamrock Rovers",
+      "icon": "https://media.api-sports.io/football/teams/848.png"
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "1-2",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "bundesliga_playoff_paderborn_wolfsburg_030626_ultra",
+    "teamA": {
+      "name": "Paderborn",
+      "icon": "https://media.api-sports.io/football/teams/36.png"
+    },
+    "teamB": {
+      "name": "Wolfsburg",
+      "icon": "https://media.api-sports.io/football/teams/39.png"
+    },
+    "leagueName": "German Bundesliga Playoff",
+    "prediction": "2-1",
+    "date": "2026-06-03"
+  },
+  {
+    "id": "austria_rapidvienna_ried_030626_ultra",
+    "teamA": {
+      "name": "Rapid Vienna",
+      "icon": "https://media.api-sports.io/football/teams/781.png"
+    },
+    "teamB": {
+      "name": "Ried",
+      "icon": "https://media.api-sports.io/football/teams/790.png"
+    },
+    "leagueName": "Austrian Bundesliga Conference League Play-offs - Final",
+    "prediction": "3-1",
+    "date": "2026-06-03"
   }
 ]
