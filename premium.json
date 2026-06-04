@@ -1,44 +1,128 @@
 [
   {
-    "id": "friendly_ecu_sau_310526_ultra",
+    "id": "friendly_les_ken_040626_ultra",
     "teamA": {
-      "name": "Ecuador",
-      "icon": "https://media.api-sports.io/football/teams/2382.png"
+      "name": "Lesotho",
+      "icon": "https://media.api-sports.io/football/teams/1516.png"
     },
     "teamB": {
-      "name": "Saudi Arabia",
-      "icon": "https://media.api-sports.io/football/teams/23.png"
+      "name": "Kenya",
+      "icon": "https://media.api-sports.io/football/teams/1511.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "0-1",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "friendly_nir_gui_040626_ultra",
+    "teamA": {
+      "name": "Northern Ireland",
+      "icon": "https://media.api-sports.io/football/teams/1574.png"
+    },
+    "teamB": {
+      "name": "Guinea",
+      "icon": "https://media.api-sports.io/football/teams/1548.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "1-1",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "friendly_slo_cyp_040626_ultra",
+    "teamA": {
+      "name": "Slovenia",
+      "icon": "https://media.api-sports.io/football/teams/1576.png"
+    },
+    "teamB": {
+      "name": "Cyprus",
+      "icon": "https://media.api-sports.io/football/teams/1568.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "2-0",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "friendly_ira_mal_040626_ultra",
+    "teamA": {
+      "name": "Iran",
+      "icon": "https://media.api-sports.io/football/teams/1526.png"
+    },
+    "teamB": {
+      "name": "Mali",
+      "icon": "https://media.api-sports.io/football/teams/1545.png"
     },
     "leagueName": "International Friendlies",
     "prediction": "2-1",
-    "date": "2026-05-31"
+    "date": "2026-06-04"
   },
   {
-    "id": "friendly_kor_tri_310526_ultra",
+    "id": "friendly_swe_gre_040626_ultra",
     "teamA": {
-      "name": "South Korea",
-      "icon": "https://media.api-sports.io/football/teams/1570.png"
+      "name": "Sweden",
+      "icon": "https://media.api-sports.io/football/teams/1567.png"
     },
     "teamB": {
-      "name": "Trinidad and Tobago",
-      "icon": "https://media.api-sports.io/football/teams/2384.png"
+      "name": "Greece",
+      "icon": "https://media.api-sports.io/football/teams/1573.png"
     },
     "leagueName": "International Friendlies",
-    "prediction": "5-0",
-    "date": "2026-05-31"
+    "prediction": "1-1",
+    "date": "2026-06-04"
   },
   {
-    "id": "friendly_mex_aus_310526_ultra",
+    "id": "friendly_spa_irq_040626_ultra",
     "teamA": {
-      "name": "Mexico",
-      "icon": "https://media.api-sports.io/football/teams/16.png"
+      "name": "Spain",
+      "icon": "https://media.api-sports.io/football/teams/1565.png"
     },
     "teamB": {
-      "name": "Australia",
-      "icon": "https://media.api-sports.io/football/teams/20.png"
+      "name": "Iraq",
+      "icon": "https://media.api-sports.io/football/teams/1544.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "3-0",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "friendly_fra_civ_040626_ultra",
+    "teamA": {
+      "name": "France",
+      "icon": "https://media.api-sports.io/football/teams/1578.png"
+    },
+    "teamB": {
+      "name": "Ivory Coast",
+      "icon": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "2-0",
+    "date": "2026-06-04"
+  },
+  {
+    "id": "friendly_and_lie_040626_ultra",
+    "teamA": {
+      "name": "Andorra",
+      "icon": "https://media.api-sports.io/football/teams/1571.png"
+    },
+    "teamB": {
+      "name": "Liechtenstein",
+      "icon": "https://media.api-sports.io/football/teams/1575.png"
     },
     "leagueName": "International Friendlies",
     "prediction": "1-0",
-    "date": "2026-05-31"
+    "date": "2026-06-04"
+  },
+  {
+    "id": "friendly_mdv_pak_040626_ultra",
+    "teamA": {
+      "name": "Maldives",
+      "icon": "https://media.api-sports.io/football/teams/1555.png"
+    },
+    "teamB": {
+      "name": "Pakistan",
+      "icon": "https://media.api-sports.io/football/teams/1558.png"
+    },
+    "leagueName": "International Friendlies",
+    "prediction": "2-1",
+    "date": "2026-06-04"
   }
 ]
