@@ -1,5 +1,242 @@
 [
   {
+    "date": "Wednesday, 3rd June 2026",
+    "gamesList": [
+      {
+        "teamA": "Kyrgyzstan",
+        "teamB": "Kenya",
+        "prediction": "MATCH CANCELLED",
+        "odds": "C-C",
+        "results": "VOID"
+      },
+      {
+        "teamA": "Albania",
+        "teamB": "Israel",
+        "prediction": "ISRAEL WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Congo DR",
+        "teamB": "Denmark",
+        "prediction": "DRAW",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Luxembourg",
+        "teamB": "Italy",
+        "prediction": "ITALY WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Netherlands",
+        "teamB": "Algeria",
+        "prediction": "ALGERIA WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Poland",
+        "teamB": "Nigeria",
+        "prediction": "DRAW",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Haiti",
+        "teamB": "New Zealand",
+        "prediction": "HAITI WIN",
+        "odds": "4-0",
+        "results": "WIN"
+    }
+    ]
+  },
+  {
+    "date": "Tuesday, 2nd June 2026",
+    "gamesList": [
+      {
+        "teamA": "Colombia",
+        "teamB": "Costa Rica",
+        "prediction": "COLOMBIA WIN",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Canada",
+        "teamB": "Uzbekistan",
+        "prediction": "CANADA WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Croatia",
+        "teamB": "Belgium",
+        "prediction": "BELGIUM WIN",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Georgia",
+        "teamB": "Romania",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Morocco",
+        "teamB": "Madagascar",
+        "prediction": "MOROCCO WIN",
+        "odds": "4-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Wales",
+        "teamB": "Ghana",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+   }
+    ]
+  },
+  {
+    "date": "Monday, 1st June 2026",
+    "gamesList": [
+      {
+        "teamA": "Bulgaria",
+        "teamB": "Montenegro",
+        "prediction": "MONTENEGRO WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Slovakia",
+        "teamB": "Malta",
+        "prediction": "SLOVAKIA WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Norway",
+        "teamB": "Sweden",
+        "prediction": "NORWAY WIN",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Turkey",
+        "teamB": "North Macedonia",
+        "prediction": "TURKEY WIN",
+        "odds": "4-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Austria",
+        "teamB": "Tunisia",
+        "prediction": "AUSTRIA WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Maldives",
+        "teamB": "Afghanistan",
+        "prediction": "AFGHANISTAN WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Tajikistan",
+        "teamB": "Palestine",
+        "prediction": "MATCH CANCELLED",
+        "odds": "C-C",
+        "results": "VOID"
+  }
+    ]
+  },
+  {
+    "date": "Sunday, 31st May 2026",
+    "gamesList": [
+      {
+        "teamA": "Ecuador",
+        "teamB": "Saudi Arabia",
+        "prediction": "ECUADOR WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "South Korea",
+        "teamB": "Trinidad and Tobago",
+        "prediction": "SOUTH KOREA WIN",
+        "odds": "5-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mexico",
+        "teamB": "Australia",
+        "prediction": "MEXICO WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Japan",
+        "teamB": "Iceland",
+        "prediction": "JAPAN WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Switzerland",
+        "teamB": "Jordan",
+        "prediction": "SWITZERLAND WIN",
+        "odds": "4-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Czech Republic",
+        "teamB": "Kosovo",
+        "prediction": "CZECH REPUBLIC WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Cape Verde",
+        "teamB": "Serbia",
+        "prediction": "SERBIA WIN",
+        "odds": "3-0",
+        "results": "LOSS"
+      },
+      {
+        "teamA": "Poland",
+        "teamB": "Ukraine",
+        "prediction": "POLAND WIN",
+        "odds": "0-2",
+        "results": "LOSS"
+      },
+      {
+        "teamA": "Germany",
+        "teamB": "Finland",
+        "prediction": "GERMANY WIN",
+        "odds": "4-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "United States",
+        "teamB": "Senegal",
+        "prediction": "UNITED STATES WIN",
+        "odds": "3-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Brazil",
+        "teamB": "Panama",
+        "prediction": "BRAZIL WIN",
+        "odds": "6-2",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Saturday, 30th May 2026",
     "gamesList": [
       {
