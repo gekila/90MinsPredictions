@@ -1,44 +1,44 @@
 [
   {
-    "id": "friendly_spa_irq_040626_ultrasafe",
+    "id": "wwcq_cze_alb_050626_ultrasafe",
     "teamA": {
-      "name": "Spain",
-      "icon": "https://media.api-sports.io/football/teams/1565.png"
+      "name": "Czech Republic",
+      "icon": ""
     },
     "teamB": {
-      "name": "Iraq",
-      "icon": "https://media.api-sports.io/football/teams/1544.png"
+      "name": "Albania",
+      "icon": ""
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-06-04"
+    "date": "2026-06-05"
   },
   {
-    "id": "friendly_slo_cyp_040626_ultrasafe",
+    "id": "wwcq_sui_mlt_050626_ultrasafe",
     "teamA": {
-      "name": "Slovenia",
-      "icon": "https://media.api-sports.io/football/teams/1576.png"
+      "name": "Switzerland",
+      "icon": ""
     },
     "teamB": {
-      "name": "Cyprus",
-      "icon": "https://media.api-sports.io/football/teams/1568.png"
+      "name": "Malta",
+      "icon": ""
     },
-    "leagueName": "International Friendlies",
+    "leagueName": "Women's European World Cup Qualifiers",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-06-04"
+    "date": "2026-06-05"
   },
   {
-    "id": "friendly_fra_civ_040626_ultrasafe",
+    "id": "wwcq_fra_pol_050626_ultrasafe",
     "teamA": {
+      "name": "Poland",
+      "icon": ""
+    },
+    "teamB": {
       "name": "France",
-      "icon": "https://media.api-sports.io/football/teams/1578.png"
+      "icon": ""
     },
-    "teamB": {
-      "name": "Ivory Coast",
-      "icon": "https://media.api-sports.io/football/teams/1504.png"
-    },
-    "leagueName": "International Friendlies",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-06-04"
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "AWAY WIN OR DRAW",
+    "date": "2026-06-05"
   }
 ]
