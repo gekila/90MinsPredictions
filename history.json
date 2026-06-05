@@ -1,5 +1,80 @@
 [
   {
+    "date": "Thursday, 4th June 2026",
+    "gamesList": [
+      {
+        "teamA": "Panama",
+        "teamB": "Dominican Republic",
+        "prediction": "PANAMA WIN",
+        "odds": "4-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "South Korea",
+        "teamB": "El Salvador",
+        "prediction": "SOUTH KOREA WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lesotho",
+        "teamB": "Kenya",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Northern Ireland",
+        "teamB": "Guinea",
+        "prediction": "HOME WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Slovenia",
+        "teamB": "Cyprus",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Iran",
+        "teamB": "Mali",
+        "prediction": "IRAN WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sweden",
+        "teamB": "Greece",
+        "prediction": "DRAW",
+        "odds": "2-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Spain",
+        "teamB": "Iraq",
+        "prediction": "SPAIN WIN & UNDER 2.5 GOALS",
+        "odds": "1-1",
+        "results": "LOSS"
+      },
+      {
+        "teamA": "France",
+        "teamB": "Ivory Coast",
+        "prediction": "AWAY WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Andorra",
+        "teamB": "Liechtenstein",
+        "prediction": "ANDORRA WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Wednesday, 3rd June 2026",
     "gamesList": [
       {
