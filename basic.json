@@ -1,156 +1,212 @@
 [
   {
-    "id": "friendly_panama_dominicanrepublic_040626_ultra",
+    "id": "wwcq_bosnia_lithuania_050626_ultra",
     "teamA": {
-      "name": "Panama",
-      "icon": "https://media.api-sports.io/football/teams/1564.png"
+      "name": "Bosnia-Herzegovina",
+      "icon": ""
     },
     "teamB": {
-      "name": "Dominican Republic",
-      "icon": "https://media.api-sports.io/football/teams/1570.png"
+      "name": "Lithuania",
+      "icon": ""
     },
-    "leagueName": "International Friendly",
-    "prediction": "PANAMA WIN",
-    "date": "2026-06-04"
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "BOSNIA-HERZEGOVINA WIN",
+    "date": "2026-06-05"
   },
   {
-    "id": "friendly_southkorea_elsalvador_040626_ultra",
+    "id": "wwcq_czechrepublic_albania_050626_ultra",
     "teamA": {
-      "name": "South Korea",
-      "icon": "https://media.api-sports.io/football/teams/1569.png"
+      "name": "Czech Republic",
+      "icon": ""
     },
     "teamB": {
-      "name": "El Salvador",
-      "icon": "https://media.api-sports.io/football/teams/1579.png"
+      "name": "Albania",
+      "icon": ""
     },
-    "leagueName": "International Friendly",
-    "prediction": "SOUTH KOREA WIN",
-    "date": "2026-06-04"
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "CZECH REPUBLIC WIN",
+    "date": "2026-06-05"
   },
   {
-    "id": "friendly_lesotho_kenya_040626_ultra",
+    "id": "wwcq_montenegro_wales_050626_ultra",
     "teamA": {
-      "name": "Lesotho",
-      "icon": "https://media.api-sports.io/football/teams/1516.png"
+      "name": "Montenegro",
+      "icon": ""
     },
     "teamB": {
-      "name": "Kenya",
-      "icon": "https://media.api-sports.io/football/teams/1511.png"
+      "name": "Wales",
+      "icon": ""
     },
-    "leagueName": "International Friendly",
-    "prediction": "KENYA WIN",
-    "date": "2026-06-04"
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "WALES WIN",
+    "date": "2026-06-05"
   },
   {
-    "id": "friendly_northernireland_guinea_040626_ultra",
+    "id": "wwcq_italy_serbia_050626_ultra",
     "teamA": {
-      "name": "Northern Ireland",
-      "icon": "https://media.api-sports.io/football/teams/1574.png"
+      "name": "Italy",
+      "icon": ""
     },
     "teamB": {
-      "name": "Guinea",
-      "icon": "https://media.api-sports.io/football/teams/1548.png"
+      "name": "Serbia",
+      "icon": ""
     },
-    "leagueName": "International Friendly",
-    "prediction": "DRAW",
-    "date": "2026-06-04"
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "ITALY WIN",
+    "date": "2026-06-05"
   },
   {
-    "id": "friendly_slovenia_cyprus_040626_ultra",
+    "id": "wwcq_liechtenstein_estonia_050626_ultra",
     "teamA": {
-      "name": "Slovenia",
-      "icon": "https://media.api-sports.io/football/teams/1576.png"
-    },
-    "teamB": {
-      "name": "Cyprus",
-      "icon": "https://media.api-sports.io/football/teams/1568.png"
-    },
-    "leagueName": "International Friendly",
-    "prediction": "SLOVENIA WIN",
-    "date": "2026-06-04"
-  },
-  {
-    "id": "friendly_iran_mali_040626_ultra",
-    "teamA": {
-      "name": "Iran",
-      "icon": "https://media.api-sports.io/football/teams/1526.png"
-    },
-    "teamB": {
-      "name": "Mali",
-      "icon": "https://media.api-sports.io/football/teams/1545.png"
-    },
-    "leagueName": "International Friendly",
-    "prediction": "IRAN WIN",
-    "date": "2026-06-04"
-  },
-  {
-    "id": "friendly_sweden_greece_040626_ultra",
-    "teamA": {
-      "name": "Sweden",
-      "icon": "https://media.api-sports.io/football/teams/1567.png"
-    },
-    "teamB": {
-      "name": "Greece",
-      "icon": "https://media.api-sports.io/football/teams/1573.png"
-    },
-    "leagueName": "International Friendly",
-    "prediction": "DRAW",
-    "date": "2026-06-04"
-  },
-  {
-    "id": "friendly_spain_iraq_040626_ultra",
-    "teamA": {
-      "name": "Spain",
-      "icon": "https://media.api-sports.io/football/teams/1565.png"
-    },
-    "teamB": {
-      "name": "Iraq",
-      "icon": "https://media.api-sports.io/football/teams/1544.png"
-    },
-    "leagueName": "International Friendly",
-    "prediction": "SPAIN WIN & OVER 2.5 GOALS",
-    "date": "2026-06-04"
-  },
-  {
-    "id": "friendly_france_ivorycoast_040626_ultra",
-    "teamA": {
-      "name": "France",
-      "icon": "https://media.api-sports.io/football/teams/1578.png"
-    },
-    "teamB": {
-      "name": "Ivory Coast",
-      "icon": "https://media.api-sports.io/football/teams/1504.png"
-    },
-    "leagueName": "International Friendly",
-    "prediction": "FRANCE WIN",
-    "date": "2026-06-04"
-  },
-  {
-    "id": "friendly_andorra_liechtenstein_040626_ultra",
-    "teamA": {
-      "name": "Andorra",
-      "icon": "https://media.api-sports.io/football/teams/1571.png"
-    },
-    "teamB": {
       "name": "Liechtenstein",
-      "icon": "https://media.api-sports.io/football/teams/1575.png"
-    },
-    "leagueName": "International Friendly 2",
-    "prediction": "ANDORRA WIN",
-    "date": "2026-06-04"
-  },
-  {
-    "id": "friendly_maldives_pakistan_040626_ultra",
-    "teamA": {
-      "name": "Maldives",
-      "icon": "https://media.api-sports.io/football/teams/1555.png"
+      "icon": ""
     },
     "teamB": {
-      "name": "Pakistan",
-      "icon": "https://media.api-sports.io/football/teams/1558.png"
+      "name": "Estonia",
+      "icon": ""
     },
-    "leagueName": "International Friendly 3",
-    "prediction": "MALDIVES WIN",
-    "date": "2026-06-04"
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "ESTONIA WIN",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "wwcq_denmark_sweden_050626_ultra",
+    "teamA": {
+      "name": "Denmark",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Sweden",
+      "icon": ""
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DRAW",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "wwcq_bulgaria_gibraltar_050626_ultra",
+    "teamA": {
+      "name": "Bulgaria",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Gibraltar",
+      "icon": ""
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "BULGARIA WIN",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "wwcq_poland_france_050626_ultra",
+    "teamA": {
+      "name": "Poland",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "France",
+      "icon": ""
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "FRANCE WIN",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "wwcq_turkey_northernireland_050626_ultra",
+    "teamA": {
+      "name": "Turkey",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Northern Ireland",
+      "icon": ""
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "TURKEY WIN",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "wwcq_kosovo_croatia_050626_ultra",
+    "teamA": {
+      "name": "Kosovo",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Croatia",
+      "icon": ""
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "CROATIA WIN",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "wwcq_switzerland_malta_050626_ultra",
+    "teamA": {
+      "name": "Switzerland",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Malta",
+      "icon": ""
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "SWITZERLAND WIN & OVER 2.5 GOALS",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "wwcq_ireland_netherlands_050626_ultra",
+    "teamA": {
+      "name": "Republic of Ireland",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Netherlands",
+      "icon": ""
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "NETHERLANDS WIN",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "wwcq_slovakia_finland_050626_ultra",
+    "teamA": {
+      "name": "Slovakia",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Finland",
+      "icon": ""
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "FINLAND WIN",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "wwcq_azerbaijan_hungary_050626_ultra",
+    "teamA": {
+      "name": "Azerbaijan",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Hungary",
+      "icon": ""
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "HUNGARY WIN",
+    "date": "2026-06-05"
+  },
+  {
+    "id": "wwcq_ukraine_iceland_050626_ultra",
+    "teamA": {
+      "name": "Ukraine",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Iceland",
+      "icon": ""
+    },
+    "leagueName": "Women's European World Cup Qualifiers",
+    "prediction": "DRAW",
+    "date": "2026-06-05"
   }
 ]
