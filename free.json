@@ -1,44 +1,16 @@
 [
   {
-    "id": "wwcq_cze_alb_050626_ultrasafe",
+    "id": "mauricerevello_por_can_110626_ultrasafe",
     "teamA": {
-      "name": "Czech Republic",
+      "name": "Portugal U20",
       "icon": ""
     },
     "teamB": {
-      "name": "Albania",
+      "name": "Canada U20",
       "icon": ""
     },
-    "leagueName": "Women's European World Cup Qualifiers",
+    "leagueName": "Tournoi Maurice Revello",
     "prediction": "HOME WIN OR DRAW",
-    "date": "2026-06-05"
-  },
-  {
-    "id": "wwcq_sui_mlt_050626_ultrasafe",
-    "teamA": {
-      "name": "Switzerland",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Malta",
-      "icon": ""
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-06-05"
-  },
-  {
-    "id": "wwcq_fra_pol_050626_ultrasafe",
-    "teamA": {
-      "name": "Poland",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "France",
-      "icon": ""
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "AWAY WIN OR DRAW",
-    "date": "2026-06-05"
+    "date": "2026-06-11"
   }
 ]
