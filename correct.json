@@ -1,58 +1,86 @@
 [
   {
-    "id": "friendly_mexico_southafrica_110626_ultra",
+    "id": "worldcup_canada_bosnia_120626_ultra",
     "teamA": {
-      "name": "Mexico",
+      "name": "Canada",
       "icon": ""
     },
     "teamB": {
-      "name": "South Africa",
+      "name": "Bosnia-Herzegovina",
       "icon": ""
     },
-    "leagueName": "International Friendly",
-    "prediction": "2-0",
-    "date": "2026-06-11"
+    "leagueName": "FIFA World Cup Group B",
+    "prediction": "2-1",
+    "date": "2026-06-12"
   },
   {
-    "id": "friendly_bolivia_algeria_110626_ultra",
+    "id": "loi_derry_bohemians_120626_ultra",
     "teamA": {
-      "name": "Bolivia",
+      "name": "Derry City",
       "icon": ""
     },
     "teamB": {
-      "name": "Algeria",
+      "name": "Bohemians",
       "icon": ""
     },
-    "leagueName": "International Friendly",
-    "prediction": "0-4",
-    "date": "2026-06-11"
-  },
-  {
-    "id": "mauricerevello_venezuelau20_japanu20_110626_ultra",
-    "teamA": {
-      "name": "Venezuela U20",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Japan U20",
-      "icon": ""
-    },
-    "leagueName": "Tournoi Maurice Revello",
+    "leagueName": "Irish Premier Division",
     "prediction": "1-2",
-    "date": "2026-06-11"
+    "date": "2026-06-12"
   },
   {
-    "id": "mauricerevello_portugalu20_canadau20_110626_ultra",
+    "id": "loi_galway_dundalk_120626_ultra",
     "teamA": {
-      "name": "Portugal U20",
+      "name": "Galway United",
       "icon": ""
     },
     "teamB": {
-      "name": "Canada U20",
+      "name": "Dundalk",
       "icon": ""
     },
-    "leagueName": "Tournoi Maurice Revello",
-    "prediction": "3-1",
-    "date": "2026-06-11"
+    "leagueName": "Irish Premier Division",
+    "prediction": "1-1",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "loi_stpats_drogheda_120626_ultra",
+    "teamA": {
+      "name": "St Patrick's Athletic",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Drogheda United",
+      "icon": ""
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "2-0",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "loi_waterford_sligo_120626_ultra",
+    "teamA": {
+      "name": "Waterford",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Sligo Rovers",
+      "icon": ""
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "1-1",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "loi_shelbourne_shamrock_120626_ultra",
+    "teamA": {
+      "name": "Shelbourne",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Shamrock Rovers",
+      "icon": ""
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "0-2",
+    "date": "2026-06-12"
   }
 ]
