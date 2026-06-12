@@ -1,58 +1,86 @@
 [
   {
-    "id": "friendly_mexico_southafrica_110626_ultra",
+    "id": "worldcup_canada_bosnia_120626_ultra",
     "teamA": {
-      "name": "Mexico",
+      "name": "Canada",
       "icon": ""
     },
     "teamB": {
-      "name": "South Africa",
+      "name": "Bosnia-Herzegovina",
       "icon": ""
     },
-    "leagueName": "International Friendly",
-    "prediction": "MEXICO WIN",
-    "date": "2026-06-11"
+    "leagueName": "FIFA World Cup Group B",
+    "prediction": "CANADA WIN",
+    "date": "2026-06-12"
   },
   {
-    "id": "friendly_bolivia_algeria_110626_ultra",
+    "id": "loi_derry_bohemians_120626_ultra",
     "teamA": {
-      "name": "Bolivia",
+      "name": "Derry City",
       "icon": ""
     },
     "teamB": {
-      "name": "Algeria",
+      "name": "Bohemians",
       "icon": ""
     },
-    "leagueName": "International Friendly",
-    "prediction": "ALGERIA WIN",
-    "date": "2026-06-11"
+    "leagueName": "Irish Premier Division",
+    "prediction": "BOHEMIANS WIN",
+    "date": "2026-06-12"
   },
   {
-    "id": "mauricerevello_venezuelau20_japanu20_110626_ultra",
+    "id": "loi_galway_dundalk_120626_ultra",
     "teamA": {
-      "name": "Venezuela U20",
+      "name": "Galway United",
       "icon": ""
     },
     "teamB": {
-      "name": "Japan U20",
+      "name": "Dundalk",
       "icon": ""
     },
-    "leagueName": "Tournoi Maurice Revello",
-    "prediction": "JAPAN U20 WIN",
-    "date": "2026-06-11"
+    "leagueName": "Irish Premier Division",
+    "prediction": "DRAW",
+    "date": "2026-06-12"
   },
   {
-    "id": "mauricerevello_portugalu20_canadau20_110626_ultra",
+    "id": "loi_stpats_drogheda_120626_ultra",
     "teamA": {
-      "name": "Portugal U20",
+      "name": "St Patrick's Athletic",
       "icon": ""
     },
     "teamB": {
-      "name": "Canada U20",
+      "name": "Drogheda United",
       "icon": ""
     },
-    "leagueName": "Tournoi Maurice Revello",
-    "prediction": "PORTUGAL U20 WIN",
-    "date": "2026-06-11"
+    "leagueName": "Irish Premier Division",
+    "prediction": "ST PATRICK'S ATHLETIC WIN",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "loi_waterford_sligo_120626_ultra",
+    "teamA": {
+      "name": "Waterford",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Sligo Rovers",
+      "icon": ""
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "DRAW",
+    "date": "2026-06-12"
+  },
+  {
+    "id": "loi_shelbourne_shamrock_120626_ultra",
+    "teamA": {
+      "name": "Shelbourne",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Shamrock Rovers",
+      "icon": ""
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "SHAMROCK ROVERS WIN",
+    "date": "2026-06-12"
   }
 ]
