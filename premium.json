@@ -1,212 +1,170 @@
 [
   {
-    "id": "wwcq_bih_ltu_050626_ultra",
+    "id": "worldcup_qat_sui_130626_ultra",
     "teamA": {
-      "name": "Bosnia-Herzegovina",
+      "name": "Qatar",
       "icon": ""
     },
     "teamB": {
-      "name": "Lithuania",
-      "icon": ""
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "2-0",
-    "date": "2026-06-05"
-  },
-  {
-    "id": "wwcq_cze_alb_050626_ultra",
-    "teamA": {
-      "name": "Czech Republic",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Albania",
-      "icon": ""
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "3-0",
-    "date": "2026-06-05"
-  },
-  {
-    "id": "wwcq_mne_wal_050626_ultra",
-    "teamA": {
-      "name": "Montenegro",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Wales",
-      "icon": ""
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "0-2",
-    "date": "2026-06-05"
-  },
-  {
-    "id": "wwcq_ita_srb_050626_ultra",
-    "teamA": {
-      "name": "Italy",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Serbia",
-      "icon": ""
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "2-0",
-    "date": "2026-06-05"
-  },
-  {
-    "id": "wwcq_lie_est_050626_ultra",
-    "teamA": {
-      "name": "Liechtenstein",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Estonia",
-      "icon": ""
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "0-2",
-    "date": "2026-06-05"
-  },
-  {
-    "id": "wwcq_den_swe_050626_ultra",
-    "teamA": {
-      "name": "Denmark",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Sweden",
-      "icon": ""
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "1-1",
-    "date": "2026-06-05"
-  },
-  {
-    "id": "wwcq_bul_gib_050626_ultra",
-    "teamA": {
-      "name": "Bulgaria",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Gibraltar",
-      "icon": ""
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "3-0",
-    "date": "2026-06-05"
-  },
-  {
-    "id": "wwcq_pol_fra_050626_ultra",
-    "teamA": {
-      "name": "Poland",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "France",
-      "icon": ""
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "0-2",
-    "date": "2026-06-05"
-  },
-  {
-    "id": "wwcq_tur_nir_050626_ultra",
-    "teamA": {
-      "name": "Turkey",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Northern Ireland",
-      "icon": ""
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "2-1",
-    "date": "2026-06-05"
-  },
-  {
-    "id": "wwcq_kos_cro_050626_ultra",
-    "teamA": {
-      "name": "Kosovo",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Croatia",
-      "icon": ""
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "0-2",
-    "date": "2026-06-05"
-  },
-  {
-    "id": "wwcq_sui_mlt_050626_ultra",
-    "teamA": {
       "name": "Switzerland",
       "icon": ""
     },
-    "teamB": {
-      "name": "Malta",
-      "icon": ""
-    },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "4-0",
-    "date": "2026-06-05"
+    "leagueName": "FIFA World Cup Group B",
+    "prediction": "0-2",
+    "date": "2026-06-13"
   },
   {
-    "id": "wwcq_irl_ned_050626_ultra",
+    "id": "worldcup_bra_mar_130626_ultra",
     "teamA": {
-      "name": "Republic of Ireland",
+      "name": "Brazil",
       "icon": ""
     },
     "teamB": {
-      "name": "Netherlands",
+      "name": "Morocco",
       "icon": ""
     },
-    "leagueName": "Women's European World Cup Qualifiers",
+    "leagueName": "FIFA World Cup Group C",
+    "prediction": "3-1",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "worldcup_usa_par_130626_ultra",
+    "teamA": {
+      "name": "United States",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Paraguay",
+      "icon": ""
+    },
+    "leagueName": "FIFA World Cup Group D",
+    "prediction": "4-1",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "iwf_sau_lao_130626_ultra",
+    "teamA": {
+      "name": "Saudi Arabia Women",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Laos Women",
+      "icon": ""
+    },
+    "leagueName": "International Women Friendly",
+    "prediction": "2-0",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "veik_ilv_tps_130626_ultra",
+    "teamA": {
+      "name": "Ilves",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "TPS",
+      "icon": ""
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "2-1",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "veik_int_oul_130626_ultra",
+    "teamA": {
+      "name": "Inter Turku",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Oulu",
+      "icon": ""
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "2-0",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "veik_jar_hjk_130626_ultra",
+    "teamA": {
+      "name": "Jaro",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "HJK",
+      "icon": ""
+    },
+    "leagueName": "Finnish Veikkausliiga",
     "prediction": "1-3",
-    "date": "2026-06-05"
+    "date": "2026-06-13"
   },
   {
-    "id": "wwcq_svk_fin_050626_ultra",
+    "id": "veik_vps_kup_130626_ultra",
     "teamA": {
-      "name": "Slovakia",
+      "name": "VPS",
       "icon": ""
     },
     "teamB": {
-      "name": "Finland",
+      "name": "KuPS",
       "icon": ""
     },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "0-1",
-    "date": "2026-06-05"
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "1-2",
+    "date": "2026-06-13"
   },
   {
-    "id": "wwcq_aze_hun_050626_ultra",
+    "id": "veik_lah_sjk_130626_ultra",
     "teamA": {
-      "name": "Azerbaijan",
+      "name": "Lahti",
       "icon": ""
     },
     "teamB": {
-      "name": "Hungary",
+      "name": "SJK",
       "icon": ""
     },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "0-3",
-    "date": "2026-06-05"
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "1-2",
+    "date": "2026-06-13"
   },
   {
-    "id": "wwcq_ukr_isl_050626_ultra",
+    "id": "veik_mar_gni_130626_ultra",
     "teamA": {
-      "name": "Ukraine",
+      "name": "Mariehamn",
       "icon": ""
     },
     "teamB": {
-      "name": "Iceland",
+      "name": "Gnistan",
       "icon": ""
     },
-    "leagueName": "Women's European World Cup Qualifiers",
-    "prediction": "1-1",
-    "date": "2026-06-05"
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "1-2",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "tmr_civ_cod_130626_ultra",
+    "teamA": {
+      "name": "Côte d'Ivoire U23",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Congo DR U20",
+      "icon": ""
+    },
+    "leagueName": "Tournoi Maurice Revello 3rd Place Final",
+    "prediction": "2-1",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "tmr_por_tun_130626_ultra",
+    "teamA": {
+      "name": "Portugal U20",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Tunisia U23",
+      "icon": ""
+    },
+    "leagueName": "Tournoi Maurice Revello Final",
+    "prediction": "2-0",
+    "date": "2026-06-13"
   }
 ]
