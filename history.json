@@ -1,5 +1,59 @@
 [
   {
+    "date": "Friday, 12th June 2026",
+    "gamesList": [
+      {
+        "teamA": "South Korea",
+        "teamB": "Czech Republic",
+        "prediction": "SOUTH KOREA WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Canada",
+        "teamB": "Bosnia-Herzegovina",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Derry City",
+        "teamB": "Bohemians",
+        "prediction": "HOME WIN",
+        "odds": "4-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Galway United",
+        "teamB": "Dundalk",
+        "prediction": "AWAY WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "St Patrick's Athletic",
+        "teamB": "Drogheda United",
+        "prediction": "ST PATRICK'S ATHLETIC WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Waterford",
+        "teamB": "Sligo Rovers",
+        "prediction": "HOME OR DRAW",
+        "odds": "4-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Shelbourne",
+        "teamB": "Shamrock Rovers",
+        "prediction": "HOME WIN",
+        "odds": "2-1",
+        "results": "WIN"
+       }
+    ]
+  },
+  {
     "date": "Thursday, 4th June 2026",
     "gamesList": [
       {
