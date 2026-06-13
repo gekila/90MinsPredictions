@@ -1,16 +1,30 @@
 [
   {
-    "id": "loi_stpats_drogheda_120626_ultrasafe",
+    "id": "wc_qatar_switzerland_130626",
     "teamA": {
-      "name": "St Patrick's Athletic",
+      "name": "Qatar",
       "icon": ""
     },
     "teamB": {
-      "name": "Drogheda United",
+      "name": "Switzerland",
       "icon": ""
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "HOME WIN OR DRAW",
-    "date": "2026-06-12"
+    "leagueName": "FIFA World Cup 2026 - Group B",
+    "prediction": "AWAY WIN",
+    "date": "2026-06-13"
+  },
+  {
+    "id": "wc_brazil_morocco_130626",
+    "teamA": {
+      "name": "Brazil",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Morocco",
+      "icon": ""
+    },
+    "leagueName": "FIFA World Cup 2026 - Group C",
+    "prediction": "HOME WIN",
+    "date": "2026-06-13"
   }
 ]
