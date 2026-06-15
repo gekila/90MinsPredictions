@@ -1,170 +1,44 @@
 [
   {
-    "id": "worldcup_qatar_switzerland_130626_ultra",
+    "id": "worldcup_belgium_egypt_150626_ultra",
     "teamA": {
-      "name": "Qatar",
+      "name": "Belgium",
       "icon": ""
     },
     "teamB": {
-      "name": "Switzerland",
+      "name": "Egypt",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group B",
-    "prediction": "SWITZERLAND WIN",
-    "date": "2026-06-13"
+    "leagueName": "FIFA World Cup Group G",
+    "prediction": "BELGIUM WIN",
+    "date": "2026-06-15"
   },
   {
-    "id": "worldcup_brazil_morocco_130626_ultra",
+    "id": "worldcup_spain_capeverde_150626_ultra",
     "teamA": {
-      "name": "Brazil",
+      "name": "Spain",
       "icon": ""
     },
     "teamB": {
-      "name": "Morocco",
+      "name": "Cape Verde",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group C",
-    "prediction": "BRAZIL WIN",
-    "date": "2026-06-13"
+    "leagueName": "FIFA World Cup Group H",
+    "prediction": "SPAIN WIN",
+    "date": "2026-06-15"
   },
   {
-    "id": "worldcup_usa_paraguay_130626_ultra",
+    "id": "worldcup_saudiarabia_uruguay_150626_ultra",
     "teamA": {
-      "name": "United States",
+      "name": "Saudi Arabia",
       "icon": ""
     },
     "teamB": {
-      "name": "Paraguay",
+      "name": "Uruguay",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group D",
-    "prediction": "UNITED STATES WIN",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "friendlyw_saudiarabia_laos_130626_ultra",
-    "teamA": {
-      "name": "Saudi Arabia Women",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Laos Women",
-      "icon": ""
-    },
-    "leagueName": "International Women Friendly",
-    "prediction": "SAUDI ARABIA WOMEN WIN",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veikkausliiga_ilves_tps_130626_ultra",
-    "teamA": {
-      "name": "Ilves",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "TPS",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "ILVES WIN",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veikkausliiga_interturku_oulu_130626_ultra",
-    "teamA": {
-      "name": "Inter Turku",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Oulu",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "INTER TURKU WIN",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veikkausliiga_jaro_hjk_130626_ultra",
-    "teamA": {
-      "name": "Jaro",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "HJK",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "HJK WIN",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veikkausliiga_vps_kups_130626_ultra",
-    "teamA": {
-      "name": "VPS",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "KuPS",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "KUPS WIN",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veikkausliiga_lahti_sjk_130626_ultra",
-    "teamA": {
-      "name": "Lahti",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "SJK",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "SJK WIN",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veikkausliiga_mariehamn_gnistan_130626_ultra",
-    "teamA": {
-      "name": "Mariehamn",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Gnistan",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "GNISTAN WIN",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "mauricerevello_cotedivoire_congodr_130626_ultra",
-    "teamA": {
-      "name": "Côte d'Ivoire U23",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Congo DR U20",
-      "icon": ""
-    },
-    "leagueName": "Tournoi Maurice Revello 3rd Place Final",
-    "prediction": "CÔTE D'IVOIRE U23 WIN",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "mauricerevello_portugal_tunisia_130626_ultra",
-    "teamA": {
-      "name": "Portugal U20",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Tunisia U23",
-      "icon": ""
-    },
-    "leagueName": "Tournoi Maurice Revello Final",
-    "prediction": "PORTUGAL U20 WIN",
-    "date": "2026-06-13"
+    "leagueName": "FIFA World Cup Group H",
+    "prediction": "URUGUAY WIN",
+    "date": "2026-06-15"
   }
 ]
