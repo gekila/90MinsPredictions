@@ -1,14 +1,30 @@
 [
   {
-    "match": "Belgium vs Egypt",
-    "safe_pick": "Belgium Draw No Bet"
+    "id": "wc_qatar_switzerland_130626",
+    "teamA": {
+      "name": "Qatar",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Switzerland",
+      "icon": ""
+    },
+    "leagueName": "FIFA World Cup 2026 - Group B",
+    "prediction": "AWAY WIN",
+    "date": "2026-06-13"
   },
   {
-    "match": "Spain vs Cape Verde",
-    "safe_pick": "Spain Win & Over 1.5 Goals"
-  },
-  {
-    "match": "Saudi Arabia vs Uruguay",
-    "safe_pick": "Uruguay Double Chance"
+    "id": "wc_brazil_morocco_130626",
+    "teamA": {
+      "name": "Brazil",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Morocco",
+      "icon": ""
+    },
+    "leagueName": "FIFA World Cup 2026 - Group C",
+    "prediction": "HOME WIN",
+    "date": "2026-06-13"
   }
 ]
