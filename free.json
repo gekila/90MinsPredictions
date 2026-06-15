@@ -1,30 +1,44 @@
 [
   {
-    "id": "wc_qatar_switzerland_130626",
+    "id": "wc_belgium_egypt_150626",
     "teamA": {
-      "name": "Qatar",
+      "name": "Belgium",
       "icon": ""
     },
     "teamB": {
-      "name": "Switzerland",
+      "name": "Egypt",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup 2026 - Group B",
-    "prediction": "AWAY WIN",
-    "date": "2026-06-13"
+    "leagueName": "FIFA World Cup 2026 - Group G",
+    "prediction": "HOME WIN",
+    "date": "2026-06-15"
   },
   {
-    "id": "wc_brazil_morocco_130626",
+    "id": "wc_spain_capeverde_150626",
     "teamA": {
-      "name": "Brazil",
+      "name": "Spain",
       "icon": ""
     },
     "teamB": {
-      "name": "Morocco",
+      "name": "Cape Verde",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup 2026 - Group C",
+    "leagueName": "FIFA World Cup 2026 - Group H",
     "prediction": "HOME WIN",
-    "date": "2026-06-13"
+    "date": "2026-06-15"
+  },
+  {
+    "id": "wc_saudiarabia_uruguay_150626",
+    "teamA": {
+      "name": "Saudi Arabia",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Uruguay",
+      "icon": ""
+    },
+    "leagueName": "FIFA World Cup 2026 - Group H",
+    "prediction": "AWAY WIN",
+    "date": "2026-06-15"
   }
 ]
