@@ -1,44 +1,30 @@
 [
   {
-    "id": "worldcup_belgium_egypt_150626_ultra",
+    "id": "worldcup_france_senegal_160626_ultra",
     "teamA": {
-      "name": "Belgium",
+      "name": "France",
       "icon": ""
     },
     "teamB": {
-      "name": "Egypt",
+      "name": "Senegal",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group G",
-    "prediction": "BELGIUM WIN",
-    "date": "2026-06-15"
+    "leagueName": "FIFA World Cup Group I",
+    "prediction": "FRANCE WIN",
+    "date": "2026-06-16"
   },
   {
-    "id": "worldcup_spain_capeverde_150626_ultra",
+    "id": "worldcup_iraq_norway_160626_ultra",
     "teamA": {
-      "name": "Spain",
+      "name": "Iraq",
       "icon": ""
     },
     "teamB": {
-      "name": "Cape Verde",
+      "name": "Norway",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group H",
-    "prediction": "SPAIN WIN",
-    "date": "2026-06-15"
-  },
-  {
-    "id": "worldcup_saudiarabia_uruguay_150626_ultra",
-    "teamA": {
-      "name": "Saudi Arabia",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Uruguay",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Group H",
-    "prediction": "URUGUAY WIN",
-    "date": "2026-06-15"
+    "leagueName": "FIFA World Cup Group I",
+    "prediction": "NORWAY WIN",
+    "date": "2026-06-16"
   }
 ]
