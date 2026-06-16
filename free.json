@@ -1,44 +1,30 @@
 [
   {
-    "id": "wc_belgium_egypt_150626",
+    "id": "wc_france_senegal_160626",
     "teamA": {
-      "name": "Belgium",
+      "name": "France",
       "icon": ""
     },
     "teamB": {
-      "name": "Egypt",
+      "name": "Senegal",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup 2026 - Group G",
+    "leagueName": "FIFA World Cup 2026 - Group I",
     "prediction": "HOME WIN",
-    "date": "2026-06-15"
+    "date": "2026-06-16"
   },
   {
-    "id": "wc_spain_capeverde_150626",
+    "id": "wc_iraq_norway_160626",
     "teamA": {
-      "name": "Spain",
+      "name": "Iraq",
       "icon": ""
     },
     "teamB": {
-      "name": "Cape Verde",
+      "name": "Norway",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup 2026 - Group H",
-    "prediction": "HOME WIN",
-    "date": "2026-06-15"
-  },
-  {
-    "id": "wc_saudiarabia_uruguay_150626",
-    "teamA": {
-      "name": "Saudi Arabia",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Uruguay",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup 2026 - Group H",
+    "leagueName": "FIFA World Cup 2026 - Group I",
     "prediction": "AWAY WIN",
-    "date": "2026-06-15"
+    "date": "2026-06-16"
   }
 ]
