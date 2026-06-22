@@ -1,170 +1,72 @@
 [
   {
-    "id": "worldcup_qatar_switzerland_130626_ultra",
+    "id": "worldcup_newzealand_egypt_220626_ultra",
     "teamA": {
-      "name": "Qatar",
+      "name": "New Zealand",
       "icon": ""
     },
     "teamB": {
-      "name": "Switzerland",
+      "name": "Egypt",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group B",
-    "prediction": "0-2",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "worldcup_brazil_morocco_130626_ultra",
-    "teamA": {
-      "name": "Brazil",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Morocco",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Group C",
-    "prediction": "3-1",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "worldcup_usa_paraguay_130626_ultra",
-    "teamA": {
-      "name": "United States",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Paraguay",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Group D",
-    "prediction": "4-1",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "friendlyw_saudiarabia_laos_130626_ultra",
-    "teamA": {
-      "name": "Saudi Arabia Women",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Laos Women",
-      "icon": ""
-    },
-    "leagueName": "International Women Friendly",
-    "prediction": "2-0",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veikkausliiga_ilves_tps_130626_ultra",
-    "teamA": {
-      "name": "Ilves",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "TPS",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "2-1",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veikkausliiga_interturku_oulu_130626_ultra",
-    "teamA": {
-      "name": "Inter Turku",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Oulu",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "2-0",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veikkausliiga_jaro_hjk_130626_ultra",
-    "teamA": {
-      "name": "Jaro",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "HJK",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
+    "leagueName": "FIFA World Cup Group G",
     "prediction": "1-3",
-    "date": "2026-06-13"
+    "date": "2026-06-22"
   },
   {
-    "id": "veikkausliiga_vps_kups_130626_ultra",
+    "id": "worldcup_argentina_austria_220626_ultra",
     "teamA": {
-      "name": "VPS",
+      "name": "Argentina",
       "icon": ""
     },
     "teamB": {
-      "name": "KuPS",
+      "name": "Austria",
       "icon": ""
     },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "1-2",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veikkausliiga_lahti_sjk_130626_ultra",
-    "teamA": {
-      "name": "Lahti",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "SJK",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "1-2",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veikkausliiga_mariehamn_gnistan_130626_ultra",
-    "teamA": {
-      "name": "Mariehamn",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Gnistan",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "1-2",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "mauricerevello_cotedivoire_congodr_130626_ultra",
-    "teamA": {
-      "name": "Côte d'Ivoire U23",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Congo DR U20",
-      "icon": ""
-    },
-    "leagueName": "Tournoi Maurice Revello 3rd Place Final",
-    "prediction": "2-1",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "mauricerevello_portugal_tunisia_130626_ultra",
-    "teamA": {
-      "name": "Portugal U20",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Tunisia U23",
-      "icon": ""
-    },
-    "leagueName": "Tournoi Maurice Revello Final",
+    "leagueName": "FIFA World Cup Group J",
     "prediction": "2-0",
-    "date": "2026-06-13"
+    "date": "2026-06-22"
+  },
+  {
+    "id": "worldcup_france_iraq_220626_ultra",
+    "teamA": {
+      "name": "France",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Iraq",
+      "icon": ""
+    },
+    "leagueName": "FIFA World Cup Group I",
+    "prediction": "3-0",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "irishpremier_shelbourne_bohemians_220626_ultra",
+    "teamA": {
+      "name": "Shelbourne",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Bohemians",
+      "icon": ""
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "2-1",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "irishpremier_shamrockrovers_derrycity_220626_ultra",
+    "teamA": {
+      "name": "Shamrock Rovers",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Derry City",
+      "icon": ""
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "2-1",
+    "date": "2026-06-22"
   }
 ]
