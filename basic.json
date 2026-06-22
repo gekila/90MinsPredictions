@@ -1,30 +1,72 @@
 [
   {
-    "id": "worldcup_france_senegal_160626_ultra",
+    "id": "worldcup_newzealand_egypt_220626_ultra",
+    "teamA": {
+      "name": "New Zealand",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Egypt",
+      "icon": ""
+    },
+    "leagueName": "FIFA World Cup Group G",
+    "prediction": "EGYPT WIN",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "worldcup_argentina_austria_220626_ultra",
+    "teamA": {
+      "name": "Argentina",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Austria",
+      "icon": ""
+    },
+    "leagueName": "FIFA World Cup Group J",
+    "prediction": "ARGENTINA WIN",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "worldcup_france_iraq_220626_ultra",
     "teamA": {
       "name": "France",
       "icon": ""
     },
     "teamB": {
-      "name": "Senegal",
+      "name": "Iraq",
       "icon": ""
     },
     "leagueName": "FIFA World Cup Group I",
     "prediction": "FRANCE WIN",
-    "date": "2026-06-16"
+    "date": "2026-06-22"
   },
   {
-    "id": "worldcup_iraq_norway_160626_ultra",
+    "id": "ireland_shelbourne_bohemians_220626_ultra",
     "teamA": {
-      "name": "Iraq",
+      "name": "Shelbourne",
       "icon": ""
     },
     "teamB": {
-      "name": "Norway",
+      "name": "Bohemians",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group I",
-    "prediction": "NORWAY WIN",
-    "date": "2026-06-16"
+    "leagueName": "Irish Premier Division",
+    "prediction": "SHELBOURNE WIN",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "ireland_shamrockrovers_derrycity_220626_ultra",
+    "teamA": {
+      "name": "Shamrock Rovers",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Derry City",
+      "icon": ""
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "SHAMROCK ROVERS WIN",
+    "date": "2026-06-22"
   }
 ]
