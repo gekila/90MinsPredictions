@@ -1,30 +1,30 @@
 [
   {
-    "id": "wc_france_senegal_160626",
+    "id": "worldcup_argentina_austria_220626_ultrasafe",
+    "teamA": {
+      "name": "Argentina",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Austria",
+      "icon": ""
+    },
+    "leagueName": "FIFA World Cup 2026 - Group J",
+    "prediction": "HOME WIN",
+    "date": "2026-06-22"
+  },
+  {
+    "id": "worldcup_france_iraq_220626_ultrasafe",
     "teamA": {
       "name": "France",
       "icon": ""
     },
     "teamB": {
-      "name": "Senegal",
+      "name": "Iraq",
       "icon": ""
     },
     "leagueName": "FIFA World Cup 2026 - Group I",
     "prediction": "HOME WIN",
-    "date": "2026-06-16"
-  },
-  {
-    "id": "wc_iraq_norway_160626",
-    "teamA": {
-      "name": "Iraq",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Norway",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup 2026 - Group I",
-    "prediction": "AWAY WIN",
-    "date": "2026-06-16"
+    "date": "2026-06-22"
   }
 ]
