@@ -1,72 +1,114 @@
 [
   {
-    "id": "worldcup_newzealand_egypt_220626_ultra",
+    "id": "worldcup_portugal_uzbekistan_230626_ultra",
     "teamA": {
-      "name": "New Zealand",
+      "name": "Portugal",
       "icon": ""
     },
     "teamB": {
-      "name": "Egypt",
+      "name": "Uzbekistan",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group G",
-    "prediction": "EGYPT WIN",
-    "date": "2026-06-22"
+    "leagueName": "FIFA World Cup Group K",
+    "prediction": "PORTUGAL WIN",
+    "date": "2026-06-23"
   },
   {
-    "id": "worldcup_argentina_austria_220626_ultra",
+    "id": "worldcup_england_ghana_230626_ultra",
     "teamA": {
-      "name": "Argentina",
+      "name": "England",
       "icon": ""
     },
     "teamB": {
-      "name": "Austria",
+      "name": "Ghana",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group J",
-    "prediction": "ARGENTINA WIN",
-    "date": "2026-06-22"
+    "leagueName": "FIFA World Cup Group L",
+    "prediction": "ENGLAND WIN",
+    "date": "2026-06-23"
   },
   {
-    "id": "worldcup_france_iraq_220626_ultra",
+    "id": "veikkausliiga_kups_ilves_230626_ultra",
     "teamA": {
-      "name": "France",
+      "name": "KuPS",
       "icon": ""
     },
     "teamB": {
-      "name": "Iraq",
+      "name": "Ilves",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group I",
-    "prediction": "FRANCE WIN",
-    "date": "2026-06-22"
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "DRAW",
+    "date": "2026-06-23"
   },
   {
-    "id": "ireland_shelbourne_bohemians_220626_ultra",
+    "id": "veikkausliiga_lahti_tps_230626_ultra",
     "teamA": {
-      "name": "Shelbourne",
+      "name": "Lahti",
       "icon": ""
     },
     "teamB": {
-      "name": "Bohemians",
+      "name": "TPS",
       "icon": ""
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "SHELBOURNE WIN",
-    "date": "2026-06-22"
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "TPS WIN",
+    "date": "2026-06-23"
   },
   {
-    "id": "ireland_shamrockrovers_derrycity_220626_ultra",
+    "id": "veikkausliiga_vps_oulu_230626_ultra",
     "teamA": {
-      "name": "Shamrock Rovers",
+      "name": "VPS",
       "icon": ""
     },
     "teamB": {
-      "name": "Derry City",
+      "name": "Oulu",
       "icon": ""
     },
-    "leagueName": "Irish Premier Division",
-    "prediction": "SHAMROCK ROVERS WIN",
-    "date": "2026-06-22"
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "VPS WIN",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "veikkausliiga_interturku_sjk_230626_ultra",
+    "teamA": {
+      "name": "Inter Turku",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "SJK",
+      "icon": ""
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "DRAW",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "veikkausliiga_jaro_gnistan_230626_ultra",
+    "teamA": {
+      "name": "Jaro",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Gnistan",
+      "icon": ""
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "GNISTAN WIN",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "veikkausliiga_mariehamn_hjk_230626_ultra",
+    "teamA": {
+      "name": "Mariehamn",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "HJK",
+      "icon": ""
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "HJK WIN",
+    "date": "2026-06-23"
   }
 ]
