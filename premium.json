@@ -1,64 +1,50 @@
 [
   {
-    "id": "worldcup_qat_sui_130626_ultra",
+    "id": "worldcup_portugal_uzbekistan_230626_ultra",
     "teamA": {
-      "name": "Qatar",
+      "name": "Portugal",
       "icon": ""
     },
     "teamB": {
-      "name": "Switzerland",
+      "name": "Uzbekistan",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group B",
-    "prediction": "0-2",
-    "date": "2026-06-13"
+    "leagueName": "FIFA World Cup Group K",
+    "prediction": "3-0",
+    "date": "2026-06-23"
   },
   {
-    "id": "worldcup_bra_mar_130626_ultra",
+    "id": "worldcup_england_ghana_230626_ultra",
     "teamA": {
-      "name": "Brazil",
+      "name": "England",
       "icon": ""
     },
     "teamB": {
-      "name": "Morocco",
+      "name": "Ghana",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group C",
-    "prediction": "3-1",
-    "date": "2026-06-13"
+    "leagueName": "FIFA World Cup Group L",
+    "prediction": "2-1",
+    "date": "2026-06-23"
   },
   {
-    "id": "worldcup_usa_par_130626_ultra",
+    "id": "veik_kup_ilv_230626_ultra",
     "teamA": {
-      "name": "United States",
+      "name": "KuPS",
       "icon": ""
     },
     "teamB": {
-      "name": "Paraguay",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Group D",
-    "prediction": "4-1",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "iwf_sau_lao_130626_ultra",
-    "teamA": {
-      "name": "Saudi Arabia Women",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Laos Women",
-      "icon": ""
-    },
-    "leagueName": "International Women Friendly",
-    "prediction": "2-0",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veik_ilv_tps_130626_ultra",
-    "teamA": {
       "name": "Ilves",
+      "icon": ""
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "1-1",
+    "date": "2026-06-23"
+  },
+  {
+    "id": "veik_lah_tps_230626_ultra",
+    "teamA": {
+      "name": "Lahti",
       "icon": ""
     },
     "teamB": {
@@ -66,13 +52,13 @@
       "icon": ""
     },
     "leagueName": "Finnish Veikkausliiga",
-    "prediction": "2-1",
-    "date": "2026-06-13"
+    "prediction": "1-2",
+    "date": "2026-06-23"
   },
   {
-    "id": "veik_int_oul_130626_ultra",
+    "id": "veik_vps_oul_230626_ultra",
     "teamA": {
-      "name": "Inter Turku",
+      "name": "VPS",
       "icon": ""
     },
     "teamB": {
@@ -81,40 +67,12 @@
     },
     "leagueName": "Finnish Veikkausliiga",
     "prediction": "2-0",
-    "date": "2026-06-13"
+    "date": "2026-06-23"
   },
   {
-    "id": "veik_jar_hjk_130626_ultra",
+    "id": "veik_int_sjk_230626_ultra",
     "teamA": {
-      "name": "Jaro",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "HJK",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "1-3",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veik_vps_kup_130626_ultra",
-    "teamA": {
-      "name": "VPS",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "KuPS",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "1-2",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "veik_lah_sjk_130626_ultra",
-    "teamA": {
-      "name": "Lahti",
+      "name": "Inter Turku",
       "icon": ""
     },
     "teamB": {
@@ -122,13 +80,13 @@
       "icon": ""
     },
     "leagueName": "Finnish Veikkausliiga",
-    "prediction": "1-2",
-    "date": "2026-06-13"
+    "prediction": "1-1",
+    "date": "2026-06-23"
   },
   {
-    "id": "veik_mar_gni_130626_ultra",
+    "id": "veik_jar_gni_230626_ultra",
     "teamA": {
-      "name": "Mariehamn",
+      "name": "Jaro",
       "icon": ""
     },
     "teamB": {
@@ -137,34 +95,20 @@
     },
     "leagueName": "Finnish Veikkausliiga",
     "prediction": "1-2",
-    "date": "2026-06-13"
+    "date": "2026-06-23"
   },
   {
-    "id": "tmr_civ_cod_130626_ultra",
+    "id": "veik_mar_hjk_230626_ultra",
     "teamA": {
-      "name": "Côte d'Ivoire U23",
+      "name": "Mariehamn",
       "icon": ""
     },
     "teamB": {
-      "name": "Congo DR U20",
+      "name": "HJK",
       "icon": ""
     },
-    "leagueName": "Tournoi Maurice Revello 3rd Place Final",
-    "prediction": "2-1",
-    "date": "2026-06-13"
-  },
-  {
-    "id": "tmr_por_tun_130626_ultra",
-    "teamA": {
-      "name": "Portugal U20",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Tunisia U23",
-      "icon": ""
-    },
-    "leagueName": "Tournoi Maurice Revello Final",
-    "prediction": "2-0",
-    "date": "2026-06-13"
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "0-2",
+    "date": "2026-06-23"
   }
 ]
