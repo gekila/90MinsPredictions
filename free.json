@@ -1,44 +1,30 @@
 [
   {
-    "id": "worldcup_portugal_uzbekistan_230626_ultrasafe",
+    "id": "worldcup_morocco_haiti_240626_ultrasafe",
     "teamA": {
-      "name": "Portugal",
+      "name": "Morocco",
       "icon": ""
     },
     "teamB": {
-      "name": "Uzbekistan",
+      "name": "Haiti",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup 2026 - Group K",
+    "leagueName": "FIFA World Cup 2026 - Group C",
     "prediction": "HOME WIN",
-    "date": "2026-06-23"
+    "date": "2026-06-24"
   },
   {
-    "id": "worldcup_england_ghana_230626_ultrasafe",
+    "id": "worldcup_scotland_brazil_240626_ultrasafe",
     "teamA": {
-      "name": "England",
+      "name": "Scotland",
       "icon": ""
     },
     "teamB": {
-      "name": "Ghana",
+      "name": "Brazil",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup 2026 - Group L",
-    "prediction": "HOME WIN",
-    "date": "2026-06-23"
-  },
-  {
-    "id": "veik_mariehamn_hjk_230626_ultrasafe",
-    "teamA": {
-      "name": "Mariehamn",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "HJK",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
+    "leagueName": "FIFA World Cup 2026 - Group C",
     "prediction": "AWAY WIN",
-    "date": "2026-06-23"
+    "date": "2026-06-24"
   }
 ]
