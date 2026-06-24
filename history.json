@@ -1,5 +1,80 @@
 [
   {
+    "date": "Tuesday, 23rd June 2026",
+    "gamesList": [
+      {
+        "teamA": "Norway",
+        "teamB": "Senegal",
+        "prediction": "NORWAY WIN",
+        "odds": "3-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Jordan",
+        "teamB": "Algeria",
+        "prediction": "ALGERIA WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Portugal",
+        "teamB": "Uzbekistan",
+        "prediction": "PORTUGAL WIN",
+        "odds": "5-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "England",
+        "teamB": "Ghana",
+        "prediction": "DRAW",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "KuPS",
+        "teamB": "Ilves",
+        "prediction": "HOME WIN",
+        "odds": "4-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Lahti",
+        "teamB": "TPS",
+        "prediction": "DRAW",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "VPS",
+        "teamB": "Oulu",
+        "prediction": "HOME WIN",
+        "odds": "5-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Inter Turku",
+        "teamB": "SJK",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Jaro",
+        "teamB": "Gnistan",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mariehamn",
+        "teamB": "HJK",
+        "prediction": "AWAY WIN",
+        "odds": "0-4",
+        "results": "WIN"
+        }
+    ]
+  },
+  {
     "date": "Friday, 12th June 2026",
     "gamesList": [
       {
