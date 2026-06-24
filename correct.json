@@ -1,114 +1,86 @@
 [
   {
-    "id": "worldcup_portugal_uzbekistan_230626_ultra",
+    "id": "worldcup_panama_croatia_240626_ultra",
     "teamA": {
-      "name": "Portugal",
+      "name": "Panama",
       "icon": ""
     },
     "teamB": {
-      "name": "Uzbekistan",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Group K",
-    "prediction": "3-0",
-    "date": "2026-06-23"
-  },
-  {
-    "id": "worldcup_england_ghana_230626_ultra",
-    "teamA": {
-      "name": "England",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Ghana",
+      "name": "Croatia",
       "icon": ""
     },
     "leagueName": "FIFA World Cup Group L",
-    "prediction": "2-1",
-    "date": "2026-06-23"
+    "prediction": "0-1",
+    "date": "2026-06-24"
   },
   {
-    "id": "veikkausliiga_kups_ilves_230626_ultra",
+    "id": "worldcup_colombia_congodr_240626_ultra",
     "teamA": {
-      "name": "KuPS",
+      "name": "Colombia",
       "icon": ""
     },
     "teamB": {
-      "name": "Ilves",
+      "name": "Congo DR",
       "icon": ""
     },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "1-1",
-    "date": "2026-06-23"
+    "leagueName": "FIFA World Cup Group K",
+    "prediction": "0-0",
+    "date": "2026-06-24"
   },
   {
-    "id": "veikkausliiga_lahti_tps_230626_ultra",
+    "id": "worldcup_bosniaherzegovina_qatar_240626_ultra",
     "teamA": {
-      "name": "Lahti",
+      "name": "Bosnia-Herzegovina",
       "icon": ""
     },
     "teamB": {
-      "name": "TPS",
+      "name": "Qatar",
       "icon": ""
     },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "1-2",
-    "date": "2026-06-23"
-  },
-  {
-    "id": "veikkausliiga_vps_oulu_230626_ultra",
-    "teamA": {
-      "name": "VPS",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Oulu",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
+    "leagueName": "FIFA World Cup Group B",
     "prediction": "2-0",
-    "date": "2026-06-23"
+    "date": "2026-06-24"
   },
   {
-    "id": "veikkausliiga_interturku_sjk_230626_ultra",
+    "id": "worldcup_switzerland_canada_240626_ultra",
     "teamA": {
-      "name": "Inter Turku",
+      "name": "Switzerland",
       "icon": ""
     },
     "teamB": {
-      "name": "SJK",
+      "name": "Canada",
       "icon": ""
     },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "1-1",
-    "date": "2026-06-23"
+    "leagueName": "FIFA World Cup Group B",
+    "prediction": "2-1",
+    "date": "2026-06-24"
   },
   {
-    "id": "veikkausliiga_jaro_gnistan_230626_ultra",
+    "id": "worldcup_morocco_haiti_240626_ultra",
     "teamA": {
-      "name": "Jaro",
+      "name": "Morocco",
       "icon": ""
     },
     "teamB": {
-      "name": "Gnistan",
+      "name": "Haiti",
       "icon": ""
     },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "1-2",
-    "date": "2026-06-23"
+    "leagueName": "FIFA World Cup Group C",
+    "prediction": "3-0",
+    "date": "2026-06-24"
   },
   {
-    "id": "veikkausliiga_mariehamn_hjk_230626_ultra",
+    "id": "worldcup_scotland_brazil_240626_ultra",
     "teamA": {
-      "name": "Mariehamn",
+      "name": "Scotland",
       "icon": ""
     },
     "teamB": {
-      "name": "HJK",
+      "name": "Brazil",
       "icon": ""
     },
-    "leagueName": "Finnish Veikkausliiga",
+    "leagueName": "FIFA World Cup Group C",
     "prediction": "0-2",
-    "date": "2026-06-23"
+    "date": "2026-06-24"
   }
 ]
