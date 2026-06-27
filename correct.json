@@ -1,86 +1,86 @@
 [
   {
-    "id": "worldcup_panama_croatia_240626_ultra",
+    "id": "worldcup_croatia_ghana_270626_ultra",
+    "teamA": {
+      "name": "Croatia",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Ghana",
+      "icon": ""
+    },
+    "leagueName": "FIFA World Cup Group L",
+    "prediction": "2-0",
+    "date": "2026-06-27"
+  },
+  {
+    "id": "worldcup_panama_england_270626_ultra",
     "teamA": {
       "name": "Panama",
       "icon": ""
     },
     "teamB": {
-      "name": "Croatia",
+      "name": "England",
       "icon": ""
     },
     "leagueName": "FIFA World Cup Group L",
-    "prediction": "0-1",
-    "date": "2026-06-24"
-  },
-  {
-    "id": "worldcup_colombia_congodr_240626_ultra",
-    "teamA": {
-      "name": "Colombia",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Congo DR",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Group K",
-    "prediction": "0-0",
-    "date": "2026-06-24"
-  },
-  {
-    "id": "worldcup_bosniaherzegovina_qatar_240626_ultra",
-    "teamA": {
-      "name": "Bosnia-Herzegovina",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Qatar",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Group B",
-    "prediction": "2-0",
-    "date": "2026-06-24"
-  },
-  {
-    "id": "worldcup_switzerland_canada_240626_ultra",
-    "teamA": {
-      "name": "Switzerland",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Canada",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Group B",
-    "prediction": "2-1",
-    "date": "2026-06-24"
-  },
-  {
-    "id": "worldcup_morocco_haiti_240626_ultra",
-    "teamA": {
-      "name": "Morocco",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Haiti",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Group C",
-    "prediction": "3-0",
-    "date": "2026-06-24"
-  },
-  {
-    "id": "worldcup_scotland_brazil_240626_ultra",
-    "teamA": {
-      "name": "Scotland",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Brazil",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Group C",
     "prediction": "0-2",
-    "date": "2026-06-24"
+    "date": "2026-06-27"
+  },
+  {
+    "id": "womenu19_bosniaherzegovinau19_germanyu19_270626_ultra",
+    "teamA": {
+      "name": "Bosnia-Herzegovina U19",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Germany U19",
+      "icon": ""
+    },
+    "leagueName": "UEFA Women's Under 19 Championship Group A",
+    "prediction": "0-3",
+    "date": "2026-06-27"
+  },
+  {
+    "id": "csl_henan_shanghaiport_270626_ultra",
+    "teamA": {
+      "name": "Henan",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Shanghai Port",
+      "icon": ""
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "1-3",
+    "date": "2026-06-27"
+  },
+  {
+    "id": "csl_shenzhenpengcity_chengdurongcheng_270626_ultra",
+    "teamA": {
+      "name": "Shenzhen Peng City",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Chengdu Rongcheng",
+      "icon": ""
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "0-2",
+    "date": "2026-06-27"
+  },
+  {
+    "id": "veikkausliiga_mariehamn_interturku_270626_ultra",
+    "teamA": {
+      "name": "Mariehamn",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Inter Turku",
+      "icon": ""
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "1-2",
+    "date": "2026-06-27"
   }
 ]
