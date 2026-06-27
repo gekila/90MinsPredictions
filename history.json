@@ -1,5 +1,87 @@
 [
   {
+    "date": "Sunday, 28th June 2026",
+    "gamesList": [
+      {
+        "teamA": "Paraguay",
+        "teamB": "Australia",
+        "prediction": "DRAW",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Turkey",
+        "teamB": "United States",
+        "prediction": "TURKEY WIN",
+        "odds": "3-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Japan",
+        "teamB": "Sweden",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Tunisia",
+        "teamB": "Netherlands",
+        "prediction": "NETHERLANDS WIN",
+        "odds": "1-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Norway",
+        "teamB": "France",
+        "prediction": "FRANCE WIN",
+        "odds": "1-4",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Senegal",
+        "teamB": "Iraq",
+        "prediction": "SENEGAL WIN",
+        "odds": "5-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Shamrock Rovers",
+        "teamB": "Galway United",
+        "prediction": "HOME WIN",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Derry City",
+        "teamB": "Drogheda United",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Dundalk",
+        "teamB": "Waterford",
+        "prediction": "AWAY WIN",
+        "odds": "2-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bohemians",
+        "teamB": "St Patrick's Athletic",
+        "prediction": "HOME WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Qingdao Hainiu",
+        "teamB": "Yunnan Yukun",
+        "prediction": "HOME WIN",
+        "odds": "4-2",
+        "results": "WIN"
+     }
+    ]
+  },
+  {
     "date": "Tuesday, 23rd June 2026",
     "gamesList": [
       {
