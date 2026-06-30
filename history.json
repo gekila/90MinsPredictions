@@ -1,5 +1,38 @@
 [
   {
+    "date": "Monday, 29th June 2026",
+    "gamesList": [
+      {
+        "teamA": "Brazil",
+        "teamB": "Japan",
+        "prediction": "BRAZIL WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Germany",
+        "teamB": "Paraguay",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Italy U19",
+        "teamB": "Serbia U19",
+        "prediction": "ITALY U19 WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Croatia U19",
+        "teamB": "Ukraine U19",
+        "prediction": "UKRAINE U19 WIN",
+        "odds": "1-3",
+        "results": "WIN"
+    }
+    ]
+  },
+  {
     "date": "Sunday, 28th June 2026",
     "gamesList": [
       {
