@@ -1,36 +1,50 @@
 [
   {
-    "id": "worldcup_croatia_ghana_270626_ultra",
+    "id": "worldcup_ivorycoast_norway_300626_ultra",
     "teamA": {
-      "name": "Croatia",
+      "name": "Ivory Coast",
       "icon": ""
     },
     "teamB": {
-      "name": "Ghana",
+      "name": "Norway",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group L",
-    "prediction": "CROATIA WIN",
-    "date": "2026-06-27"
+    "leagueName": "FIFA World Cup Last 32",
+    "prediction": "NORWAY WIN",
+    "date": "2026-06-30"
   },
   {
-    "id": "worldcup_panama_england_270626_ultra",
+    "id": "worldcup_france_sweden_300626_ultra",
     "teamA": {
-      "name": "Panama",
+      "name": "France",
       "icon": ""
     },
     "teamB": {
-      "name": "England",
+      "name": "Sweden",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group L",
-    "prediction": "ENGLAND WIN",
-    "date": "2026-06-27"
+    "leagueName": "FIFA World Cup Last 32",
+    "prediction": "FRANCE WIN",
+    "date": "2026-06-30"
   },
   {
-    "id": "womenu19_bosniaherzegovinau19_germanyu19_270626_ultra",
+    "id": "womenu19_bosniaherzegovinau19_swedenu19_300626_ultra",
     "teamA": {
       "name": "Bosnia-Herzegovina U19",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Sweden U19",
+      "icon": ""
+    },
+    "leagueName": "UEFA Women's Under 19 Championship Group A",
+    "prediction": "SWEDEN U19 WIN",
+    "date": "2026-06-30"
+  },
+  {
+    "id": "womenu19_polandu19_germanyu19_300626_ultra",
+    "teamA": {
+      "name": "Poland U19",
       "icon": ""
     },
     "teamB": {
@@ -39,48 +53,6 @@
     },
     "leagueName": "UEFA Women's Under 19 Championship Group A",
     "prediction": "GERMANY U19 WIN",
-    "date": "2026-06-27"
-  },
-  {
-    "id": "csl_henan_shanghaiport_270626_ultra",
-    "teamA": {
-      "name": "Henan",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Shanghai Port",
-      "icon": ""
-    },
-    "leagueName": "Chinese Super League",
-    "prediction": "SHANGHAI PORT WIN",
-    "date": "2026-06-27"
-  },
-  {
-    "id": "csl_shenzhenpengcity_chengdurongcheng_270626_ultra",
-    "teamA": {
-      "name": "Shenzhen Peng City",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Chengdu Rongcheng",
-      "icon": ""
-    },
-    "leagueName": "Chinese Super League",
-    "prediction": "CHENGDU RONGCHENG WIN",
-    "date": "2026-06-27"
-  },
-  {
-    "id": "veikkausliiga_mariehamn_interturku_270626_ultra",
-    "teamA": {
-      "name": "Mariehamn",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Inter Turku",
-      "icon": ""
-    },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "INTER TURKU WIN",
-    "date": "2026-06-27"
+    "date": "2026-06-30"
   }
 ]
