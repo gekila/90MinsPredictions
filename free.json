@@ -1,22 +1,22 @@
 [
   {
-    "id": "worldcup_pan_eng_270626_ultrasafe",
+    "id": "worldcup_fra_swe_300626_ultrasafe",
     "teamA": {
-      "name": "Panama",
+      "name": "France",
       "icon": ""
     },
     "teamB": {
-      "name": "England",
+      "name": "Sweden",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup 2026 - Group L",
-    "prediction": "AWAY WIN",
-    "date": "2026-06-27"
+    "leagueName": "FIFA World Cup 2026 - Last 32",
+    "prediction": "HOME WIN",
+    "date": "2026-06-30"
   },
   {
-    "id": "wu19_bih_ger_270626_ultrasafe",
+    "id": "wu19_pol_ger_300626_ultrasafe",
     "teamA": {
-      "name": "Bosnia-Herzegovina U19",
+      "name": "Poland U19",
       "icon": ""
     },
     "teamB": {
@@ -25,20 +25,20 @@
     },
     "leagueName": "UEFA Women's Under 19 Championship - Group A",
     "prediction": "AWAY WIN",
-    "date": "2026-06-27"
+    "date": "2026-06-30"
   },
   {
-    "id": "csl_hen_shp_270626_ultrasafe",
+    "id": "wu19_bih_swe_300626_ultrasafe",
     "teamA": {
-      "name": "Henan",
+      "name": "Bosnia-Herzegovina U19",
       "icon": ""
     },
     "teamB": {
-      "name": "Shanghai Port",
+      "name": "Sweden U19",
       "icon": ""
     },
-    "leagueName": "Chinese Super League",
+    "leagueName": "UEFA Women's Under 19 Championship - Group A",
     "prediction": "AWAY WIN",
-    "date": "2026-06-27"
+    "date": "2026-06-30"
   }
 ]
