@@ -1,58 +1,86 @@
 [
   {
-    "id": "worldcup_ivorycoast_norway_300626_ultra",
+    "id": "worldcup_england_congodr_010726_ultra",
     "teamA": {
-      "name": "Ivory Coast",
+      "name": "England",
       "icon": ""
     },
     "teamB": {
-      "name": "Norway",
+      "name": "Congo DR",
       "icon": ""
     },
     "leagueName": "FIFA World Cup Last 32",
+    "prediction": "3-0",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "worldcup_belgium_senegal_010726_ultra",
+    "teamA": {
+      "name": "Belgium",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Senegal",
+      "icon": ""
+    },
+    "leagueName": "FIFA World Cup Last 32",
+    "prediction": "2-1",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "u19_denmarku19_spainu19_010726_ultra",
+    "teamA": {
+      "name": "Denmark U19",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Spain U19",
+      "icon": ""
+    },
+    "leagueName": "UEFA Under 19 Championship Group A",
     "prediction": "1-2",
-    "date": "2026-06-30"
+    "date": "2026-07-01"
   },
   {
-    "id": "worldcup_france_sweden_300626_ultra",
+    "id": "u19_walesu19_germanyu19_010726_ultra",
     "teamA": {
-      "name": "France",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Sweden",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Last 32",
-    "prediction": "2-0",
-    "date": "2026-06-30"
-  },
-  {
-    "id": "womenu19_bosniaherzegovinau19_swedenu19_300626_ultra",
-    "teamA": {
-      "name": "Bosnia-Herzegovina U19",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Sweden U19",
-      "icon": ""
-    },
-    "leagueName": "UEFA Women's Under 19 Championship Group A",
-    "prediction": "0-2",
-    "date": "2026-06-30"
-  },
-  {
-    "id": "womenu19_polandu19_germanyu19_300626_ultra",
-    "teamA": {
-      "name": "Poland U19",
+      "name": "Wales U19",
       "icon": ""
     },
     "teamB": {
       "name": "Germany U19",
       "icon": ""
     },
-    "leagueName": "UEFA Women's Under 19 Championship Group A",
-    "prediction": "0-3",
-    "date": "2026-06-30"
+    "leagueName": "UEFA Under 19 Championship Group A",
+    "prediction": "0-2",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "womenu19_austriau19_switzerlandu19_010726_ultra",
+    "teamA": {
+      "name": "Austria U19",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Switzerland U19",
+      "icon": ""
+    },
+    "leagueName": "UEFA Women's Under 19 Championship Group B",
+    "prediction": "2-1",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "womenu19_spainu19_icelandu19_010726_ultra",
+    "teamA": {
+      "name": "Spain U19",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Iceland U19",
+      "icon": ""
+    },
+    "leagueName": "UEFA Women's Under 19 Championship Group B",
+    "prediction": "3-0",
+    "date": "2026-07-01"
   }
 ]
