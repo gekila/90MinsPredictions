@@ -1,86 +1,86 @@
 [
   {
-    "id": "worldcup_cro_gha_270626_ultra",
+    "id": "worldcup_england_congodr_010726_ultra",
     "teamA": {
-      "name": "Croatia",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Ghana",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Group L",
-    "prediction": "2-0",
-    "date": "2026-06-27"
-  },
-  {
-    "id": "worldcup_pan_eng_270626_ultra",
-    "teamA": {
-      "name": "Panama",
-      "icon": ""
-    },
-    "teamB": {
       "name": "England",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Group L",
-    "prediction": "0-2",
-    "date": "2026-06-27"
+    "teamB": {
+      "name": "Congo DR",
+      "icon": ""
+    },
+    "leagueName": "FIFA World Cup Last 32",
+    "prediction": "3-0",
+    "date": "2026-07-01"
   },
   {
-    "id": "wu19_bih_ger_270626_ultra",
+    "id": "worldcup_belgium_senegal_010726_ultra",
     "teamA": {
-      "name": "Bosnia-Herzegovina U19",
+      "name": "Belgium",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Senegal",
+      "icon": ""
+    },
+    "leagueName": "FIFA World Cup Last 32",
+    "prediction": "2-1",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "u19_den_spa_010726_ultra",
+    "teamA": {
+      "name": "Denmark U19",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Spain U19",
+      "icon": ""
+    },
+    "leagueName": "UEFA Under 19 Championship Group A",
+    "prediction": "1-2",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "u19_wal_ger_010726_ultra",
+    "teamA": {
+      "name": "Wales U19",
       "icon": ""
     },
     "teamB": {
       "name": "Germany U19",
       "icon": ""
     },
-    "leagueName": "UEFA Women's Under 19 Championship Group A",
-    "prediction": "0-3",
-    "date": "2026-06-27"
-  },
-  {
-    "id": "csl_hen_shp_270626_ultra",
-    "teamA": {
-      "name": "Henan",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Shanghai Port",
-      "icon": ""
-    },
-    "leagueName": "Chinese Super League",
-    "prediction": "1-3",
-    "date": "2026-06-27"
-  },
-  {
-    "id": "csl_spc_crc_270626_ultra",
-    "teamA": {
-      "name": "Shenzhen Peng City",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Chengdu Rongcheng",
-      "icon": ""
-    },
-    "leagueName": "Chinese Super League",
+    "leagueName": "UEFA Under 19 Championship Group A",
     "prediction": "0-2",
-    "date": "2026-06-27"
+    "date": "2026-07-01"
   },
   {
-    "id": "veik_mar_int_270626_ultra",
+    "id": "wu19_aut_sui_010726_ultra",
     "teamA": {
-      "name": "Mariehamn",
+      "name": "Austria U19",
       "icon": ""
     },
     "teamB": {
-      "name": "Inter Turku",
+      "name": "Switzerland U19",
       "icon": ""
     },
-    "leagueName": "Finnish Veikkausliiga",
-    "prediction": "1-2",
-    "date": "2026-06-27"
+    "leagueName": "UEFA Women's Under 19 Championship Group B",
+    "prediction": "2-1",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "wu19_spa_ice_010726_ultra",
+    "teamA": {
+      "name": "Spain U19",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Iceland U19",
+      "icon": ""
+    },
+    "leagueName": "UEFA Women's Under 19 Championship Group B",
+    "prediction": "3-0",
+    "date": "2026-07-01"
   }
 ]
