@@ -1,44 +1,44 @@
 [
   {
-    "id": "worldcup_fra_swe_300626_ultrasafe",
+    "id": "worldcup_eng_congodr_010726_ultrasafe",
     "teamA": {
-      "name": "France",
+      "name": "England",
       "icon": ""
     },
     "teamB": {
-      "name": "Sweden",
+      "name": "Congo DR",
       "icon": ""
     },
     "leagueName": "FIFA World Cup 2026 - Last 32",
     "prediction": "HOME WIN",
-    "date": "2026-06-30"
+    "date": "2026-07-01"
   },
   {
-    "id": "wu19_pol_ger_300626_ultrasafe",
+    "id": "wu19_spa_ice_010726_ultrasafe",
     "teamA": {
-      "name": "Poland U19",
+      "name": "Spain U19",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Iceland U19",
+      "icon": ""
+    },
+    "leagueName": "UEFA Women's Under 19 Championship - Group B",
+    "prediction": "HOME WIN",
+    "date": "2026-07-01"
+  },
+  {
+    "id": "u19_wal_ger_010726_ultrasafe",
+    "teamA": {
+      "name": "Wales U19",
       "icon": ""
     },
     "teamB": {
       "name": "Germany U19",
       "icon": ""
     },
-    "leagueName": "UEFA Women's Under 19 Championship - Group A",
+    "leagueName": "UEFA Under 19 Championship - Group A",
     "prediction": "AWAY WIN",
-    "date": "2026-06-30"
-  },
-  {
-    "id": "wu19_bih_swe_300626_ultrasafe",
-    "teamA": {
-      "name": "Bosnia-Herzegovina U19",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Sweden U19",
-      "icon": ""
-    },
-    "leagueName": "UEFA Women's Under 19 Championship - Group A",
-    "prediction": "AWAY WIN",
-    "date": "2026-06-30"
+    "date": "2026-07-01"
   }
 ]
