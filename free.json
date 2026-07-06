@@ -1,44 +1,30 @@
 [
   {
-    "id": "worldcup_eng_congodr_010726_ultrasafe",
+    "id": "worldcup_por_spa_060726_ultrasafe",
     "teamA": {
-      "name": "England",
+      "name": "Portugal",
       "icon": ""
     },
     "teamB": {
-      "name": "Congo DR",
+      "name": "Spain",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup 2026 - Last 32",
-    "prediction": "HOME WIN",
-    "date": "2026-07-01"
-  },
-  {
-    "id": "wu19_spa_ice_010726_ultrasafe",
-    "teamA": {
-      "name": "Spain U19",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Iceland U19",
-      "icon": ""
-    },
-    "leagueName": "UEFA Women's Under 19 Championship - Group B",
-    "prediction": "HOME WIN",
-    "date": "2026-07-01"
-  },
-  {
-    "id": "u19_wal_ger_010726_ultrasafe",
-    "teamA": {
-      "name": "Wales U19",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Germany U19",
-      "icon": ""
-    },
-    "leagueName": "UEFA Under 19 Championship - Group A",
+    "leagueName": "FIFA World Cup 2026 - Last 16",
     "prediction": "AWAY WIN",
-    "date": "2026-07-01"
+    "date": "2026-07-06"
+  },
+  {
+    "id": "allsvenskan_bp_gais_060726_ultrasafe",
+    "teamA": {
+      "name": "Brommapojkarna",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "GAIS",
+      "icon": ""
+    },
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "AWAY WIN",
+    "date": "2026-07-06"
   }
 ]
