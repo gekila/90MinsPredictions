@@ -1,86 +1,44 @@
 [
   {
-    "id": "worldcup_england_congodr_010726_ultra",
+    "id": "worldcup_por_spa_060726_ultra",
     "teamA": {
-      "name": "England",
+      "name": "Portugal",
       "icon": ""
     },
     "teamB": {
-      "name": "Congo DR",
+      "name": "Spain",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Last 32",
-    "prediction": "3-0",
-    "date": "2026-07-01"
-  },
-  {
-    "id": "worldcup_belgium_senegal_010726_ultra",
-    "teamA": {
-      "name": "Belgium",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Senegal",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Last 32",
-    "prediction": "2-1",
-    "date": "2026-07-01"
-  },
-  {
-    "id": "u19_den_spa_010726_ultra",
-    "teamA": {
-      "name": "Denmark U19",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Spain U19",
-      "icon": ""
-    },
-    "leagueName": "UEFA Under 19 Championship Group A",
+    "leagueName": "FIFA World Cup Last 16",
     "prediction": "1-2",
-    "date": "2026-07-01"
+    "date": "2026-07-06"
   },
   {
-    "id": "u19_wal_ger_010726_ultra",
+    "id": "allsvenskan_bp_gais_060726_ultra",
     "teamA": {
-      "name": "Wales U19",
+      "name": "Brommapojkarna",
       "icon": ""
     },
     "teamB": {
-      "name": "Germany U19",
+      "name": "GAIS",
       "icon": ""
     },
-    "leagueName": "UEFA Under 19 Championship Group A",
-    "prediction": "0-2",
-    "date": "2026-07-01"
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "1-2",
+    "date": "2026-07-06"
   },
   {
-    "id": "wu19_aut_sui_010726_ultra",
+    "id": "allsvenskan_hac_dif_060726_ultra",
     "teamA": {
-      "name": "Austria U19",
+      "name": "Häcken",
       "icon": ""
     },
     "teamB": {
-      "name": "Switzerland U19",
+      "name": "Djurgården",
       "icon": ""
     },
-    "leagueName": "UEFA Women's Under 19 Championship Group B",
-    "prediction": "2-1",
-    "date": "2026-07-01"
-  },
-  {
-    "id": "wu19_spa_ice_010726_ultra",
-    "teamA": {
-      "name": "Spain U19",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Iceland U19",
-      "icon": ""
-    },
-    "leagueName": "UEFA Women's Under 19 Championship Group B",
-    "prediction": "3-0",
-    "date": "2026-07-01"
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "1-2",
+    "date": "2026-07-06"
   }
 ]
