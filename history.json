@@ -1,5 +1,66 @@
 [
   {
+    "date": "Sunday, 5th July 2026",
+    "gamesList": [
+      {
+        "teamA": "Brazil",
+        "teamB": "Norway",
+        "prediction": "AWAY WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Serbia U19",
+        "teamB": "Croatia U19",
+        "prediction": "CROATIA U19 WIN",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Ukraine U19",
+        "teamB": "Italy U19",
+        "prediction": "ITALY U19 WIN",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Qingdao Hainiu",
+        "teamB": "Chengdu Rongcheng",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Shanghai Shenhua",
+        "teamB": "Zhejiang",
+        "prediction": "SHANGHAI SHENHUA WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "IFK Göteborg",
+        "teamB": "AIK",
+        "prediction": "AIK WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Kalmar",
+        "teamB": "Örgryte",
+        "prediction": "KALMAR WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Elfsborg",
+        "teamB": "Hammarby",
+        "prediction": "HAMMARBY WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Monday, 29th June 2026",
     "gamesList": [
       {
