@@ -1,30 +1,44 @@
 [
   {
-    "id": "worldcup_por_spa_060726_ultrasafe",
+    "id": "worldcup_arg_egy_070726_ultrasafe",
     "teamA": {
-      "name": "Portugal",
+      "name": "Argentina",
       "icon": ""
     },
     "teamB": {
-      "name": "Spain",
+      "name": "Egypt",
       "icon": ""
     },
     "leagueName": "FIFA World Cup 2026 - Last 16",
-    "prediction": "AWAY WIN",
-    "date": "2026-07-06"
+    "prediction": "HOME WIN",
+    "date": "2026-07-07"
   },
   {
-    "id": "allsvenskan_bp_gais_060726_ultrasafe",
+    "id": "uclq_kii_atb_070726_ultrasafe",
     "teamA": {
-      "name": "Brommapojkarna",
+      "name": "KÍ",
       "icon": ""
     },
     "teamB": {
-      "name": "GAIS",
+      "name": "Atert Bissen",
       "icon": ""
     },
-    "leagueName": "Swedish Allsvenskan",
+    "leagueName": "UEFA Champions League First Qualifying Round",
+    "prediction": "HOME WIN",
+    "date": "2026-07-07"
+  },
+  {
+    "id": "uclq_flo_sha_070726_ultrasafe",
+    "teamA": {
+      "name": "Floriana",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Shamrock Rovers",
+      "icon": ""
+    },
+    "leagueName": "UEFA Champions League First Qualifying Round",
     "prediction": "AWAY WIN",
-    "date": "2026-07-06"
+    "date": "2026-07-07"
   }
 ]
