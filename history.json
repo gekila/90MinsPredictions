@@ -1,5 +1,38 @@
 [
   {
+    "date": "Monday, 6th July 2026",
+    "gamesList": [
+      {
+        "teamA": "Mexico",
+        "teamB": "England",
+        "prediction": "ENGLAND WIN",
+        "odds": "2-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Portugal",
+        "teamB": "Spain",
+        "prediction": "SPAIN WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Brommapojkarna",
+        "teamB": "GAIS",
+        "prediction": "GAIS WIN",
+        "odds": "1-1",
+        "results": "LOSE"
+      },
+      {
+        "teamA": "Häcken",
+        "teamB": "Djurgården",
+        "prediction": "DJURGÅRDEN WIN",
+        "odds": "2-4",
+        "results": "WIN"
+     }
+    ]
+  },
+  {
     "date": "Sunday, 5th July 2026",
     "gamesList": [
       {
