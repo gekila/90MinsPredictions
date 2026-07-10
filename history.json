@@ -1,5 +1,206 @@
 [
   {
+    "date": "Friday, 10th July 2026",
+    "gamesList": [
+      {
+        "teamA": "France",
+        "teamB": "Morocco",
+        "prediction": "FRANCE WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Qarabağ",
+        "teamB": "Vestri",
+        "prediction": "QARABAĞ WIN",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Dynamo Kyiv",
+        "teamB": "Universitatea Cluj",
+        "prediction": "DRAW",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sheriff",
+        "teamB": "Aluminij",
+        "prediction": "DRAW",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "CSKA Sofia",
+        "teamB": "Derry City",
+        "prediction": "CSKA SOFIA WIN",
+        "odds": "3-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Hajduk Split",
+        "teamB": "Žilina",
+        "prediction": "HAJDUK SPLIT WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Vojvodina",
+        "teamB": "Ferencváros",
+        "prediction": "FERENCVÁROS WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Atlètic Club d'Escaldes",
+        "teamB": "Mornar",
+        "prediction": "ATLÈTIC CLUB D'ESCALDES WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Alashkert",
+        "teamB": "Yelimay",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Dila",
+        "teamB": "Virtus",
+        "prediction": "DILA WIN",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Hegelmann",
+        "teamB": "Paide",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Liepāja",
+        "teamB": "Dečić",
+        "prediction": "LIEPĀJA WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Nõmme Kalju",
+        "teamB": "Linfield",
+        "prediction": "NÕMME KALJU WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bohemians",
+        "teamB": "St Joseph's",
+        "prediction": "BOHEMIANS WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Dinamo Minsk",
+        "teamB": "Sileks",
+        "prediction": "DINAMO MINSK WIN",
+        "odds": "0-1",
+        "results": "LOSE"
+      },
+      {
+        "teamA": "Marsaxlokk",
+        "teamB": "Pyunik",
+        "prediction": "PYUNIK WIN",
+        "odds": "0-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Velež",
+        "teamB": "Milsami",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Mondorf-les-Bains",
+        "teamB": "Dinamo Tbilisi",
+        "prediction": "DINAMO TBILISI WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Caernarfon Town",
+        "teamB": "FCI Levadia",
+        "prediction": "FCI LEVADIA WIN",
+        "odds": "0-5",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Europa",
+        "teamB": "Shkendija",
+        "prediction": "SHKENDIJA WIN",
+        "odds": "0-5",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Vllaznia Shkodër",
+        "teamB": "Malisheva",
+        "prediction": "VLLAZNIA SHKODËR WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Glentoran",
+        "teamB": "RFS",
+        "prediction": "RFS WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "NSÍ",
+        "teamB": "Hamrun Spartans",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Penybont",
+        "teamB": "FC Santa Coloma",
+        "prediction": "FC SANTA COLOMA WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Petrovac",
+        "teamB": "Žalgiris",
+        "prediction": "ŽALGIRIS WIN",
+        "odds": "1-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Dinamo City",
+        "teamB": "Astana",
+        "prediction": "ASTANA WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sarajevo",
+        "teamB": "Inter Turku",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Stjarnan",
+        "teamB": "Víkingur",
+        "prediction": "STJARNAN WIN",
+        "odds": "3-1",
+        "results": "WIN"
+       }
+    ]
+  },
+  {
     "date": "Monday, 6th July 2026",
     "gamesList": [
       {
