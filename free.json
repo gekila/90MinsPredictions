@@ -1,44 +1,30 @@
 [
   {
-    "id": "worldcup_arg_egy_070726_ultrasafe",
+    "id": "wwc_esp_bel_100726_ultrasafe",
     "teamA": {
-      "name": "Argentina",
+      "name": "Spain",
       "icon": ""
     },
     "teamB": {
-      "name": "Egypt",
+      "name": "Belgium",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup 2026 - Last 16",
+    "leagueName": "FIFA World Cup 2026 - Quarter-finals",
     "prediction": "HOME WIN",
-    "date": "2026-07-07"
+    "date": "2026-07-10"
   },
   {
-    "id": "uclq_kii_atb_070726_ultrasafe",
+    "id": "csl_sha_yun_100726_ultrasafe",
     "teamA": {
-      "name": "KÍ",
+      "name": "Shandong Taishan",
       "icon": ""
     },
     "teamB": {
-      "name": "Atert Bissen",
+      "name": "Yunnan Yukun",
       "icon": ""
     },
-    "leagueName": "UEFA Champions League First Qualifying Round",
+    "leagueName": "Chinese Super League",
     "prediction": "HOME WIN",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "uclq_flo_sha_070726_ultrasafe",
-    "teamA": {
-      "name": "Floriana",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Shamrock Rovers",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League First Qualifying Round",
-    "prediction": "AWAY WIN",
-    "date": "2026-07-07"
+    "date": "2026-07-10"
   }
 ]
