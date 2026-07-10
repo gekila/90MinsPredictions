@@ -1,226 +1,86 @@
 [
   {
-    "id": "worldcup_arg_egy_070726_ultra",
+    "id": "wwc_esp_bel_100726_ultra",
     "teamA": {
-      "name": "Argentina",
+      "name": "Spain",
       "icon": ""
     },
     "teamB": {
-      "name": "Egypt",
+      "name": "Belgium",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup Last 16",
-    "prediction": "3-1",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "worldcup_sui_col_070726_ultra",
-    "teamA": {
-      "name": "Switzerland",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Colombia",
-      "icon": ""
-    },
-    "leagueName": "FIFA World Cup Last 16",
-    "prediction": "1-2",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "uclq_ara_rig_070726_ultra",
-    "teamA": {
-      "name": "Ararat-Armenia",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Riga",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League First Qualifying Round",
-    "prediction": "1-2",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "uclq_kaz_dri_070726_ultra",
-    "teamA": {
-      "name": "Kauno Žalgiris",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Drita",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League First Qualifying Round",
-    "prediction": "1-2",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "uclq_lri_ice_070726_ultra",
-    "teamA": {
-      "name": "Lincoln Red Imps",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Inter Club d'Escaldes",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League First Qualifying Round",
-    "prediction": "2-1",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "uclq_sab_tns_070726_ultra",
-    "teamA": {
-      "name": "Sabah",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "The New Saints",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League First Qualifying Round",
+    "leagueName": "FIFA World Cup Quarter-finals",
     "prediction": "2-0",
-    "date": "2026-07-07"
+    "date": "2026-07-10"
   },
   {
-    "id": "uclq_var_kup_070726_ultra",
-    "teamA": {
-      "name": "Vardar Skopje",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "KuPS",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League First Qualifying Round",
-    "prediction": "0-1",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "uclq_flo_sha_070726_ultra",
-    "teamA": {
-      "name": "Floriana",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Shamrock Rovers",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League First Qualifying Round",
-    "prediction": "0-2",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "uclq_bbl_lev_070726_ultra",
-    "teamA": {
-      "name": "Borac Banja Luka",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Levski Sofia",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League First Qualifying Round",
-    "prediction": "1-0",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "uclq_tre_lar_070726_ultra",
-    "teamA": {
-      "name": "Tre Fiori",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Larne",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League First Qualifying Round",
-    "prediction": "0-2",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "uclq_kii_atb_070726_ultra",
-    "teamA": {
-      "name": "KÍ",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Atert Bissen",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League First Qualifying Round",
-    "prediction": "3-0",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "uclq_vik_get_070726_ultra",
-    "teamA": {
-      "name": "Víkingur Reykjavík",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Győri ETO",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League First Qualifying Round",
-    "prediction": "2-1",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "ueclq_uns_lfi_070726_ultra",
-    "teamA": {
-      "name": "UNA Strassen",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "La Fiorita",
-      "icon": ""
-    },
-    "leagueName": "UEFA Conference League First Qualifying Round",
-    "prediction": "2-0",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "ueclq_afe_bat_070726_ultra",
-    "teamA": {
-      "name": "AF Elbasani",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "BATE",
-      "icon": ""
-    },
-    "leagueName": "UEFA Conference League First Qualifying Round",
-    "prediction": "2-1",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "wu19_esp_swe_070726_ultra",
-    "teamA": {
-      "name": "Spain U19",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Sweden U19",
-      "icon": ""
-    },
-    "leagueName": "UEFA Women's Under-19 Championship Semi-finals",
-    "prediction": "2-0",
-    "date": "2026-07-07"
-  },
-  {
-    "id": "wu19_ger_aut_070726_ultra",
+    "id": "wu19_ger_esp_100726_ultra",
     "teamA": {
       "name": "Germany U19",
       "icon": ""
     },
     "teamB": {
-      "name": "Austria U19",
+      "name": "Spain U19",
       "icon": ""
     },
-    "leagueName": "UEFA Women's Under-19 Championship Semi-finals",
-    "prediction": "2-1",
-    "date": "2026-07-07"
+    "leagueName": "UEFA Women's Under-19 Championship Final",
+    "prediction": "1-2",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "irl_dun_dro_100726_ultra",
+    "teamA": {
+      "name": "Dundalk",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Drogheda United",
+      "icon": ""
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "1-1",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "irl_wat_stp_100726_ultra",
+    "teamA": {
+      "name": "Waterford",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "St Patrick's Athletic",
+      "icon": ""
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "1-2",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "csl_sha_yun_100726_ultra",
+    "teamA": {
+      "name": "Shandong Taishan",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Yunnan Yukun",
+      "icon": ""
+    },
+    "leagueName": "Chinese Super League",
+    "prediction": "3-1",
+    "date": "2026-07-10"
+  },
+  {
+    "id": "vei_vps_sjk_100726_ultra",
+    "teamA": {
+      "name": "VPS",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "SJK",
+      "icon": ""
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "1-1",
+    "date": "2026-07-10"
   }
 ]
