@@ -3,6 +3,53 @@
     "date": "Friday, 10th July 2026",
     "gamesList": [
       {
+        "teamA": "Spain",
+        "teamB": "Belgium",
+        "prediction": "SPAIN WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Germany U19",
+        "teamB": "Spain U19",
+        "prediction": "SPAIN U19 WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Dundalk",
+        "teamB": "Drogheda United",
+        "prediction": "DROGHEDA UNITED WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Waterford",
+        "teamB": "St Patrick's Athletic",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Shandong Taishan",
+        "teamB": "Yunnan Yukun",
+        "prediction": "SHANDONG TAISHAN WIN",
+        "odds": "4-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "VPS",
+        "teamB": "SJK",
+        "prediction": "VPS WIN",
+        "odds": "1-0",
+        "results": "WIN"
+       }
+    ]
+  },
+  {
+    "date": "Thursday, 9th July 2026",
+    "gamesList": [
+      {
         "teamA": "France",
         "teamB": "Morocco",
         "prediction": "FRANCE WIN",
