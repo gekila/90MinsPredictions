@@ -1,86 +1,422 @@
 [
   {
-    "id": "wwc_spain_belgium_100726_ultra",
+    "id": "wc_norway_england_110726_ultra",
     "teamA": {
-      "name": "Spain",
+      "name": "Norway",
       "icon": ""
     },
     "teamB": {
-      "name": "Belgium",
+      "name": "England",
       "icon": ""
     },
     "leagueName": "FIFA World Cup Quarter-finals",
-    "prediction": "2-0",
-    "date": "2026-07-10"
+    "prediction": "1-2",
+    "date": "2026-07-11"
   },
   {
-    "id": "wu19_germany_spain_100726_ultra",
+    "id": "slc_qos_kelty_110726_ultra",
     "teamA": {
-      "name": "Germany U19",
+      "name": "Queen of the South",
       "icon": ""
     },
     "teamB": {
+      "name": "Kelty Hearts",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group A",
+    "prediction": "2-1",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_qp_brora_110726_ultra",
+    "teamA": {
+      "name": "Queen's Park",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Brora Rangers",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group A",
+    "prediction": "3-0",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_spartans_arbroath_110726_ultra",
+    "teamA": {
+      "name": "The Spartans",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Arbroath",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group B",
+    "prediction": "1-2",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_stirling_dundeeutd_110726_ultra",
+    "teamA": {
+      "name": "Stirling Albion",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Dundee United",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group B",
+    "prediction": "0-3",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_dumbarton_stmirren_110726_ultra",
+    "teamA": {
+      "name": "Dumbarton",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "St. Mirren",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group C",
+    "prediction": "0-2",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_eastkilbride_dunfermline_110726_ultra",
+    "teamA": {
+      "name": "East Kilbride",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Dunfermline Athletic",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group C",
+    "prediction": "1-3",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_annan_rosscounty_110726_ultra",
+    "teamA": {
+      "name": "Annan Athletic",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Ross County",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group D",
+    "prediction": "0-2",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_dundee_airdrie_110726_ultra",
+    "teamA": {
+      "name": "Dundee",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Airdrieonians",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group D",
+    "prediction": "2-0",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_partick_brechin_110726_ultra",
+    "teamA": {
+      "name": "Partick Thistle",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Brechin City",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group E",
+    "prediction": "3-1",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_stenhousemuir_forfar_110726_ultra",
+    "teamA": {
+      "name": "Stenhousemuir",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Forfar Athletic",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group E",
+    "prediction": "2-1",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_morton_linlithgow_110726_ultra",
+    "teamA": {
+      "name": "Greenock Morton",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Linlithgow Rose",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group F",
+    "prediction": "3-0",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_inverness_eastfife_110726_ultra",
+    "teamA": {
+      "name": "Inverness CT",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "East Fife",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group F",
+    "prediction": "2-0",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_edinburghcity_falkirk_110726_ultra",
+    "teamA": {
+      "name": "Edinburgh City",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Falkirk",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group G",
+    "prediction": "0-2",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_stranraer_ayr_110726_ultra",
+    "teamA": {
+      "name": "Stranraer",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Ayr United",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group G",
+    "prediction": "1-3",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_peterhead_hamilton_110726_ultra",
+    "teamA": {
+      "name": "Peterhead",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Hamilton Academical",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group H",
+    "prediction": "1-2",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "slc_raith_elgin_110726_ultra",
+    "teamA": {
+      "name": "Raith Rovers",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Elgin City",
+      "icon": ""
+    },
+    "leagueName": "Scottish League Cup Group H",
+    "prediction": "3-0",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "u19_spain_germany_110726_ultra",
+    "teamA": {
       "name": "Spain U19",
       "icon": ""
     },
-    "leagueName": "UEFA Women's Under-19 Championship Final",
-    "prediction": "1-2",
-    "date": "2026-07-10"
+    "teamB": {
+      "name": "Germany U19",
+      "icon": ""
+    },
+    "leagueName": "UEFA Under-19 Championship Final",
+    "prediction": "2-1",
+    "date": "2026-07-11"
   },
   {
-    "id": "irl_dundalk_drogheda_100726_ultra",
+    "id": "irl_galway_sligo_110726_ultra",
     "teamA": {
-      "name": "Dundalk",
+      "name": "Galway United",
       "icon": ""
     },
     "teamB": {
-      "name": "Drogheda United",
+      "name": "Sligo Rovers",
       "icon": ""
     },
     "leagueName": "Irish Premier Division",
+    "prediction": "2-1",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "int_cameroon_benin_110726_ultra",
+    "teamA": {
+      "name": "Cameroon",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Benin",
+      "icon": ""
+    },
+    "leagueName": "Women's International Friendly",
+    "prediction": "2-0",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "csl_shenzhen_qingdao_110726_ultra",
+    "teamA": {
+      "name": "Shenzhen Peng City",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Qingdao West Coast",
+      "icon": ""
+    },
+    "leagueName": "Chinese Super League",
     "prediction": "1-1",
-    "date": "2026-07-10"
+    "date": "2026-07-11"
   },
   {
-    "id": "irl_waterford_st_patricks_100726_ultra",
+    "id": "csl_chengdu_chongqing_110726_ultra",
     "teamA": {
-      "name": "Waterford",
+      "name": "Chengdu Rongcheng",
       "icon": ""
     },
     "teamB": {
-      "name": "St Patrick's Athletic",
-      "icon": ""
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "1-2",
-    "date": "2026-07-10"
-  },
-  {
-    "id": "csl_shandong_yunnan_100726_ultra",
-    "teamA": {
-      "name": "Shandong Taishan",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Yunnan Yukun",
+      "name": "Chongqing Tonglianglong",
       "icon": ""
     },
     "leagueName": "Chinese Super League",
     "prediction": "3-1",
-    "date": "2026-07-10"
+    "date": "2026-07-11"
   },
   {
-    "id": "veik_vps_sjk_100726_ultra",
+    "id": "veik_lahti_hjk_110726_ultra",
     "teamA": {
-      "name": "VPS",
+      "name": "Lahti",
       "icon": ""
     },
     "teamB": {
-      "name": "SJK",
+      "name": "HJK",
       "icon": ""
     },
     "leagueName": "Finnish Veikkausliiga",
+    "prediction": "0-2",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "veik_gnistan_mariehamn_110726_ultra",
+    "teamA": {
+      "name": "Gnistan",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Mariehamn",
+      "icon": ""
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "2-1",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "veik_tps_oulu_110726_ultra",
+    "teamA": {
+      "name": "TPS",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Oulu",
+      "icon": ""
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "2-1",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "elit_fredrikstad_lillestrom_110726_ultra",
+    "teamA": {
+      "name": "Fredrikstad",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Lillestrøm",
+      "icon": ""
+    },
+    "leagueName": "Norwegian Eliteserien",
     "prediction": "1-1",
-    "date": "2026-07-10"
+    "date": "2026-07-11"
+  },
+  {
+    "id": "elit_aalesund_molde_110726_ultra",
+    "teamA": {
+      "name": "Aalesund",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Molde",
+      "icon": ""
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "1-3",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "elit_tromso_valerenga_110726_ultra",
+    "teamA": {
+      "name": "Tromsø",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Vålerenga",
+      "icon": ""
+    },
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "2-1",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "alls_mjallby_aik_110726_ultra",
+    "teamA": {
+      "name": "Mjällby",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "AIK",
+      "icon": ""
+    },
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "1-1",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "alls_orgryte_hacken_110726_ultra",
+    "teamA": {
+      "name": "Örgryte",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Häcken",
+      "icon": ""
+    },
+    "leagueName": "Swedish Allsvenskan",
+    "prediction": "1-3",
+    "date": "2026-07-11"
   }
 ]
