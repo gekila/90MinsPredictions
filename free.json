@@ -1,30 +1,44 @@
 [
   {
-    "id": "wwc_esp_bel_100726_ultrasafe",
+    "id": "slc_sta_dun_110726_ultrasafe",
     "teamA": {
-      "name": "Spain",
+      "name": "Stirling Albion",
       "icon": ""
     },
     "teamB": {
-      "name": "Belgium",
+      "name": "Dundee United",
       "icon": ""
     },
-    "leagueName": "FIFA World Cup 2026 - Quarter-finals",
-    "prediction": "HOME WIN",
-    "date": "2026-07-10"
+    "leagueName": "Scottish League Cup Group B",
+    "prediction": "AWAY WIN",
+    "date": "2026-07-11"
   },
   {
-    "id": "csl_sha_yun_100726_ultrasafe",
+    "id": "slc_dum_stm_110726_ultrasafe",
     "teamA": {
-      "name": "Shandong Taishan",
+      "name": "Dumbarton",
       "icon": ""
     },
     "teamB": {
-      "name": "Yunnan Yukun",
+      "name": "St. Mirren",
       "icon": ""
     },
-    "leagueName": "Chinese Super League",
-    "prediction": "HOME WIN",
-    "date": "2026-07-10"
+    "leagueName": "Scottish League Cup Group C",
+    "prediction": "AWAY WIN",
+    "date": "2026-07-11"
+  },
+  {
+    "id": "vei_lah_hjk_110726_ultrasafe",
+    "teamA": {
+      "name": "Lahti",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "HJK",
+      "icon": ""
+    },
+    "leagueName": "Finnish Veikkausliiga",
+    "prediction": "AWAY WIN",
+    "date": "2026-07-11"
   }
 ]
