@@ -1,44 +1,44 @@
 [
   {
-    "id": "slc_sta_dun_110726_ultrasafe",
+    "id": "ssl_zem_par_180726_ultrasafe",
     "teamA": {
-      "name": "Stirling Albion",
+      "name": "Zemun",
       "icon": ""
     },
     "teamB": {
-      "name": "Dundee United",
+      "name": "Partizan",
       "icon": ""
     },
-    "leagueName": "Scottish League Cup Group B",
+    "leagueName": "Serbian Super Liga",
     "prediction": "AWAY WIN",
-    "date": "2026-07-11"
+    "date": "2026-07-18"
   },
   {
-    "id": "slc_dum_stm_110726_ultrasafe",
+    "id": "eli_vik_san_180726_ultrasafe",
     "teamA": {
-      "name": "Dumbarton",
+      "name": "Viking",
       "icon": ""
     },
     "teamB": {
-      "name": "St. Mirren",
+      "name": "Sandefjord",
       "icon": ""
     },
-    "leagueName": "Scottish League Cup Group C",
-    "prediction": "AWAY WIN",
-    "date": "2026-07-11"
+    "leagueName": "Norwegian Eliteserien",
+    "prediction": "HOME WIN",
+    "date": "2026-07-18"
   },
   {
-    "id": "vei_lah_hjk_110726_ultrasafe",
+    "id": "eli_ham_tro_180726_ultrasafe",
     "teamA": {
-      "name": "Lahti",
+      "name": "HamKam",
       "icon": ""
     },
     "teamB": {
-      "name": "HJK",
+      "name": "Tromsø",
       "icon": ""
     },
-    "leagueName": "Finnish Veikkausliiga",
+    "leagueName": "Norwegian Eliteserien",
     "prediction": "AWAY WIN",
-    "date": "2026-07-11"
+    "date": "2026-07-18"
   }
 ]
