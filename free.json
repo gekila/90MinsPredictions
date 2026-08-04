@@ -1,44 +1,72 @@
 [
   {
-    "id": "ssl_zem_par_180726_ultrasafe",
+    "id": "ucl_dzg_kza_040826_ultrasafe",
     "teamA": {
-      "name": "Zemun",
+      "name": "Dinamo Zagreb",
       "icon": ""
     },
     "teamB": {
-      "name": "Partizan",
+      "name": "Kauno Žalgiris",
       "icon": ""
     },
-    "leagueName": "Serbian Super Liga",
-    "prediction": "AWAY WIN",
-    "date": "2026-07-18"
-  },
-  {
-    "id": "eli_vik_san_180726_ultrasafe",
-    "teamA": {
-      "name": "Viking",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Sandefjord",
-      "icon": ""
-    },
-    "leagueName": "Norwegian Eliteserien",
+    "leagueName": "UEFA Champions League Qualifying",
     "prediction": "HOME WIN",
-    "date": "2026-07-18"
+    "date": "2026-08-04"
   },
   {
-    "id": "eli_ham_tro_180726_ultrasafe",
+    "id": "uel_sha_egn_040826_ultrasafe",
     "teamA": {
-      "name": "HamKam",
+      "name": "Shamrock Rovers",
       "icon": ""
     },
     "teamB": {
-      "name": "Tromsø",
+      "name": "Egnatia Rrogozhinë",
       "icon": ""
     },
-    "leagueName": "Norwegian Eliteserien",
+    "leagueName": "UEFA Europa League Qualifying",
+    "prediction": "HOME WIN",
+    "date": "2026-08-04"
+  },
+  {
+    "id": "cf_new_rom_040826_ultrasafe",
+    "teamA": {
+      "name": "Newport County",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Roma",
+      "icon": ""
+    },
+    "leagueName": "Club Friendly",
     "prediction": "AWAY WIN",
-    "date": "2026-07-18"
+    "date": "2026-08-04"
+  },
+  {
+    "id": "cf_bgp_avl_040826_ultrasafe",
+    "teamA": {
+      "name": "BG Pathum United",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Aston Villa",
+      "icon": ""
+    },
+    "leagueName": "Club Friendly",
+    "prediction": "AWAY WIN",
+    "date": "2026-08-04"
+  },
+  {
+    "id": "cf_tav_ply_040826_ultrasafe",
+    "teamA": {
+      "name": "Tavistock",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Plymouth Argyle",
+      "icon": ""
+    },
+    "leagueName": "Club Friendly",
+    "prediction": "AWAY WIN",
+    "date": "2026-08-04"
   }
 ]
