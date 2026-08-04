@@ -1,5 +1,143 @@
 [
   {
+    "date": "Tuesday, 3rd August 2026",
+    "gamesList": [
+      {
+        "teamA": "Celtic",
+        "teamB": "Dundee",
+        "prediction": "CELTIC WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "York City",
+        "teamB": "Crawley Town",
+        "prediction": "CRAWLEY TOWN WIN",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "IMT Novi Beograd",
+        "teamB": "Gaziantep FK",
+        "prediction": "GAZIANTEP FK WIN",
+        "odds": "0-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Legia Warszawa",
+        "teamB": "AEL",
+        "prediction": "DRAW",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Al Shabab",
+        "teamB": "MC Alger",
+        "prediction": "AL SHABAB WIN",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Monopoli",
+        "teamB": "Vibonese",
+        "prediction": "VIBONESE WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Svoboda Ljubljana",
+        "teamB": "Dren Vrhnika",
+        "prediction": "DREN VRHNIKA WIN",
+        "odds": "2-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Potters Bar Town",
+        "teamB": "St Albans City",
+        "prediction": "ST ALBANS CITY WIN",
+        "odds": "1-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "OB",
+        "teamB": "Sønderjyske",
+        "prediction": "OB WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "SJK",
+        "teamB": "HJK",
+        "prediction": "SJK WIN",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Club América",
+        "teamB": "Santos Laguna",
+        "prediction": "CLUB AMÉRICA WIN",
+        "odds": "3-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Toluca",
+        "teamB": "Necaxa",
+        "prediction": "TOLUCA WIN",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Cracovia",
+        "teamB": "Pogoń Szczecin",
+        "prediction": "POGOŃ SZCZECIN WIN",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Vojvodina",
+        "teamB": "Mačva Šabac",
+        "prediction": "VOJVODINA WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Železničar Pančevo",
+        "teamB": "Mladost Lučani",
+        "prediction": "DRAW",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Djurgården",
+        "teamB": "Västerås",
+        "prediction": "DJURGÅRDEN WIN",
+        "odds": "6-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Halmstad",
+        "teamB": "Sirius",
+        "prediction": "SIRIUS WIN",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bukovyna",
+        "teamB": "LNZ Cherkasy",
+        "prediction": "DRAW",
+        "odds": "0-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Shakhtar Donetsk",
+        "teamB": "Kudrivka",
+        "prediction": "SHAKHTAR DONETSK WIN",
+        "odds": "5-1",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Friday, 10th July 2026",
     "gamesList": [
       {
