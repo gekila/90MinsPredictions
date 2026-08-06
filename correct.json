@@ -1,310 +1,306 @@
 [
   {
-    "id": "ucl_ararat_celje_040826_ultra",
-    "teamA": {
-      "name": "Ararat-Armenia",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Celje",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "1-1",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "ucl_mjallby_slovan_040826_ultra",
-    "teamA": {
-      "name": "Mjällby",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Slovan Bratislava",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "2-1",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "ucl_hapoel_redstar_040826_ultra",
-    "teamA": {
-      "name": "Hapoel Be'er Sheva",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Red Star Belgrade",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "1-2",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "ucl_levski_kairat_040826_ultra",
-    "teamA": {
-      "name": "Levski Sofia",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Kairat",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "2-1",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "ucl_dinamo_kauno_040826_ultra",
-    "teamA": {
-      "name": "Dinamo Zagreb",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Kauno Žalgiris",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "3-0",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "ucl_olympiakos_nec_040826_ultra",
-    "teamA": {
-      "name": "Olympiakos",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "NEC",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "2-1",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "ucl_sparta_lyon_040826_ultra",
-    "teamA": {
-      "name": "Sparta Prague",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Olympique Lyonnais",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "1-2",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "ucl_usg_bodoglimt_040826_ultra",
-    "teamA": {
-      "name": "Union Saint-Gilloise",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Bodø/Glimt",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "2-1",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "uel_larne_iberia1999_040826_ultra",
-    "teamA": {
-      "name": "Larne",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Iberia 1999",
-      "icon": ""
-    },
+    "id": "uel_kups_craiova_060826_ultra",
+    "teamA": { "name": "KuPS", "icon": "" },
+    "teamB": { "name": "Universitatea Craiova", "icon": "" },
     "leagueName": "UEFA Europa League Qualifying",
-    "prediction": "2-1",
-    "date": "2026-08-04"
+    "prediction": "1-1",
+    "date": "2026-08-06"
   },
   {
-    "id": "uel_shamrock_egnatia_040826_ultra",
-    "teamA": {
-      "name": "Shamrock Rovers",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Egnatia Rrogozhinë",
-      "icon": ""
-    },
+    "id": "uel_jagiellonia_rangers_060826_ultra",
+    "teamA": { "name": "Jagiellonia Białystok", "icon": "" },
+    "teamB": { "name": "Rangers", "icon": "" },
+    "leagueName": "UEFA Europa League Qualifying",
+    "prediction": "1-2",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uel_maccabi_cska_060826_ultra",
+    "teamA": { "name": "Maccabi Tel Aviv", "icon": "" },
+    "teamB": { "name": "CSKA Sofia", "icon": "" },
     "leagueName": "UEFA Europa League Qualifying",
     "prediction": "2-0",
-    "date": "2026-08-04"
+    "date": "2026-08-06"
   },
   {
-    "id": "uecl_auda_dinamocity_040826_ultra",
-    "teamA": {
-      "name": "Auda",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Dinamo City",
-      "icon": ""
-    },
+    "id": "uel_hradec_besiktas_060826_ultra",
+    "teamA": { "name": "Hradec Králové", "icon": "" },
+    "teamB": { "name": "Beşiktaş", "icon": "" },
+    "leagueName": "UEFA Europa League Qualifying",
+    "prediction": "1-2",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uel_lech_ki_060826_ultra",
+    "teamA": { "name": "Lech Poznań", "icon": "" },
+    "teamB": { "name": "KÍ", "icon": "" },
+    "leagueName": "UEFA Europa League Qualifying",
+    "prediction": "3-0",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uel_lincoln_omonia_060826_ultra",
+    "teamA": { "name": "Lincoln Red Imps", "icon": "" },
+    "teamB": { "name": "Omonia Nicosia", "icon": "" },
+    "leagueName": "UEFA Europa League Qualifying",
+    "prediction": "0-2",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uel_salzburg_pafos_060826_ultra",
+    "teamA": { "name": "Red Bull Salzburg", "icon": "" },
+    "teamB": { "name": "Pafos", "icon": "" },
+    "leagueName": "UEFA Europa League Qualifying",
+    "prediction": "2-0",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uel_paok_anderlecht_060826_ultra",
+    "teamA": { "name": "PAOK", "icon": "" },
+    "teamB": { "name": "Anderlecht", "icon": "" },
+    "leagueName": "UEFA Europa League Qualifying",
+    "prediction": "2-1",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uel_thun_vikingur_060826_ultra",
+    "teamA": { "name": "Thun", "icon": "" },
+    "teamB": { "name": "Víkingur Reykjavík", "icon": "" },
+    "leagueName": "UEFA Europa League Qualifying",
+    "prediction": "2-1",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uel_benfica_hearts_060826_ultra",
+    "teamA": { "name": "Benfica", "icon": "" },
+    "teamB": { "name": "Heart of Midlothian", "icon": "" },
+    "leagueName": "UEFA Europa League Qualifying",
+    "prediction": "3-0",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_interturku_vaduz_060826_ultra",
+    "teamA": { "name": "Inter Turku", "icon": "" },
+    "teamB": { "name": "Vaduz", "icon": "" },
     "leagueName": "UEFA Conference League Qualifying",
     "prediction": "2-1",
-    "date": "2026-08-04"
+    "date": "2026-08-06"
   },
   {
-    "id": "friendly_alnassr_almeria_040826_ultra",
-    "teamA": {
-      "name": "Al Nassr",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Almería",
-      "icon": ""
-    },
-    "leagueName": "Club Friendly",
-    "prediction": "3-1",
-    "date": "2026-08-04"
+    "id": "uecl_hjk_motherwell_060826_ultra",
+    "teamA": { "name": "HJK", "icon": "" },
+    "teamB": { "name": "Motherwell", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "1-1",
+    "date": "2026-08-06"
   },
   {
-    "id": "friendly_newport_roma_040826_ultra",
-    "teamA": {
-      "name": "Newport County",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Roma",
-      "icon": ""
-    },
-    "leagueName": "Club Friendly",
-    "prediction": "0-3",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "friendly_bournemouth_genoa_040826_ultra",
-    "teamA": {
-      "name": "Bournemouth",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Genoa",
-      "icon": ""
-    },
-    "leagueName": "Club Friendly",
+    "id": "uecl_jablonec_rfs_060826_ultra",
+    "teamA": { "name": "Jablonec", "icon": "" },
+    "teamB": { "name": "RFS", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
     "prediction": "2-1",
-    "date": "2026-08-04"
+    "date": "2026-08-06"
   },
   {
-    "id": "friendly_bgpathum_villa_040826_ultra",
-    "teamA": {
-      "name": "BG Pathum United",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Aston Villa",
-      "icon": ""
-    },
-    "leagueName": "Club Friendly",
-    "prediction": "0-3",
-    "date": "2026-08-04"
+    "id": "uecl_noah_sion_060826_ultra",
+    "teamA": { "name": "Noah", "icon": "" },
+    "teamB": { "name": "Sion", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "1-1",
+    "date": "2026-08-06"
   },
   {
-    "id": "friendly_norwich_cambridge_040826_ultra",
-    "teamA": {
-      "name": "Norwich City",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Cambridge United",
-      "icon": ""
-    },
-    "leagueName": "Club Friendly",
-    "prediction": "2-0",
-    "date": "2026-08-04"
+    "id": "uecl_paide_rapid_060826_ultra",
+    "teamA": { "name": "Paide", "icon": "" },
+    "teamB": { "name": "Rapid Vienna", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "0-2",
+    "date": "2026-08-06"
   },
   {
-    "id": "friendly_monza_milanii_040826_ultra",
-    "teamA": {
-      "name": "Monza",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Milan II",
-      "icon": ""
-    },
-    "leagueName": "Club Friendly",
-    "prediction": "2-0",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "friendly_strasbourg_elversberg_040826_ultra",
-    "teamA": {
-      "name": "Strasbourg",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Elversberg",
-      "icon": ""
-    },
-    "leagueName": "Club Friendly",
+    "id": "uecl_cluj_tromso_060826_ultra",
+    "teamA": { "name": "CFR Cluj", "icon": "" },
+    "teamB": { "name": "Tromsø", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
     "prediction": "2-1",
-    "date": "2026-08-04"
+    "date": "2026-08-06"
   },
   {
-    "id": "friendly_ipswich_lehavre_040826_ultra",
-    "teamA": {
-      "name": "Ipswich Town",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Le Havre",
-      "icon": ""
-    },
-    "leagueName": "Club Friendly",
-    "prediction": "2-1",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "friendly_rotherham_derby_040826_ultra",
-    "teamA": {
-      "name": "Rotherham United",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Derby County",
-      "icon": ""
-    },
-    "leagueName": "Club Friendly",
+    "id": "uecl_debrecen_copenhagen_060826_ultra",
+    "teamA": { "name": "Debrecen", "icon": "" },
+    "teamB": { "name": "Copenhagen", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
     "prediction": "1-2",
-    "date": "2026-08-04"
+    "date": "2026-08-06"
   },
   {
-    "id": "friendly_tavistock_plymouth_040826_ultra",
-    "teamA": {
-      "name": "Tavistock",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Plymouth Argyle",
-      "icon": ""
-    },
-    "leagueName": "Club Friendly",
-    "prediction": "0-4",
-    "date": "2026-08-04"
+    "id": "uecl_dynamo_qarabag_060826_ultra",
+    "teamA": { "name": "Dynamo Kyiv", "icon": "" },
+    "teamB": { "name": "Qarabağ", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "2-1",
+    "date": "2026-08-06"
   },
   {
-    "id": "friendly_waltham_leyton_040826_ultra",
-    "teamA": {
-      "name": "Waltham Abbey",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Leyton Orient",
-      "icon": ""
-    },
-    "leagueName": "Club Friendly",
-    "prediction": "0-3",
-    "date": "2026-08-04"
+    "id": "uecl_goteborg_gent_060826_ultra",
+    "teamA": { "name": "IFK Göteborg", "icon": "" },
+    "teamB": { "name": "Gent", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "1-2",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_escaldes_flora_060826_ultra",
+    "teamA": { "name": "Inter Club d'Escaldes", "icon": "" },
+    "teamB": { "name": "Flora", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "2-1",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_rakow_hammarby_060826_ultra",
+    "teamA": { "name": "Raków Częstochowa", "icon": "" },
+    "teamB": { "name": "Hammarby", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "2-1",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_riga_gyori_060826_ultra",
+    "teamA": { "name": "Riga", "icon": "" },
+    "teamB": { "name": "Győri ETO", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "2-0",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_sheriff_stgallen_060826_ultra",
+    "teamA": { "name": "Sheriff", "icon": "" },
+    "teamB": { "name": "St.Gallen", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "1-1",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_zalgiris_hajduk_060826_ultra",
+    "teamA": { "name": "Žalgiris", "icon": "" },
+    "teamB": { "name": "Hajduk Split", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "0-2",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_beitar_austriawien_060826_ultra",
+    "teamA": { "name": "Beitar Jerusalem", "icon": "" },
+    "teamB": { "name": "Austria Wien", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "1-2",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_ajax_shelbourne_060826_ultra",
+    "teamA": { "name": "Ajax", "icon": "" },
+    "teamB": { "name": "Shelbourne", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "3-0",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_hapoel_gks_060826_ultra",
+    "teamA": { "name": "Hapoel Tel Aviv", "icon": "" },
+    "teamB": { "name": "GKS Katowice", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "2-1",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_twente_dac_060826_ultra",
+    "teamA": { "name": "Twente", "icon": "" },
+    "teamB": { "name": "DAC 1904", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "3-1",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_borac_vitebsk_060826_ultra",
+    "teamA": { "name": "Borac Banja Luka", "icon": "" },
+    "teamB": { "name": "ML Vitebsk", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "2-0",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_lugano_nsi_060826_ultra",
+    "teamA": { "name": "Lugano", "icon": "" },
+    "teamB": { "name": "NSÍ", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "3-0",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_braga_dinamo_060826_ultra",
+    "teamA": { "name": "Sporting Braga", "icon": "" },
+    "teamB": { "name": "Dinamo Minsk", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "3-0",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_valur_nordsjaelland_060826_ultra",
+    "teamA": { "name": "Valur", "icon": "" },
+    "teamB": { "name": "Nordsjælland", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "1-3",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_bohemians_midtjylland_060826_ultra",
+    "teamA": { "name": "Bohemians", "icon": "" },
+    "teamB": { "name": "Midtjylland", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "0-2",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_rijeka_ilves_060826_ultra",
+    "teamA": { "name": "Rijeka", "icon": "" },
+    "teamB": { "name": "Ilves", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "2-0",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_hibernian_shkendija_060826_ultra",
+    "teamA": { "name": "Hibernian", "icon": "" },
+    "teamB": { "name": "Shkendija", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "2-1",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_partizan_tobol_060826_ultra",
+    "teamA": { "name": "Partizan", "icon": "" },
+    "teamB": { "name": "Tobol Kostanay", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "2-0",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "uecl_trefiori_drita_060826_ultra",
+    "teamA": { "name": "Tre Fiori", "icon": "" },
+    "teamB": { "name": "Drita", "icon": "" },
+    "leagueName": "UEFA Conference League Qualifying",
+    "prediction": "0-2",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "efl_bristolcity_walsall_060826_ultra",
+    "teamA": { "name": "Bristol City", "icon": "" },
+    "teamB": { "name": "Walsall", "icon": "" },
+    "leagueName": "English League Cup",
+    "prediction": "2-0",
+    "date": "2026-08-06"
   }
 ]
