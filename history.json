@@ -1,5 +1,227 @@
 [
   {
+    "date": "Wednesday, 5th August 2026",
+    "gamesList": [
+      {
+        "teamA": "Dundee",
+        "teamB": "Aberdeen",
+        "prediction": "DUNDEE WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "St. Mirren",
+        "teamB": "St. Johnstone",
+        "prediction": "ST. MIRREN WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Cambridge United",
+        "teamB": "Barnet",
+        "prediction": "CAMBRIDGE UNITED WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Queens Park Rangers",
+        "teamB": "Millwall",
+        "prediction": "MILLWALL WIN",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "AFC Wimbledon",
+        "teamB": "Newport County",
+        "prediction": "AFC WIMBLEDON WIN",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Barnsley",
+        "teamB": "Wigan Athletic",
+        "prediction": "BARNSLEY WIN",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bradford City",
+        "teamB": "Rochdale",
+        "prediction": "BRADFORD CITY WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bristol Rovers",
+        "teamB": "Peterborough United",
+        "prediction": "PETERBOROUGH UNITED WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Bromley",
+        "teamB": "Reading",
+        "prediction": "READING WIN",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Burnley",
+        "teamB": "Notts County",
+        "prediction": "BURNLEY WIN",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Burton Albion",
+        "teamB": "Blackburn Rovers",
+        "prediction": "BLACKBURN ROVERS WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Cardiff City",
+        "teamB": "Swindon Town",
+        "prediction": "CARDIFF CITY WIN",
+        "odds": "3-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Crewe Alexandra",
+        "teamB": "Accrington Stanley",
+        "prediction": "CREWE ALEXANDRA WIN",
+        "odds": "2-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Derby County",
+        "teamB": "Lincoln City",
+        "prediction": "LINCOLN CITY WIN",
+        "odds": "1-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Fleetwood Town",
+        "teamB": "Chesterfield",
+        "prediction": "FLEETWOOD TOWN WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Gillingham",
+        "teamB": "Luton Town",
+        "prediction": "LUTON TOWN WIN",
+        "odds": "0-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Grimsby Town",
+        "teamB": "Blackpool",
+        "prediction": "BLACKPOOL WIN",
+        "odds": "1-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Leicester City",
+        "teamB": "Northampton Town",
+        "prediction": "LEICESTER CITY WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Leyton Orient",
+        "teamB": "Oxford United",
+        "prediction": "LEYTON ORIENT WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Norwich City",
+        "teamB": "MK Dons",
+        "prediction": "NORWICH CITY WIN",
+        "odds": "4-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Preston North End",
+        "teamB": "Huddersfield Town",
+        "prediction": "PRESTON NORTH END WIN",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Salford City",
+        "teamB": "Shrewsbury Town",
+        "prediction": "SHREWSBURY TOWN WIN",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Sheffield Wednesday",
+        "teamB": "Bolton Wanderers",
+        "prediction": "SHEFFIELD WEDNESDAY WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Stockport County",
+        "teamB": "Doncaster Rovers",
+        "prediction": "DONCASTER ROVERS WIN",
+        "odds": "1-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Stoke City",
+        "teamB": "Oldham Athletic",
+        "prediction": "STOKE CITY WIN",
+        "odds": "2-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Swansea City",
+        "teamB": "Birmingham City",
+        "prediction": "BIRMINGHAM CITY WIN",
+        "odds": "0-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Watford",
+        "teamB": "Crawley Town",
+        "prediction": "WATFORD WIN",
+        "odds": "1-0",
+        "results": "WIN"
+      },
+      {
+        "teamA": "West Ham United",
+        "teamB": "Portsmouth",
+        "prediction": "WEST HAM UNITED WIN",
+        "odds": "3-1",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Cheltenham Town",
+        "teamB": "Charlton Athletic",
+        "prediction": "CHARLTON ATHLETIC WIN",
+        "odds": "1-3",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Colchester United",
+        "teamB": "Southampton",
+        "prediction": "SOUTHAMPTON WIN",
+        "odds": "0-2",
+        "results": "WIN"
+      },
+      {
+        "teamA": "Rotherham United",
+        "teamB": "West Bromwich Albion",
+        "prediction": "WEST BROMWICH ALBION WIN",
+        "odds": "1-4",
+        "results": "WIN"
+      }
+    ]
+  },
+  {
     "date": "Tuesday, 3rd August 2026",
     "gamesList": [
       {
