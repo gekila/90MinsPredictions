@@ -1,72 +1,58 @@
 [
   {
-    "id": "ucl_dzg_kza_040826_ultrasafe",
+    "id": "spl_kil_cel_090826_ultrasafe",
     "teamA": {
-      "name": "Dinamo Zagreb",
+      "name": "Kilmarnock",
       "icon": ""
     },
     "teamB": {
-      "name": "Kauno Žalgiris",
+      "name": "Celtic",
       "icon": ""
     },
-    "leagueName": "UEFA Champions League Qualifying",
+    "leagueName": "Scottish Premiership",
+    "prediction": "AWAY WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "spl_ran_hib_090826_ultrasafe",
+    "teamA": {
+      "name": "Rangers",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Hibernian",
+      "icon": ""
+    },
+    "leagueName": "Scottish Premiership",
     "prediction": "HOME WIN",
-    "date": "2026-08-04"
+    "date": "2026-08-09"
   },
   {
-    "id": "uel_sha_egn_040826_ultrasafe",
+    "id": "spl_mot_fal_090826_ultrasafe",
     "teamA": {
-      "name": "Shamrock Rovers",
+      "name": "Motherwell",
       "icon": ""
     },
     "teamB": {
-      "name": "Egnatia Rrogozhinë",
+      "name": "Falkirk",
       "icon": ""
     },
-    "leagueName": "UEFA Europa League Qualifying",
+    "leagueName": "Scottish Premiership",
     "prediction": "HOME WIN",
-    "date": "2026-08-04"
+    "date": "2026-08-09"
   },
   {
-    "id": "cf_new_rom_040826_ultrasafe",
+    "id": "eflcup_man_shu_090826_ultrasafe",
     "teamA": {
-      "name": "Newport County",
+      "name": "Mansfield Town",
       "icon": ""
     },
     "teamB": {
-      "name": "Roma",
+      "name": "Sheffield United",
       "icon": ""
     },
-    "leagueName": "Club Friendly",
+    "leagueName": "English League Cup",
     "prediction": "AWAY WIN",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "cf_bgp_avl_040826_ultrasafe",
-    "teamA": {
-      "name": "BG Pathum United",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Aston Villa",
-      "icon": ""
-    },
-    "leagueName": "Club Friendly",
-    "prediction": "AWAY WIN",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "cf_tav_ply_040826_ultrasafe",
-    "teamA": {
-      "name": "Tavistock",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Plymouth Argyle",
-      "icon": ""
-    },
-    "leagueName": "Club Friendly",
-    "prediction": "AWAY WIN",
-    "date": "2026-08-04"
+    "date": "2026-08-09"
   }
 ]
