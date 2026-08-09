@@ -48,39 +48,7 @@
     "type": "BASIC",
     "isMostPopular": false
   },
-  {
-    "id": "jackpot",
-    "title": "Betika Jackpot",
-    "subtitle": "Guaranteed Jackpot Bonus Win",
-    "price": {
-      "name": "Betika Jackpot",
-      "prices": [
-        {
-          "amount": 2,
-          "duration": "DAILY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 5,
-          "duration": "WEEKLY",
-          "baseCurrency": "USD"
-        },
-        {
-          "amount": 10,
-          "duration": "MONTHLY",
-          "baseCurrency": "USD"
-        }
-      ]
-    },
-    "features": [
-      "Exclusive Betika Jackpot Predictions",
-      "In-Depth Analysis for Jackpot Matches",
-      "Maximized Winning Potential Strategies",
-      "Perfect for Jackpot Enthusiasts"
-    ],
-    "type": "JACKPOT",
-    "isMostPopular": false
-  },
+    ]
   {
     "id": "correct",
     "title": "Correct Score",
