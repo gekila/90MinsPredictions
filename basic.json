@@ -1,310 +1,450 @@
 [
   {
-    "id": "ucl_ararat_celje_040826_ultra",
+    "id": "spl_kilmarnock_celtic_090826_ultra",
     "teamA": {
-      "name": "Ararat-Armenia",
+      "name": "Kilmarnock",
       "icon": ""
     },
     "teamB": {
-      "name": "Celje",
+      "name": "Celtic",
       "icon": ""
     },
-    "leagueName": "UEFA Champions League Qualifying",
+    "leagueName": "Scottish Premiership",
+    "prediction": "CELTIC WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "spl_hearts_dundeeunited_090826_ultra",
+    "teamA": {
+      "name": "Heart of Midlothian",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Dundee United",
+      "icon": ""
+    },
+    "leagueName": "Scottish Premiership",
     "prediction": "DRAW",
-    "date": "2026-08-04"
+    "date": "2026-08-09"
   },
   {
-    "id": "ucl_mjallby_slovan_040826_ultra",
+    "id": "spl_motherwell_falkirk_090826_ultra",
     "teamA": {
-      "name": "Mjällby",
+      "name": "Motherwell",
       "icon": ""
     },
     "teamB": {
-      "name": "Slovan Bratislava",
+      "name": "Falkirk",
       "icon": ""
     },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "MJÄLLBY WIN",
-    "date": "2026-08-04"
+    "leagueName": "Scottish Premiership",
+    "prediction": "MOTHERWELL WIN",
+    "date": "2026-08-09"
   },
   {
-    "id": "ucl_hapoel_redstar_040826_ultra",
+    "id": "spl_rangers_hibernian_090826_ultra",
     "teamA": {
-      "name": "Hapoel Be'er Sheva",
+      "name": "Rangers",
       "icon": ""
     },
     "teamB": {
-      "name": "Red Star Belgrade",
+      "name": "Hibernian",
       "icon": ""
     },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "RED STAR BELGRADE WIN",
-    "date": "2026-08-04"
+    "leagueName": "Scottish Premiership",
+    "prediction": "RANGERS WIN",
+    "date": "2026-08-09"
   },
   {
-    "id": "ucl_levski_kairat_040826_ultra",
+    "id": "eflcup_mansfield_sheffieldunited_090826_ultra",
     "teamA": {
-      "name": "Levski Sofia",
+      "name": "Mansfield Town",
       "icon": ""
     },
     "teamB": {
-      "name": "Kairat",
+      "name": "Sheffield United",
       "icon": ""
     },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "LEVSKI SOFIA WIN",
-    "date": "2026-08-04"
+    "leagueName": "English League Cup",
+    "prediction": "SHEFFIELD UNITED WIN",
+    "date": "2026-08-09"
   },
   {
-    "id": "ucl_dinamo_kauno_040826_ultra",
+    "id": "friendly_manchestercity_atleticomadrid_090826_ultra",
     "teamA": {
-      "name": "Dinamo Zagreb",
+      "name": "Manchester City",
       "icon": ""
     },
     "teamB": {
-      "name": "Kauno Žalgiris",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "DINAMO ZAGREB WIN",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "ucl_olympiakos_nec_040826_ultra",
-    "teamA": {
-      "name": "Olympiakos",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "NEC",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "OLYMPIAKOS WIN",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "ucl_sparta_lyon_040826_ultra",
-    "teamA": {
-      "name": "Sparta Prague",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Olympique Lyonnais",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "OLYMPIQUE LYONNAIS WIN",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "ucl_usg_bodoglimt_040826_ultra",
-    "teamA": {
-      "name": "Union Saint-Gilloise",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Bodø/Glimt",
-      "icon": ""
-    },
-    "leagueName": "UEFA Champions League Qualifying",
-    "prediction": "UNION SAINT-GILLOISE WIN",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "uel_larne_iberia1999_040826_ultra",
-    "teamA": {
-      "name": "Larne",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Iberia 1999",
-      "icon": ""
-    },
-    "leagueName": "UEFA Europa League Qualifying",
-    "prediction": "LARNE WIN",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "uel_shamrock_egnatia_040826_ultra",
-    "teamA": {
-      "name": "Shamrock Rovers",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Egnatia Rrogozhinë",
-      "icon": ""
-    },
-    "leagueName": "UEFA Europa League Qualifying",
-    "prediction": "SHAMROCK ROVERS WIN",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "uecl_auda_dinamocity_040826_ultra",
-    "teamA": {
-      "name": "Auda",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Dinamo City",
-      "icon": ""
-    },
-    "leagueName": "UEFA Conference League Qualifying",
-    "prediction": "AUDA WIN",
-    "date": "2026-08-04"
-  },
-  {
-    "id": "friendly_alnassr_almeria_040826_ultra",
-    "teamA": {
-      "name": "Al Nassr",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Almería",
+      "name": "Atletico Madrid",
       "icon": ""
     },
     "leagueName": "Club Friendly",
-    "prediction": "AL NASSR WIN",
-    "date": "2026-08-04"
+    "prediction": "MANCHESTER CITY WIN",
+    "date": "2026-08-09"
   },
   {
-    "id": "friendly_newport_roma_040826_ultra",
+    "id": "friendly_johordarultazim_chelsea_090826_ultra",
     "teamA": {
-      "name": "Newport County",
+      "name": "Johor Darul Ta'zim",
       "icon": ""
     },
     "teamB": {
-      "name": "Roma",
+      "name": "Chelsea",
       "icon": ""
     },
     "leagueName": "Club Friendly",
-    "prediction": "ROMA WIN",
-    "date": "2026-08-04"
+    "prediction": "CHELSEA WIN",
+    "date": "2026-08-09"
   },
   {
-    "id": "friendly_bournemouth_genoa_040826_ultra",
+    "id": "friendly_liverpool_monaco_090826_ultra",
     "teamA": {
-      "name": "Bournemouth",
+      "name": "Liverpool",
       "icon": ""
     },
     "teamB": {
-      "name": "Genoa",
+      "name": "Monaco",
       "icon": ""
     },
     "leagueName": "Club Friendly",
-    "prediction": "BOURNEMOUTH WIN",
-    "date": "2026-08-04"
+    "prediction": "LIVERPOOL WIN",
+    "date": "2026-08-09"
   },
   {
-    "id": "friendly_bgpathum_villa_040826_ultra",
+    "id": "friendly_radomiak_ael_090826_ultra",
     "teamA": {
-      "name": "BG Pathum United",
+      "name": "Radomiak Radom",
       "icon": ""
     },
     "teamB": {
-      "name": "Aston Villa",
+      "name": "AEL",
       "icon": ""
     },
     "leagueName": "Club Friendly",
-    "prediction": "ASTON VILLA WIN",
-    "date": "2026-08-04"
+    "prediction": "RADOMIAK RADOM WIN",
+    "date": "2026-08-09"
   },
   {
-    "id": "friendly_norwich_cambridge_040826_ultra",
+    "id": "friendly_roeselare_lokeren_090826_ultra",
     "teamA": {
-      "name": "Norwich City",
+      "name": "Roeselare",
       "icon": ""
     },
     "teamB": {
-      "name": "Cambridge United",
+      "name": "Lokeren",
       "icon": ""
     },
     "leagueName": "Club Friendly",
-    "prediction": "NORWICH CITY WIN",
-    "date": "2026-08-04"
+    "prediction": "DRAW",
+    "date": "2026-08-09"
   },
   {
-    "id": "friendly_monza_milanii_040826_ultra",
+    "id": "friendly_unionberlin_arislimassol_090826_ultra",
     "teamA": {
-      "name": "Monza",
+      "name": "Union Berlin",
       "icon": ""
     },
     "teamB": {
-      "name": "Milan II",
+      "name": "Aris Limassol",
       "icon": ""
     },
     "leagueName": "Club Friendly",
-    "prediction": "MONZA WIN",
-    "date": "2026-08-04"
+    "prediction": "UNION BERLIN WIN",
+    "date": "2026-08-09"
   },
   {
-    "id": "friendly_strasbourg_elversberg_040826_ultra",
+    "id": "friendly_juvestabia_campobasso_090826_ultra",
     "teamA": {
-      "name": "Strasbourg",
+      "name": "Juve Stabia",
       "icon": ""
     },
     "teamB": {
-      "name": "Elversberg",
+      "name": "Campobasso",
       "icon": ""
     },
     "leagueName": "Club Friendly",
-    "prediction": "STRASBOURG WIN",
-    "date": "2026-08-04"
+    "prediction": "JUVE STABIA WIN",
+    "date": "2026-08-09"
   },
   {
-    "id": "friendly_ipswich_lehavre_040826_ultra",
+    "id": "friendly_lecce_monopoli_090826_ultra",
     "teamA": {
-      "name": "Ipswich Town",
+      "name": "Lecce",
       "icon": ""
     },
     "teamB": {
-      "name": "Le Havre",
+      "name": "Monopoli",
       "icon": ""
     },
     "leagueName": "Club Friendly",
-    "prediction": "IPSWICH TOWN WIN",
-    "date": "2026-08-04"
+    "prediction": "LECCE WIN",
+    "date": "2026-08-09"
   },
   {
-    "id": "friendly_rotherham_derby_040826_ultra",
+    "id": "friendly_marseille_athleticclub_090826_ultra",
     "teamA": {
-      "name": "Rotherham United",
+      "name": "Marseille",
       "icon": ""
     },
     "teamB": {
-      "name": "Derby County",
+      "name": "Athletic Club",
       "icon": ""
     },
     "leagueName": "Club Friendly",
-    "prediction": "DERBY COUNTY WIN",
-    "date": "2026-08-04"
+    "prediction": "MARSEILLE WIN",
+    "date": "2026-08-09"
   },
   {
-    "id": "friendly_tavistock_plymouth_040826_ultra",
+    "id": "friendly_modena_cittadellavismodena_090826_ultra",
     "teamA": {
-      "name": "Tavistock",
+      "name": "Modena",
       "icon": ""
     },
     "teamB": {
-      "name": "Plymouth Argyle",
+      "name": "Cittadella Vis Modena",
       "icon": ""
     },
     "leagueName": "Club Friendly",
-    "prediction": "PLYMOUTH ARGYLE WIN",
-    "date": "2026-08-04"
+    "prediction": "MODENA WIN",
+    "date": "2026-08-09"
   },
   {
-    "id": "friendly_waltham_leyton_040826_ultra",
+    "id": "friendly_thessport_lierse_090826_ultra",
     "teamA": {
-      "name": "Waltham Abbey",
+      "name": "Thes Sport",
       "icon": ""
     },
     "teamB": {
-      "name": "Leyton Orient",
+      "name": "Lierse SK",
       "icon": ""
     },
     "leagueName": "Club Friendly",
-    "prediction": "LEYTON ORIENT WIN",
-    "date": "2026-08-04"
+    "prediction": "LIERSE SK WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "friendly_francsborains_rwmdbrussels_090826_ultra",
+    "teamA": {
+      "name": "Francs Borains",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "RWDM Brussels",
+      "icon": ""
+    },
+    "leagueName": "Club Friendly",
+    "prediction": "RWDM BRUSSELS WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "friendly_parma_sampdoria_090826_ultra",
+    "teamA": {
+      "name": "Parma",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Sampdoria",
+      "icon": ""
+    },
+    "leagueName": "Club Friendly",
+    "prediction": "PARMA WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "friendly_mantova_carpi_090826_ultra",
+    "teamA": {
+      "name": "Mantova",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "AC Carpi",
+      "icon": ""
+    },
+    "leagueName": "Club Friendly",
+    "prediction": "MANTOVA WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "friendly_frosinone_lazio_090826_ultra",
+    "teamA": {
+      "name": "Frosinone",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Lazio",
+      "icon": ""
+    },
+    "leagueName": "Club Friendly",
+    "prediction": "LAZIO WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "friendly_olot_sabadell_090826_ultra",
+    "teamA": {
+      "name": "Olot",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Sabadell",
+      "icon": ""
+    },
+    "leagueName": "Club Friendly",
+    "prediction": "SABADELL WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "friendly_radnikhadzici_stupcanica_090826_ultra",
+    "teamA": {
+      "name": "Radnik Hadžići",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Stupčanica Olovo",
+      "icon": ""
+    },
+    "leagueName": "Club Friendly",
+    "prediction": "STUPČANICA OLOVO WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "friendly_cssfaxien_sanpedro_090826_ultra",
+    "teamA": {
+      "name": "CS Sfaxien",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "San-Pédro",
+      "icon": ""
+    },
+    "leagueName": "Club Friendly",
+    "prediction": "CS SFAXIEN WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "friendly_pergolettese_internazionaleii_090826_ultra",
+    "teamA": {
+      "name": "Pergolettese",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Internazionale II",
+      "icon": ""
+    },
+    "leagueName": "Club Friendly",
+    "prediction": "PERGOLETTESE WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "friendly_propatria_imperia_090826_ultra",
+    "teamA": {
+      "name": "Pro Patria",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Imperia",
+      "icon": ""
+    },
+    "leagueName": "Club Friendly",
+    "prediction": "PRO PATRIA WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "facup_erithbelvedere_billingshurst_090826_ultra",
+    "teamA": {
+      "name": "Erith & Belvedere",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Billingshurst",
+      "icon": ""
+    },
+    "leagueName": "FA Cup",
+    "prediction": "ERITH & BELVEDERE WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "facup_littlecommon_haywardsheath_090826_ultra",
+    "teamA": {
+      "name": "Little Common",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Haywards Heath Town",
+      "icon": ""
+    },
+    "leagueName": "FA Cup",
+    "prediction": "HAYWARDS HEATH TOWN WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "facup_northamptononchenecks_heanortown_090826_ultra",
+    "teamA": {
+      "name": "Northampton ON Chenecks",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Heanor Town",
+      "icon": ""
+    },
+    "leagueName": "FA Cup",
+    "prediction": "HEANOR TOWN WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "facup_wick_cambelelytown_090826_ultra",
+    "teamA": {
+      "name": "Wick",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Camberley Town",
+      "icon": ""
+    },
+    "leagueName": "FA Cup",
+    "prediction": "CAMBERLEY TOWN WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "facup_worsbroughbridge_trafford_090826_ultra",
+    "teamA": {
+      "name": "Worsbrough Bridge",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Trafford",
+      "icon": ""
+    },
+    "leagueName": "FA Cup",
+    "prediction": "TRAFFORD WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "facup_beverleytown_northwichvictoria_090826_ultra",
+    "teamA": {
+      "name": "Beverley Town",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Northwich Victoria",
+      "icon": ""
+    },
+    "leagueName": "FA Cup",
+    "prediction": "NORTHWICH VICTORIA WIN",
+    "date": "2026-08-09"
+  },
+  {
+    "id": "facup_hallam_irlam_090826_ultra",
+    "teamA": {
+      "name": "Hallam",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Irlam",
+      "icon": ""
+    },
+    "leagueName": "FA Cup",
+    "prediction": "HALLAM WIN",
+    "date": "2026-08-09"
   }
 ]
