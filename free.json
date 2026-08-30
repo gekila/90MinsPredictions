@@ -1,72 +1,58 @@
 [
   {
-    "id": "spl_kil_cel_090826_ultrasafe",
+    "id": "laliga_realmadrid_malaga_300826_ultrasafe",
     "teamA": {
-      "name": "Kilmarnock",
+      "name": "Real Madrid",
       "icon": ""
     },
     "teamB": {
-      "name": "Celtic",
+      "name": "Málaga",
       "icon": ""
     },
-    "leagueName": "Scottish Premiership",
+    "leagueName": "La Liga",
+    "prediction": "HOME WIN",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "epl_manutd_ipswich_300826_ultrasafe",
+    "teamA": {
+      "name": "Manchester United",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Ipswich Town",
+      "icon": ""
+    },
+    "leagueName": "Premier League",
+    "prediction": "HOME WIN",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "ligue1_rennes_lemans_300826_ultrasafe",
+    "teamA": {
+      "name": "Rennes",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Le Mans",
+      "icon": ""
+    },
+    "leagueName": "Ligue 1",
+    "prediction": "HOME WIN",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "seriea_cagliari_inter_300826_ultrasafe",
+    "teamA": {
+      "name": "Cagliari",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Inter Milan",
+      "icon": ""
+    },
+    "leagueName": "Serie A",
     "prediction": "AWAY WIN",
-    "date": "2026-08-09"
-  },
-  {
-    "id": "spl_hea_dun_090826_ultrasafe",
-    "teamA": {
-      "name": "Heart of Midlothian",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Dundee United",
-      "icon": ""
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "HOME WIN",
-    "date": "2026-08-09"
-  },
-  {
-    "id": "spl_ran_hib_090826_ultrasafe",
-    "teamA": {
-      "name": "Rangers",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Hibernian",
-      "icon": ""
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "HOME WIN",
-    "date": "2026-08-09"
-  },
-  {
-    "id": "spl_mot_fal_090826_ultrasafe",
-    "teamA": {
-      "name": "Motherwell",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Falkirk",
-      "icon": ""
-    },
-    "leagueName": "Scottish Premiership",
-    "prediction": "HOME WIN",
-    "date": "2026-08-09"
-  },
-  {
-    "id": "eflcup_man_shu_090826_ultrasafe",
-    "teamA": {
-      "name": "Mansfield Town",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Sheffield United",
-      "icon": ""
-    },
-    "leagueName": "English League Cup",
-    "prediction": "AWAY WIN",
-    "date": "2026-08-09"
+    "date": "2026-08-30"
   }
 ]
