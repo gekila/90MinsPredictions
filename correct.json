@@ -1,506 +1,366 @@
 [
   {
-    "id": "epl_crystalpalace_mancity_280826_ultra",
+    "id": "epl_chelsea_brighton_300826_ultra",
     "teamA": {
-      "name": "Crystal Palace",
+      "name": "Chelsea",
       "icon": ""
     },
     "teamB": {
-      "name": "Manchester City",
+      "name": "Brighton & Hove Albion",
+      "icon": ""
+    },
+    "leagueName": "Premier League",
+    "prediction": "2-2",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "epl_leeds_brentford_300826_ultra",
+    "teamA": {
+      "name": "Leeds United",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Brentford",
       "icon": ""
     },
     "leagueName": "Premier League",
     "prediction": "1-2",
-    "date": "2026-08-28"
+    "date": "2026-08-30"
   },
   {
-    "id": "championship_wrexham_birmingham_280826_ultra",
+    "id": "epl_sunderland_fulham_300826_ultra",
     "teamA": {
-      "name": "Wrexham",
+      "name": "Sunderland",
       "icon": ""
     },
     "teamB": {
-      "name": "Birmingham City",
+      "name": "Fulham",
       "icon": ""
     },
-    "leagueName": "Championship",
+    "leagueName": "Premier League",
     "prediction": "1-1",
-    "date": "2026-08-28"
+    "date": "2026-08-30"
   },
   {
-    "id": "national_aldershot_harrogate_280826_ultra",
+    "id": "epl_manutd_ipswich_300826_ultra",
     "teamA": {
-      "name": "Aldershot Town",
+      "name": "Manchester United",
       "icon": ""
     },
     "teamB": {
-      "name": "Harrogate Town",
+      "name": "Ipswich Town",
       "icon": ""
     },
-    "leagueName": "National League",
-    "prediction": "1-1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "national_barrow_yeovil_280826_ultra",
-    "teamA": {
-      "name": "Barrow",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Yeovil Town",
-      "icon": ""
-    },
-    "leagueName": "National League",
-    "prediction": "2-0",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "national_fylde_forestgreen_280826_ultra",
-    "teamA": {
-      "name": "Fylde",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Forest Green Rovers",
-      "icon": ""
-    },
-    "leagueName": "National League",
-    "prediction": "1-1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "national_hartlepool_eastleigh_280826_ultra",
-    "teamA": {
-      "name": "Hartlepool United",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Eastleigh",
-      "icon": ""
-    },
-    "leagueName": "National League",
+    "leagueName": "Premier League",
     "prediction": "2-1",
-    "date": "2026-08-28"
+    "date": "2026-08-30"
   },
   {
-    "id": "national_southend_kidderminster_280826_ultra",
+    "id": "scotprem_aberdeen_rangers_300826_ultra",
     "teamA": {
-      "name": "Southend United",
+      "name": "Aberdeen",
       "icon": ""
     },
     "teamB": {
-      "name": "Kidderminster Harriers",
+      "name": "Rangers",
       "icon": ""
     },
-    "leagueName": "National League",
-    "prediction": "2-0",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "national_wealdstone_carlisle_280826_ultra",
-    "teamA": {
-      "name": "Wealdstone",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Carlisle United",
-      "icon": ""
-    },
-    "leagueName": "National League",
-    "prediction": "0-2",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "scottish_championship_dunfermline_raith_280826_ultra",
-    "teamA": {
-      "name": "Dunfermline Athletic",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Raith Rovers",
-      "icon": ""
-    },
-    "leagueName": "Scottish Championship",
-    "prediction": "2-1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "scottish_league2_edinburgh_forfar_280826_ultra",
-    "teamA": {
-      "name": "Edinburgh City",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Forfar Athletic",
-      "icon": ""
-    },
-    "leagueName": "Scottish League Two",
-    "prediction": "2-0",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "irish_prem_bohemians_sligo_280826_ultra",
-    "teamA": {
-      "name": "Bohemians",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Sligo Rovers",
-      "icon": ""
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "2-1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "irish_prem_galway_shelbourne_280826_ultra",
-    "teamA": {
-      "name": "Galway United",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Shelbourne",
-      "icon": ""
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "1-1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "irish_prem_stpatricks_waterford_280826_ultra",
-    "teamA": {
-      "name": "St Patrick's Athletic",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Waterford",
-      "icon": ""
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "2-0",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "irish_prem_drogheda_dundalk_280826_ultra",
-    "teamA": {
-      "name": "Drogheda United",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Dundalk",
-      "icon": ""
-    },
-    "leagueName": "Irish Premier Division",
-    "prediction": "1-1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "laliga_racing_elche_280826_ultra",
-    "teamA": {
-      "name": "Racing de Santander",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Elche",
-      "icon": ""
-    },
-    "leagueName": "La Liga",
-    "prediction": "1-1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "laliga_alaves_villarreal_280826_ultra",
-    "teamA": {
-      "name": "Alavés",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Villarreal",
-      "icon": ""
-    },
-    "leagueName": "La Liga",
+    "leagueName": "Scottish Premiership",
     "prediction": "1-2",
-    "date": "2026-08-28"
+    "date": "2026-08-30"
   },
   {
-    "id": "bundesliga_bayern_stuttgart_280826_ultra",
+    "id": "scotprem_dundee_hibs_300826_ultra",
     "teamA": {
-      "name": "Bayern Munich",
+      "name": "Dundee",
       "icon": ""
     },
     "teamB": {
-      "name": "Stuttgart",
+      "name": "Hibernian",
+      "icon": ""
+    },
+    "leagueName": "Scottish Premiership",
+    "prediction": "1-1",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "scotprem_stmirren_motherwell_300826_ultra",
+    "teamA": {
+      "name": "St. Mirren",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Motherwell",
+      "icon": ""
+    },
+    "leagueName": "Scottish Premiership",
+    "prediction": "2-1",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "leagueone_afcwimbledon_wigan_300826_ultra",
+    "teamA": {
+      "name": "AFC Wimbledon",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Wigan Athletic",
+      "icon": ""
+    },
+    "leagueName": "League One",
+    "prediction": "1-1",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "leagueone_mansfield_luton_300826_ultra",
+    "teamA": {
+      "name": "Mansfield Town",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Luton Town",
+      "icon": ""
+    },
+    "leagueName": "League One",
+    "prediction": "1-2",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "swpl_aberdeen_partick_300826_ultra",
+    "teamA": {
+      "name": "Aberdeen",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Partick Thistle",
+      "icon": ""
+    },
+    "leagueName": "Scottish SWPL 1",
+    "prediction": "1-2",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "swpl_celtic_hibernian_300826_ultra",
+    "teamA": {
+      "name": "Celtic",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Hibernian",
+      "icon": ""
+    },
+    "leagueName": "Scottish SWPL 1",
+    "prediction": "3-0",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "swpl_glasgowcity_spartans_300826_ultra",
+    "teamA": {
+      "name": "Glasgow City",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Spartans",
+      "icon": ""
+    },
+    "leagueName": "Scottish SWPL 1",
+    "prediction": "3-1",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "swpl_montrose_motherwell_300826_ultra",
+    "teamA": {
+      "name": "Montrose",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Motherwell",
+      "icon": ""
+    },
+    "leagueName": "Scottish SWPL 1",
+    "prediction": "0-2",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "swpl_hearts_rangers_300826_ultra",
+    "teamA": {
+      "name": "Hearts",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Rangers",
+      "icon": ""
+    },
+    "leagueName": "Scottish SWPL 1",
+    "prediction": "1-3",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "irishprem_derry_shamrock_300826_ultra",
+    "teamA": {
+      "name": "Derry City",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Shamrock Rovers",
+      "icon": ""
+    },
+    "leagueName": "Irish Premier Division",
+    "prediction": "1-1",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "laliga_realmadrid_malaga_300826_ultra",
+    "teamA": {
+      "name": "Real Madrid",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Málaga",
+      "icon": ""
+    },
+    "leagueName": "La Liga",
+    "prediction": "3-0",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "laliga_deportivo_valencia_300826_ultra",
+    "teamA": {
+      "name": "Deportivo de A Coruña",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Valencia",
+      "icon": ""
+    },
+    "leagueName": "La Liga",
+    "prediction": "1-1",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "laliga_celta_athletic_300826_ultra",
+    "teamA": {
+      "name": "Celta Vigo",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Athletic Club",
+      "icon": ""
+    },
+    "leagueName": "La Liga",
+    "prediction": "1-1",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "bundesliga_freiburg_werder_300826_ultra",
+    "teamA": {
+      "name": "Freiburg",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Werder Bremen",
       "icon": ""
     },
     "leagueName": "Bundesliga",
-    "prediction": "3-1",
-    "date": "2026-08-28"
+    "prediction": "2-1",
+    "date": "2026-08-30"
   },
   {
-    "id": "seriea_acmilan_venezia_280826_ultra",
+    "id": "bundesliga_augsburg_schalke_300826_ultra",
     "teamA": {
-      "name": "AC Milan",
+      "name": "Augsburg",
       "icon": ""
     },
     "teamB": {
-      "name": "Venezia",
+      "name": "Schalke 04",
+      "icon": ""
+    },
+    "leagueName": "Bundesliga",
+    "prediction": "2-1",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "seriea_napoli_como_300826_ultra",
+    "teamA": {
+      "name": "Napoli",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Como",
       "icon": ""
     },
     "leagueName": "Serie A",
-    "prediction": "2-0",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "austrian_bundesliga_lustenau_wsgtirol_280826_ultra",
-    "teamA": {
-      "name": "Austria Lustenau",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "WSG Tirol",
-      "icon": ""
-    },
-    "leagueName": "Austrian Bundesliga",
-    "prediction": "1-1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "belgian_pro_genk_beveren_280826_ultra",
-    "teamA": {
-      "name": "Genk",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Beveren",
-      "icon": ""
-    },
-    "leagueName": "Belgian Pro League",
-    "prediction": "2-0",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "china_super_dalian_beijing_280826_ultra",
-    "teamA": {
-      "name": "Dalian Yingbo",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Beijing Guoan",
-      "icon": ""
-    },
-    "leagueName": "Chinese Super League",
-    "prediction": "1-2",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "china_super_shanghai_shenhua_shandong_280826_ultra",
-    "teamA": {
-      "name": "Shanghai Shenhua",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Shandong Taishan",
-      "icon": ""
-    },
-    "leagueName": "Chinese Super League",
     "prediction": "2-1",
-    "date": "2026-08-28"
+    "date": "2026-08-30"
   },
   {
-    "id": "china_super_shenzhen_shanghaiport_280826_ultra",
+    "id": "seriea_cagliari_inter_300826_ultra",
     "teamA": {
-      "name": "Shenzhen Peng City",
+      "name": "Cagliari",
       "icon": ""
     },
     "teamB": {
-      "name": "Shanghai Port",
+      "name": "Inter Milan",
       "icon": ""
     },
-    "leagueName": "Chinese Super League",
-    "prediction": "1-2",
-    "date": "2026-08-28"
+    "leagueName": "Serie A",
+    "prediction": "0-2",
+    "date": "2026-08-30"
   },
   {
-    "id": "denmark_superliga_horsens_viborg_280826_ultra",
+    "id": "seriea_lazio_genoa_300826_ultra",
     "teamA": {
-      "name": "Horsens",
+      "name": "Lazio",
       "icon": ""
     },
     "teamB": {
-      "name": "Viborg",
+      "name": "Genoa",
       "icon": ""
     },
-    "leagueName": "Danish Superliga",
-    "prediction": "1-2",
-    "date": "2026-08-28"
+    "leagueName": "Serie A",
+    "prediction": "1-0",
+    "date": "2026-08-30"
   },
   {
-    "id": "eredivisie_groningen_fortuna_280826_ultra",
+    "id": "ligue1_parisfc_nice_300826_ultra",
     "teamA": {
-      "name": "Groningen",
+      "name": "Paris FC",
       "icon": ""
     },
     "teamB": {
-      "name": "Fortuna Sittard",
-      "icon": ""
-    },
-    "leagueName": "Eredivisie",
-    "prediction": "2-1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "ligue1_lille_psg_280826_ultra",
-    "teamA": {
-      "name": "Lille",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Paris Saint-Germain",
+      "name": "Nice",
       "icon": ""
     },
     "leagueName": "Ligue 1",
-    "prediction": "1-2",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "nigeria_premier_shootingstars_interlagos_280826_ultra",
-    "teamA": {
-      "name": "Shooting Stars",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Inter Lagos",
-      "icon": ""
-    },
-    "leagueName": "Nigerian Premier League",
-    "prediction": "2-0",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "poland_ekstraklasa_wislaplock_korona_280826_ultra",
-    "teamA": {
-      "name": "Wisła Płock",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Korona Kielce",
-      "icon": ""
-    },
-    "leagueName": "Polish Ekstraklasa",
-    "prediction": "2-1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "poland_ekstraklasa_legia_slask_280826_ultra",
-    "teamA": {
-      "name": "Legia Warszawa",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Śląsk Wrocław",
-      "icon": ""
-    },
-    "leagueName": "Polish Ekstraklasa",
-    "prediction": "2-0",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "primeira_rioave_sporting_280826_ultra",
-    "teamA": {
-      "name": "Rio Ave",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Sporting CP",
-      "icon": ""
-    },
-    "leagueName": "Portuguese Primeira Liga",
-    "prediction": "0-2",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "saudi_alriyadh_neom_280826_ultra",
-    "teamA": {
-      "name": "Al Riyadh",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "NEOM",
-      "icon": ""
-    },
-    "leagueName": "Saudi Pro League",
     "prediction": "1-1",
-    "date": "2026-08-28"
+    "date": "2026-08-30"
   },
   {
-    "id": "saudi_alfayha_abha_280826_ultra",
+    "id": "ligue1_rennes_lemans_300826_ultra",
     "teamA": {
-      "name": "Al Fayha",
+      "name": "Rennes",
       "icon": ""
     },
     "teamB": {
-      "name": "Abha",
+      "name": "Le Mans",
       "icon": ""
     },
-    "leagueName": "Saudi Pro League",
+    "leagueName": "Ligue 1",
+    "prediction": "2-0",
+    "date": "2026-08-30"
+  },
+  {
+    "id": "ligue1_monaco_marseille_300826_ultra",
+    "teamA": {
+      "name": "Monaco",
+      "icon": ""
+    },
+    "teamB": {
+      "name": "Marseille",
+      "icon": ""
+    },
+    "leagueName": "Ligue 1",
     "prediction": "2-1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "saudi_alkhaleej_alhilal_280826_ultra",
-    "teamA": {
-      "name": "Al Khaleej",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Al Hilal",
-      "icon": ""
-    },
-    "leagueName": "Saudi Pro League",
-    "prediction": "0-2",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "saudi_alnassr_altaawoun_280826_ultra",
-    "teamA": {
-      "name": "Al Nassr",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Al Taawoun",
-      "icon": ""
-    },
-    "leagueName": "Saudi Pro League",
-    "prediction": "3-1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "turkey_genclerbirligi_erzurumspor_280826_ultra",
-    "teamA": {
-      "name": "Gençlerbirliği",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Erzurumspor",
-      "icon": ""
-    },
-    "leagueName": "Turkish Süper Lig",
-    "prediction": "1-1",
-    "date": "2026-08-28"
-  },
-  {
-    "id": "ukraine_kolos_obolon_280826_ultra",
-    "teamA": {
-      "name": "Kolos Kovalivka",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Obolon Kyiv",
-      "icon": ""
-    },
-    "leagueName": "Ukrainian Premier League",
-    "prediction": "1-0",
-    "date": "2026-08-28"
+    "date": "2026-08-30"
   }
 ]
