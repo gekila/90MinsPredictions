@@ -1,58 +1,44 @@
 [
-  {
-    "id": "laliga_realmadrid_malaga_300826_ultrasafe",
-    "teamA": {
-      "name": "Real Madrid",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Málaga",
-      "icon": ""
-    },
-    "leagueName": "La Liga",
-    "prediction": "HOME WIN",
-    "date": "2026-08-30"
-  },
-  {
-    "id": "epl_manutd_ipswich_300826_ultrasafe",
-    "teamA": {
-      "name": "Manchester United",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Ipswich Town",
-      "icon": ""
-    },
-    "leagueName": "Premier League",
-    "prediction": "HOME WIN",
-    "date": "2026-08-30"
-  },
-  {
-    "id": "ligue1_rennes_lemans_300826_ultrasafe",
-    "teamA": {
-      "name": "Rennes",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Le Mans",
-      "icon": ""
-    },
-    "leagueName": "Ligue 1",
-    "prediction": "HOME WIN",
-    "date": "2026-08-30"
-  },
-  {
-    "id": "seriea_cagliari_inter_300826_ultrasafe",
-    "teamA": {
-      "name": "Cagliari",
-      "icon": ""
-    },
-    "teamB": {
-      "name": "Inter Milan",
-      "icon": ""
-    },
-    "leagueName": "Serie A",
-    "prediction": "AWAY WIN",
-    "date": "2026-08-30"
-  }
+{
+"id": "premierleague_astonvilla_arsenal_310826_ultrasafe",
+"teamA": {
+"name": "Aston Villa",
+"icon": ""
+},
+"teamB": {
+"name": "Arsenal",
+"icon": ""
+},
+"leagueName": "Premier League",
+"prediction": "AWAY WIN",
+"date": "2026-08-31"
+},
+{
+"id": "nationalleague_carlisle_scunthorpe_310826_ultrasafe",
+"teamA": {
+"name": "Carlisle United",
+"icon": ""
+},
+"teamB": {
+"name": "Scunthorpe United",
+"icon": ""
+},
+"leagueName": "National League",
+"prediction": "HOME WIN",
+"date": "2026-08-31"
+},
+{
+"id": "nationalleague_solihull_fylde_310826_ultrasafe",
+"teamA": {
+"name": "Solihull Moors",
+"icon": ""
+},
+"teamB": {
+"name": "AFC Fylde",
+"icon": ""
+},
+"leagueName": "National League",
+"prediction": "AWAY WIN",
+"date": "2026-08-31"
+}
 ]
