@@ -1,4 +1,72 @@
 [
+{
+"date": "Sunday, 30th August 2026",
+"gamesList": [
+{
+"teamA": "Chelsea",
+"teamB": "Brighton & Hove Albion",
+"prediction": "CHELSEA WIN",
+"odds": "4-3",
+"results": "WIN"
+},
+{
+"teamA": "Leeds United",
+"teamB": "Brentford",
+"prediction": "DRAW",
+"odds": "1-1",
+"results": "DRAW"
+},
+{
+"teamA": "Sunderland",
+"teamB": "Fulham",
+"prediction": "SUNDERLAND WIN",
+"odds": "1-0",
+"results": "WIN"
+},
+{
+"teamA": "Manchester United",
+"teamB": "Ipswich Town",
+"prediction": "MANCHESTER UNITED WIN",
+"odds": "5-2",
+"results": "WIN"
+},
+{
+"teamA": "Aberdeen",
+"teamB": "Rangers",
+"prediction": "RANGERS WIN",
+"odds": "0-1",
+"results": "WIN"
+},
+{
+"teamA": "Dundee",
+"teamB": "Hibernian",
+"prediction": "HIBERNIAN WIN",
+"odds": "1-2",
+"results": "WIN"
+},
+{
+"teamA": "St. Mirren",
+"teamB": "Motherwell",
+"prediction": "DRAW",
+"odds": "3-3",
+"results": "DRAW"
+},
+{
+"teamA": "AFC Wimbledon",
+"teamB": "Wigan Athletic",
+"prediction": "AFC WIMBLEDON WIN",
+"odds": "1-0",
+"results": "WIN"
+},
+{
+"teamA": "Mansfield Town",
+"teamB": "Luton Town",
+"prediction": "MANSFIELD TOWN WIN",
+"odds": "5-2",
+"results": "WIN"
+   }
+    ]
+  },
   {
     "date": "Saturday, 8th August 2026",
     "gamesList": [
